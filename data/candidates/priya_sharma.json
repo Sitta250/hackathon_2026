@@ -1,0 +1,35 @@
+{
+	"candidate_id": "C",
+	"candidate_name": "Priya Sharma",
+	"experience_years": 11,
+	"current_role": "Head of Digital Transformation",
+	"summary": "Industry 4.0 leader specializing in data-driven operations and automation.",
+	"career_history": [
+	  {
+		"company": "GE",
+		"role": "Digital Transformation Lead",
+		"years": "2020-2025",
+		"achievements": [
+		  "Led Industry 4.0 rollout across 8 factories",
+		  "Increased productivity by 30% using AI analytics",
+		  "Reduced downtime by 25%"
+		]
+	  },
+	  {
+		"company": "Accenture",
+		"role": "Consultant",
+		"years": "2015-2020",
+		"achievements": [
+		  "Advised manufacturing clients on digital transformation",
+		  "Implemented ERP and automation systems"
+		]
+	  }
+	],
+	"skills": [
+	  "AI in Manufacturing",
+	  "Data Analytics",
+	  "Change Management",
+	  "Automation"
+	],
+	"leadership_style": "Innovative, analytical, transformation-focused"
+  }

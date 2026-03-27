@@ -1,0 +1,35 @@
+{
+	"candidate_id": "B",
+	"candidate_name": "Marcus Webb",
+	"experience_years": 15,
+	"current_role": "Crisis Operations Lead",
+	"summary": "Turnaround specialist with military logistics background and deep crisis management expertise.",
+	"career_history": [
+	  {
+		"company": "DHL",
+		"role": "Head of Crisis Logistics",
+		"years": "2020-2025",
+		"achievements": [
+		  "Led global supply chain recovery during COVID disruptions",
+		  "Reduced disruption impact by 35%",
+		  "Managed emergency supplier network across 12 countries"
+		]
+	  },
+	  {
+		"company": "UK Military",
+		"role": "Logistics Commander",
+		"years": "2010-2020",
+		"achievements": [
+		  "Managed high-risk logistics operations in conflict zones",
+		  "Coordinated supply chain under extreme conditions"
+		]
+	  }
+	],
+	"skills": [
+	  "Crisis Management",
+	  "Supply Chain Resilience",
+	  "Leadership Under Pressure",
+	  "Stakeholder Coordination"
+	],
+	"leadership_style": "Decisive, high-pressure, execution-focused"
+  }

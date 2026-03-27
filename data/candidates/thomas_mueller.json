@@ -1,0 +1,26 @@
+{
+	"candidate_id": "F",
+	"candidate_name": "Thomas Müller",
+	"experience_years": 6,
+	"current_role": "Strategy Consultant",
+	"summary": "High-potential generalist with strong strategic thinking but limited execution depth.",
+	"career_history": [
+	  {
+		"company": "McKinsey",
+		"role": "Consultant",
+		"years": "2020-2025",
+		"achievements": [
+		  "Advised manufacturing clients on operational strategy",
+		  "Designed cost optimization frameworks",
+		  "Worked on digital transformation cases"
+		]
+	  }
+	],
+	"skills": [
+	  "Strategy",
+	  "Problem Solving",
+	  "Business Analysis",
+	  "Innovation"
+	],
+	"leadership_style": "Analytical, conceptual, fast-learning"
+  }
