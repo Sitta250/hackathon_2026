@@ -1,0 +1,219 @@
+{
+	"candidate_id": "C20",
+	"candidate_name": "Emma Johansson",
+	"candidate_type": "external",
+	"current_employer": "Volvo Cars",
+	"current_title": "Vice President, Sustainable Manufacturing & Industrial Transformation",
+	"years_experience_total": 16,
+	"years_in_current_role": 3,
+	"years_at_current_employer": 9,
+	"nationality": "Swedish",
+	"languages": ["Swedish (native)", "English (C2)", "German (B2)"],
+	"education": [
+	  {
+		"degree": "MSc Environmental Engineering & Industrial Systems",
+		"institution": "Chalmers University of Technology",
+		"year": 2010,
+		"distinction": "Top 10% of class; thesis on energy optimisation in industrial plants"
+	  },
+	  {
+		"degree": "BSc Mechanical Engineering",
+		"institution": "Lund University",
+		"year": 2008,
+		"distinction": "Graduated with honours"
+	  }
+	],
+	"certifications": [
+	  "ISO 14001 Lead Auditor (2017)",
+	  "Lean Six Sigma Green Belt (2016)",
+	  "IATF 16949 Internal Auditor Training (2020)",
+	  "World Economic Forum Advanced Leadership Programme in Sustainable Industry (2023)"
+	],
+	"career_history": [
+	  {
+		"company": "Volvo Cars",
+		"title": "Vice President, Sustainable Manufacturing & Industrial Transformation",
+		"location": "Gothenburg, Sweden",
+		"start_year": 2023,
+		"end_year": null,
+		"scope": "Leads decarbonisation and industrial transformation across Volvo Cars manufacturing network; 170 direct and matrix staff; annual transformation budget of €162M; accountable for energy, emissions, circular manufacturing initiatives, and sustainability-linked capex delivery",
+		"key_achievements": [
+		  {
+			"achievement": "Led the manufacturing decarbonisation programme across 5 major Volvo Cars production sites",
+			"metric": "Reduced scope 1 and 2 manufacturing emissions by 41% versus 2021 baseline over 3 years; secured €118M in approved low-carbon capex",
+			"year": 2025,
+			"verifiable": false
+		  },
+		  {
+			"achievement": "Introduced closed-loop aluminium and battery materials recovery initiatives into core manufacturing operations",
+			"metric": "Delivered €23.4M annualised material savings and reduced landfill waste intensity by 36%",
+			"year": 2024,
+			"verifiable": false
+		  },
+		  {
+			"achievement": "Created a plant-level sustainability operating system linking energy performance to production governance",
+			"metric": "Improved network energy consumption per vehicle by 18.7% in 24 months",
+			"year": 2024,
+			"verifiable": false
+		  }
+		],
+		"reason_for_leaving": "Johansson sees BMW's EV scale and Neue Klasse transition as a larger operating canvas; she is open to a broader production role rather than a sustainability-specialist track"
+	  },
+	  {
+		"company": "Volvo Cars",
+		"title": "Senior Director, Manufacturing Excellence",
+		"location": "Gothenburg / Ghent, Belgium",
+		"start_year": 2020,
+		"end_year": 2023,
+		"scope": "Led manufacturing excellence programmes across assembly, paint, and body operations; 90 employees; programme budget €64M; remit included lean, quality improvement, and productivity initiatives",
+		"key_achievements": [
+		  {
+			"achievement": "Directed a cross-plant manufacturing excellence programme focused on stable EV launch readiness",
+			"metric": "Improved overall line OEE from 84.1% to 90.3% across priority areas in 18 months; reduced quality rework hours by 27%",
+			"year": 2022,
+			"verifiable": false
+		  },
+		  {
+			"achievement": "Implemented an energy-aware takt optimisation model in final assembly",
+			"metric": "Cut energy cost per vehicle by 11.8% while maintaining delivery adherence above 97%",
+			"year": 2021,
+			"verifiable": false
+		  }
+		],
+		"reason_for_leaving": "Promoted into VP role with network-wide sustainability and industrial transformation mandate"
+	  },
+	  {
+		"company": "Volvo Cars",
+		"title": "Director, Plant Strategy & Industrialisation",
+		"location": "Ghent, Belgium",
+		"start_year": 2017,
+		"end_year": 2020,
+		"scope": "Led plant strategy, industrialisation readiness, and cross-functional launch planning for Ghent; 45 staff; €38M capex and programme budget",
+		"key_achievements": [
+		  {
+			"achievement": "Co-led industrial readiness for an electrified vehicle variant launch at Ghent",
+			"metric": "Achieved SOP on planned month with 96% launch milestone adherence; reduced launch quality incidents by 22% versus prior model programme",
+			"year": 2019,
+			"verifiable": false
+		  },
+		  {
+			"achievement": "Built a supplier-linked launch dashboard that improved issue escalation speed",
+			"metric": "Reduced average escalation-to-containment cycle time from 5.4 days to 2.1 days",
+			"year": 2018,
+			"verifiable": false
+		  }
+		],
+		"reason_for_leaving": "Expanded remit into network-level manufacturing excellence"
+	  },
+	  {
+		"company": "Scania",
+		"title": "Industrial Engineer / Production Development Manager",
+		"location": "Södertälje, Sweden",
+		"start_year": 2010,
+		"end_year": 2017,
+		"scope": "Progressed from industrial engineer to production development manager in heavy vehicle manufacturing; teams of 10-28; budget responsibility up to €12M",
+		"key_achievements": [
+		  {
+			"achievement": "Led a mixed-model assembly line balancing project in truck final assembly",
+			"metric": "Increased labour productivity by 9.6% and reduced ergonomic incidents by 14% in one year",
+			"year": 2015,
+			"verifiable": false
+		  },
+		  {
+			"achievement": "Implemented a paint-shop energy recovery initiative with production and facilities teams",
+			"metric": "Reduced annual energy cost by €3.1M and CO2 emissions by 8,400 tonnes",
+			"year": 2016,
+			"verifiable": false
+		  }
+		],
+		"reason_for_leaving": "Moved to Volvo Cars for broader automotive and electrification exposure"
+	  }
+	],
+	"leadership_indicators": {
+	  "leadership_style_self_described": "Calm, values-led, and systems-oriented. I prefer to build sustainable performance rather than one-quarter heroics. I want teams to understand why standards matter, not just comply with them.",
+	  "decision_making_style": "Structured and balanced. Combines data, stakeholder input, and long-term consequences. Tends to avoid unnecessarily theatrical action and prefers stable execution. In acute crises, may initially appear measured rather than forceful.",
+	  "conflict_handling": "Constructive and low-ego. Seeks alignment first, but will escalate when standards or commitments are repeatedly breached. Not naturally combative.",
+	  "change_orientation": "High, especially when change can be linked to operating discipline, sustainability, and workforce engagement. More persuasive than coercive.",
+	  "risk_appetite": "Moderate-low. Prefers well-scoped pilots and robust sign-off before major commitments. Strong on disciplined transformation, less naturally suited to reckless acceleration.",
+	  "notable_leadership_moments": [
+		{
+		  "situation": "A major plant energy instability threatened both production continuity and Volvo's public carbon reduction commitments during a winter supply crunch.",
+		  "action": "Johansson chaired a cross-functional response linking facilities, production, procurement, and external utilities while redesigning plant energy prioritisation rules around critical production flows.",
+		  "outcome": "Production loss was kept below 0.7% of monthly plan and the plant still met its annual emissions reduction target.",
+		  "source": "Reference check — Volvo manufacturing executive"
+		}
+	  ]
+	},
+	"evidence_sources": {
+	  "cv": true,
+	  "performance_reviews": null,
+	  "feedback_360": null,
+	  "project_kpis": true,
+	  "interview_notes": true,
+	  "reference_checks": true
+	},
+	"performance_reviews": null,
+	"feedback_360": null,
+	"interview_notes": {
+	  "interviewer": "Dr. Sabine Müller, Executive Search Partner; Klaus Richter, SVP Production",
+	  "date": "2026-03-18",
+	  "format": "Structured competency interview + live case study (90 min)",
+	  "overall_impression": "Johansson is credible, mature, and operationally literate, but her profile is narrower than the title requires. She is stronger than a pure ESG specialist because she has real manufacturing excellence and industrialisation experience. Still, the core concern never goes away: her centre of gravity is sustainable manufacturing transformation, not end-to-end production command. She would improve BMW in important ways, but it is hard to argue she is the best available answer to a hard-edged Head of Production mandate.",
+	  "question_responses": [
+		{
+		  "question": "How would you handle a 6-month semiconductor supply disruption across 3 plants?",
+		  "response_summary": "Johansson approached the crisis in three layers: protect customer-critical production, avoid organisational panic, and use the disruption to improve structural resilience. She would centralise planning assumptions, define a transparent plant prioritisation logic, and establish daily executive reviews spanning supply chain, manufacturing, finance, and customer commitments. She also emphasised workforce communication more than most candidates, arguing that hidden rationing decisions create morale damage and execution drift on the shop floor. Her answer was solid but more governance-oriented than aggressively tactical.",
+		  "interviewer_assessment": "Adult and credible. Less sharp than the strongest crisis operators. Klaus Richter noted that she sounded like someone who would manage the crisis responsibly, not necessarily dominate it."
+		},
+		{
+		  "question": "How would you accelerate Neue Klasse SOP by 6 months?",
+		  "response_summary": "Johansson said she would only support a 6-month acceleration if the board explicitly ranked launch objectives: timing, quality, cost, and workforce stability cannot all be maximised simultaneously. She proposed a focused acceleration around earlier supplier locking, stricter engineering change discipline, stronger launch governance, and moving selected industrial validation activities upstream. She repeatedly returned to the need to protect launch quality and avoid 'celebrating an SOP date that creates 18 months of avoidable instability afterwards.'",
+		  "interviewer_assessment": "Thoughtful but conservative. She understands launch trade-offs, but she is not an instinctive acceleration candidate. Her answer would appeal to risk-aware leaders and frustrate leaders demanding heroic compression."
+		},
+		{
+		  "question": "What would you do if Tesla poached 15% of your production engineers?",
+		  "response_summary": "Johansson argued that attrition to Tesla would be both a market event and a leadership signal. She would respond through immediate retention of technical anchors, visible executive engagement with engineering teams, a faster internal technical career framework, and a redesign of the engineering work environment to reduce bureaucratic drag. She also said BMW should not underestimate the symbolic importance of mission: talented engineers stay where they believe the industrial story is compelling. Her answer connected culture, operating model, and employer value proposition well, though she gave fewer hard-edged immediate actions than some competitors.",
+		  "interviewer_assessment": "Strong on cultural diagnosis and long-term retention levers. Slightly weaker on emergency triage mechanics."
+		}
+	  ],
+	  "case_study_performance": "Johansson's case study was disciplined and realistic. She identified the major failure points correctly and built a coherent recovery sequence. Her communication plan was among the best because it covered workforce trust, not just executive reporting. She lost points by being less decisive than the top operators in assigning single-point ownership and in forcing immediate tactical escalation."
+	},
+	"reference_checks": [
+	  {
+		"referee_name": "Lena Falk",
+		"relationship": "EVP Manufacturing, Volvo Cars",
+		"quote": "Emma is one of the most credible industrial transformation leaders in our organisation. She combines sustainability literacy with enough real manufacturing knowledge to make it operational rather than cosmetic. My reservation is straightforward: she has not yet had full end-to-end production command at the scale BMW is considering.",
+		"source": "External reference call, 2026-03-14 — strong but scale-role caution"
+	  },
+	  {
+		"referee_name": "Per Andersson",
+		"relationship": "Former Plant Manager, Ghent (worked with Johansson on industrialisation)",
+		"quote": "She is calmer than most executives, which is usually a strength. In launch situations, she can occasionally give people too much room before she closes the decision. Once she decides, she is reliable. She is not a table-banger.",
+		"source": "External reference call, 2026-03-18 — style hedge from plant operator"
+	  },
+	  {
+		"referee_name": "Marta Ruiz",
+		"relationship": "Former direct report, now Manufacturing Excellence Director",
+		"quote": "Emma creates followership because she has values and discipline, not because she intimidates anyone. That works very well in transformation. I cannot tell you how she would perform in a brutal 10-week production crisis with daily board pressure because I have not seen her in that exact context.",
+		"source": "External reference call, 2026-03-20 — positive but incomplete proof"
+	  }
+	],
+	"compensation": {
+	  "current_base": "€228,000",
+	  "current_total": "€332,000",
+	  "expected_package": "€270,000 base; €405,000 total",
+	  "notice_period": "6 months",
+	  "availability": "October 2026"
+	},
+	"red_flags": [
+	  "Primary market positioning is sustainability and industrial transformation, not hard-core production command; this is a narrower fit than the title implies",
+	  "Moderate-low risk appetite may be misaligned with the compressed, politically difficult, high-pressure decisions likely required for Neue Klasse acceleration",
+	  "Has not led a 3,000+ workforce or carried full plant-network production accountability at BMW's operating scale"
+	],
+	"green_flags": [
+	  "Real automotive manufacturing background with credible excellence and industrialisation achievements, so she is not an ESG figurehead candidate",
+	  "Strong stakeholder credibility around sustainability, regulators, and long-term industrial transformation — increasingly relevant in premium EV manufacturing",
+	  "Likely to improve operating discipline, workforce engagement, and energy/material efficiency in a durable way",
+	  "Low-ego and high-integrity leadership profile that could travel well in a cross-functional European manufacturing context"
+	]
+  }

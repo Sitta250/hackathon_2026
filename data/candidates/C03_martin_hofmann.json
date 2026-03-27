@@ -1,0 +1,324 @@
+{
+  "candidate_id": "C03",
+  "candidate_name": "Martin Hofmann",
+  "candidate_type": "internal",
+  "current_employer": "BMW Group",
+  "current_title": "Plant Manager — Body Shop, Dingolfing Plant",
+  "years_experience_total": 22,
+  "years_in_current_role": 7,
+  "years_at_current_employer": 15,
+  "nationality": "German",
+  "languages": ["German (native)", "English (B2)"],
+  "education": [
+    {
+      "degree": "Dipl.-Ing. Mechanical Engineering",
+      "institution": "Hochschule Landshut (University of Applied Sciences)",
+      "year": 2004,
+      "distinction": "Good (Gut); no distinction"
+    },
+    {
+      "degree": "Ausbildung — Industrial Mechanic (Industriemechaniker)",
+      "institution": "BMW Group Apprenticeship Programme, Dingolfing",
+      "year": 2001,
+      "distinction": "Pass; completed prior to engineering degree"
+    }
+  ],
+  "certifications": [
+    "Lean Bronze Certificate, BMW Group (2012)",
+    "Works Safety Officer (Sicherheitsbeauftragter), 2010",
+    "IATF 16949 Awareness Training (2015)",
+    "BMW Management Essentials Programme (2016)"
+  ],
+  "career_history": [
+    {
+      "company": "BMW Group",
+      "title": "Plant Manager — Body Shop, Dingolfing",
+      "location": "Dingolfing, Germany",
+      "start_year": 2019,
+      "end_year": null,
+      "scope": "420 direct reports, €48M department budget, all BIW assembly for 5 Series G60, responsible for shift scheduling, maintenance, and quality gate for body shell",
+      "key_achievements": [
+        {
+          "achievement": "Maintained body shop availability above 93% for 3 consecutive years through planned maintenance scheduling improvements",
+          "metric": "Equipment availability 93.4% average over 2022-2024 vs. 91.1% in 2019 at takeover — within normal industry range, no transformative step-change",
+          "year": 2024,
+          "verifiable": true
+        },
+        {
+          "achievement": "Successfully managed model changeover from F10 remnant production to G60 5 Series body shop transition without unplanned downtime",
+          "metric": "Transition completed on schedule (0 days deviation); quality holds on restart: 2 minor (resolved within 48 hours) — competent execution of a well-planned programme",
+          "year": 2023,
+          "verifiable": true
+        },
+        {
+          "achievement": "Reduced workplace accident frequency rate (LTIFR) from 4.3 to 2.8 over 3 years through standard safety programme roll-out",
+          "metric": "LTIFR reduction of 34.9%; improvement in line with BMW Group average plant trajectory rather than outlier performance",
+          "year": 2022,
+          "verifiable": true
+        }
+      ],
+      "reason_for_leaving": "Internal promotion candidate"
+    },
+    {
+      "company": "BMW Group",
+      "title": "Shift Manager — Body Shop, Dingolfing",
+      "location": "Dingolfing, Germany",
+      "start_year": 2014,
+      "end_year": 2019,
+      "scope": "85 direct reports (night shift then day shift), responsible for daily production output and quality gate in BIW segment for 7 Series G11/G12",
+      "key_achievements": [
+        {
+          "achievement": "Achieved zero shift-level quality gate failures for 14 consecutive months — longest run in the body shop's history at the time",
+          "metric": "14-month clean quality gate record; record subsequently exceeded by successor team in 2022 (19 months)",
+          "year": 2017,
+          "verifiable": true
+        },
+        {
+          "achievement": "Managed transition from 2-shift to 3-shift operation during 7 Series peak demand with no recruitment shortfall",
+          "metric": "3rd shift fully staffed within 6 weeks; output ramp to full 3-shift rate achieved in 9 weeks vs. 12-week plan",
+          "year": 2016,
+          "verifiable": true
+        }
+      ],
+      "reason_for_leaving": "Promoted to Plant Manager role"
+    },
+    {
+      "company": "BMW Group",
+      "title": "Production Group Leader — Body Shop Assembly",
+      "location": "Dingolfing, Germany",
+      "start_year": 2010,
+      "end_year": 2014,
+      "scope": "22 direct reports, team leader for one assembly cell in BIW, responsible for daily output and operator development",
+      "key_achievements": [
+        {
+          "achievement": "Developed an operator cross-training matrix that reduced station-coverage gaps during absenteeism peaks",
+          "metric": "Station coverage gap incidents reduced from 18/month to 6/month; approach subsequently adopted by 2 other team leaders in the body shop",
+          "year": 2013,
+          "verifiable": true
+        }
+      ],
+      "reason_for_leaving": "Promoted to Shift Manager"
+    },
+    {
+      "company": "BMW Group",
+      "title": "Production Engineer — Body Shop",
+      "location": "Dingolfing, Germany",
+      "start_year": 2007,
+      "end_year": 2010,
+      "scope": "Individual contributor engineering role, process documentation and minor improvement projects in BIW assembly",
+      "key_achievements": [
+        {
+          "achievement": "Standardised 47 process instruction sheets for body shop stations, improving audit readiness",
+          "metric": "Audit finding count reduced by 22% in subsequent internal audit cycle",
+          "year": 2009,
+          "verifiable": true
+        }
+      ],
+      "reason_for_leaving": "Promoted to Group Leader"
+    },
+    {
+      "company": "Robert Bosch GmbH",
+      "title": "Production Technician",
+      "location": "Landshut, Germany",
+      "start_year": 2004,
+      "end_year": 2007,
+      "scope": "Production technician role in brake components assembly; studied part-time for engineering degree during this period",
+      "key_achievements": [
+        {
+          "achievement": "Completed engineering degree while working full-time — demonstrated personal commitment to career development",
+          "metric": "Graduated with Good grade while maintaining full-time employment",
+          "year": 2004,
+          "verifiable": false
+        }
+      ],
+      "reason_for_leaving": "Joined BMW Group for better career prospects"
+    }
+  ],
+  "leadership_indicators": {
+    "leadership_style_self_described": "I believe in stability and reliability. A plant that runs smoothly every day is better than one that has dramatic breakthroughs followed by crises. I take care of my people and they take care of the line.",
+    "decision_making_style": "Cautious and consensus-oriented. Prefers to check with his manager before making changes that affect other departments. Has rarely driven a significant change without being asked to.",
+    "conflict_handling": "Avoidant. Known to smooth over problems rather than confront them. Has not filed a formal performance management case in 7 years as a manager despite having underperforming team members. 'Martin never makes an enemy' — noted in 360 as both a strength and a weakness.",
+    "change_orientation": "Low. Comfortable maintaining established systems. Has consistently resisted EV-related technology changes as 'not his area.' Has not volunteered for any transformation programme in 15 years at BMW.",
+    "risk_appetite": "Very low. Defaults to established procedures. Has escalated minor operational decisions to Plant Director rather than resolving them at his level.",
+    "notable_leadership_moments": [
+      {
+        "situation": "During the G60 5 Series body shop transition in 2023, two critical welding robots experienced simultaneous failures on the first day of production restart.",
+        "action": "Hofmann called in the plant maintenance team and his manager (Plant Director) within 30 minutes. He supervised the repair process but did not independently redesign the sequencing to work around the failed stations — he waited for engineering guidance.",
+        "outcome": "Production resumed after 11-hour delay. Post-incident review noted that an experienced peer (Stefan Keller) had resolved a similar situation in 90 minutes by independently redesigning station sequencing. Hofmann's approach was compliant but not decisive.",
+        "source": "2023 Production Incident Report, Dingolfing; referenced in 2023 performance review"
+      }
+    ]
+  },
+  "evidence_sources": {
+    "cv": true,
+    "performance_reviews": true,
+    "feedback_360": true,
+    "project_kpis": true,
+    "interview_notes": true,
+    "reference_checks": true
+  },
+  "performance_reviews": [
+    {
+      "year": 2025,
+      "reviewer": "Jürgen Braun, Plant Director Dingolfing",
+      "overall_rating": "3.1 / 5.0",
+      "performance_category": "Meets Expectations",
+      "summary": "Martin is a reliable and conscientious manager who runs a stable body shop. He is well-regarded by his team and has maintained solid operational metrics. The honest assessment is that Martin has been in this role for 7 years and has not significantly developed his capability or scope during that time. He is not driving change — he is maintaining the status quo, which in today's transformation environment is no longer sufficient for advancement.",
+      "strengths_noted": [
+        "High workforce satisfaction and very low attrition in his department (1.8%)",
+        "Consistent, reliable operational delivery — no major surprises",
+        "Excellent relationships with maintenance and logistics colleagues"
+      ],
+      "development_areas": [
+        "Strategic thinking and change leadership — has not self-initiated a single improvement programme beyond standard operating requirements",
+        "EV and digital manufacturing engagement — has actively avoided both topics despite multiple invitations to participate in transformation programmes",
+        "Decision-making autonomy — continues to escalate decisions that should be resolved at his level"
+      ],
+      "promotion_recommendation": "Not recommended for promotion at this time. Martin's ceiling appears to be his current level. Consider career path conversation to explore long-term options."
+    },
+    {
+      "year": 2023,
+      "reviewer": "Jürgen Braun, Plant Director Dingolfing",
+      "overall_rating": "3.2 / 5.0",
+      "performance_category": "Meets Expectations",
+      "summary": "Martin delivered a competent year. The G60 changeover was handled adequately, though the robot failure response showed a dependency on engineering support that I would not expect from a more senior leader. Martin is valued by his team and by the plant community. He is not driving the plant forward.",
+      "strengths_noted": [
+        "Team loyalty and stability",
+        "Safety record improvement",
+        "Conscientious and thorough in documentation and reporting"
+      ],
+      "development_areas": [
+        "Crisis leadership autonomy",
+        "EV technology engagement — repeated feedback on this point with limited response",
+        "Peer leadership — tends to defer rather than contribute in cross-functional forums"
+      ],
+      "promotion_recommendation": "No change from previous recommendation. Not a succession candidate for expanded roles."
+    },
+    {
+      "year": 2021,
+      "reviewer": "Jürgen Braun, Plant Director Dingolfing",
+      "overall_rating": "3.3 / 5.0",
+      "performance_category": "Meets Expectations",
+      "summary": "A solid year for Martin. The body shop delivered against its targets and the team is stable. I have pushed Martin to consider a lateral move to the EV lines but he has resisted. He is exactly where he is comfortable and that is becoming a concern for his long-term development.",
+      "strengths_noted": [
+        "Operational reliability",
+        "Low absenteeism in his department (3.1% vs. 5.1% plant average)",
+        "Positive informal network — 'the person everyone goes to for plant knowledge'"
+      ],
+      "development_areas": [
+        "Comfort zone: has not sought any new challenge or exposure in 4+ years",
+        "Future capability: is not building EV or digital competency",
+        "Leadership courage: avoids difficult conversations and performance management"
+      ],
+      "promotion_recommendation": "Martin is a valued contributor. He is not a succession candidate for roles above his current level."
+    }
+  ],
+  "feedback_360": {
+    "peers": [
+      {
+        "reviewer_role": "Head of Final Assembly, Dingolfing",
+        "quote": "Martin is the kind of colleague who makes the plant work without anyone noticing. He's always available, always helpful, never creates drama. If I need to borrow a supervisor for a day, Martin is the first call. He will never be the person who changes everything — but he's the glue that holds the day-to-day together.",
+        "theme": "Valued steady contributor, not a change agent"
+      },
+      {
+        "reviewer_role": "Head of Maintenance, Dingolfing",
+        "quote": "He's easy to work with and his team cooperates well with ours. My only frustration is that he's slow to make decisions about maintenance investment priorities — I often need him to commit to a shutdown window and he checks with the Plant Director even for decisions that are clearly in his mandate.",
+        "theme": "Good partner, low decision-making autonomy"
+      },
+      {
+        "reviewer_role": "VP Quality Assurance, BMW Group",
+        "quote": "Martin's area has clean quality data — not exceptional, but consistently within spec. He doesn't drive quality innovation, but he maintains what's been built. For the body shop it's been sufficient. For a broader role I would have serious questions.",
+        "theme": "Adequate quality performance, no innovation"
+      }
+    ],
+    "direct_reports": [
+      {
+        "reviewer_role": "Shift Manager, Body Shop (anonymised)",
+        "quote": "Martin is the best boss I've had. He doesn't put pressure on us unnecessarily, he supports us when things go wrong, and he's always in a good mood. I never feel like I have to manage upward with Martin. He trusts us.",
+        "theme": "Popular, low-pressure leader — team comfort"
+      },
+      {
+        "reviewer_role": "Process Engineer (anonymised)",
+        "quote": "Honestly, Martin leaves us alone to get on with things, which I mostly like. But sometimes we need him to make a call and he won't until he's checked with Braun. It slows things down.",
+        "theme": "Autonomy to team but escalation dependency"
+      },
+      {
+        "reviewer_role": "Maintenance Coordinator (anonymised)",
+        "quote": "He's a good person and a fair manager. I've learned very little technically from him — he doesn't push us to grow or try new things. But the environment is pleasant and the team is stable.",
+        "theme": "Pleasant environment, limited development"
+      }
+    ],
+    "senior_leadership": [
+      {
+        "reviewer_role": "Plant Director, Dingolfing",
+        "quote": "Martin is someone I am grateful to have in the plant. He is not someone I would consider for a significant step up. The honest truth is he was passed over for his current role once before, and I believe that was the right decision at the time. He subsequently grew into the role adequately. For the Head of Production EV EMEA role, he would be significantly misaligned.",
+        "theme": "Clear non-endorsement for advancement"
+      },
+      {
+        "reviewer_role": "SVP Production, BMW Group",
+        "quote": "I know Martin. He is a good man and a reliable manager. He should not be on this shortlist. I say this without harshness — he is simply not the profile we need. If he is on the list, it is to satisfy some internal equity requirement, not because he is a genuine candidate.",
+        "theme": "Explicit senior leadership non-endorsement"
+      }
+    ]
+  },
+  "interview_notes": {
+    "interviewer": "Dr. Sabine Müller, Executive Search Partner; Klaus Richter, SVP Production",
+    "date": "2026-02-25",
+    "format": "Structured competency interview + live case study (90 min)",
+    "overall_impression": "Hofmann was pleasant and well-prepared in a procedural sense — he had clearly reviewed his career history and had structured answers. However, the substance of his answers was consistently below the level required for the role. He defaulted to describing team achievements without distinguishing his own leadership contribution. The case study performance revealed significant limitations in strategic thinking and comfort with ambiguity.",
+    "question_responses": [
+      {
+        "question": "How would you handle a 6-month semiconductor supply disruption across 3 plants?",
+        "response_summary": "Hofmann described a response centred on 'following BMW Group's crisis management process' and 'working closely with the supply chain team.' He mentioned convening a task force and 'making sure everyone is informed.' He did not propose specific operational adaptations (build-out sequencing, variant prioritisation), did not mention financial modelling or margin impact, and when probed on specific actions in week 1, he listed 'meetings' rather than decisions. He acknowledged he had not been directly responsible for semiconductor supply management in his current role.",
+        "interviewer_assessment": "Significantly below standard. The answer reflected a process-follower mentality rather than a crisis leader's mentality. He mentioned 'working with supply chain' four times without describing what he would actually do. This answer would be acceptable from a first-time manager; it is inadequate for a Head of Production EMEA role."
+      },
+      {
+        "question": "How would you accelerate Neue Klasse SOP by 6 months?",
+        "response_summary": "Hofmann expressed surprise at the question and said he would 'first need to understand the current plan in detail before I could comment on acceleration.' He described a cautious approach to any acceleration — 'I would want to make sure we don't compromise quality' — and offered no specific tools, methodologies, or examples. When pressed, he mentioned 'increasing the number of people on the pilot build team' as a potential lever. He had not engaged with the Neue Klasse programme in any capacity.",
+        "interviewer_assessment": "Inadequate. He has no engagement with EV platform development and no framework for SOP acceleration. His instinct to slow down and 'understand the plan' is the opposite of what a 6-month acceleration scenario demands. He had no relevant experience to draw on."
+      },
+      {
+        "question": "What would you do if Tesla poached 15% of your production engineers?",
+        "response_summary": "Hofmann said this 'would be very difficult' and his primary response would be to 'talk to HR about what we can do on compensation.' He mentioned that 'BMW has a strong brand and most people prefer to work here.' He did not propose knowledge management strategies, succession planning, or creative retention mechanisms. He expressed surprise that Tesla would target BMW engineers and suggested the scenario was 'perhaps unlikely in the body shop context.'",
+        "interviewer_assessment": "Below standard. His response revealed a lack of awareness of the talent market dynamics in EV manufacturing. His confidence that BMW brand loyalty would prevent attrition suggests a degree of market naivety that is problematic for a senior role in a competitive landscape."
+      }
+    ],
+    "case_study_performance": "Hofmann spent 35 of the 90 minutes reading the case materials twice and asking clarifying questions. He produced a response that was largely descriptive ('I would escalate to the Plant Director and convene the relevant teams') rather than prescriptive. He identified the surface-level issue (battery pack integration delay) correctly but did not diagnose the root cause or propose a recovery timeline. He did not reference any production management tools or frameworks. Interviewers rated his case study performance as 'Below Standard.'"
+  },
+  "reference_checks": [
+    {
+      "referee_name": "Jürgen Braun",
+      "relationship": "Direct manager — Plant Director Dingolfing (internal, verified)",
+      "quote": "I want to be thoughtful in how I say this: Martin is a good man and a competent body shop manager. He is not ready for a Group VP role. He has not demonstrated the capability for strategic leadership, EV expertise, or multi-plant complexity that this role demands. I support him being included in the process for internal equity reasons, but I cannot in good conscience recommend him for this appointment.",
+      "source": "Internal reference, HR file 2026-01-30"
+    },
+    {
+      "referee_name": "Hans Gruber (retired)",
+      "relationship": "Former manager — previous Dingolfing Plant Director",
+      "quote": "I promoted Martin to Plant Manager and I stand by that decision — it was the right level for him. He has done a solid job. I did not anticipate he would be considered for a Group VP role, and I think that would be a stretch.",
+      "source": "External reference call, 2026-02-12"
+    }
+  ],
+  "compensation": {
+    "current_base": "€175,000",
+    "current_total": "€220,000 (incl. performance bonus 18% + seniority supplement)",
+    "expected_package": "€220,000 base; €290,000 total",
+    "notice_period": "3 months",
+    "availability": "April 2026"
+  },
+  "red_flags": [
+    "Three consecutive 'Meets Expectations' performance reviews with explicit senior leadership statements that he is not a succession candidate — internal record does not support this appointment",
+    "No EV production experience whatsoever — has actively avoided EV-related assignments and training despite multiple invitations; the target role is fundamentally an EV leadership role",
+    "Decision-making autonomy is consistently flagged across all evidence sources — escalates decisions that should be resolved at his level, which would be catastrophic in a 3,000-person, 3-plant role",
+    "No demonstrated strategic capability — 7 years at the same level, no self-initiated improvement programmes, no cross-functional or international leadership",
+    "Digital manufacturing engagement is zero — has not participated in any I4.0 or digitalisation initiatives in his 15-year tenure",
+    "Avoidant conflict style — has not filed a performance management case in 7 years despite having underperforming team members, suggesting inability to hold people accountable at scale"
+  ],
+  "green_flags": [
+    "15 years of BMW institutional knowledge and an extensive informal network within Dingolfing — valuable institutional memory",
+    "Genuine team loyalty and high workforce satisfaction scores — real strength in a people-management dimension",
+    "Lowest absenteeism in his department versus plant average — suggests a positive working environment",
+    "Completed engineering degree while working full-time — demonstrates personal determination in early career",
+    "Long tenure and stability: low organisational drama, reliable delivery against defined targets"
+  ]
+}

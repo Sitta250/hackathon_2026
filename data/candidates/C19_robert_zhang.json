@@ -1,0 +1,219 @@
+{
+	"candidate_id": "C19",
+	"candidate_name": "Robert Zhang",
+	"candidate_type": "external",
+	"current_employer": "Siemens Digital Industries",
+	"current_title": "Global Vice President, Digital Manufacturing Solutions",
+	"years_experience_total": 17,
+	"years_in_current_role": 4,
+	"years_at_current_employer": 11,
+	"nationality": "Canadian",
+	"languages": ["English (native)", "Mandarin Chinese (native)", "German (B2)"],
+	"education": [
+	  {
+		"degree": "MEng Industrial Automation",
+		"institution": "University of Toronto",
+		"year": 2010,
+		"distinction": "Focus on robotics, control systems, and digital manufacturing"
+	  },
+	  {
+		"degree": "BASc Electrical Engineering",
+		"institution": "University of British Columbia",
+		"year": 2008,
+		"distinction": "Dean's Honour List"
+	  }
+	],
+	"certifications": [
+	  "Siemens Certified Digital Enterprise Architect (2018)",
+	  "PMP — Project Management Professional (2016)",
+	  "ISA/IEC 62443 Cybersecurity Fundamentals Specialist (2021)",
+	  "Lean Six Sigma Green Belt (2015)"
+	],
+	"career_history": [
+	  {
+		"company": "Siemens Digital Industries",
+		"title": "Global Vice President, Digital Manufacturing Solutions",
+		"location": "Munich, Germany",
+		"start_year": 2022,
+		"end_year": null,
+		"scope": "Global leader for digital manufacturing solution portfolios across automotive, aerospace, and industrial clients; 280 employees across product, delivery, and solution engineering; P&L responsibility of €246M",
+		"key_achievements": [
+		  {
+			"achievement": "Led the deployment strategy for a digital twin manufacturing suite adopted across 31 factories in Europe, North America, and Asia",
+			"metric": "Generated €184M in software and services revenue over 24 months; average client-reported engineering change validation time reduced by 37%",
+			"year": 2024,
+			"verifiable": false
+		  },
+		  {
+			"achievement": "Won and executed a major automotive account transformation programme integrating MES, simulation, and predictive quality modules",
+			"metric": "€52M contract value; 11 plants connected in one programme; client reported unplanned downtime reduction of 14.2% after phase-one stabilisation",
+			"year": 2023,
+			"verifiable": false
+		  },
+		  {
+			"achievement": "Restructured a fragmented global delivery model into industry-focused pods",
+			"metric": "Improved project gross margin from 18.6% to 24.9%; reduced late delivery rate from 28% to 11%",
+			"year": 2025,
+			"verifiable": false
+		  }
+		],
+		"reason_for_leaving": "Interested in moving from enabling manufacturing performance through software and systems into direct operational accountability"
+	  },
+	  {
+		"company": "Siemens Digital Industries",
+		"title": "Senior Director, Automotive Digitalisation",
+		"location": "Nuremberg, Germany",
+		"start_year": 2019,
+		"end_year": 2022,
+		"scope": "Led automotive vertical for digital manufacturing solutions in EMEA; 120 employees; annual business volume €96M; responsible for OEM and tier-1 solution delivery",
+		"key_achievements": [
+		  {
+			"achievement": "Built Siemens' first automotive digital twin offering specifically aimed at EV and battery plant launches",
+			"metric": "Secured 9 OEM/tier-1 clients in 18 months; booked €38M in first-wave revenue",
+			"year": 2021,
+			"verifiable": false
+		  },
+		  {
+			"achievement": "Standardised launch simulation templates across automotive clients to reduce engineering rework",
+			"metric": "Reduced average commissioning-related simulation rework by 29%; cut template development time from 14 weeks to 6 weeks",
+			"year": 2020,
+			"verifiable": false
+		  }
+		],
+		"reason_for_leaving": "Promoted to VP role with global remit"
+	  },
+	  {
+		"company": "Siemens Digital Industries",
+		"title": "Director, Smart Factory Programmes",
+		"location": "Nuremberg, Germany",
+		"start_year": 2015,
+		"end_year": 2019,
+		"scope": "Led multi-site smart factory implementation programmes for industrial customers; 55 employees; €41M delivery budget",
+		"key_achievements": [
+		  {
+			"achievement": "Directed the rollout of predictive maintenance and connected line monitoring across 14 client factories",
+			"metric": "Average mean time between failure improved by 18%; service renewal rate reached 93%",
+			"year": 2018,
+			"verifiable": false
+		  },
+		  {
+			"achievement": "Recovered a failing aerospace client programme that was 5 months behind schedule",
+			"metric": "Brought programme to go-live within 11 weeks of revised plan; avoided €6.4M in contractual penalties",
+			"year": 2017,
+			"verifiable": false
+		  }
+		],
+		"reason_for_leaving": "Expanded automotive focus and promoted"
+	  },
+	  {
+		"company": "Rockwell Automation",
+		"title": "Systems Engineer / Project Manager",
+		"location": "Toronto, Canada",
+		"start_year": 2008,
+		"end_year": 2015,
+		"scope": "Progressed from automation engineer to project manager delivering manufacturing execution and controls projects; teams of 6-18; project budgets up to €9M equivalent",
+		"key_achievements": [
+		  {
+			"achievement": "Delivered a controls modernisation programme for a North American automotive supplier network",
+			"metric": "11 plants upgraded over 26 months; downtime during cutover kept below 1.8% of scheduled hours",
+			"year": 2014,
+			"verifiable": false
+		  },
+		  {
+			"achievement": "Developed a reusable commissioning toolkit for controls teams",
+			"metric": "Reduced average commissioning effort by 22% across 7 subsequent projects",
+			"year": 2013,
+			"verifiable": false
+		  }
+		],
+		"reason_for_leaving": "Relocated to Germany for broader digital manufacturing leadership role"
+	  }
+	],
+	"leadership_indicators": {
+	  "leadership_style_self_described": "Systemic and enabling. I build the digital nervous system that lets factories make better decisions faster. I am most effective when I can connect operations, engineering, quality, and data into one management language.",
+	  "decision_making_style": "Analytical, structured, and technology-first. Strong at decomposing complexity into dashboards, decision trees, and operating cadences. Less instinctive in ambiguous people situations where data is incomplete or the issue is behavioural rather than technical.",
+	  "conflict_handling": "Calm and professional, but tends to depersonalise conflict into process design. More likely to create a governance mechanism than confront a poor performer head-on.",
+	  "change_orientation": "High for digital and process transformation. Believes most manufacturing problems are solvable through better information architecture and clearer workflows. Can underestimate cultural resistance and tacit shop-floor knowledge.",
+	  "risk_appetite": "Moderate. Comfortable sponsoring major technology investments, less comfortable with improvised crisis decisions without clean data.",
+	  "notable_leadership_moments": [
+		{
+		  "situation": "A flagship multi-plant automotive client programme risked collapse after a failed data integration architecture caused repeated test failures and board-level escalation.",
+		  "action": "Zhang replaced the delivery lead, narrowed scope to three critical use cases, and personally chaired a twice-daily recovery forum with client operations, IT, and plant engineering leaders.",
+		  "outcome": "Programme returned to green status within 9 weeks; contract was preserved and later expanded by €11M.",
+		  "source": "Reference check — former client CIO"
+		}
+	  ]
+	},
+	"evidence_sources": {
+	  "cv": true,
+	  "performance_reviews": null,
+	  "feedback_360": null,
+	  "project_kpis": true,
+	  "interview_notes": true,
+	  "reference_checks": true
+	},
+	"performance_reviews": null,
+	"feedback_360": null,
+	"interview_notes": {
+	  "interviewer": "Dr. Sabine Müller, Executive Search Partner; Sophie Laurent, Head of Supply Chain",
+	  "date": "2026-03-17",
+	  "format": "Structured competency interview + live case study (90 min)",
+	  "overall_impression": "Zhang is one of the strongest digital manufacturing candidates in the pool and one of the weakest pure operations candidates. He is smart, credible, commercially mature, and clearly understands how modern factories should use data, simulation, and connected systems. But the gap is not subtle: he has improved factories from the outside and through technology layers, not by leading line operations, plant politics, labour issues, or hard production accountability. He could be excellent in a Chief Digital Manufacturing or Production Systems role. For Head of Production, the centre of gravity is misaligned.",
+	  "question_responses": [
+		{
+		  "question": "How would you handle a 6-month semiconductor supply disruption across 3 plants?",
+		  "response_summary": "Zhang framed the problem as one of decision latency and visibility. He would first stand up a cross-plant digital control tower integrating inventory, supplier ASN reliability, vehicle configuration profitability, and line-level chip consumption data. He argued that most OEMs lose value in these crises because they cannot see the same truth across plants. He then proposed scenario modelling for build prioritisation, dynamic re-sequencing, and a digital alert threshold for when production plans should shift from optimisation to protection mode. He acknowledged that commercial negotiations and supplier pressure tactics would need stronger supply-chain operators than himself to lead them, but insisted the operating system had to come first.",
+		  "interviewer_assessment": "Very coherent, highly modern answer. Useful thinking. It sounded like the blueprint for supporting the crisis, not leading it. Sophie Laurent's note: 'He would give me a better dashboard. I still need someone to make the ugly calls.'"
+		},
+		{
+		  "question": "How would you accelerate Neue Klasse SOP by 6 months?",
+		  "response_summary": "Zhang's answer focused on virtual commissioning, digital twin maturity, and engineering concurrency. He would pull validation forward by exhausting failure modes digitally before equipment installation, create a single programme data backbone across suppliers and plant teams, and use simulation-based sign-offs to reduce physical trial cycles. He cited examples from aerospace and automotive clients where digital commissioning reduced launch instability. When challenged on whether digital maturity alone can compress a major SOP by 6 months, he said it cannot, but it can 'buy back enough time to make executive risk trade-offs from a position of evidence rather than hope.'",
+		  "interviewer_assessment": "Strong on the technology lever, weaker on total programme ownership. Good answer for Head of Production Systems. Partial answer for Head of Production."
+		},
+		{
+		  "question": "What would you do if Tesla poached 15% of your production engineers?",
+		  "response_summary": "Zhang approached the question through work design and capability architecture. He said BMW should map exactly which knowledge nodes were at risk, reduce single-point expertise dependence, and redesign engineering roles so the best engineers are solving harder problems instead of spending their week on reporting friction. He proposed a 90-day retention sprint combining targeted pay actions, clearer technical career paths, and better digital tools so engineers feel the company is modern rather than administratively heavy. He admitted he has never personally led a large unionised engineering population through a talent shock of this scale.",
+		  "interviewer_assessment": "Thoughtful and modern. Again, credible diagnosis, weaker direct leadership proof. He knows why engineers leave. Less clear that he can make them stay in a factory context."
+		}
+	  ],
+	  "case_study_performance": "Zhang's case study was elegant, structured, and technology-inflected. He produced the best information architecture of any candidate and correctly identified where reporting fragmentation was obscuring the real bottleneck. However, he was slower than the stronger operators to assign direct accountability or impose command discipline. He reads like a senior transformation executive, not a plant war leader."
+	},
+	"reference_checks": [
+	  {
+		"referee_name": "Katrin Hoffmeister",
+		"relationship": "EVP, Siemens Digital Industries (former manager)",
+		"quote": "Robert is one of the best digital manufacturing leaders I have worked with. He combines commercial discipline, technical depth, and an unusual ability to translate between engineers and executives. The honest limitation is that he has always been adjacent to production leadership, not in it.",
+		"source": "External reference call, 2026-03-13 — strong endorsement with role-gap concern"
+	  },
+	  {
+		"referee_name": "Marc Leclerc",
+		"relationship": "Former automotive client CIO",
+		"quote": "Zhang saved a programme for us that was on the verge of becoming a board scandal. He is calm under pressure and more operational than most software executives. That said, I never saw him lead a factory workforce, a union negotiation, or a launch crisis where trucks were not shipping. Those are different muscles.",
+		"source": "External reference call, 2026-03-18 — positive, notes missing operating muscle"
+	  },
+	  {
+		"referee_name": "Andrea Wu",
+		"relationship": "Former direct report, now VP Delivery at an industrial software company",
+		"quote": "Robert is demanding but fair. He can make a messy programme legible very quickly. His blind spot is that he assumes better information will change behaviour faster than it actually does. In factories, people and politics sometimes beat data for longer than he expects.",
+		"source": "External reference call, 2026-03-20 — behavioural hedge from former report"
+	  }
+	],
+	"compensation": {
+	  "current_base": "€255,000",
+	  "current_total": "€385,000",
+	  "expected_package": "€290,000 base; €445,000 total",
+	  "notice_period": "3 months",
+	  "availability": "August 2026"
+	},
+	"red_flags": [
+	  "Has never run a factory, plant, or production workforce; his entire record is technology-enabled improvement from adjacent leadership positions",
+	  "Technology-first cognitive style risks overestimating what data architecture can solve in labour-intensive, politically sensitive production environments",
+	  "Limited evidence of leading union, board, or government stakeholder situations at the intensity required for BMW EMEA production leadership"
+	],
+	"green_flags": [
+	  "Outstanding digital manufacturing credibility with direct relevance to Industry 4.0, simulation, MES, and digital twin deployment across large factory networks",
+	  "Has managed a substantial P&L and large cross-functional teams, so he is not merely a technical specialist",
+	  "Could materially strengthen BMW's iFACTORY and launch-readiness capability even if the Head of Production role itself is a stretch",
+	  "Strong communicator who can translate technical complexity into executive decisions with unusual clarity"
+	]
+  }

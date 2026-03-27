@@ -1,0 +1,219 @@
+{
+  "candidate_id": "C18",
+  "candidate_name": "Nina Kowalski",
+  "candidate_type": "external",
+  "current_employer": "Voltcraft Systems GmbH",
+  "current_title": "Founder & Chief Operating Officer",
+  "years_experience_total": 13,
+  "years_in_current_role": 6,
+  "years_at_current_employer": 6,
+  "nationality": "Polish-German",
+  "languages": ["German (native)", "Polish (native)", "English (C2)"],
+  "education": [
+    {
+      "degree": "MSc Mechanical Engineering",
+      "institution": "RWTH Aachen University",
+      "year": 2012,
+      "distinction": "Specialisation in production systems and battery manufacturing"
+    },
+    {
+      "degree": "BSc Industrial Engineering",
+      "institution": "Warsaw University of Technology",
+      "year": 2010,
+      "distinction": "Graduated with distinction"
+    }
+  ],
+  "certifications": [
+    "Lean Six Sigma Black Belt (2017)",
+    "VDA 6.3 Process Auditor (2019)",
+    "Certified Scrum Product Owner (2020)",
+    "UN 38.3 Lithium Battery Safety Handling Certification (2021)"
+  ],
+  "career_history": [
+    {
+      "company": "Voltcraft Systems GmbH",
+      "title": "Founder & Chief Operating Officer",
+      "location": "Braunschweig, Germany",
+      "start_year": 2020,
+      "end_year": null,
+      "scope": "Co-founded EV battery systems startup and led operations across pilot line, industrialisation, procurement, and plant build; direct leadership of 420 employees; annual operating budget of €118M; responsible for commissioning a 1.2 GWh battery module and pack facility",
+      "key_achievements": [
+        {
+          "achievement": "Built the company's first battery module and pack factory from greenfield to SOP in 16 months, including equipment selection, layout, commissioning, and ramp governance",
+          "metric": "Reached SOP 7 weeks ahead of revised board plan; installed 186 pieces of major equipment; achieved 81.4% OEE within 5 months of launch",
+          "year": 2022,
+          "verifiable": false
+        },
+        {
+          "achievement": "Closed a chronic scrap problem in early module welding by bringing process engineering and supplier quality into one daily command cell",
+          "metric": "Reduced module scrap from 12.8% to 4.1% in 19 weeks; lowered monthly quality losses by €1.9M",
+          "year": 2023,
+          "verifiable": false
+        },
+        {
+          "achievement": "Negotiated emergency supplier transfers during a separator material shortage without halting customer deliveries",
+          "metric": "Protected 94.6% of planned customer shipments during a 10-week shortage; qualified 2 alternate suppliers in 31 days",
+          "year": 2024,
+          "verifiable": false
+        }
+      ],
+      "reason_for_leaving": "Following the sale of the company to Northvolt, Kowalski has become increasingly constrained by integration governance and is exploring a larger industrial platform where she can lead scaled operations rather than post-acquisition harmonisation"
+    },
+    {
+      "company": "Voltcraft Systems GmbH",
+      "title": "Founder & VP Industrialisation",
+      "location": "Braunschweig, Germany",
+      "start_year": 2018,
+      "end_year": 2020,
+      "scope": "Pre-scale startup phase; led a 65-person team spanning process engineering, pilot production, supplier development, and launch readiness; controlled €22M pilot and capex budget",
+      "key_achievements": [
+        {
+          "achievement": "Designed and launched the pilot battery pack line used to win the company's first 3 commercial customer contracts",
+          "metric": "Raised pilot output from 18 packs/week to 146 packs/week over 11 months; supported €74M in contracted customer orders",
+          "year": 2019,
+          "verifiable": false
+        },
+        {
+          "achievement": "Created the startup's first APQP-lite industrialisation framework to improve launch discipline",
+          "metric": "Cut engineering change cycle time from 21 days to 8 days; improved first-pass customer validation success from 61% to 89%",
+          "year": 2020,
+          "verifiable": false
+        }
+      ],
+      "reason_for_leaving": "Role expanded after growth financing and transition into full operating leadership"
+    },
+    {
+      "company": "Northvolt",
+      "title": "Senior Manager, Manufacturing Launch",
+      "location": "Stockholm / Västerås, Sweden",
+      "start_year": 2016,
+      "end_year": 2018,
+      "scope": "Led manufacturing launch workstreams for early battery systems programmes; 35 direct and matrix reports; €14M launch and tooling budget",
+      "key_achievements": [
+        {
+          "achievement": "Built the cross-functional launch plan for Northvolt's early module assembly scale-up programme",
+          "metric": "Reduced launch readiness gaps from 47 open items to 9 before trial production; enabled pilot output increase from 220 modules/month to 1,050 modules/month",
+          "year": 2017,
+          "verifiable": false
+        },
+        {
+          "achievement": "Introduced supplier PPAP discipline into a startup environment that had been engineering-led and under-controlled",
+          "metric": "Raised approved supplier documentation completeness from 38% to 92% in 6 months",
+          "year": 2018,
+          "verifiable": false
+        }
+      ],
+      "reason_for_leaving": "Left to co-found Voltcraft and pursue a founder-level operating role"
+    },
+    {
+      "company": "Tesla",
+      "title": "Manufacturing Engineer, Battery Systems",
+      "location": "Tilburg, Netherlands",
+      "start_year": 2013,
+      "end_year": 2016,
+      "scope": "Individual contributor and later team lead in battery pack and final assembly engineering; 8 indirect reports by final year; responsible for throughput, tooling, and process stability on battery-related production lines",
+      "key_achievements": [
+        {
+          "achievement": "Redesigned a battery pack sub-assembly fixture to reduce changeover losses",
+          "metric": "Cut average changeover time from 42 minutes to 17 minutes; increased line availability by 5.6 percentage points",
+          "year": 2015,
+          "verifiable": false
+        },
+        {
+          "achievement": "Led a rapid line rebalance during a customer delivery push",
+          "metric": "Improved hourly output by 18.4% over 9 weeks without additional headcount",
+          "year": 2016,
+          "verifiable": false
+        }
+      ],
+      "reason_for_leaving": "Sought broader ownership than was available in an engineering-track role"
+    }
+  ],
+  "leadership_indicators": {
+    "leadership_style_self_described": "Builder-operator. I am at my best when something important is not working yet and the team needs speed, ownership, and hard trade-offs. I like messy build phases, compressed timelines, and direct accountability.",
+    "decision_making_style": "Fast, high-conviction, data-supported but not consensus-dependent. Will make 70-80% decisions quickly and refine in execution. Strong instinct for launch and startup conditions; less naturally patient with mature governance-heavy environments.",
+    "conflict_handling": "Direct and confrontational when standards slip. Tends to escalate quickly rather than absorb political friction. Effective in acute execution environments; can leave bruised relationships behind her.",
+    "change_orientation": "Extremely high. Most credible when the task is greenfield build, turnaround, or accelerated industrialisation. Less drawn to steady-state optimisation.",
+    "risk_appetite": "High. Comfortable betting capital, time, and reputation on aggressive recovery or launch decisions. References consistently describe her as bold, occasionally too bold.",
+    "notable_leadership_moments": [
+      {
+        "situation": "During Voltcraft's first major customer launch, a laser welding instability caused a 36-hour production halt with customer deliveries at risk.",
+        "action": "Kowalski moved engineering, maintenance, and supplier technicians into a 24-hour control room, froze all non-critical change requests, and personally chaired shift handovers every 6 hours until the issue stabilised.",
+        "outcome": "Line restarted after 38 hours; backlog recovered in 12 days; customer penalties were avoided and subsequent scrap fell below pre-crisis levels.",
+        "source": "Reference check — former CFO and customer operations contact"
+      }
+    ]
+  },
+  "evidence_sources": {
+    "cv": true,
+    "performance_reviews": null,
+    "feedback_360": null,
+    "project_kpis": true,
+    "interview_notes": true,
+    "reference_checks": true
+  },
+  "performance_reviews": null,
+  "feedback_360": null,
+  "interview_notes": {
+    "interviewer": "Dr. Sabine Müller, Executive Search Partner; Thomas Brenner, Head of HR Manufacturing",
+    "date": "2026-03-16",
+    "format": "Structured competency interview + live case study (90 min)",
+    "overall_impression": "Kowalski was one of the most viscerally operational candidates in the process. She thinks like a founder, talks in numbers, and clearly has real scar tissue from building things under pressure. Her best answers came when the topic was launch speed, industrialisation bottlenecks, or supply risk improvisation. Her weakness is equally obvious: she has built and scaled smaller, younger organisations, not run a politically complex BMW production network with works councils, layered governance, and established plant leadership. The ceiling is real; the fit risk is also real.",
+    "question_responses": [
+      {
+        "question": "How would you handle a 6-month semiconductor supply disruption across 3 plants?",
+        "response_summary": "Kowalski rejected what she called 'spreadsheet theatre' and said the first 72 hours would determine whether BMW controlled the crisis or the crisis controlled BMW. She would stand up a daily cross-plant war room, segment chips by vehicle contribution margin and launch criticality, and immediately create a hard allocation ladder across Leipzig, Dingolfing, and Debrecen. She proposed using 'engineering substitution teams' to fast-track component redesigns where feasible and aggressively pulling brokers, direct fab contacts, and state aid channels in parallel. She also said she would create a ring-fenced tiger team for customer and dealer communication so the operations team was not diluted. Her answer was practical and fast, but she underplayed the complexity of OEM governance and regulatory validation timelines in design substitutions.",
+        "interviewer_assessment": "Very strong crisis instincts. Real operator energy. The concern is that her answer assumed a degree of unilateral authority and engineering flexibility that BMW may not actually have. She solves for speed first, governance second."
+      },
+      {
+        "question": "How would you accelerate Neue Klasse SOP by 6 months?",
+        "response_summary": "Kowalski said bluntly that 6 months is 'not a scheduling exercise; it is a strategic choice to increase risk.' She proposed attacking the timeline through three levers: parallel commissioning instead of sequential area sign-offs, earlier manufacturing engineering lock with fewer late design changes, and pre-assigning failure ownership by workstream leader rather than using cross-functional committee escalation. She would also physically relocate key engineering and supplier leads to Debrecen for 90 days. She warned that BMW would need to accept higher launch inefficiency and more executive intervention post-SOP. She was the only candidate to say, unprompted, that accelerating SOP without explicit risk acceptance from the board is dishonest leadership.",
+        "interviewer_assessment": "The strongest part of her answer was intellectual honesty about the cost of acceleration. She understands launch compression. She is credible on plant-side action. Slight weakness on BMW-specific stakeholder sequencing and works council implications."
+      },
+      {
+        "question": "What would you do if Tesla poached 15% of your production engineers?",
+        "response_summary": "Kowalski said she would first identify whether BMW had lost 'the best 15% or a random 15%,' because the response depends on who left. Her immediate actions would be retention offers for critical technical anchors, mandatory process documentation for flight-risk roles, accelerated internal promotions for high-potential deputies, and a public reset of the engineering employee value proposition around technical ownership and visible career velocity. She also said BMW should stop pretending compensation is not part of the issue: 'If Tesla is paying 20% more for exactly the profiles you need, this becomes a budget problem before it becomes a culture problem.' She added that leaders who are not spending time on the floor with engineers have usually already lost them.",
+        "interviewer_assessment": "Grounded, adult answer. She clearly understands talent retention in competitive EV environments. The concern is style: her instinct is to move fast and make sharp compensation decisions, which may clash with BMW's internal equity and process constraints."
+      }
+    ],
+    "case_study_performance": "Kowalski produced one of the most actionable case responses in the pool. She immediately prioritised containment, line-of-balance stabilisation, and single-point accountability. Her root cause tree was not the most elegant, but it was operationally sharp. In role-play, she was the candidate most likely to stand on the shop floor and take visible ownership. Her weak spot was governance discipline: she occasionally treated stakeholder management as an annoying delay rather than part of the job."
+  },
+  "reference_checks": [
+    {
+      "referee_name": "Jonas Nyberg",
+      "relationship": "Former CEO, Voltcraft Systems GmbH",
+      "quote": "Nina is the real thing in one very specific sense: when the factory is behind, the line is unstable, and everybody else is producing PowerPoint, she produces decisions. She built the operating backbone of the company. My caution is that she can run over people. In a startup, that is often useful. In a large incumbent, that can become expensive.",
+      "source": "External reference call, 2026-03-12 — strongly positive with scale/cultural caution"
+    },
+    {
+      "referee_name": "Elena Marquez",
+      "relationship": "VP Operations, commercial customer of Voltcraft",
+      "quote": "Kowalski was the only executive at Voltcraft I trusted during our launch crisis because she knew the process details and would tell us the truth even when it was bad. She is unusually credible. She is also intense, and I can see how she would polarise a more traditional leadership team.",
+      "source": "External reference call, 2026-03-18 — customer view, credible but polarising"
+    },
+    {
+      "referee_name": "Lars Eberhardt",
+      "relationship": "Former CFO, Voltcraft Systems GmbH",
+      "quote": "Nina absolutely can build a factory. The question is whether she wants to run one once the excitement of the build is over. Her energy is highest in the first 24 months of chaos. In a mature environment, she may create motion where stability is actually needed.",
+      "source": "External reference call, 2026-03-19 — important fit hedge"
+    }
+  ],
+  "compensation": {
+    "current_base": "€235,000",
+    "current_total": "€410,000 (incl. transaction-related retention and equity cash-out components)",
+    "expected_package": "€285,000 base; €430,000 total",
+    "notice_period": "4 months",
+    "availability": "September 2026"
+  },
+  "red_flags": [
+    "Scale gap: has led up to 420 employees and a startup factory environment, but has never run a 3,000+ person multi-plant production organisation with BMW-level governance complexity",
+    "High-conflict, founder-style operating pattern may create severe friction with conservative stakeholders, plant leadership layers, and works council processes",
+    "Career motivation appears strongly biased toward build-and-breakthrough phases; there is a legitimate risk she becomes restless in the steadier governance-heavy phases of BMW production leadership"
+  ],
+  "green_flags": [
+    "Real greenfield factory build credibility: took a battery module and pack facility from concept to SOP in 16 months with measurable ramp results",
+    "Strong EV manufacturing relevance from Tesla, Northvolt, and battery startup operating leadership — unusually direct exposure to the actual fault lines of electrification",
+    "Excellent crisis operator with evidence of making hard trade-offs under real delivery pressure rather than advisory or theoretical exposure",
+    "Comfortable with supplier volatility and accelerated industrialisation, both directly relevant to Neue Klasse ramp conditions"
+  ]
+}

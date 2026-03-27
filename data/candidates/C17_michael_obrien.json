@@ -1,0 +1,198 @@
+{
+  "candidate_id": "C17",
+  "candidate_name": "Michael O'Brien",
+  "candidate_type": "external",
+  "current_employer": "McKinsey & Company",
+  "current_title": "Senior Partner — Automotive & Operations Practice",
+  "years_experience_total": 19,
+  "years_in_current_role": 5,
+  "years_at_current_employer": 14,
+  "nationality": "Irish",
+  "languages": ["English (native)", "German (C1)", "French (B2)"],
+  "education": [
+    {
+      "degree": "MBA (High Distinction)",
+      "institution": "Harvard Business School",
+      "year": 2010,
+      "distinction": "Baker Scholar (top 5%); focus on operations strategy and industrial transformation"
+    },
+    {
+      "degree": "BA Economics & Management (First Class Honours)",
+      "institution": "Trinity College Dublin",
+      "year": 2005,
+      "distinction": "Gold Medal (top of cohort); university gold medallist in economics"
+    }
+  ],
+  "certifications": [
+    "McKinsey Operations Excellence Programme — Senior Faculty (2018)",
+    "World Economic Forum — Young Global Leader (2019)",
+    "IATF 16949 Awareness Training (2016 — context for client work)",
+    "Lean Six Sigma Green Belt (2012 — client project context only)"
+  ],
+  "career_history": [
+    {
+      "company": "McKinsey & Company",
+      "title": "Senior Partner — Automotive & Operations Practice",
+      "location": "Munich (primary) / Frankfurt / client sites globally",
+      "start_year": 2021,
+      "end_year": null,
+      "scope": "Senior Partner responsible for McKinsey's European Automotive Operations practice; portfolio of 8-12 active client engagements per year; team of 40 consultants across Munich, Frankfurt, and Stockholm; personal revenue book approximately €28M/year; clients include BMW Group (recurring), VW Group, Stellantis, Renault, Toyota EMEA, and Tesla EMEA",
+      "key_achievements": [
+        {
+          "achievement": "Led McKinsey's engagement with BMW Group on the iFACTORY digital manufacturing strategy — a 14-month programme advising BMW's manufacturing leadership on the strategic roadmap for I4.0 adoption across the plant network",
+          "metric": "Engagement resulted in a 5-year iFACTORY roadmap adopted by BMW's Management Board; advisory team of 18 consultants; engagement revenue €11.4M; BMW Group is now one of McKinsey's top-3 Automotive practice accounts in Europe",
+          "year": 2023,
+          "verifiable": false
+        },
+        {
+          "achievement": "Authored the McKinsey Global Institute report 'The Electric Vehicle Production Imperative' — the most-cited analyst report on EV manufacturing transformation in 2024 (12,400 citations in industry and academic press)",
+          "metric": "12,400 citations within 12 months of publication; downloaded 180,000+ times; cited by 4 OEM CEO presentations at investor days; McKinsey described it as their highest-impact Automotive practice publication in 5 years",
+          "year": 2024,
+          "verifiable": false
+        },
+        {
+          "achievement": "Advised 6 automotive OEMs on EV production transition strategies — BMW, VW, Stellantis, Renault, Toyota EMEA, and Tesla EMEA — giving O'Brien a unique cross-OEM view of EV production challenges, investment decisions, and organisational models",
+          "metric": "6 OEM clients advised on EV production transition; cumulative client investment recommendations: €4.2B across 6 clients; 3 of 6 clients have described O'Brien personally as 'the most knowledgeable external advisor on EV production transformation'",
+          "year": 2024,
+          "verifiable": false
+        }
+      ],
+      "reason_for_leaving": "Actively exploring his first operational role — has spent 14 years advising on transformations he has never led himself; describes this as his 'biggest professional gap and biggest unfulfilled ambition'"
+    },
+    {
+      "company": "McKinsey & Company",
+      "title": "Partner — Operations Practice",
+      "location": "Munich / Frankfurt",
+      "start_year": 2017,
+      "end_year": 2021,
+      "scope": "Partner leading automotive operations engagements; team of 15-20 consultants; focus on production system design, lean transformation, and supply chain resilience for OEM and tier-1 clients",
+      "key_achievements": [
+        {
+          "achievement": "Led McKinsey's engagement with Renault Group on their 'Re-Evolution' production system transformation — a 2-year programme redesigning Renault's lean production framework for the EV era",
+          "metric": "Engagement revenue €8.2M; Renault implemented 71% of recommendations; estimated productivity improvement at implementing sites: 14%; Renault's Manufacturing VP described the engagement as 'the most impactful external advisory we have received in 10 years'",
+          "year": 2019,
+          "verifiable": false
+        }
+      ],
+      "reason_for_leaving": "Promoted to Senior Partner"
+    },
+    {
+      "company": "McKinsey & Company",
+      "title": "Associate / Engagement Manager — Operations Practice",
+      "location": "London / Munich / various client sites",
+      "start_year": 2010,
+      "end_year": 2017,
+      "scope": "Progressive consultant roles from Associate to Engagement Manager; automotive and industrial operations client work across Europe and North America",
+      "key_achievements": [
+        {
+          "achievement": "Led the operational due diligence for a major European automotive private equity transaction (confidential client) — assessing the manufacturing efficiency of a tier-1 supplier network as part of a €1.4B acquisition",
+          "metric": "Diligence completed in 6 weeks; 14 production facilities assessed; identified €120M in operational improvement opportunity that informed the acquisition price negotiation",
+          "year": 2014,
+          "verifiable": false
+        }
+      ],
+      "reason_for_leaving": "Progressive promotion within McKinsey"
+    },
+    {
+      "company": "Accenture (pre-MBA)",
+      "title": "Business Analyst — Strategy & Operations",
+      "location": "Dublin / London",
+      "start_year": 2005,
+      "end_year": 2008,
+      "scope": "Business analyst role in operations consulting; industrial and manufacturing clients; individual contributor",
+      "key_achievements": [
+        {
+          "achievement": "Contributed to a supply chain network redesign study for a major Irish manufacturing company — first professional experience in operational strategy",
+          "metric": "Project delivered on time and budget; personal contribution was analytical modelling rather than leadership",
+          "year": 2007,
+          "verifiable": false
+        }
+      ],
+      "reason_for_leaving": "Harvard MBA"
+    }
+  ],
+  "leadership_indicators": {
+    "leadership_style_self_described": "Intellectually led. I create clarity — I help organisations see their situation more clearly than they can themselves, identify what needs to change, and build the case and the plan. I have led teams of consultants for 14 years. I have never led a production team. I am honest about that gap and I am applying for this role because I believe there is a window — perhaps the only one in my career — to cross from advising transformation to leading it.",
+    "decision_making_style": "Framework-driven and highly consultative. Builds consensus through structured analysis and stakeholder engagement. Has been noted by peers to over-rely on frameworks in situations where direct operational experience would produce a faster and more grounded decision. Describes himself as 'better at designing decision processes than making decisions under operational pressure.'",
+    "conflict_handling": "Avoidant of direct personal conflict — prefers to create structured processes where conflict resolves itself through data and reasoning. Has little experience managing conflict in a production environment where the stakes are immediate and the resolution cannot wait for a structured process.",
+    "change_orientation": "Extremely high for designing change — has designed transformation programmes for 6 OEMs. Very low experience implementing change — has observed implementations but has never been accountable for one. Described by a reference as 'the best person to design the map; an unproven quantity to navigate the terrain.'",
+    "risk_appetite": "Low for personal operational risk — has never been in a role where his personal performance determines whether a production line runs or stops. The accountability gap is his defining limitation.",
+    "notable_leadership_moments": [
+      {
+        "situation": "During the BMW iFACTORY strategy engagement in 2022-2023, the BMW Management Board received O'Brien's team's recommendations and challenged a specific investment recommendation as inconsistent with an earlier McKinsey analysis from 2019.",
+        "action": "O'Brien acknowledged the inconsistency directly in the board presentation, explained why the 2019 analysis was based on assumptions that had since been invalidated by market developments, and offered a reconciliation document within 48 hours. He did not defend the 2019 analysis; he updated it.",
+        "outcome": "BMW Management Board approved the revised recommendations. The BMW SVP Strategy described O'Brien's handling of the challenge as 'the kind of intellectual honesty we rarely see from external advisors.'",
+        "source": "Reference check — BMW SVP Strategy (confirmed)"
+      }
+    ]
+  },
+  "evidence_sources": {
+    "cv": true,
+    "performance_reviews": null,
+    "feedback_360": null,
+    "project_kpis": true,
+    "interview_notes": true,
+    "reference_checks": true
+  },
+  "performance_reviews": null,
+  "feedback_360": null,
+  "interview_notes": {
+    "interviewer": "Dr. Sabine Müller, Executive Search Partner; Klaus Richter, SVP Production",
+    "date": "2026-03-15",
+    "format": "Structured competency interview + live case study (90 min)",
+    "overall_impression": "O'Brien was intellectually the most impressive candidate of the process in a narrow sense — his breadth of OEM knowledge, his command of EV manufacturing strategy, and his ability to synthesise complex information into clear frameworks were exceptional. He was also the candidate who most clearly could not answer the fundamental question: have you ever run anything? He acknowledged this directly and repeatedly — with a self-awareness that the interviewers found both admirable and ultimately disqualifying. Klaus Richter's post-interview note: 'Michael knows more about how to run BMW's production organisation than almost anyone I have spoken to in this process. He has never done it. Those are different things.'",
+    "question_responses": [
+      {
+        "question": "How would you handle a 6-month semiconductor supply disruption across 3 plants?",
+        "response_summary": "O'Brien smiled and said: 'I have advised 4 OEMs through this exact scenario. Let me tell you what the best performers did and what I would do differently.' He outlined a comprehensive 5-phase framework with specific reference to industry benchmarks: Phase 1 (Days 1-3) — chip inventory mapping and depletion modelling (he named the specific software tools used by two OEMs); Phase 2 (Week 1-2) — production priority matrix using a specific scoring methodology he had seen work at Stellantis; Phase 3 (Week 2-4) — supply side activation including broker markets, government relations for EU semiconductor emergency reserves, and OEM alliance spot-purchase coordination; Phase 4 (Month 1-3) — build-out sequencing with specific vehicle park and retrieve protocols; Phase 5 (Month 3-6) — structural supply chain resilience investment using the crisis as the forcing function. He then said: 'I should be transparent — I have designed this plan for clients. I have never executed it. The gap between designing it and executing it is exactly what this role would test in me for the first time.'",
+        "interviewer_assessment": "The answer was possibly the most comprehensive framework-level response in the pool. The self-disclosure at the end — 'I have designed this plan but never executed it' — was genuine and admirable. It was also the defining problem: the Head of Production role requires execution, not design. Klaus Richter wrote in his notes: 'He is describing exactly what I need done. He cannot do it.'"
+      },
+      {
+        "question": "How would you accelerate Neue Klasse SOP by 6 months?",
+        "response_summary": "O'Brien immediately referenced the McKinsey iFACTORY work: 'I know the Neue Klasse production planning in more detail than any external candidate in this process. I advised on parts of it.' He outlined a programme acceleration framework: design freeze advancement, parallel PPAP tracks, digital twin exhaustion before physical installation, embedded cross-functional programme teams at Debrecen, and a governance model with daily decision authority and pre-approved contingency budgets. He referenced specific BMW internal programme names and milestone structures that he had seen through the consulting engagement. When Dr. Müller asked how he would handle a specific technical deviation in the battery integration process, he said: 'I would convene the technical experts and facilitate a structured root cause session using the A3 methodology.' Dr. Müller asked: 'Would you be able to evaluate their technical recommendations yourself?' O'Brien paused and said: 'Honestly — not with the depth that an engineer with 15 years of production experience would. I would rely on my team.'",
+        "interviewer_assessment": "His programme knowledge was impressive and real — he has seen the Neue Klasse plan through consulting access. His inability to evaluate technical recommendations independently was explicitly confirmed by himself. The Head of Production role requires the authority to make technical calls; O'Brien acknowledged he does not yet have the basis for those calls."
+      },
+      {
+        "question": "What would you do if Tesla poached 15% of your production engineers?",
+        "response_summary": "O'Brien produced a structured response: talent segmentation (critical vs. replaceable), immediate knowledge capture, employer brand analysis (what Tesla is offering that BMW isn't), retention investment in the top-30 at-risk engineers, and a medium-term talent architecture redesign including a technical career ladder. He referenced specific retention data from a McKinsey study on automotive engineer attrition. He also proposed something none of the operational candidates had suggested: 'I would commission a rapid employee listening exercise — 8-10 structured interviews with engineers who chose to stay, asking why — and use that as the foundation for the retention strategy.' He then added: 'I am aware that every piece of advice I just gave you, I have given to clients. I have never had to implement it with people whose names I know and jobs I am responsible for. That changes it.'",
+        "interviewer_assessment": "The employee listening exercise idea was genuinely useful. His final self-reflection — that giving advice and being accountable for people are different things — was the most honest self-assessment of any candidate in the pool. It was also a disqualifying observation for an operational leadership role."
+      }
+    ],
+    "case_study_performance": "O'Brien produced a written case study response in 15 minutes that was structured, comprehensive, and contained every major element the answer key required. His root cause diagnosis was correct. His recovery plan was well-organised. His communication plan was detailed. He also proposed a 'post-incident organisational learning review' that no other candidate had suggested — noting that every production crisis is an opportunity to improve the system that failed to prevent it. However, when the interviewers asked him to role-play the conversation he would have with the 620-person Leipzig production workforce the morning after the halt, he said: 'I would prepare talking points and ensure they were delivered through the appropriate communication channels.' Dr. Müller asked: 'Would you be on the factory floor?' O'Brien was silent for 3 seconds, then said: 'I would be wherever it was most useful. I genuinely do not know whether that is the factory floor or the management conference room. I have never had to make that decision.'"
+  },
+  "reference_checks": [
+    {
+      "referee_name": "Dr. Friedrich Blümel",
+      "relationship": "SVP Strategy & Network, BMW Group — O'Brien's most senior client contact at BMW",
+      "quote": "Michael O'Brien is the most knowledgeable external advisor I have encountered on automotive EV production. The iFACTORY work he led was genuinely valuable — it shaped decisions at Management Board level. I want to be honest about what I observed: Michael can describe exactly what a great production leader would do in almost any scenario. He has never done any of it. That gap matters. I would hire him as a Chief of Staff or Head of Strategy in a second. As Head of Production — I have real doubt.",
+      "source": "External reference call, 2026-03-11 — significant operational gap concern from primary client"
+    },
+    {
+      "referee_name": "Anna Bergström",
+      "relationship": "Former Associate at McKinsey — now VP Operations, Scania (worked under O'Brien for 3 years)",
+      "quote": "Working for Michael taught me more about how to think about operations than any other experience in my career. He is a brilliant thinker. He is also completely unlike any operational leader I have subsequently met — he thinks first, acts later, and has strong feelings about what the right answer is but does not always know how to get 200 people to implement it. I say this with genuine respect. He knows the difference between himself and an operational leader. I am not sure the organisation does.",
+      "source": "External reference call, 2026-03-17 — important distinction from a former direct report now in operations"
+    }
+  ],
+  "compensation": {
+    "current_base": "€380,000",
+    "current_total": "€680,000 (incl. Senior Partner profit share)",
+    "expected_package": "€320,000 base; €480,000 total — has stated willingness to accept short-term compensation reduction for the opportunity to transition to operational leadership; total package is below current earnings",
+    "notice_period": "3 months",
+    "availability": "July 2026"
+  },
+  "red_flags": [
+    "Has never run a factory, a production line, or any operational function — in 19 years of professional work his accountability has always been advisory; the Head of Production role is the opposite of an advisory role and he has confirmed this gap explicitly in his own interview answers",
+    "Cannot independently evaluate technical production decisions — acknowledged directly in the interview that he would rely on his team for technical calls; a Head of Production who cannot evaluate technical recommendations from plant engineers has fundamentally compromised decision authority",
+    "Advising BMW through McKinsey creates a potential conflict of interest — he has seen confidential BMW production strategy documents under client NDA; this creates legal complexity and potential reputational risk if his engagement terms are not carefully managed",
+    "Compensation expectation gap: current earnings of €680,000 vs. role package of €480,000 creates a 29% reduction; while he has stated willingness, the risk of compensation-driven disengagement after 12-18 months is real",
+    "Framework-over-execution cognitive style confirmed by two independent references — his instinct to design a process before acting is directly contrary to the real-time decision-making required on a production floor; this is a deep cognitive pattern, not a knowledge gap"
+  ],
+  "green_flags": [
+    "Deepest cross-OEM EV production strategy knowledge in the candidate pool: has advised BMW, VW, Stellantis, Renault, Toyota EMEA, and Tesla EMEA — no other candidate has a comparable panoramic view of competitive production strategies",
+    "BMW iFACTORY engagement: has seen the BMW production strategy at Management Board level through a 14-month engagement; institutional knowledge about BMW's internal decision-making, culture, and strategic priorities is immediately deployable",
+    "German C1 and 14-year Munich base — culturally and linguistically fluent in German business and automotive context",
+    "Intellectual honesty: the only candidate who consistently and proactively disclosed his own limitations in the interview rather than waiting to be exposed; this epistemic honesty is a rare character trait that would be valuable in a senior leader",
+    "Harvard Baker Scholar and Trinity Gold Medallist — raw intellectual capacity is in the top percentile of the candidate pool; if the operational gap can be bridged (large assumption), the ceiling is very high"
+  ]
+}

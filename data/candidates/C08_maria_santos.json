@@ -1,0 +1,224 @@
+{
+  "candidate_id": "C08",
+  "candidate_name": "Maria Santos",
+  "candidate_type": "external",
+  "current_employer": "Stellantis N.V. (resigned February 2026)",
+  "current_title": "VP Manufacturing Operations — EMEA (former)",
+  "years_experience_total": 22,
+  "years_in_current_role": 4,
+  "years_at_current_employer": 7,
+  "nationality": "Portuguese",
+  "languages": ["Portuguese (native)", "English (C2)", "French (C1)", "German (B1 — functional, improving)", "Spanish (C1)"],
+  "education": [
+    {
+      "degree": "M.Sc. Logistics & Supply Chain Management",
+      "institution": "Universidade Nova de Lisboa — Nova SBE",
+      "year": 2004,
+      "distinction": "Distinction; thesis on multi-echelon inventory optimisation for military forward logistics — co-sponsored by Portuguese Army"
+    },
+    {
+      "degree": "B.Sc. Industrial Engineering",
+      "institution": "Instituto Superior Técnico (IST), Lisbon",
+      "year": 2002,
+      "distinction": "Very Good; specialisation in operations research and systems engineering"
+    }
+  ],
+  "certifications": [
+    "NATO Logistics Officer Course — Allied Command Transformation (2007)",
+    "APICS CPIM — Certified in Production and Inventory Management (2010)",
+    "Six Sigma Black Belt — ASQ (2013)",
+    "IATF 16949 Internal Auditor (2016)",
+    "Executive Programme in Crisis Management — IMD Lausanne (2019)",
+    "Stellantis Senior Leadership Programme (2021)"
+  ],
+  "career_history": [
+    {
+      "company": "Stellantis N.V.",
+      "title": "VP Manufacturing Operations — EMEA",
+      "location": "Amsterdam (HQ) with oversight of plants in France, Italy, Poland, Spain, Germany, Morocco",
+      "start_year": 2022,
+      "end_year": 2026,
+      "scope": "Operational oversight of 14 EMEA manufacturing plants, 38,000 workforce, €4.2B combined operating budget; P&L accountability for production cost across Citroën, Peugeot, Opel, Fiat, Alfa Romeo EMEA platforms",
+      "key_achievements": [
+        {
+          "achievement": "Managed the 2021-2022 semiconductor supply crisis across 14 plants simultaneously, implementing a cross-brand chip allocation framework that minimised total production loss while protecting highest-margin vehicle variants",
+          "metric": "Production loss limited to 187,000 units (industry analyst estimate for equivalent scale OEM: 280,000-340,000 units); €1.1B in revenue protected through prioritisation framework; framework subsequently presented at CLEPA and adopted as an industry reference model",
+          "year": 2022,
+          "verifiable": false
+        },
+        {
+          "achievement": "Led the recovery of the Sochaux plant (France) after a 3-week strike by CGT union shut down DS3 and Peugeot 308 production — reopened with a new works agreement that improved shift flexibility while maintaining headcount",
+          "metric": "Strike resolved in 22 days vs. analyst estimate of 6-8 weeks; new agreement achieved 14% improvement in operational flexibility without redundancies; first time CGT had signed a 3-year stability agreement at Sochaux in 11 years",
+          "year": 2023,
+          "verifiable": false
+        },
+        {
+          "achievement": "Renegotiated supply agreements with 7 tier-1 suppliers during the 2023 logistics crisis, securing preferential allocation through a novel 'production partnership' model offering suppliers visibility into Stellantis production schedules 18 months ahead in exchange for priority allocation commitments",
+          "metric": "Supply gap incidents reduced 61% in H2 2023 vs. H1 2023; €230M in line-stop costs avoided; model extended to 14 additional suppliers in 2024",
+          "year": 2023,
+          "verifiable": false
+        }
+      ],
+      "reason_for_leaving": "Resigned following disagreement with new CEO's restructuring direction; not terminated; departed with full entitlements. Confirmed by Stellantis HR on reference check."
+    },
+    {
+      "company": "Stellantis N.V. (then PSA Group)",
+      "title": "Director of Supply Chain Resilience — Global",
+      "location": "Paris, France",
+      "start_year": 2019,
+      "end_year": 2022,
+      "scope": "30-person global supply chain risk team; responsible for designing and implementing supply chain risk management frameworks across 40 PSA/Stellantis plants globally; reported to SVP Supply Chain",
+      "key_achievements": [
+        {
+          "achievement": "Built PSA Group's Supply Chain Resilience function from zero — designed the risk taxonomy, stress-testing methodology, and supplier financial health monitoring system now used across all Stellantis global operations",
+          "metric": "Function built within 14 months; first supply chain stress test completed across 40 plants; early warning system identified 3 critical supplier distress events 4-6 months before failure, enabling proactive mitigation in all 3 cases",
+          "year": 2020,
+          "verifiable": false
+        }
+      ],
+      "reason_for_leaving": "Promoted to VP Manufacturing Operations following PSA/FCA merger into Stellantis"
+    },
+    {
+      "company": "Faurecia (now Forvia)",
+      "title": "Plant Director — Seating Systems, Bánovce nad Bebravou, Slovakia",
+      "location": "Slovakia",
+      "start_year": 2015,
+      "end_year": 2019,
+      "scope": "1,800 employees, €280M revenue, seating assembly for VW Group and Stellantis; full P&L and operational accountability",
+      "key_achievements": [
+        {
+          "achievement": "Turned around a plant ranked last in the Faurecia Seating network quality index — within 24 months ranked 3rd of 22 plants globally in the same index",
+          "metric": "PPM from 847 to 112 over 24 months; customer quality index rank: 22nd → 3rd; warranty claim rate reduced 73%; achieved IATF 16949 recertification with zero major NCs after inheriting 4 open major NCs",
+          "year": 2017,
+          "verifiable": false
+        },
+        {
+          "achievement": "Redesigned the logistics flow from just-in-time to a sequenced delivery model with VW Bratislava, reducing inventory carrying cost and improving delivery precision",
+          "metric": "Inventory turns improved from 14x to 19x/year; on-time sequenced delivery rate improved from 94.1% to 99.7%; €12.4M annual working capital reduction",
+          "year": 2018,
+          "verifiable": false
+        }
+      ],
+      "reason_for_leaving": "Joined PSA Group for broader corporate supply chain leadership role"
+    },
+    {
+      "company": "NATO — Allied Command Transformation",
+      "title": "Logistics Planning Officer / Senior Logistics Advisor",
+      "location": "Norfolk, Virginia, USA / Brussels, Belgium / Kabul, Afghanistan (2009-2010)",
+      "start_year": 2006,
+      "end_year": 2015,
+      "scope": "Military logistics planning for NATO operations; rose to Senior Advisor level; directly managed supply chain for a 12,000-troop operational theatre during Afghanistan assignment; seconded to NATO HQ Brussels for 3 years as supply chain policy advisor",
+      "key_achievements": [
+        {
+          "achievement": "Designed and executed the logistics draw-down plan for NATO's RC-South command in Afghanistan — relocating $2.1B in equipment and supplies across 3 countries in 9 months under active security constraints",
+          "metric": "Draw-down completed on schedule; equipment loss/damage rate 0.3% vs. NATO theatre average of 2.1%; plan cited in NATO Logistics Command annual review as 'best-in-class execution'",
+          "year": 2013,
+          "verifiable": false
+        },
+        {
+          "achievement": "Developed the NATO Logistics Resilience Framework adopted as a training standard for all alliance logistics officers — used in 28 NATO member nations",
+          "metric": "Framework adopted by NATO Logistics School Oberammergau in 2014; used in training 400+ logistics officers per year",
+          "year": 2014,
+          "verifiable": false
+        }
+      ],
+      "reason_for_leaving": "Left military for private sector at peak earning potential; automotive offered the largest-scale logistics challenge in the civilian world"
+    }
+  ],
+  "leadership_indicators": {
+    "leadership_style_self_described": "Mission-first, team-enabled. In the military you learn that plans don't survive contact — what survives is a well-trained team with clear decision rights and a shared objective. I lead by making the mission explicit, distributing authority to the lowest competent level, and being present when the plan fails.",
+    "decision_making_style": "Fast under crisis — makes decisions in minutes with incomplete information and updates them as new data arrives. Slower and more consultative for strategic decisions. Has a clear mental hierarchy: safety first, then people, then production, then financial outcomes.",
+    "conflict_handling": "Direct and explicit. Does not avoid conflict; addresses it as a risk to mission effectiveness. Has successfully negotiated with CGT (France), FIOM (Italy), and Solidarność (Poland) — three of Europe's most militant unions. Has also dismissed two direct reports for performance, both challenged, both upheld.",
+    "change_orientation": "High for operational change; moderate for cultural and organisational change. Comfortable driving change through authority; less naturally skilled at building organic change ownership.",
+    "risk_appetite": "Calibrated. Accepts operational risk under crisis conditions that others won't. Avoids strategic risk without thorough analysis. Has a documented and deliberate risk tolerance framework she applies to decisions.",
+    "notable_leadership_moments": [
+      {
+        "situation": "During the 2021 semiconductor crisis, a Stellantis board member demanded Santos shut down all low-margin platforms immediately and concentrate chips on premium vehicles. Her operational analysis showed this would cause 4 plant closures and 11,000 temporary layoffs across France and Italy, with high likelihood of triggering union strikes that would destroy more value than the chip allocation saved.",
+        "action": "Santos presented an alternative framework to the board within 72 hours: a margin-weighted allocation model that protected enough volume at each plant to avoid forced shutdowns, while shifting chip priority toward premium variants. She presented three scenarios with quantified outcomes for each.",
+        "outcome": "Board adopted her framework. Total production loss 187,000 units vs. estimated 380,000 under the board's preferred approach. No plant closures. No strike events.",
+        "source": "Reference check — Stellantis CFO; Bloomberg supply chain analysis cited Santos's approach publicly"
+      },
+      {
+        "situation": "At the Sochaux plant in 2023, production workers occupied the paint shop on Day 4 of a strike, creating a safety and legal situation on top of the industrial relations dispute.",
+        "action": "Santos flew to Sochaux, met with the CGT delegate personally within 6 hours of the occupation, and proposed a mediated process — bringing in an independent arbitrator from the French Labour Ministry. She made a personal commitment to the delegate that no disciplinary action would follow if the occupation ended within 24 hours.",
+        "outcome": "Occupation ended in 18 hours. Mediation produced a 3-year agreement. Santos's direct personal engagement was credited by both union and company representatives as the turning point.",
+        "source": "Reference check — VP HR Stellantis EMEA; Les Échos business press coverage (2023)"
+      }
+    ]
+  },
+  "evidence_sources": {
+    "cv": true,
+    "performance_reviews": null,
+    "feedback_360": null,
+    "project_kpis": true,
+    "interview_notes": true,
+    "reference_checks": true
+  },
+  "performance_reviews": null,
+  "feedback_360": null,
+  "interview_notes": {
+    "interviewer": "Dr. Sabine Müller, Executive Search Partner; Klaus Richter, SVP Production",
+    "date": "2026-03-04",
+    "format": "Structured competency interview + live case study (90 min)",
+    "overall_impression": "Santos entered the room with a quiet, controlled authority that immediately distinguished her from other candidates. She was the only interviewee who, before answering the first question, briefly described her decision-making framework — not as self-promotion but as context-setting so the interviewers could evaluate her answers in framework terms. Every answer was numbered, scoped, and concluded with a summary. The interviewers noted she managed the interview room the way a competent military officer manages a briefing. The case study was the strongest performance in the full candidate pool.",
+    "question_responses": [
+      {
+        "question": "How would you handle a 6-month semiconductor supply disruption across 3 plants?",
+        "response_summary": "Santos smiled and said: 'I have lived this for 18 months across 14 plants. Let me tell you exactly what I would do differently from what I did then.' She outlined a 4-phase response: Phase 1 (72 hours) — establish a chip-by-chip inventory position across all 3 plants and model the depletion curve at current production rates for each variant; create a decision authority matrix so plant directors know exactly which decisions are theirs vs. requiring her sign-off; Phase 2 (week 1-2) — implement the production priority framework (margin-weighted allocation with floor constraints to avoid workforce disruption and union action); engage works councils at all 3 plants simultaneously with a clear narrative and a concrete timeline; Phase 3 (months 1-3) — activate secondary supply through broker markets and alternative sourcing, accepting price premium up to a defined threshold; begin dual-source qualification for the 10 most critical chips; Phase 4 (months 3-6) — redesign the supply network using the crisis as the burning platform for structural improvements that would otherwise take 3 years to approve. She then said: 'The mistake I made at Stellantis in 2021 was taking 2 weeks to get the works councils into the conversation. At BMW I would do that in day 3.'",
+        "interviewer_assessment": "Outstanding — the strongest answer in the full candidate pool. The self-critique at the end (the works council timing mistake at Stellantis) demonstrated both experience and genuine reflection. Her framework was immediately deployable. Klaus Richter subsequently noted this was the first time in the process he had felt a candidate had actually done this job."
+      },
+      {
+        "question": "How would you accelerate Neue Klasse SOP by 6 months?",
+        "response_summary": "Santos was honest: 'I have not worked on a greenfield platform SOP — my experience has been managing existing production systems and turning them around. I can offer you the framework I would apply, but I cannot offer you the specific Neue Klasse programme knowledge that your internal candidates have.' She then outlined a programme acceleration framework she had used at Faurecia: (1) establish a dedicated acceleration office with single-point accountability and weekly derogation authority for minor scope decisions; (2) identify the top-5 critical-path activities and assign a SWAT team to each with daily stand-up accountability; (3) accept that acceleration creates quality risk and design the quality monitoring system accordingly — not tighter gates (which slow down), but faster feedback loops; (4) create financial headroom for acceleration — 'every 6-month saved is worth more than the cost of the extra resources to save it, but someone has to model that and hold the budget.' Her answer was structured and credible. It was not programme-specific.",
+        "interviewer_assessment": "Solid and honest. Her acknowledgement of the programme knowledge gap was appropriate and showed self-awareness. Her framework was sound. The interviewers noted that her answer on the quality-gate trade-off was more sophisticated than most candidates who simply said 'don't compromise quality.'"
+      },
+      {
+        "question": "What would you do if Tesla poached 15% of your production engineers?",
+        "response_summary": "Santos responded: 'First question I ask is: when did I know this was coming? Because if I'm surprised by 15%, my talent intelligence was broken.' She then outlined: immediate triage by criticality (which of the 15% hold irreplaceable process knowledge vs. who can be backfilled within 3 months); emergency knowledge transfer sessions with the departing engineers (paid, structured, obligatory under their notice period); a parallel track of employer brand and compensation benchmarking; and a cultural diagnosis — 'if 15% want to go to Tesla, they're telling you something about why BMW isn't enough. You don't just need to fix the immediate problem; you need to understand the message.' On backfill: 'I would not try to hire automotive engineers at premium cost. I would look at aerospace, defence, and advanced manufacturing — they have the process rigour without the cost premium, and they often bring perspectives that refresh a stagnant talent pool.'",
+        "interviewer_assessment": "Strong — the talent intelligence framing at the start was distinctive, and the 'hear the message' insight was one of the most mature talent responses in the pool. Her cross-sector backfill idea is exactly what BMW would need given the market dynamics."
+      }
+    ],
+    "case_study_performance": "Santos completed the Debrecen battery pack integration case in 14 minutes. She correctly identified the root cause, produced a recovery timeline, and then — without prompting — produced a communication plan: what to tell the Plant Director (now), what to tell the works council (by end of day), what to tell the BMW Press Office (holding statement only, no detail until root cause confirmed), and what to tell the government industrial relations contact in Hungary (personal call from Santos within 48 hours). She also produced a post-incident review framework. The interviewers rated this the best case study performance across all 20 candidates. The only gap noted: she did not discuss the digital manufacturing or simulation tools she would use for root cause validation — her approach was empirical and operational, not technology-enabled."
+  },
+  "reference_checks": [
+    {
+      "referee_name": "Jean-Baptiste Lemaire",
+      "relationship": "CFO, Stellantis EMEA (former) — now at Renault Group",
+      "quote": "Maria is the best crisis operator I have worked with in 25 years in automotive. The semiconductor response she designed in 2021 saved Stellantis somewhere between €800M and €1.2B in production losses — depending on which scenario you model against. She is direct, sometimes blunt, and she will tell a CFO or CEO they are wrong and be right. She left Stellantis because the new CEO didn't want to be told he was wrong. That is his loss and someone else's gain.",
+      "source": "External reference call, 2026-02-18"
+    },
+    {
+      "referee_name": "Brigadier-General (Ret.) António Ferreira",
+      "relationship": "Former commanding officer, Portuguese Armed Forces / NATO",
+      "quote": "Maria was the finest logistics officer in the Portuguese contingent during my command. She combines operational discipline with strategic creativity in a way that is genuinely rare. In a crisis she is calm, decisive, and always focused on the mission rather than her own position. The only limitation I observed was that she could be resistant to changing her assessment once she had formed it — she is confident in her analysis and occasionally needs to be pushed to re-examine assumptions.",
+      "source": "External reference call, 2026-02-22"
+    },
+    {
+      "referee_name": "Pawel Wierzbicki",
+      "relationship": "VP HR, Stellantis EMEA (current)",
+      "quote": "Maria was a polarising figure internally at Stellantis — people either deeply respected her or found her style too direct for the organisation's culture. The results were undeniable. Her departure was handled professionally by both sides. I would flag that she had a significant conflict with the current CEO in the 6 months before her resignation — the details are confidential but I would characterise it as a genuine values disagreement rather than a performance issue. She left on her own terms.",
+      "source": "External reference call, 2026-02-25 — NOTE: contains a hedge; conflict with CEO is flagged"
+    }
+  ],
+  "compensation": {
+    "current_base": "€340,000 (last Stellantis compensation)",
+    "current_total": "€520,000 (incl. STI 35% + LTI vesting at departure — prorated)",
+    "expected_package": "€350,000 base; €530,000 total (total compensation parity with Stellantis role)",
+    "notice_period": "Available immediately (resigned)",
+    "availability": "April 2026 (1 month transition)"
+  },
+  "red_flags": [
+    "Conflict with Stellantis CEO at departure — the specific details are confidential, but the VP HR reference described it as a 'values disagreement'; pattern of conflict with authority figures when she believes they are wrong is confirmed by multiple references",
+    "No EV-specific production experience — entire career has been in ICE/PHEV automotive and military logistics; EV manufacturing technology (battery systems, eDrive, BMS) are new domains she has not directly managed",
+    "Digital manufacturing and Industry 4.0 are gaps — her crisis management approach is fundamentally operational and empirical, not technology-enabled; she did not mention simulation, digital twin, or AI tools in any answer",
+    "German language is functional (B1) but not fluent — managing 3,000+ German-speaking workers through transformation and potential crisis requires stronger German; at Stellantis she managed through French, Italian, and English with translators",
+    "Stellantis experience is multi-brand ICE portfolio; BMW Group's EV transformation and premium brand positioning are culturally different from Stellantis's volume/mass market environment"
+  ],
+  "green_flags": [
+    "The only candidate who has directly managed a semiconductor supply crisis at multi-plant scale — 14 plants vs. 3 is a larger challenge but the same methodology; her self-critique of what she would do differently shows genuine learning",
+    "Military logistics background creates a unique crisis-management discipline: she plans for failure, distributes decision authority, and remains calm under pressure — specifically the competency most needed for the semiconductor and ramp-up risks in this role",
+    "Union negotiation track record across 3 of Europe's most militant unions (CGT, FIOM, Solidarność) — includes successful resolution of a plant occupation; few candidates have this credential",
+    "Multi-plant, multi-country P&L accountability at €4.2B scale — the largest financial scope in the candidate pool by a significant margin; budget management at €450M will not be a stretch",
+    "Available immediately — no notice period, motivated by a meaningful next challenge rather than compensation uplift; her clear-eyed self-awareness about her gaps suggests she would invest in closing them"
+  ]
+}

@@ -1,0 +1,211 @@
+{
+  "candidate_id": "C12",
+  "candidate_name": "Carlos Mendes",
+  "candidate_type": "external",
+  "current_employer": "ZF Friedrichshafen AG",
+  "current_title": "VP Production — eDrive Systems Division",
+  "years_experience_total": 21,
+  "years_in_current_role": 3,
+  "years_at_current_employer": 6,
+  "nationality": "Portuguese-German (dual citizenship)",
+  "languages": ["Portuguese (native)", "German (C2 — raised in Germany from age 9)", "English (C2)", "Spanish (B2)", "French (B1)"],
+  "education": [
+    {
+      "degree": "Dipl.-Ing. Electrical Engineering — Mechatronics & Drive Systems",
+      "institution": "Karlsruhe Institute of Technology (KIT)",
+      "year": 2005,
+      "distinction": "Very Good (1.4 GPA); thesis on torque ripple minimisation in permanent magnet synchronous motors for automotive applications — co-supervised with Bosch Drive Systems"
+    },
+    {
+      "degree": "Executive Education — Finance for Non-Financial Executives",
+      "institution": "WHU — Otto Beisheim School of Management",
+      "year": 2016,
+      "distinction": "Certificate of completion; motivated by desire to own P&L fluency"
+    }
+  ],
+  "certifications": [
+    "IATF 16949 Lead Auditor — TÜV SÜD (2011, recertified 2017, 2023)",
+    "VDA 6.3 Process Auditor (2013)",
+    "Six Sigma Black Belt — Bosch Group Internal (2009)",
+    "Functional Safety Manager — ISO 26262 (2019)",
+    "ZF Leadership Excellence Programme (2021)"
+  ],
+  "career_history": [
+    {
+      "company": "ZF Friedrichshafen AG",
+      "title": "VP Production — eDrive Systems Division",
+      "location": "Schweinfurt, Germany (primary) / Saarbrücken / Pilsen (Czech Republic)",
+      "start_year": 2023,
+      "end_year": null,
+      "scope": "4,200-person production organisation across 3 plants; €1.4B revenue accountability; eDrive system assembly (electric axles, power electronics, eMotors) for BMW, Mercedes, Stellantis, and Volkswagen Group customers; full P&L and capital investment accountability",
+      "key_achievements": [
+        {
+          "achievement": "Renegotiated ZF's eDrive supply agreements with BMW Group, securing a 3-year volume commitment and a design-for-manufacture collaboration that reduced ZF's unit production cost for the BMW eDrive5 system by 14.3%",
+          "metric": "Unit cost reduction 14.3% (€340 per unit on a €2,380 base); annual saving to BMW: €81M at contracted volumes; ZF margin improvement: +3.2pp; agreement described by BMW Purchasing as 'the most productive tier-1 collaboration in the EV supply chain in 2024'",
+          "year": 2024,
+          "verifiable": false
+        },
+        {
+          "achievement": "Led the SOP for ZF's eBeam electric axle system — the first fully integrated eMotor, gearbox, and inverter system in a single housing — at the Pilsen plant, including resolving a critical thermal management issue identified 6 weeks before Job 1",
+          "metric": "SOP achieved on original date despite thermal management crisis; Day-1 quality rate 98.1%; ramp to full volume (650 units/day) in 11 weeks vs. 18-week plan; eBeam delivered to 3 OEM customers on time for their SOP deadlines",
+          "year": 2023,
+          "verifiable": false
+        },
+        {
+          "achievement": "Implemented the ZF Production System (ZPS) across all 3 eDrive plants — a lean manufacturing framework adapted from the Toyota Production System for supplier-context operations — achieving a network-wide OEE improvement",
+          "metric": "OEE network average improved from 77.4% to 86.2% over 24 months; total equipment maintenance cost reduced 18.3%; ZPS implementation recognised as 'Model Deployment' by ZF Group quality function",
+          "year": 2024,
+          "verifiable": false
+        }
+      ],
+      "reason_for_leaving": "Seeking OEM-side leadership role — has spent entire career as a tier-1 supplier and wants to experience production leadership from the brand and platform ownership perspective before end of career peak"
+    },
+    {
+      "company": "ZF Friedrichshafen AG",
+      "title": "Director of Manufacturing Engineering — eDrive Systems",
+      "location": "Schweinfurt, Germany",
+      "start_year": 2020,
+      "end_year": 2023,
+      "scope": "85-person manufacturing engineering function; responsible for process design and industrialisation of all ZF eDrive product lines; reported to VP Production; accountable for ZF's eDrive production technology roadmap",
+      "key_achievements": [
+        {
+          "achievement": "Designed the automated hairpin stator winding and welding process for ZF's 5th-generation eMotor — replacing a manual and semi-automated process that was the production capacity bottleneck",
+          "metric": "Cycle time reduced from 78s to 31s (60.3% reduction); stator assembly yield improved from 88.4% to 96.1%; process became ZF's global standard for eMotor production; capex €42M, payback period 2.4 years",
+          "year": 2022,
+          "verifiable": false
+        }
+      ],
+      "reason_for_leaving": "Promoted to VP Production"
+    },
+    {
+      "company": "Robert Bosch GmbH",
+      "title": "Plant Manager — Drive Systems Manufacturing, Bühl",
+      "location": "Bühl, Germany",
+      "start_year": 2015,
+      "end_year": 2020,
+      "scope": "1,600 employees, €340M revenue; production of starter motors, alternators, and early-generation electric motors for automotive OEM customers; full plant P&L; IG Metall collective agreement; IATF 16949 certified",
+      "key_achievements": [
+        {
+          "achievement": "Led the transition of the Bühl plant from a predominantly ICE drive systems facility to a mixed ICE/EV production site, introducing 3 EV-specific production lines while maintaining ICE output commitments",
+          "metric": "EV line capacity: 0 to 180,000 units/year in 30 months; ICE production maintained within 2% of planned output throughout transition; workforce trained in EV-specific processes: 840 of 1,600 employees",
+          "year": 2018,
+          "verifiable": false
+        },
+        {
+          "achievement": "Negotiated a 3-year collective agreement with IG Metall Bühl that introduced performance-related supplementary pay elements — the first Bosch facility in Baden-Württemberg to achieve this agreement structure",
+          "metric": "Agreement signed by IG Metall and Bosch; performance pay elements introduced covering 1,200 employees; productivity improvement in the 12 months post-agreement: 9.4%; no strike or formal industrial action during 8-month negotiation",
+          "year": 2016,
+          "verifiable": false
+        }
+      ],
+      "reason_for_leaving": "Joined ZF for role with more direct EV production scope and a VP-track career path"
+    },
+    {
+      "company": "Robert Bosch GmbH",
+      "title": "Production Manager / Senior Process Engineer — Starter & Generator Division",
+      "location": "Hildesheim & Bühl, Germany",
+      "start_year": 2005,
+      "end_year": 2015,
+      "scope": "Progressive roles from process engineer to production manager responsible for 280 employees; responsible for stator and rotor assembly for automotive alternators and starters",
+      "key_achievements": [
+        {
+          "achievement": "Led a 3-year process capability programme across the Hildesheim armature winding department — the largest single-department process improvement in his early career",
+          "metric": "Process capability (average Cpk) improved from 1.18 to 1.54 across 24 monitored characteristics; scrap cost reduced €4.1M/year; programme won Bosch Manufacturing Quality Award 2012",
+          "year": 2012,
+          "verifiable": false
+        }
+      ],
+      "reason_for_leaving": "Promoted to Plant Manager, Bühl"
+    }
+  ],
+  "leadership_indicators": {
+    "leadership_style_self_described": "I lead through technical credibility and commercial clarity. My teams know that I understand their work at the process level and that I understand how their work connects to the business outcome. I don't separate the two — a production leader who can't read a P&L can't make good decisions, and one who can't walk the line can't build trust.",
+    "decision_making_style": "Balanced — consults on strategy, decides quickly on operations. Has a strong supply chain lens on every decision: 'Who is upstream, who is downstream, and what does this decision do to both of them?' This systems-thinking approach occasionally means decisions take slightly longer but rarely require correction.",
+    "conflict_handling": "Collaborative but firm. Has successfully managed IG Metall negotiations (Bühl) and customer escalations (BMW, Mercedes). Does not avoid conflict but manages it within formal channels. Has been described by a union representative as 'the most technically credible management negotiator I have worked with.'",
+    "change_orientation": "High — has led production transformation in every role. Particularly strong at building alignment before driving change, which means his change programmes have high completion rates and low rollback rates.",
+    "risk_appetite": "Moderate. Accepts operational and technical risk with clear mitigation plans. Cautious about people and industrial relations risk — has never had a strike and is clearly motivated to keep it that way.",
+    "notable_leadership_moments": [
+      {
+        "situation": "At ZF Pilsen in 2023, a thermal management failure in the eBeam electric axle was identified 6 weeks before Job 1 delivery commitment to 3 OEM customers. The engineering team's initial estimate was a 12-week redesign.",
+        "action": "Mendes immediately flew to Pilsen, convened a cross-functional crisis team including the OEM customers' procurement leads (not just the ZF team), and ran a 72-hour design review sprint. He identified that the thermal issue was caused by a simulation model assumption error rather than a fundamental design flaw — allowing a targeted process modification rather than a full redesign.",
+        "outcome": "SOP achieved on the original date. Customer commitments met. The simulation model correction and validation process took 31 days. Mendes personally communicated daily to the 3 OEM procurement leads during the crisis — described by the BMW purchasing lead as 'the most transparent supplier communication during a crisis I have experienced.'",
+        "source": "Reference check — BMW Group Purchasing Director, eDrive (who confirmed via reference call)"
+      },
+      {
+        "situation": "In 2016, the IG Metall Bühl team presented a demand for a 12% wage increase as part of collective bargaining — above the Bosch Group regional norm of 3.1%.",
+        "action": "Rather than escalating to Bosch Group HR, Mendes engaged the local IG Metall works council chair directly and presented a detailed plant economics briefing — showing the plant's margin position, competitive context, and a proposal that linked 3.1% base increase to performance supplements that could reach 6-8% for the top-performing segments of the workforce.",
+        "outcome": "Agreement reached at 3.1% base plus performance supplements — the first such structure in a Bosch Baden-Württemberg facility. The IG Metall chair described it in press as 'a fair outcome that respects both economic reality and worker aspiration.'",
+        "source": "Reference check — IG Metall Bühl works council chair (now retired); Bosch HR records"
+      }
+    ]
+  },
+  "evidence_sources": {
+    "cv": true,
+    "performance_reviews": null,
+    "feedback_360": null,
+    "project_kpis": true,
+    "interview_notes": true,
+    "reference_checks": true
+  },
+  "performance_reviews": null,
+  "feedback_360": null,
+  "interview_notes": {
+    "interviewer": "Dr. Sabine Müller, Executive Search Partner; Klaus Richter, SVP Production",
+    "date": "2026-03-09",
+    "format": "Structured competency interview + live case study (90 min). Conducted in German.",
+    "overall_impression": "Mendes was the most immediately credible operational candidate in the external pool. His German was native-level, his answers were substantive and balanced (operational content, financial awareness, people dimension), and he showed a supplier-ecosystem intelligence that no OEM-side candidate possessed. The interviewers' principal challenge: he has never been an OEM. His entire career has been built around delivering to OEM requirements, not setting them. The cultural shift from 'I build what you specify' to 'I decide what gets built and how' is uncharted territory for him — and he knew it.",
+    "question_responses": [
+      {
+        "question": "How would you handle a 6-month semiconductor supply disruption across 3 plants?",
+        "response_summary": "Mendes's answer was distinctive because of his supply chain lens: 'Before I talk about what I would do in the plants, let me tell you what I would do with the suppliers — because the plants are downstream of a supply chain problem, not the source of it.' He outlined a supplier-facing strategy: immediately contact the tier-1 and tier-2 semiconductor suppliers to understand allocation priorities and their production schedules; use ZF's (or in this case BMW's) customer importance to negotiate preferential allocation ('OEMs have more leverage than tier-1 suppliers in semiconductor allocation — use it'); identify which tier-2 suppliers to the semiconductor companies might be constrainable through BMW's own procurement relationships. He then addressed plant-side: variant prioritisation (margin and delivery obligation weighted), build-out for incomplete vehicles, and 2-week production replanning cycles. He concluded: 'I have seen this crisis from the supply chain side — I supplied BMW during the 2021 shortage. I know exactly how BMW's procurement team allocates chips because I was on the other end of that allocation. That knowledge is useful here.'",
+        "interviewer_assessment": "Outstanding and distinctive — the supplier-relationship perspective was unique in the candidate pool. His direct experience of supplying BMW during the semiconductor crisis gives him institutional knowledge about BMW's allocation behaviour that no other candidate has. His plant-side response was solid if not exceptional. Klaus Richter specifically noted the value of his tier-1 network knowledge."
+      },
+      {
+        "question": "How would you accelerate Neue Klasse SOP by 6 months?",
+        "response_summary": "Mendes was thoughtful: 'I want to be honest — I have led SOP programmes from the tier-1 supplier side, not the OEM side. The OEM SOP challenge is broader and more complex. Let me tell you what I know about where time is lost at the OEM-supplier interface and then describe the internal OEM approach I would take.' On the supplier interface: 'Most OEM SOP delays I have observed involve supplier readiness — tooling late, PPAP late, incoming quality not certified. I would invest heavily in supplier readiness 12 months before Job 1: dedicated BMW engineers embedded at the top-20 critical suppliers, not remote audits.' On internal OEM: concurrent engineering for production readiness, digital twin validation before physical installation, compressed pilot build cycles (2-week builds rather than 4-week). He then said: 'The thing I cannot give you is deep institutional knowledge of how BMW manages SOP internally. That's a gap I acknowledge and would close quickly by spending time with your engineering team before formally starting the role if appointed.'",
+        "interviewer_assessment": "The honesty about the OEM knowledge gap was appropriate and credible. His supplier-side SOP insight was unique and genuinely valuable — 'most OEM SOP delays involve supplier readiness' is an observation that internal candidates did not make. His proposed approach of embedding engineers at suppliers is exactly what the Neue Klasse programme needs."
+      },
+      {
+        "question": "What would you do if Tesla poached 15% of your production engineers?",
+        "response_summary": "Mendes approached this with his characteristic supply chain framing: 'An organisation that can lose 15% of engineers and survive has built redundancy into its talent architecture. The first thing I would assess is whether we have that redundancy or whether we are single-source on critical knowledge — because single-source is a vulnerability in a supply chain and it's a vulnerability in a talent pool.' He then outlined: knowledge risk assessment, immediate knowledge transfer protocol, retention package review (particularly equity and career path clarity), and a specific proposal to create a 'technical career ladder' — a parallel advancement pathway for engineers who don't want to become managers. On backfill: 'I have a network of eDrive engineers across the tier-1 supplier ecosystem — ZF, Bosch, Continental — who may be ready to move to an OEM role. Some of them are specifically motivated by working on a premium brand. I would use that network immediately.'",
+        "interviewer_assessment": "The talent architecture/redundancy framing was distinctive and practically useful. His specific offer to use his tier-1 network for backfill was the most concrete and immediately actionable answer in the pool on this dimension. His credibility on this point is real — he has managed IG Metall negotiations and has deep tier-1 talent relationships."
+      }
+    ],
+    "case_study_performance": "Mendes solved the Debrecen battery pack integration case in 18 minutes. His root cause analysis was correct and he specifically noted — without prompting — that the fixturing tolerance issue was likely introduced at the supplier during the tooling manufacturing stage, not at Debrecen: 'I would check the tooling qualification documentation at the supplier before concluding this is a Debrecen process problem.' This was the only candidate to identify the possible supplier-side origin of the defect. His recovery plan was strong operationally and included a supplier corrective action request (8D report) as a formal deliverable. His communication plan was solid — he included the BMW Purchasing team as a stakeholder, which other candidates had missed. He did not propose any digital monitoring tools for process validation post-correction."
+  },
+  "reference_checks": [
+    {
+      "referee_name": "Dr. Wolfgang Müller",
+      "relationship": "Chief Operating Officer, ZF Friedrichshafen AG (current)",
+      "quote": "Carlos is one of the two or three best production leaders in our eDrive division. He is technically credible, financially literate, and has genuine IG Metall credibility — which is rare and valuable. I will be honest with you: I do not want him to leave. If he goes to BMW, we lose our best eDrive production leader during a critical ramp period. I am providing this reference because he has a right to pursue his career ambitions and because I respect him too much to stand in his way. The one thing I will flag: Carlos has always been the supplier. He has never been the OEM. That transition is not trivial — the OEM perspective requires a different relationship with suppliers, a different authority over product design, and a different internal politics. I believe he can make the transition. I cannot tell you it will be instant.",
+      "source": "External reference call, 2026-03-05 — supportive with important OEM-transition caveat"
+    },
+    {
+      "referee_name": "Andreas Fröhlich",
+      "relationship": "Purchasing Director eDrive — BMW Group (customer of ZF, peer in supply chain relationship)",
+      "quote": "I have worked with Carlos for 4 years from the customer side. He is the most transparent supplier VP I have encountered. During the eBeam thermal crisis he called me daily — not just with updates but with honest risk assessments. He never told me what I wanted to hear; he told me what was true. That is rare in a supplier relationship. Whether he can transition from supplier to OEM — I think yes, but it will take him 12-18 months to recalibrate his instincts. He will be tempted to manage BMW's suppliers the way a tier-1 manages them, not the way an OEM should. He knows this about himself.",
+      "source": "External reference call, 2026-03-10 — very candid, includes specific transition risk note"
+    }
+  ],
+  "compensation": {
+    "current_base": "€255,000",
+    "current_total": "€370,000 (incl. ZF annual bonus 30% + LTI)",
+    "expected_package": "€280,000 base; €420,000 total",
+    "notice_period": "6 months (ZF VP standard)",
+    "availability": "November 2026"
+  },
+  "red_flags": [
+    "Has never been an OEM — entire 21-year career is on the tier-1 supply side; the OEM perspective (brand ownership, product design authority, multi-supplier management from above) is genuinely untested and both his COO and his BMW customer reference flag this explicitly as a transition risk requiring 12-18 months to recalibrate",
+    "Scale gap on direct workforce leadership: largest organisation managed is 4,200 employees across 3 plants — the target role has 3,000+ with a different workforce mix (higher proportion of direct production workers vs. the mixed engineering/production workforce at ZF eDrive)",
+    "Six-month notice period (ZF VP standard) creates an availability issue — earliest start November 2026, which may be too late for the Neue Klasse programme timeline",
+    "EV cell manufacturing (cylindrical cells, Neue Klasse) is outside his direct experience — his EV expertise is eDrive system assembly, not battery pack and module manufacturing which is central to the Neue Klasse programme",
+    "No board-level or government stakeholder experience — has managed IG Metall negotiations at plant level but not Supervisory Board presentations or government industrial policy engagement at national level"
+  ],
+  "green_flags": [
+    "Only candidate in the pool who has supplied BMW Group with eDrive systems during a supply crisis — knows BMW's procurement, engineering, and quality requirements from the inside out; this supplier-side intelligence is an immediate operational advantage",
+    "IG Metall negotiation track record: successfully negotiated the first performance-linked supplement agreement at a Bosch Baden-Württemberg facility — directly relevant for the BMW works council and IG Metall relationship",
+    "ZF eDrive P&L: €1.4B revenue accountability with 4,200 employees is the largest financial scope of any external automotive candidate; the step to €450M BMW EV production budget is a reduction in scale that eliminates financial risk",
+    "Bilateral supplier-OEM credibility: BMW Purchasing Director independently provided reference describing him as 'the most transparent supplier VP I have encountered' — this cross-relationship credibility is unusual and valuable",
+    "Native German speaker with Karlsruhe engineering education — cultural and linguistic integration will be immediate; no adjustment period needed for workforce communication"
+  ]
+}

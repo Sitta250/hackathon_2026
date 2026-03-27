@@ -1,0 +1,205 @@
+{
+  "candidate_id": "C14",
+  "candidate_name": "Sarah Chen",
+  "candidate_type": "external",
+  "current_employer": "Flex Ltd (formerly Flextronics International)",
+  "current_title": "VP Advanced Manufacturing — EV & Clean Energy Division",
+  "years_experience_total": 17,
+  "years_in_current_role": 3,
+  "years_at_current_employer": 7,
+  "nationality": "American (Taiwanese heritage)",
+  "languages": ["English (native)", "Mandarin (C1 — family heritage, used professionally in Taiwan)", "German (A2 — beginner, recently started lessons)"],
+  "education": [
+    {
+      "degree": "M.S. Electrical Engineering — Intelligent Manufacturing Systems",
+      "institution": "Massachusetts Institute of Technology (MIT)",
+      "year": 2009,
+      "distinction": "GPA 4.8/5.0; thesis on closed-loop quality control using machine vision and reinforcement learning in high-speed electronics assembly — awarded MIT Manufacturing Leaders Award 2009"
+    },
+    {
+      "degree": "B.S. Mechanical Engineering",
+      "institution": "University of California, Berkeley",
+      "year": 2007,
+      "distinction": "Summa Cum Laude; GPA 3.97/4.0; Tau Beta Pi honour society"
+    }
+  ],
+  "certifications": [
+    "SMTA Certified Manufacturing Engineer (SMT-ME, 2012)",
+    "Six Sigma Black Belt — ASQ (2013)",
+    "Certified Automation Professional (CAP) — ISA (2016)",
+    "AWS Machine Learning Specialty Certification (2020)",
+    "IPC-7711/7721 Certified Rework Technician (2011)"
+  ],
+  "career_history": [
+    {
+      "company": "Flex Ltd",
+      "title": "VP Advanced Manufacturing — EV & Clean Energy Division",
+      "location": "Austin, Texas, USA (primary) / Juárez, Mexico / Tczew, Poland",
+      "start_year": 2023,
+      "end_year": null,
+      "scope": "3,800 employees across 3 plants; ~$680M revenue; contract manufacturing of EV battery management systems, on-board chargers, DC-DC converters, and power electronics for OEM customers including BMW, Rivian, Lucid, and BYD; full P&L and capital accountability",
+      "key_achievements": [
+        {
+          "achievement": "Designed and deployed Flex's 'CogniFab' AI quality platform across all 3 EV division plants — a unified machine vision, SPC, and predictive maintenance system that replaced 6 separate legacy monitoring tools and provided a single real-time quality dashboard",
+          "metric": "Defect escape rate reduced 67% across the division in 18 months; predictive maintenance alerts prevented 23 unplanned equipment failures valued at $4.2M in avoided downtime; CogniFab deployed to 2 additional Flex divisions in 2025 as a group standard",
+          "year": 2024,
+          "verifiable": false
+        },
+        {
+          "achievement": "Managed the ramp-up of Flex's BMW BMS (Battery Management System) production contract — scaling from 0 to 280,000 units/year in 14 months, including a critical firmware interface issue resolved 3 weeks before SOP",
+          "metric": "Volume ramp 0 to 280,000 units/year in 14 months vs. planned 18 months (4 months ahead); Day-1 quality rate 99.2% (BMW acceptance threshold 97.0%); firmware interface issue resolved in 9 days through cross-functional sprint with BMW engineering",
+          "year": 2024,
+          "verifiable": false
+        },
+        {
+          "achievement": "Reduced division-wide direct labour content per unit by 31% through targeted automation of 14 manual assembly steps across the 3 plants — replacing 440 manual assembly positions with collaborative robots (cobots) through a redeployment programme that retrained 380 workers for quality inspection and system maintenance roles",
+          "metric": "Direct labour content per unit: -31%; 440 positions automated; 380 workers retrained and redeployed (86.4% retention rate through automation transition); unit cost reduced $18.40 (14.2% of unit cost); 0 compulsory redundancies through automation programme",
+          "year": 2023,
+          "verifiable": false
+        }
+      ],
+      "reason_for_leaving": "Has reached the ceiling of what Flex's EV division can offer in terms of manufacturing scale and product complexity; specifically motivated by BMW's Neue Klasse programme as a chance to work on complete vehicle manufacturing rather than component/subsystem production; also personal motivation — wants to move to Europe"
+    },
+    {
+      "company": "Flex Ltd",
+      "title": "Director of Smart Manufacturing — Consumer & Industrial Division",
+      "location": "Singapore / Milpitas, California",
+      "start_year": 2019,
+      "end_year": 2023,
+      "scope": "55-person advanced manufacturing engineering team; responsible for Flex's AI and automation technology development and deployment across the Consumer & Industrial Division; ~$1.2B revenue across 8 plants in 4 countries",
+      "key_achievements": [
+        {
+          "achievement": "Built Flex's first Digital Manufacturing Intelligence Centre — a central platform integrating production data from 8 plants into a unified analytics environment with real-time anomaly detection and yield prediction",
+          "metric": "8 plants connected in 24 months; overall yield prediction accuracy: 94.3% (3-day forward horizon); reactive quality interventions reduced 48% at connected sites; platform subsequently commercialised as a Flex service offering sold to 3 external clients",
+          "year": 2022,
+          "verifiable": false
+        }
+      ],
+      "reason_for_leaving": "Promoted to VP and transferred to EV & Clean Energy Division"
+    },
+    {
+      "company": "Apple Inc. — Advanced Manufacturing",
+      "title": "Manufacturing Systems Engineer / Senior Engineer",
+      "location": "Cupertino, California / multiple supplier sites in Taiwan, China",
+      "start_year": 2013,
+      "end_year": 2019,
+      "scope": "Manufacturing systems engineering for Apple's supply chain automation programmes; responsible for designing and implementing automated assembly and test systems at Apple's key EMS partners in Asia; team of 8 engineers by 2017",
+      "key_achievements": [
+        {
+          "achievement": "Designed the automated optical inspection (AOI) and functional test system for iPhone camera module assembly at a major Apple EMS partner in Taiwan — replacing a 60% manual inspection process with a fully automated line",
+          "metric": "Manual inspection headcount reduced from 180 to 12 (quality engineers managing the automated system); throughput increased 42%; false-positive rejection rate reduced from 3.8% to 0.2%; system replicated across 2 additional sites",
+          "year": 2017,
+          "verifiable": false
+        },
+        {
+          "achievement": "Led a cross-supplier yield improvement programme targeting iPhone PCB assembly solder defects — a class of defect responsible for the highest proportion of Apple manufacturing returns",
+          "metric": "PCB solder defect rate reduced 78% across 3 suppliers over 18 months; annual Apple warranty cost reduction attributed to programme: $43M; programme received Apple Supplier Excellence Award 2018",
+          "year": 2018,
+          "verifiable": false
+        }
+      ],
+      "reason_for_leaving": "Joined Flex for broader leadership role with P&L accountability"
+    },
+    {
+      "company": "Foxconn Technology Group (Hon Hai Precision Industry)",
+      "title": "Process Engineer — Advanced Assembly",
+      "location": "Shenzhen, China / San Jose, California",
+      "start_year": 2009,
+      "end_year": 2013,
+      "scope": "Process engineer for high-speed electronics assembly; responsible for solder paste printing, reflow, and SMT assembly process optimisation; team of 4 engineers",
+      "key_achievements": [
+        {
+          "achievement": "Implemented a statistical process control programme for solder paste deposition across 12 SMT lines, reducing paste-related defects by 62%",
+          "metric": "Solder paste defects: -62% over 18 months; Cpk for paste volume control improved from 0.94 to 1.48; programme adopted across Foxconn's Shenzhen campus",
+          "year": 2012,
+          "verifiable": false
+        }
+      ],
+      "reason_for_leaving": "Joined Apple for higher complexity engineering work and opportunity to return to the US"
+    }
+  ],
+  "leadership_indicators": {
+    "leadership_style_self_described": "I lead through data and through people who are excited by data. I believe manufacturing is becoming a software problem — the physical constraints are real but the winning strategies are information strategies. I try to build teams that see the factory as a data system first and a physical system second.",
+    "decision_making_style": "Data-driven and fast. Designed and uses a personal decision framework she calls 'signal vs. noise' — categorising inputs as confirmed signals (data-backed) or noise (anecdote, assumption, political pressure) and acting on signals while explicitly deprioritising noise. Can come across as dismissive when she characterises a concern as 'noise' that others feel strongly about.",
+    "conflict_handling": "Direct and data-mediated. Resolves conflict by returning to the data — 'let's look at what the numbers say' is her consistent conflict resolution approach. Has limited experience with conflict that is fundamentally about values or power rather than facts — union conflict being the primary example.",
+    "change_orientation": "Extremely high for technology change — she drives it constantly and at speed. Has limited experience with the human dimensions of large-scale change in a workforce with strong union representation. Her automation redeployment programme at Flex was successful (86.4% retention) but in a non-union US context; the German codetermination framework is fundamentally different.",
+    "risk_appetite": "High for technology risk (first-mover in new manufacturing systems). Low for interpersonal and political risk — described by one reference as 'she will deploy a €20M automation system before she'll have a difficult conversation.'",
+    "notable_leadership_moments": [
+      {
+        "situation": "During the BMW BMS ramp-up at Flex in 2024, a firmware interface failure between the Flex-manufactured BMS and BMW's battery pack integration system was identified 3 weeks before the first scheduled delivery to BMW.",
+        "action": "Chen immediately assembled a 12-person cross-functional sprint team (Flex software, Flex hardware, and BMW engineering representatives), established a 48-hour decision cadence, and personally led the debugging sessions for the first 72 hours. She suspended all non-essential engineering activity in the division and redirected 8 senior engineers to the sprint.",
+        "outcome": "Interface issue resolved in 9 days. Delivery timeline maintained. BMW engineering lead described it as 'the fastest and most transparent crisis response from a contract manufacturer I have experienced.' BMW subsequently expanded Flex's BMS contract based partly on this response.",
+        "source": "Reference check — BMW Group Purchasing Electronics; Flex internal programme report"
+      }
+    ]
+  },
+  "evidence_sources": {
+    "cv": true,
+    "performance_reviews": null,
+    "feedback_360": null,
+    "project_kpis": true,
+    "interview_notes": true,
+    "reference_checks": true
+  },
+  "performance_reviews": null,
+  "feedback_360": null,
+  "interview_notes": {
+    "interviewer": "Dr. Sabine Müller, Executive Search Partner; Klaus Richter, SVP Production",
+    "date": "2026-03-12",
+    "format": "Structured competency interview + live case study (90 min). Conducted in English.",
+    "overall_impression": "Chen was the most technically specific candidate on digital manufacturing — she could describe the architecture of a real-time quality monitoring system in more detail than any other candidate and clearly understood the AI and IoT infrastructure that underpins modern manufacturing. She was also the only candidate who was visibly uncomfortable when workforce and union topics arose — she became less specific and more generic, defaulting to phrases like 'engaging stakeholders' in place of the detailed specificity she brought to technical topics. The interview was conducted in English at her request, which is itself an indicator: her German A2 level is a significant operational limitation for a role managing 3,000 German-speaking workers.",
+    "question_responses": [
+      {
+        "question": "How would you handle a 6-month semiconductor supply disruption across 3 plants?",
+        "response_summary": "Chen began with a data architecture response: 'The first thing I would do is build the visibility layer — you cannot manage a supply crisis you cannot see in real time.' She proposed deploying a supply chain monitoring dashboard that tracks chip-by-chip inventory, consumption rate by variant, and depletion date prediction across all 3 plants simultaneously. She then outlined operational responses: variant-level production sequencing using a constraint optimisation model, automated build-out scheduling for incomplete vehicles, and engineering derogation tracking for chip substitution approvals. She proposed using machine learning to forecast the impact of different allocation scenarios on final vehicle mix and margin. On stakeholder management: 'I would set up a daily data digest sent to all stakeholders — plant directors, procurement, sales, finance — so everyone is operating from the same real-time picture.' She did not mention works council communication, union engagement, or government relations until directly asked, at which point she said: 'That would require guidance from local HR and legal — I'm less familiar with German works council requirements.'",
+        "interviewer_assessment": "The digital/analytical architecture was the most sophisticated supply-crisis monitoring framework in the candidate pool. Her works council comment was a significant red flag — 'less familiar with German works council requirements' for someone in this role is not a gap to be filled by HR; it is a core job requirement. This was the clearest articulation of her major blind spot."
+      },
+      {
+        "question": "How would you accelerate Neue Klasse SOP by 6 months?",
+        "response_summary": "This was Chen's strongest answer. She outlined a digital-first acceleration strategy: (1) deploy a comprehensive manufacturing digital twin before any physical installation — 'we don't install a line at Flex without running it virtually first; this should be non-negotiable for Neue Klasse'; (2) implement automated PPAP using digital process records rather than paper-based documentation — 'PPAP is currently the slowest part of the SOP readiness cycle and 70% of it can be automated'; (3) use AI-assisted root cause analysis for pilot build deviations — 'instead of a team spending 2 weeks analysing a deviation, the AI identifies the candidate root causes in hours and the team validates'; (4) introduce continuous monitoring from pilot build day 1 rather than batch inspection at gate milestones — 'the gate model means problems hide until the gate; continuous monitoring surfaces them immediately.' She paused and said: 'I recognise that I've described a technology-first approach. The people and process change that enables the technology is equally important and it's something I'm less practiced at driving at this scale and in this cultural context.'",
+        "interviewer_assessment": "Technically the most specific and innovative answer on SOP acceleration across the entire candidate pool. Automated PPAP and AI root cause analysis for pilot build deviations are ideas that no other candidate proposed and that represent genuine acceleration levers. Her self-correction at the end about people and process change showed self-awareness. The interviewers were struck by the practical depth."
+      },
+      {
+        "question": "What would you do if Tesla poached 15% of your production engineers?",
+        "response_summary": "Chen's response was structured but revealed the union blind spot again: 'First, understand exactly who left and what knowledge is at risk. Second, immediately implement a knowledge documentation sprint — we do this at Flex using structured process knowledge capture tools and it takes 2-3 weeks for a critical engineer. Third, use data to understand the retention risk for the remaining 85% — I would build a retention risk model that scores each engineer on flight-risk indicators (external job applications visible through LinkedIn, internal engagement scores, compensation vs. market percentile, time since last promotion). Fourth, address compensation if that's the gap — systematically, not reactively.' She then proposed a specific technology intervention: 'Create an internal platform where engineers can own their process improvements publicly — a GitHub-style contribution tracking system where engineers are credited for the automation and quality improvements they develop. Engineers want recognition and ownership; this system creates both.' She did not mention works council consultation on any of the proposed interventions, several of which would require it under German law.",
+        "interviewer_assessment": "The retention risk model and GitHub-style contribution platform ideas were innovative and genuinely useful. The complete absence of works council consultation awareness in her retention response is a serious practical concern — several of her proposed interventions (monitoring LinkedIn activity, individual contribution scoring) would require works council agreement under BetrVG §87 before implementation. She is either unaware of this or not thinking about it."
+      }
+    ],
+    "case_study_performance": "Chen produced the most technology-integrated case study response in the pool. She identified the root cause correctly and immediately proposed using digital twin simulation to validate the fixturing correction before physical implementation — 'don't fix the physical process until you've confirmed the fix works in the digital model.' She also proposed deploying a real-time sensor network to the corrected fixturing stations as a permanent monitoring layer. Her communication plan was functional but generic. Her recovery timeline was the most detailed on the engineering side and the least detailed on the human/organisational side. The interviewers asked her how she would communicate the production halt to the 620-person production workforce at Leipzig — she said 'I'd work with HR and the plant communications team on that.' The interviewers noted she was the third candidate to use the phrase 'I'd work with HR on that' for workforce communication questions, consistently revealing the gap."
+  },
+  "reference_checks": [
+    {
+      "referee_name": "Revathi Advaithi",
+      "relationship": "CEO, Flex Ltd (current)",
+      "quote": "Sarah Chen is the most technically innovative manufacturing leader I have in my organisation. The CogniFab platform she built is now a revenue-generating product for Flex — that's extraordinary. She also operates in a non-union environment and I want to be honest with you: that is a real gap for a German automotive leadership role. Sarah knows how to automate, optimize, and accelerate. She has not had to co-determine with a powerful works council. That is a different skill set and I cannot tell you she has it.",
+      "source": "External reference call, 2026-03-08 — CEO-level reference, significant union gap flag"
+    },
+    {
+      "referee_name": "Wei-Lin Huang",
+      "relationship": "VP Engineering, BMW Group Electronics Purchasing — BMW was Flex's customer",
+      "quote": "I worked with Sarah during the BMW BMS ramp-up and the firmware crisis in 2024. She was outstanding — the fastest, most transparent crisis response from any contract manufacturer in my 14 years in BMW purchasing. Her technical depth is real and her team reflects her standards. I cannot speak to her ability to manage a German production workforce or works council — all of our interactions were on the engineering and technical side. On those dimensions, she is exceptional.",
+      "source": "External reference call, 2026-03-15 — positive on engineering, explicit non-comment on workforce management"
+    }
+  ],
+  "compensation": {
+    "current_base": "$290,000 (~€272,000)",
+    "current_total": "$480,000 (~€450,000 incl. Flex LTI)",
+    "expected_package": "€280,000 base; €430,000 total — plus relocation support to Germany and German language training",
+    "notice_period": "3 months",
+    "availability": "July 2026"
+  },
+  "red_flags": [
+    "Zero union or works council experience — has spent entire career in US and Asia non-union environments; the German codetermination framework (BetrVG, IG Metall collective agreements, co-determination rights) is completely unfamiliar; several of her proposed management actions in the interview would be illegal without works council consultation under German law, suggesting she is unaware of the legal framework she would be operating in",
+    "German language A2 — managing 3,000 German-speaking workers with an interpreter or in English is not viable at the Head of Production level; authentic workforce leadership in Germany requires German; no other candidate in the external pool has this level of language risk",
+    "No vehicle or complex physical product manufacturing experience — entire career has been in electronics and subsystem manufacturing; the step from BMS assembly to complete vehicle production (3,000 parts per vehicle vs. 200 per BMS) is the largest technical complexity jump in the candidate pool",
+    "No P&L at OEM scale — Flex EV division revenue of $680M is as a contract manufacturer (low-margin, high-volume); BMW's €450M production budget is a cost centre, not a revenue line; the financial management philosophy is fundamentally different",
+    "Pattern of delegating people/workforce topics to 'HR' — observed 3 times in interview on distinctly different workforce questions; reveals a genuine gap in workforce leadership instinct rather than just knowledge, which is harder to develop"
+  ],
+  "green_flags": [
+    "Most technically sophisticated AI/manufacturing platform in the candidate pool: CogniFab system reduced defect escape rates 67% and is now a Flex commercial product — genuine innovation at production scale",
+    "BMW BMS ramp-up: already has a direct production relationship with BMW Group (Electronics Purchasing) that produced a reference describing her as 'the most transparent crisis response from any contract manufacturer'; BMW already knows her work",
+    "Automated PPAP and AI root cause analysis proposals for SOP acceleration were the most specific and immediately deployable digital manufacturing ideas in the full candidate pool — represents genuine I4.0 leadership",
+    "86.4% workforce retention rate through a 440-position automation programme — evidence that she can manage large-scale workforce transition without compulsory redundancy even in the most disruptive automation context",
+    "MIT Manufacturing Leaders Award 2009, Apple Supplier Excellence Award 2018, UC Berkeley Summa Cum Laude — academic and professional credentials in the top tier of the candidate pool"
+  ]
+}

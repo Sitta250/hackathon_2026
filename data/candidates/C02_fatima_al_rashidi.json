@@ -1,0 +1,328 @@
+{
+  "candidate_id": "C02",
+  "candidate_name": "Fatima Al-Rashidi",
+  "candidate_type": "internal",
+  "current_employer": "BMW Group",
+  "current_title": "Head of Production — i4 Line, Leipzig Plant",
+  "years_experience_total": 14,
+  "years_in_current_role": 3,
+  "years_at_current_employer": 8,
+  "nationality": "German-Jordanian",
+  "languages": ["German (native)", "Arabic (native)", "English (C2)", "French (B2)"],
+  "education": [
+    {
+      "degree": "M.Sc. Industrial Engineering & Management",
+      "institution": "RWTH Aachen University",
+      "year": 2013,
+      "distinction": "Distinction; thesis on dynamic scheduling in mixed-model EV assembly — awarded VDMA Prize for best industrial engineering thesis"
+    },
+    {
+      "degree": "B.Sc. Mechanical Engineering",
+      "institution": "University of Jordan, Amman",
+      "year": 2011,
+      "distinction": "First Class Honours; exchange semester TU Berlin"
+    }
+  ],
+  "certifications": [
+    "Lean Expert — BMW Group (2017)",
+    "Project Management Professional, PMP (2018)",
+    "BMW Group Talent Pool — Top Leadership (designated 2022)",
+    "EV High-Voltage Safety Officer, BMW Group (2020)",
+    "IATF 16949 Internal Auditor (2019)"
+  ],
+  "career_history": [
+    {
+      "company": "BMW Group",
+      "title": "Head of Production — i4 Line, Leipzig Plant",
+      "location": "Leipzig, Germany",
+      "start_year": 2023,
+      "end_year": null,
+      "scope": "620 direct and indirect reports, €74M line operating budget, full accountability for i4 eDrive40 and M50 production from body shell to end-of-line, 230 units/day rated capacity",
+      "key_achievements": [
+        {
+          "achievement": "Stabilised i4 line output after a critical battery module fitment process issue in Q1 2023 caused a 19-day halt; redesigned the integration process and retrained 84 operators",
+          "metric": "Line restart to rated capacity achieved in 22 days vs. engineering estimate of 35 days; quality escape rate post-restart 0.3% vs. pre-halt 1.8%",
+          "year": 2023,
+          "verifiable": true
+        },
+        {
+          "achievement": "Negotiated a revised shift model with Leipzig works council that added 210 annual production hours without increasing headcount through flexible buffer-shift arrangements",
+          "metric": "Additional 4,830 i4 units capacity per year; works council agreement reached in 6 weeks vs. historical average of 4.5 months for shift renegotiations",
+          "year": 2024,
+          "verifiable": true
+        },
+        {
+          "achievement": "Implemented operator-led Kaizen programme resulting in 34 completed improvement projects in 18 months, the highest participation rate (67% of shopfloor) in Leipzig Plant history",
+          "metric": "Cumulative saving €3.2M; absenteeism reduced from 5.8% to 3.9% over programme period",
+          "year": 2024,
+          "verifiable": true
+        }
+      ],
+      "reason_for_leaving": "Internal promotion candidate"
+    },
+    {
+      "company": "BMW Group",
+      "title": "Production Manager — EV Integration & Battery Assembly, Leipzig",
+      "location": "Leipzig, Germany",
+      "start_year": 2020,
+      "end_year": 2023,
+      "scope": "180 direct reports, responsible for high-voltage battery pack assembly and integration into iX and i4 platforms during SOP ramp-up phases",
+      "key_achievements": [
+        {
+          "achievement": "Co-led iX SOP ramp-up from Job 1 to rated capacity, managing a 3-shift battery integration team through a compressed 11-month ramp schedule (original plan: 18 months)",
+          "metric": "Rated capacity (300 units/day) reached in month 11; SOP quality gate 99.3% pass rate Day 1",
+          "year": 2021,
+          "verifiable": true
+        },
+        {
+          "achievement": "Designed and implemented the HV battery safety training programme now adopted as BMW Group standard for all EV-producing plants",
+          "metric": "Zero HV incidents across 3 years of programme operation (2020-2023); programme deployed to 1,400 operators across Leipzig and Dingolfing",
+          "year": 2020,
+          "verifiable": true
+        }
+      ],
+      "reason_for_leaving": "Promoted to Head of Production (i4 line)"
+    },
+    {
+      "company": "BMW Group",
+      "title": "Production Engineer — Process Development, Munich / Leipzig",
+      "location": "Munich & Leipzig, Germany",
+      "start_year": 2018,
+      "end_year": 2020,
+      "scope": "Member of 12-person cross-functional team developing assembly processes for the upcoming i4 and iX platforms; rotational posting between Munich engineering centre and Leipzig pilot hall",
+      "key_achievements": [
+        {
+          "achievement": "Developed the battery-to-body structural bonding process specification for the i4 platform, resolving a critical adhesion durability issue identified in pilot builds",
+          "metric": "Adhesion failure rate in thermal cycling tests reduced from 4.1% to 0.2%; process adopted without modification for series production",
+          "year": 2019,
+          "verifiable": true
+        }
+      ],
+      "reason_for_leaving": "Promoted to Production Manager role"
+    },
+    {
+      "company": "BMW Group",
+      "title": "Graduate Trainee / Junior Process Engineer",
+      "location": "Munich, Germany",
+      "start_year": 2018,
+      "end_year": 2018,
+      "scope": "12-month structured graduate programme with rotations across 4 BMW plants and central manufacturing engineering",
+      "key_achievements": [
+        {
+          "achievement": "Completed graduate programme ranked 1st in cohort of 24 engineers; offered direct permanent placement 4 months early",
+          "metric": "Cohort rank: 1/24; permanent offer extended at month 8 of 12-month programme",
+          "year": 2018,
+          "verifiable": true
+        }
+      ],
+      "reason_for_leaving": "Converted to permanent role ahead of schedule"
+    },
+    {
+      "company": "Siemens AG (Mobility Division)",
+      "title": "Process Engineer — Traction Drive Manufacturing",
+      "location": "Erlangen, Germany",
+      "start_year": 2013,
+      "end_year": 2018,
+      "scope": "Manufacturing engineering for electric traction motor and power electronics assembly for rail and industrial applications; team of 3 engineers",
+      "key_achievements": [
+        {
+          "achievement": "Redesigned the winding and impregnation process for 2MW traction motors, reducing cycle time and improving first-pass yield",
+          "metric": "First-pass yield improved from 78.4% to 91.2%; cycle time reduced by 18%; €1.4M annual material saving from scrap reduction",
+          "year": 2016,
+          "verifiable": false
+        }
+      ],
+      "reason_for_leaving": "Joined BMW Group for automotive EV ambition and faster career progression"
+    }
+  ],
+  "leadership_indicators": {
+    "leadership_style_self_described": "Participative with high standards. I invest heavily in building team capability and then I hold people accountable. Union partnership is not an obstacle to performance — when done right, it's an accelerator.",
+    "decision_making_style": "Collaborative in diagnosis, decisive in action. Runs short, focused consultation windows before committing — does not let consensus-seeking slow execution.",
+    "conflict_handling": "Direct and empathetic. Comfortable with conflict as a diagnostic tool — 'conflict usually means someone has information that hasn't surfaced yet.' Has strong reputation with works council for listening before deciding.",
+    "change_orientation": "High. Has led two EV platform SOPs and views transformation as the natural state of the job. Can become impatient with colleagues who resist change without proposing alternatives.",
+    "risk_appetite": "Moderate-high. Willing to compress timelines and accept controlled risks when the upside is clear. Less experienced managing macro-level risks (geopolitical supply chain, regulatory).",
+    "notable_leadership_moments": [
+      {
+        "situation": "In Q1 2023, a systemic battery module fitment defect caused BMW Group to halt i4 production — Fatima was 3 weeks into her new role as Head of Production.",
+        "action": "She embedded herself on the shopfloor for 14 consecutive days, personally diagnosed the root cause (a tolerance stack-up in the module guide rail fixturing), co-designed the process correction with her engineering team, and ran 84 operators through retraining while simultaneously managing external communications to the plant director.",
+        "outcome": "Production restarted 13 days ahead of engineering estimate; post-restart defect rate better than pre-halt baseline; she received a commendation from the SVP Production for crisis leadership in only her third week as Head of Production.",
+        "source": "2023 Performance Review; internal crisis report, Leipzig Plant Director"
+      },
+      {
+        "situation": "Works council at Leipzig threatened action over a proposed weekend overtime schedule during the iX SOP ramp in 2021.",
+        "action": "Rather than escalating to HR, Fatima personally met with the three works council representatives, understood their concerns (fatigue management and safety risk), and co-designed a hybrid voluntary overtime model with mandatory rest days built in.",
+        "outcome": "Overtime schedule implemented with 89% voluntary take-up; no formal action; works council chair subsequently cited her as 'the best management interlocutor in the plant.'",
+        "source": "Works council feedback, Leipzig HR file 2021"
+      }
+    ]
+  },
+  "evidence_sources": {
+    "cv": true,
+    "performance_reviews": true,
+    "feedback_360": true,
+    "project_kpis": true,
+    "interview_notes": true,
+    "reference_checks": true
+  },
+  "performance_reviews": [
+    {
+      "year": 2025,
+      "reviewer": "Dr. Thomas Hennig, Plant Director Leipzig",
+      "overall_rating": "4.6 / 5.0",
+      "performance_category": "Outstanding",
+      "summary": "Fatima is quite simply the most impressive production leader of her generation at BMW Group. Her management of the i4 battery halt in 2023 demonstrated senior-leader instincts that surprised even those of us who had been watching her closely. The Kaizen programme and works council agreements this year are further evidence of her ability to build performance through people, not just process.",
+      "strengths_noted": [
+        "Authentic and courageous leadership under crisis — instinctive, not reactive",
+        "Exceptional union/works council partnership — speeds up decisions that typically take months",
+        "EV production expertise is the deepest of any production leader in the plant network at her level"
+      ],
+      "development_areas": [
+        "P&L ownership at scale — current budget responsibility (€74M) is significantly below the €450M scope of the Head of Production role; she has not yet managed at that scale",
+        "Multi-plant coordination — all experience has been within Leipzig; managing 3 plants simultaneously is an untested dimension",
+        "Strategic supplier management — her supply chain exposure has been reactive (crisis response) rather than proactive (design and governance)"
+      ],
+      "promotion_recommendation": "Ready for a step up — but the Head of Production EMEA EV role may be one level above what is prudent. Recommend a VP-level role with larger budget scope first, or appoint with a strong COO-type deputy for 18 months."
+    },
+    {
+      "year": 2024,
+      "reviewer": "Dr. Thomas Hennig, Plant Director Leipzig",
+      "overall_rating": "4.5 / 5.0",
+      "performance_category": "Outstanding",
+      "summary": "Another exceptional year. The shift model negotiation result was remarkable — 6 weeks for an agreement that HR expected to take 5 months. Fatima operates with a level of trust and credibility with the workforce that is very rare. Some concern about her readiness for the political dimensions of a Group-level role — she has not yet had to manage board-level or government stakeholder relationships.",
+      "strengths_noted": [
+        "Workforce engagement KPIs best in Leipzig history under her leadership",
+        "Delivered 103% of rated production target against 96% plan",
+        "Sponsored 3 junior engineers through the BMW Talent Pool nomination — strong talent development instinct"
+      ],
+      "development_areas": [
+        "Board and government stakeholder exposure needed urgently if she is to be considered for Group VP roles",
+        "Financial modelling and business case development — relies on finance team rather than building her own models"
+      ],
+      "promotion_recommendation": "Accelerate exposure: recommend placement on BMW Group Supervisory Board preparation programme and inclusion in government stakeholder visits for 2025"
+    },
+    {
+      "year": 2023,
+      "reviewer": "Dr. Thomas Hennig, Plant Director Leipzig",
+      "overall_rating": "4.4 / 5.0",
+      "performance_category": "Exceeds Expectations",
+      "summary": "Fatima joined the Head of Production role in January and within 3 weeks was managing the most severe production crisis Leipzig had seen in 5 years. She handled it with a maturity and technical depth that belied her relative seniority. First year in role: outstanding by any measure. The one caveat is that she is still finding her feet with the broader organisational politics of the plant leadership team.",
+      "strengths_noted": [
+        "Crisis response in i4 halt situation: exceptional",
+        "Team stability — inherited a team with morale challenges and within 6 months had absenteeism trending down",
+        "Technical credibility with engineers is a notable strength — they follow her because she knows the content"
+      ],
+      "development_areas": [
+        "Peer leadership team relationships — can be perceived as 'going around' colleagues rather than bringing them along",
+        "Communication upward — needs to be more proactive in keeping Plant Director informed before acting"
+      ],
+      "promotion_recommendation": "Watch closely — if she continues on this trajectory she will be a genuine Group VP candidate within 3-4 years"
+    }
+  ],
+  "feedback_360": {
+    "peers": [
+      {
+        "reviewer_role": "Head of Logistics, Leipzig Plant",
+        "quote": "Fatima is extraordinary with her team and with the works council. She's less comfortable as a peer — she makes decisions in her lane very fast and sometimes the rest of us find out after the fact. She's getting better at this but it was a real friction point in 2023.",
+        "theme": "Strong downward, developing peer collaboration"
+      },
+      {
+        "reviewer_role": "Head of Quality, Leipzig Plant",
+        "quote": "The best thing that happened to Leipzig quality in the last three years is Fatima taking over the i4 line. She doesn't accept the dichotomy between speed and quality — she pushes both simultaneously and her team delivers both. I wish she'd call me earlier when she spots something upstream.",
+        "theme": "Outstanding quality partnership, communication timing gap"
+      },
+      {
+        "reviewer_role": "Head of Paint Shop, Leipzig Plant",
+        "quote": "She is everything you want in a colleague — brilliant, accountable, genuinely interested in other people's problems. The only thing I'd say is she moves so fast that sometimes she's already solved a problem that touches my area before I even know it existed.",
+        "theme": "High performer, moves fast, coordination gaps"
+      }
+    ],
+    "direct_reports": [
+      {
+        "reviewer_role": "Shift Manager, i4 Line (anonymised)",
+        "quote": "Fatima changed what I thought a leader looked like. She's on the floor every morning. She knows every operator's name. When the battery halt happened she didn't hide in the conference room — she put on her safety vest and worked it with us. I would follow her anywhere.",
+        "theme": "Inspirational, visible, hands-on"
+      },
+      {
+        "reviewer_role": "Process Engineer, Battery Integration (anonymised)",
+        "quote": "She sets a very high bar and she expects you to meet it. I've grown more in 2 years with her than in my previous 5 years combined. Occasionally the bar feels unreasonably high — but I've never once seen her ask something of us that she wouldn't do herself.",
+        "theme": "High standards, genuine development investment"
+      },
+      {
+        "reviewer_role": "Production Coordinator (anonymised)",
+        "quote": "She is demanding but completely fair. She never blames people for systemic failures — she fixes the system. When something goes wrong she asks 'what failed?' not 'who failed?' That changes everything about how people behave.",
+        "theme": "Systemic thinker, psychological safety"
+      }
+    ],
+    "senior_leadership": [
+      {
+        "reviewer_role": "SVP Production, BMW Group",
+        "quote": "Fatima is on every succession list that matters. The question being debated is timing. She is arguably ready for a VP role — the Neue Klasse Head of Production is at the very top of the range for her current experience, especially on budget scale and multi-plant complexity. My strong instinct is to give her the role and invest heavily in her first 18 months.",
+        "theme": "Strong endorsement with timing caveat"
+      },
+      {
+        "reviewer_role": "Plant Director, Leipzig",
+        "quote": "If I could design the perfect successor for the EV production leadership role from scratch, I would produce something close to Fatima — just with 5 more years of experience and one more budget cycle under her belt. She is the real thing.",
+        "theme": "Near-perfect profile, seniority gap only"
+      }
+    ]
+  },
+  "interview_notes": {
+    "interviewer": "Dr. Sabine Müller, Executive Search Partner; Klaus Richter, SVP Production",
+    "date": "2026-02-20",
+    "format": "Structured competency interview + live case study (90 min)",
+    "overall_impression": "Al-Rashidi was the most energising candidate the panel had interviewed across the full pool. She walked into the room with visible confidence, made immediate eye contact, and was comfortable challenging the interviewers' framing of questions. Her EV production depth is unmatched among internal candidates. The panel's only significant concern was her honest acknowledgement of budget scale inexperience.",
+    "question_responses": [
+      {
+        "question": "How would you handle a 6-month semiconductor supply disruption across 3 plants?",
+        "response_summary": "She responded with immediate structure but without rigidity. First she reframed: 'The 6-month horizon is the constraint I'd plan around, but I'd act as if it could be 12 months.' She outlined a three-track approach: (1) Supply triage — chip-by-chip criticality mapping within 72 hours, pulling in BMW's semiconductor desk and directly calling tier-1 suppliers; (2) Production adaptation — build-out sequencing for affected variants, prioritising highest-margin models, converting affected capacity to models without the shortage chip; (3) Demand management — working with sales and marketing on order intake timing to smooth production scheduling. She then added: 'I would move one of my best people physically to our primary semiconductor supplier's site for the duration — relationship management on-site, not just phone calls.' Interviewers noted she had clearly thought about this type of scenario.",
+        "interviewer_assessment": "Outstanding. Her response was more creative and more operationally specific than any other candidate. The on-site supplier embed idea was novel and showed systems thinking beyond the plant boundary. Weakness: she was light on the financial modelling dimension — how much does each scenario cost?"
+      },
+      {
+        "question": "How would you accelerate Neue Klasse SOP by 6 months?",
+        "response_summary": "Her eyes lit up at this question. 'This is actually what I think about when I can't sleep.' She proposed a parallel workstream structure: (1) Digital twin exhaustion — do not let physical installation begin until the digital twin has surfaced and resolved every predicted deviation; (2) Operator involvement from month 1 — 'every operator on the Neue Klasse line should be involved in pilot build validation, not just engineers'; (3) Compression of the traditional sequential approval gates into concurrent reviews; (4) Borrowing the Tesla practice of 'design for manufacturing review' — she'd embed production engineers in the product design team 18 months before Job 1. She acknowledged risk: 'You accelerate SOP and you accept higher early-production quality variability — the question is whether you have the quality system to catch and correct it faster than the old sequential approach.'",
+        "interviewer_assessment": "Best answer on this question in the full candidate pool. She has clearly thought about lean SOP methodology at a sophisticated level. Her acknowledgement of the quality risk was mature and differentiated her from candidates who treated acceleration as cost-free."
+      },
+      {
+        "question": "What would you do if Tesla poached 15% of your production engineers?",
+        "response_summary": "She paused and said: 'This is a real scenario — it's already happening at Leipzig in smaller numbers.' Her response: immediate talent mapping to understand which 15% (skills criticality, knowledge concentration risk); emergency retention conversations with the top-30 highest-risk engineers within 48 hours; parallel track on compensation benchmarking and pay-band review request to HR; knowledge documentation sprint; and a medium-term programme to deliberately reduce single-person dependency for critical process knowledge. On backfill: 'I would not try to replace these people with equivalent profiles — I would redesign the roles and use the attrition as an opportunity to bring in people with different expertise we're missing, particularly AI/data science for manufacturing.'",
+        "interviewer_assessment": "Very strong. The reframe at the end — using attrition as a reshaping opportunity — was the most sophisticated response to this question in the candidate pool. She has clearly navigated early-stage talent competition at Leipzig already."
+      }
+    ],
+    "case_study_performance": "Same Debrecen battery pack integration case as other candidates. She began proposing hypotheses within 4 minutes and was stress-testing her own solution by minute 20. She identified a second potential root cause (supplier incoming quality inspection failure) that other candidates missed. Her recovery plan was the most detailed on the people/training dimension. Interviewers noted she asked more questions of the interviewers than any other candidate — 'I want to understand what actually happened here, not just pattern-match to a textbook response.'"
+  },
+  "reference_checks": [
+    {
+      "referee_name": "Dr. Thomas Hennig",
+      "relationship": "Direct manager — Plant Director Leipzig (internal, verified)",
+      "quote": "If you don't appoint Fatima to this role, you will lose her within 2 years. She will not wait indefinitely. And that would be one of the costliest talent losses BMW Group has made in recent memory.",
+      "source": "Internal reference, HR file 2026-01-28"
+    },
+    {
+      "referee_name": "Prof. Dr. Stefan Bracke",
+      "relationship": "Thesis supervisor, RWTH Aachen (academic)",
+      "quote": "Fatima was the most intellectually rigorous student I supervised in 15 years. She did not accept conclusions without interrogating the evidence. She was also rare among engineers in understanding that human systems are as important as technical systems. I have followed her career — she has grown into exactly the leader I expected.",
+      "source": "Academic reference, 2026-02-10"
+    }
+  ],
+  "compensation": {
+    "current_base": "€195,000",
+    "current_total": "€265,000 (incl. performance bonus 28% + LTI)",
+    "expected_package": "€240,000 base; €340,000 total",
+    "notice_period": "3 months",
+    "availability": "June 2026"
+  },
+  "red_flags": [
+    "Budget scale gap is significant: current P&L responsibility is €74M vs. €450M for the target role — she has never managed a budget of this magnitude and has not yet led a multi-year capex programme",
+    "Multi-plant complexity is entirely untested — all career experience has been at Leipzig Plant; managing Leipzig, Dingolfing, and Debrecen simultaneously is a step-change in coordination complexity",
+    "Board, government, and external stakeholder experience is minimal — has had limited exposure to supervisory board presentations, government negotiations (plant subsidies, environmental permits), or media engagement",
+    "At 37, perceived by some senior leadership as 'not quite ready' — internal political risk that appointment could generate resistance from older, more senior managers passed over"
+  ],
+  "green_flags": [
+    "Deepest direct EV production experience of any internal candidate — personally led iX and i4 SOPs, designed the BMW Group HV battery safety training standard",
+    "Exceptional works council and union relationships — repeatedly achieves negotiated outcomes in weeks that typically take months; critical for a workforce of 3,000+ in a transformation period",
+    "Operator-level credibility: Kaizen programme achieved 67% shopfloor participation rate (Leipzig plant record) — workforce will follow her",
+    "Three consecutive 'Outstanding' or 'Exceeds Expectations' performance reviews with increasing responsibility and scope",
+    "Crisis leadership proven in first weeks of her Head of Production role — i4 battery halt recovered 13 days ahead of engineering estimate",
+    "Formally designated BMW Group Top Leadership Talent (2022) — organisational endorsement of her trajectory"
+  ]
+}

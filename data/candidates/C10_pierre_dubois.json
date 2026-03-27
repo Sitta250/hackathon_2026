@@ -1,0 +1,233 @@
+{
+  "candidate_id": "C10",
+  "candidate_name": "Pierre Dubois",
+  "candidate_type": "external",
+  "current_employer": "Independent (consulting / interim management)",
+  "current_title": "Independent Automotive Turnaround Advisor (self-employed since June 2025)",
+  "years_experience_total": 24,
+  "years_in_current_role": 1,
+  "years_at_current_employer": 1,
+  "nationality": "French",
+  "languages": ["French (native)", "German (C1)", "English (C1)", "Arabic (B1 — Moroccan dialect)"],
+  "education": [
+    {
+      "degree": "Ingénieur — Industrial Systems & Manufacturing",
+      "institution": "École Centrale de Lyon",
+      "year": 2002,
+      "distinction": "Top 10% of cohort; specialisation in production systems and automation"
+    },
+    {
+      "degree": "Executive MBA",
+      "institution": "HEC Paris",
+      "year": 2011,
+      "distinction": "Distinction; case prize for restructuring strategy in multinational manufacturing"
+    }
+  ],
+  "certifications": [
+    "Six Sigma Black Belt — Renault Group Internal (2007)",
+    "IATF 16949 Internal Auditor (2009)",
+    "Lean Manufacturing Expert — Renault-Nissan Alliance (2008)",
+    "Renault Senior Leadership Programme (2013)"
+  ],
+  "career_history": [
+    {
+      "company": "Independent",
+      "title": "Automotive Turnaround Advisor",
+      "location": "Paris, France",
+      "start_year": 2025,
+      "end_year": null,
+      "scope": "Interim management and advisory for automotive clients undergoing operational turnaround or restructuring; engaged by 2 clients since departure from Renault Group",
+      "key_achievements": [
+        {
+          "achievement": "Advised a tier-2 automotive supplier (confidential) on a 90-day operational stabilisation plan following a quality crisis that threatened a major OEM contract",
+          "metric": "OEM contract retained; supplier PPM reduced from 1,840 to 340 over 90 days; full engagement details under NDA",
+          "year": 2025,
+          "verifiable": false
+        }
+      ],
+      "reason_for_leaving": "N/A — current status"
+    },
+    {
+      "company": "Renault Group",
+      "title": "VP Manufacturing — North Africa & Middle East Region",
+      "location": "Casablanca, Morocco (primary) / Paris",
+      "start_year": 2020,
+      "end_year": 2025,
+      "scope": "Operational accountability for Renault Somaca plant (Casablanca) and the Tanger (SOMACA/DACIA) complex; 6,800 combined workforce, €1.1B combined revenue; reported to EVP Manufacturing Renault Group",
+      "key_achievements": [
+        {
+          "achievement": "Turned around the Casablanca Somaca plant from a loss-making operation (€68M operating loss in 2019) to profitability within 24 months through a combination of workforce rationalisation, process efficiency improvement, and product mix optimisation",
+          "metric": "From €68M operating loss (2019) to €41M operating profit (2022) — a €109M swing in 24 months; workforce reduced from 4,200 to 3,100 through voluntary separation and restructuring; OEE improved from 71.3% to 88.6%",
+          "year": 2022,
+          "verifiable": false
+        },
+        {
+          "achievement": "Renegotiated the Somaca collective labour agreement — the first significant modification in 11 years — introducing flexible shift patterns and performance-linked components while maintaining base salary levels",
+          "metric": "New agreement signed with 3 of 4 union federations; 1 federation (FDT) did not sign but did not strike; labour productivity improved 22% in the 12 months following agreement; fixed labour cost as % of revenue reduced from 31.4% to 26.1%",
+          "year": 2021,
+          "verifiable": false
+        },
+        {
+          "achievement": "Managed the 2021 semiconductor shortage across the Tanger and Casablanca complexes, implementing a build-out sequencing approach that maintained 91% of planned volume at 74% of normal chip usage through variant-level prioritisation and engineering derogations",
+          "metric": "Volume maintained: 91% of plan (vs. Renault Group average 78%); 14 engineering derogations approved to substitute or defer non-critical semiconductor functions; approach shared with Renault Group as a best practice",
+          "year": 2021,
+          "verifiable": false
+        }
+      ],
+      "reason_for_leaving": "Departed following a public dispute with Renault Group EVP Manufacturing over a proposed further headcount reduction programme that Dubois considered operationally damaging. Dispute escalated internally; Dubois resigned rather than implement a plan he did not support. Departure confirmed by Renault HR; characterised as resignation, not termination."
+    },
+    {
+      "company": "Renault Group",
+      "title": "Plant Director — Douai Plant (Renault ElectriCity)",
+      "location": "Douai, France",
+      "start_year": 2015,
+      "end_year": 2020,
+      "scope": "3,800 employees, €680M revenue; Renault Megane, ZOE (full EV), Kangoo E-Tech; full P&L, union relations (CGT, FO, CFDT), capital investment accountability",
+      "key_achievements": [
+        {
+          "achievement": "Led the introduction of Renault ZOE production at Douai — the plant's first full-BEV model — while maintaining ICE production volumes, requiring a parallel EV and ICE production line capability within the same facility",
+          "metric": "ZOE production reached 100,000 units/year within 18 months of SOP; zero disruption to Megane and Kangoo production during ramp; ZOE became Europe's best-selling EV in 2020 (22,700 units at peak month from Douai)",
+          "year": 2018,
+          "verifiable": false
+        },
+        {
+          "achievement": "Managed a 16-day wildcat strike at Douai in 2017 — an unauthorised action by CGT local section over restructuring proposals — and returned the plant to full production without concessions on the core restructuring plan",
+          "metric": "Strike ended after 16 days; production losses: 8,400 vehicles; restructuring plan implemented in full; disciplinary proceedings against 3 strike leaders resulted in employment tribunal: 2 upheld, 1 reversed on procedural grounds",
+          "year": 2017,
+          "verifiable": false
+        }
+      ],
+      "reason_for_leaving": "Promoted to VP Manufacturing, North Africa"
+    },
+    {
+      "company": "Renault Group",
+      "title": "Production Director — Flins Plant",
+      "location": "Flins-sur-Seine, France",
+      "start_year": 2010,
+      "end_year": 2015,
+      "scope": "2,100 employees; Renault Clio and ZOE pre-production development; accountable for production output and quality; reported to Plant Director",
+      "key_achievements": [
+        {
+          "achievement": "Implemented a lean production system overhaul across Flins final assembly — Dubois's first major independent operational improvement programme",
+          "metric": "Line efficiency improved from 79.4% to 91.8% over 30 months; warranty cost per vehicle reduced 28%; 4 major line-balance improvements implemented",
+          "year": 2013,
+          "verifiable": false
+        }
+      ],
+      "reason_for_leaving": "Promoted to Plant Director, Douai"
+    },
+    {
+      "company": "Renault Group",
+      "title": "Production Group Leader / Process Engineer",
+      "location": "Various Renault plants, France",
+      "start_year": 2002,
+      "end_year": 2010,
+      "scope": "Progressive roles from process engineer through production group leader across 3 Renault plants; individual contributor through team leader of 40",
+      "key_achievements": [
+        {
+          "achievement": "Led the single largest process improvement project of his early career — a takt-time reduction on the Clio 3 final assembly line that became a Renault Manufacturing training reference case",
+          "metric": "Takt time reduced from 82s to 71s (13.4%); line output increased 9,400 vehicles/year; project won Renault Manufacturing Innovation Award 2009",
+          "year": 2009,
+          "verifiable": false
+        }
+      ],
+      "reason_for_leaving": "Promoted to Production Director"
+    }
+  ],
+  "leadership_indicators": {
+    "leadership_style_self_described": "I am a results leader. I set clear objectives, give people the tools and authority to meet them, and hold them accountable when they don't. I don't confuse harmony with effectiveness. A factory that is 'nice' and underperforming is failing its workers as much as a factory that is unpleasant and high-performing. My job is to build the second type while moving toward the first.",
+    "decision_making_style": "Fast and direct. Has a strong conviction in his own analysis and is resistant to revising decisions under social pressure. Will revise decisions rapidly when presented with new data. Does not consult widely before deciding — prefers to act and adjust.",
+    "conflict_handling": "Confrontational when he believes he is right. Has had documented disputes with 3 senior managers across his career, 2 of which were public enough to leave a mark on his professional reputation. Also known for blunt feedback that some direct reports find motivating and others find demoralising.",
+    "change_orientation": "High — has driven significant change in every role. The question raised by multiple references is whether his change method is appropriate for a German codetermination environment where works council buy-in is legally and culturally mandatory, not optional.",
+    "risk_appetite": "High. Has made commercially significant bets (restructuring plans, strike management, derogations) that paid off. Has also made decisions that created lasting relationship damage.",
+    "notable_leadership_moments": [
+      {
+        "situation": "During the 2017 wildcat strike at Douai, union delegates demanded Dubois come to the factory floor to negotiate directly with striking workers — bypassing the formal labour relations structure.",
+        "action": "Dubois refused, stating publicly that he 'does not negotiate with an illegal action.' He maintained production in unaffected zones of the plant, engaged with the officially recognised union representatives through proper channels, and waited the strike out while implementing the restructuring plan that had triggered it.",
+        "outcome": "Strike ended after 16 days. Restructuring plan implemented in full. Three strike leaders faced disciplinary proceedings. The Renault Group described the outcome as 'professionally managed.' The local CGT described Dubois as 'the most aggressive management representative in the Renault network.'",
+        "source": "Reference check — Renault HR Director; French press coverage (L'Usine Nouvelle, 2017)"
+      },
+      {
+        "situation": "At Somaca in 2021, Dubois identified that 900 of the 4,200 workforce were in roles that could be eliminated without affecting production output, based on a detailed time-and-motion study he commissioned.",
+        "action": "He proposed and implemented a voluntary separation programme at a premium to market. When take-up was lower than planned (780 of targeted 900), he converted 120 remaining positions to fixed-term contracts to create natural reduction over 18 months rather than compulsory redundancy.",
+        "outcome": "Workforce reduction achieved within 24 months; zero compulsory redundancies; operating loss converted to operating profit. The approach was described by two references as 'legally clean but socially harsh.'",
+        "source": "Reference checks — Renault HR Morocco; former Somaca CFO"
+      }
+    ]
+  },
+  "evidence_sources": {
+    "cv": true,
+    "performance_reviews": null,
+    "feedback_360": null,
+    "project_kpis": true,
+    "interview_notes": true,
+    "reference_checks": true
+  },
+  "performance_reviews": null,
+  "feedback_360": null,
+  "interview_notes": {
+    "interviewer": "Dr. Sabine Müller, Executive Search Partner; Klaus Richter, SVP Production",
+    "date": "2026-03-06",
+    "format": "Structured competency interview + live case study (90 min). Conducted in German.",
+    "overall_impression": "Dubois was the most viscerally impressive and most uncomfortable candidate of the process. He was brilliant — fast, specific, financially literate, and genuinely experienced at the operational level that matters. He was also confrontational in the interview itself: he challenged one of the interviewer's questions as 'poorly framed,' corrected a numerical assumption in the case study that turned out to be correct, and at one point said 'I have turned around three plants that were more broken than your Neue Klasse challenge.' Klaus Richter found him stimulating and uncomfortable in equal measure. Dr. Müller's assessment note: 'The question is not whether Dubois can run the plants. He can. The question is whether BMW Group as an organisation can function effectively with Dubois in this role — and vice versa.'",
+    "question_responses": [
+      {
+        "question": "How would you handle a 6-month semiconductor supply disruption across 3 plants?",
+        "response_summary": "Dubois said: 'I have done this. Here is what I did and here is what I would do differently.' He outlined a 3-track response: Track 1 (operational) — build-out sequencing for unaffected variants, production line rebalancing for reduced throughput, engineer derogations for non-safety-critical chip functions to use available substitutes; Track 2 (commercial) — engage with the sales organisation immediately to reshape the order bank — 'the supply crisis is a demand management problem as much as a production problem'; Track 3 (structural) — use the crisis as the mandate to implement dual-sourcing for the top-20 critical chips — 'crises are the only time organisations approve structural investments that should have been made 5 years earlier.' He estimated a well-managed response could protect 85-90% of planned revenue. He then added: 'I would also fire whoever approved the single-source semiconductor strategy that created this vulnerability — but that is a conversation for after the crisis.'",
+        "interviewer_assessment": "The content was outstanding. The gratuitous comment at the end ('fire whoever approved the single-source strategy') was noted by both interviewers as characteristic and concerning. His operational framework was among the best in the pool, delivered with the confidence of someone who has lived the scenario."
+      },
+      {
+        "question": "How would you accelerate Neue Klasse SOP by 6 months?",
+        "response_summary": "Dubois challenged the question: 'Before I answer, I want to ask: is the 6-month acceleration a real engineering possibility or a management wish? Because if it's not achievable without quality risk that exceeds the schedule benefit, the correct answer is to tell the board no.' When the interviewers confirmed it was a real strategic requirement, he outlined: (1) impose a design freeze immediately — 'the biggest SOP delay driver is late design changes, and the way to accelerate is to accept a slightly imperfect design earlier rather than a perfect design later'; (2) convert all sequential approval gates to concurrent review — 'gate 3 should begin before gate 2 is closed, not after'; (3) double the pilot build team and run 2-shift pilot builds; (4) pre-approve capital for corrective actions — 'most SOP delays happen because the money to fix a problem takes 6 weeks to approve; pre-approve a contingency budget and let the programme team spend it with a simple derogation process.' He concluded: 'This is standard programme management. The reason it doesn't happen is politics, not engineering.'",
+        "interviewer_assessment": "The challenge to the question was irritating to the interviewers but ultimately productive — his point about engineering feasibility was legitimate. His specific levers were sound. His comment that delays are 'politics, not engineering' while partly true was reductive and suggests he may have a low tolerance for the organisational complexity of a large premium OEM."
+      },
+      {
+        "question": "What would you do if Tesla poached 15% of your production engineers?",
+        "response_summary": "Dubois: 'First I would check whether the 15% are the right 15%. In every organisation I have run, 15% of engineers are replaceable within 3 months. If Tesla has done me the favour of taking them, that may not be a crisis.' He paused and continued more seriously: 'If the 15% include critical knowledge holders, the response is: first, do not panic — panic causes more departures; second, immediately start knowledge documentation for anyone who hasn't left yet; third, go to the market immediately and pay what it takes to replace critical roles — trying to save money during a talent crisis is the most expensive approach; fourth, and most important — understand why they left and whether the root cause is fixable. If Tesla is offering 40% more pay, BMW needs to decide whether to match it or accept the attrition as structural.' He then said: 'I will be direct: if the culture was the reason, I would not try to fix the culture — I would redesign the working model. Culture is a long-term outcome, not a short-term lever.'",
+        "interviewer_assessment": "The opening comment ('check whether the 15% are the right 15%') was provocative and polarising — technically it contains a valid point but the framing would be seen as callous in a BMW works council context. His overall response was practically sound. His dismissal of culture as a 'long-term outcome' revealed a potential blind spot in the change management dimension."
+      }
+    ],
+    "case_study_performance": "Dubois completed the Debrecen case in 11 minutes. His root cause identification was correct and his recovery plan was operationally detailed and financially quantified — the only candidate to include a cost/delay trade-off analysis as part of the recovery recommendation. He also identified a secondary supply chain risk that other candidates had missed (the fixturing supplier potentially unable to deliver a replacement within the recovery timeline). His communication plan was direct and minimal — 'tell the Plant Director what happened, what the fix is, and when we will be back to full production. That's the communication plan.' The interviewers noted this was appropriate for internal communication but insufficient for a multi-stakeholder environment including government, works council, and media."
+  },
+  "reference_checks": [
+    {
+      "referee_name": "Jean-Claude Morvan",
+      "relationship": "Former Plant Director, Renault Douai (Dubois's predecessor)",
+      "quote": "Pierre took what I had built at Douai and made it significantly more efficient. He also made it significantly less human. The ZOE launch was operationally brilliant — I give him full credit. I would also tell you that 3 of my best former team leaders left during his tenure because of his management style, and that's worth knowing. He gets results. He leaves bodies.",
+      "source": "External reference call, 2026-02-26 — contains significant hedge"
+    },
+    {
+      "referee_name": "Karim Benali",
+      "relationship": "CEO, Renault Maroc (subsidiary) — Dubois's peer in Morocco",
+      "quote": "Pierre turned Somaca around. The numbers are real and they are significant. He is not a builder of organisations — he is a fixer of broken ones. In a turnaround, he is probably the best I have worked with. In a transformation of a healthy business into something new, I am less certain. BMW is not a turnaround — it is a transformation. Those require different skills. Whether Pierre has the transformation skill alongside the turnaround skill, I genuinely cannot say.",
+      "source": "External reference call, 2026-03-01 — important distinction between turnaround and transformation capability"
+    },
+    {
+      "referee_name": "Isabelle Renard",
+      "relationship": "VP HR, Renault Group (current)",
+      "quote": "Pierre Dubois left Renault in circumstances that I am not able to discuss in detail. What I can tell you is that he was one of our strongest operational performers for 23 years and that his departure was not performance-related. I would also tell you, if you asked me off the record, that working for Pierre is not for everyone — and managing Pierre is not for everyone either. He needs a manager who can hold him and a culture that can absorb his style. Whether BMW Group is that culture, you know better than I do.",
+      "source": "External reference call, 2026-03-03 — guarded, contains a layered hedge"
+    }
+  ],
+  "compensation": {
+    "current_base": "€0 (self-employed consulting; advisory income est. €180,000 since June 2025)",
+    "current_total": "Last Renault compensation: €290,000 base; €430,000 total",
+    "expected_package": "€310,000 base; €480,000 total — has indicated flexibility if the role is 'the right challenge'",
+    "notice_period": "Available within 30 days",
+    "availability": "May 2026"
+  },
+  "red_flags": [
+    "Three documented senior management conflicts across his career — departures from Douai Plant Director and VP Manufacturing EMEA positions both involved public or near-public disagreements with superiors; pattern suggests difficulty operating within authority structures when he disagrees with direction",
+    "References consistently describe a 'results at all costs' leadership style that has left lasting relationship damage in every organisation — 'bodies' language used by one reference is not casual exaggeration; BMW's codetermination culture and IG Metall relationship require a fundamentally collaborative approach that Dubois may be temperamentally unsuited for",
+    "Challenged the interviewer's question framing in the panel session — while the challenge was substantively correct, the manner was assessed by Dr. Müller as 'a preview of how he would engage with the SVP Production and supervisory board'; this could be organisationally disruptive at BMW",
+    "No EV-specific ramp-up experience at scale — the ZOE launch at Douai was a legacy ICE plant adding one EV model, not a greenfield EV platform ramp; the Neue Klasse challenge is structurally different",
+    "Current status as independent consultant (departed Renault June 2025) combined with a conflict-related exit raises questions about organisational fit that require careful due diligence"
+  ],
+  "green_flags": [
+    "Deepest P&L turnaround track record in the candidate pool: €109M financial swing at Somaca in 24 months is quantified, documented, and cross-referenced by multiple references",
+    "Only candidate with direct experience managing a plant strike (Douai 2017) and returning to full production without conceding the restructuring plan — highly relevant for a role with IG Metall exposure",
+    "Renault ZOE production ramp at Douai: managed the introduction of BMW Group's primary EV competitor's most successful model into an ICE plant — relevant EV SOP experience",
+    "German C1 fluency is strong and verified — can manage German-speaking workforce, works council, and SVP conversations without a translator",
+    "Financial modelling sophistication: the only candidate who quantified cost/delay trade-offs in the case study and who explicitly linked supply chain management to commercial demand shaping; breadth of thinking across the P&L is notable"
+  ]
+}

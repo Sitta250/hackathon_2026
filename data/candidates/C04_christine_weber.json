@@ -1,0 +1,325 @@
+{
+  "candidate_id": "C04",
+  "candidate_name": "Dr. Christine Weber",
+  "candidate_type": "internal",
+  "current_employer": "BMW Group",
+  "current_title": "Head of Production Engineering — EV & Neue Klasse Platform",
+  "years_experience_total": 19,
+  "years_in_current_role": 4,
+  "years_at_current_employer": 12,
+  "nationality": "German",
+  "languages": ["German (native)", "English (C2)", "Mandarin (B1 — functional)"],
+  "education": [
+    {
+      "degree": "Dr.-Ing. (PhD) Manufacturing Engineering — Precision Assembly Processes",
+      "institution": "Technische Universität Braunschweig",
+      "year": 2007,
+      "distinction": "Summa Cum Laude; thesis on tolerance stack-up management in high-precision electric motor assembly — cited 84 times in academic and industrial literature"
+    },
+    {
+      "degree": "M.Sc. Production Engineering",
+      "institution": "Leibniz Universität Hannover",
+      "year": 2004,
+      "distinction": "Distinction; DAAD scholarship for semester at MIT (Massachusetts Institute of Technology)"
+    },
+    {
+      "degree": "B.Sc. Mechanical Engineering",
+      "institution": "Karlsruhe Institute of Technology (KIT)",
+      "year": 2002,
+      "distinction": "Top 3% of cohort"
+    }
+  ],
+  "certifications": [
+    "IATF 16949 Lead Auditor (2013)",
+    "Six Sigma Master Black Belt (DGQ, 2014)",
+    "VDA 6.3 Process Auditor (2016)",
+    "Digital Twin & Manufacturing Simulation Specialist — Dassault Systèmes (3DEXPERIENCE, 2021)",
+    "BMW Group iFACTORY Expert Designation (2022)"
+  ],
+  "career_history": [
+    {
+      "company": "BMW Group",
+      "title": "Head of Production Engineering — EV & Neue Klasse Platform",
+      "location": "Munich (central) with regular travel to Leipzig, Dingolfing, Debrecen",
+      "start_year": 2022,
+      "end_year": null,
+      "scope": "180-person engineering function (process engineers, digital manufacturing specialists, quality engineers), €95M engineering budget, technical authority for all EV production processes across BMW Group EV portfolio",
+      "key_achievements": [
+        {
+          "achievement": "Designed and validated the complete battery module assembly process for the Neue Klasse cylindrical cell platform, resolving a critical cell compression tolerance issue that had blocked industrialisation for 9 months",
+          "metric": "Industrialisation milestone achieved 6 weeks ahead of revised schedule; process Cpk 1.72 (target 1.33); estimated savings from avoided redesign €28M",
+          "year": 2024,
+          "verifiable": true
+        },
+        {
+          "achievement": "Built BMW Group's first fully integrated digital twin for an EV assembly line (Leipzig i4), enabling process validation before physical installation",
+          "metric": "Physical installation defects reduced by 61% vs. iX baseline (no digital twin); ramp time to rated capacity 14% faster than iX SOP",
+          "year": 2023,
+          "verifiable": true
+        },
+        {
+          "achievement": "Led root cause investigation for a systemic stator winding insulation failure affecting 4,200 iX motors globally, identifying the failure mode, issuing containment, and redesigning the process within 11 weeks",
+          "metric": "Recall cost avoided: estimated €340M (based on dealer service rate for affected population); process redesign deployed to Leipzig within 6 weeks of root cause identification",
+          "year": 2023,
+          "verifiable": true
+        }
+      ],
+      "reason_for_leaving": "Internal promotion candidate"
+    },
+    {
+      "company": "BMW Group",
+      "title": "Principal Engineer — EV Drivetrain Manufacturing, Leipzig",
+      "location": "Leipzig, Germany",
+      "start_year": 2018,
+      "end_year": 2022,
+      "scope": "Technical lead for eDrive assembly process development; team of 24 engineers; accountable for process capability and manufacturing readiness for iX and i4 powertrain systems",
+      "key_achievements": [
+        {
+          "achievement": "Developed the automated hairpin stator insertion and welding process for the BMW fifth-generation eDrive motor, replacing a partially manual process that was the primary bottleneck for EV production scaling",
+          "metric": "Cycle time reduced from 94s to 38s (59.6% reduction); first-pass yield improved from 81.2% to 97.4%; process subsequently adopted as BMW Group standard for all eDrive production",
+          "year": 2020,
+          "verifiable": true
+        },
+        {
+          "achievement": "Filed 7 patents for novel EV assembly processes during tenure; 3 subsequently licensed to tier-1 suppliers",
+          "metric": "7 patents granted; licensing revenue €4.2M cumulative (as of 2024)",
+          "year": 2021,
+          "verifiable": true
+        }
+      ],
+      "reason_for_leaving": "Promoted to Head of Production Engineering"
+    },
+    {
+      "company": "BMW Group",
+      "title": "Senior Process Engineer — eDrive Systems",
+      "location": "Munich, Germany",
+      "start_year": 2014,
+      "end_year": 2018,
+      "scope": "Individual technical contributor then team lead of 8; responsible for eDrive system process development from concept to series readiness for plug-in hybrid and early BEV programmes",
+      "key_achievements": [
+        {
+          "achievement": "Developed the oil-cooled stator impregnation process that became the basis for BMW Group's proprietary eDrive manufacturing advantage",
+          "metric": "Process capability (Cpk) 1.89 at launch; motor thermal performance 12% above specification; process classified as BMW Group trade secret",
+          "year": 2017,
+          "verifiable": true
+        }
+      ],
+      "reason_for_leaving": "Promoted to Principal Engineer"
+    },
+    {
+      "company": "Fraunhofer Institute for Manufacturing Technology (IWU)",
+      "title": "Research Engineer / Project Lead",
+      "location": "Chemnitz, Germany",
+      "start_year": 2007,
+      "end_year": 2014,
+      "scope": "Applied research in electric motor assembly, precision manufacturing, and tolerancing; project leader for industry-funded EV manufacturing research, budget management €2-5M per project; 14 publications",
+      "key_achievements": [
+        {
+          "achievement": "Led EU-funded research programme (ELMO — Electric Motor Manufacturing Optimisation) involving 11 industry and academic partners across 6 countries",
+          "metric": "Programme delivered all 8 technical milestones on time and on budget; resulted in 3 commercialisable process innovations adopted by 4 automotive manufacturers",
+          "year": 2012,
+          "verifiable": false
+        },
+        {
+          "achievement": "Published 14 peer-reviewed papers on EV motor manufacturing, establishing international recognition in the field",
+          "metric": "Total citations: 341 (Google Scholar); invited speaker at CIRP, SME, and VDI Manufacturing conferences",
+          "year": 2013,
+          "verifiable": false
+        }
+      ],
+      "reason_for_leaving": "Joined BMW Group to apply research in series production at scale"
+    }
+  ],
+  "leadership_indicators": {
+    "leadership_style_self_described": "I lead through technical excellence and evidence. I expect my team to be the smartest people in any room about our domain. I hire for curiosity and rigour, and I create the conditions for deep technical work.",
+    "decision_making_style": "Evidence-first and often slow to decide on people matters. Makes technical decisions with exceptional speed and confidence. Makes people and organisational decisions with discomfort and delay — has been noted to avoid people decisions for weeks.",
+    "conflict_handling": "Avoids direct interpersonal conflict. Will engage intensely in technical debate (has been described as 'formidable' in technical arguments). Tends to escalate or withdraw from interpersonal conflict rather than address it directly.",
+    "change_orientation": "High for technical change — she drives it constantly. Moderate to low for organisational and cultural change — uncomfortable with the 'soft' dimensions of transformation.",
+    "risk_appetite": "Low on process quality (will not release a process below her capability standards). Higher on technical innovation — 'if the physics works, we should try it.' Risk-blind on people and team dynamics.",
+    "notable_leadership_moments": [
+      {
+        "situation": "In 2023, a systemic iX motor insulation failure was identified through warranty returns. The initial engineering assessment estimated 3-6 months to determine root cause. Weber personally took over the investigation.",
+        "action": "She worked 16-hour days for 11 days, leading a team of 12 engineers through a structured fault tree analysis, overruling the initial assessment of a material defect and correctly identifying a process-induced stress concentration. She then redesigned the process and oversaw its deployment personally.",
+        "outcome": "Root cause identified in 11 weeks vs. 6-month estimate; €340M recall cost avoided; her method became the BMW Group standard for motor failure investigation.",
+        "source": "2023 Performance Review; Crisis Report, BMW Group EV Quality"
+      },
+      {
+        "situation": "A senior engineer in her team filed a formal complaint that Weber had publicly humiliated him during a technical review meeting, contradicting him repeatedly in front of junior engineers.",
+        "action": "HR conducted an investigation. Weber acknowledged the behaviour, expressed regret, and committed to a coaching programme. She has had no further formal complaints but informal feedback continues to note her as 'uncomfortable to present to' and 'intimidating.'",
+        "outcome": "Formal complaint resolved; coaching undertaken; feedback suggests the behaviour has moderated but not disappeared. The engineer resigned 4 months later.",
+        "source": "HR file, 2022; 2022 360 feedback"
+      }
+    ]
+  },
+  "evidence_sources": {
+    "cv": true,
+    "performance_reviews": true,
+    "feedback_360": true,
+    "project_kpis": true,
+    "interview_notes": true,
+    "reference_checks": true
+  },
+  "performance_reviews": [
+    {
+      "year": 2025,
+      "reviewer": "Dr. Hans-Peter Klauss, VP Engineering Technology, BMW Group",
+      "overall_rating": "4.5 / 5.0",
+      "performance_category": "Outstanding (Technical)",
+      "summary": "Christine is without question the most technically capable production engineer in BMW Group for EV systems. The Neue Klasse cylindrical cell process work alone is a €50M+ contribution. My significant concern — which I have raised in each of the last 3 reviews — is that her people leadership capability has not developed at the same pace as her technical achievements. She has lost 4 senior engineers from her team in 2 years; 3 cited her leadership style as a contributing factor.",
+      "strengths_noted": [
+        "World-class EV manufacturing process expertise — genuinely irreplaceable knowledge in Neue Klasse battery processes",
+        "Problem-solving under crisis conditions is extraordinary — iX motor recall avoidance was a career-defining contribution",
+        "Digital manufacturing capability: built BMW Group's most advanced digital twin capability from scratch"
+      ],
+      "development_areas": [
+        "People leadership: attrition in her team is the highest of any senior engineering function (14.2% in 2025 vs. BMW Group engineering average 6.8%); exit interviews consistently cite leadership climate",
+        "Stakeholder management: remains uncomfortable in non-technical conversations with operations leaders and executive sponsors; delegates these interactions where possible",
+        "Delegation: has difficulty trusting team members with technically complex work — creates bottlenecks as she personally reviews all major deliverables"
+      ],
+      "promotion_recommendation": "Christine's technical capability warrants a CTO-type role. The Head of Production role requires primarily people and operational leadership, which is Christine's weakness. I do not recommend this appointment. A Chief Engineer or Technical Fellow path would be more appropriate."
+    },
+    {
+      "year": 2023,
+      "reviewer": "Dr. Hans-Peter Klauss, VP Engineering Technology, BMW Group",
+      "overall_rating": "4.3 / 5.0",
+      "performance_category": "Exceeds Expectations",
+      "summary": "The iX motor recall investigation was the performance of the year across BMW Group engineering. Christine's technical contribution is extraordinary. The people leadership situation requires immediate attention — we cannot continue losing senior engineers at this rate. I have been explicit with Christine about this and the coaching is showing limited progress.",
+      "strengths_noted": [
+        "Technical output is in a different league from any peer",
+        "Team capability in EV processes is the strongest in the BMW network — she recruits and develops exceptional technical talent even if she struggles to retain them",
+        "Cross-functional technical credibility: product engineering, suppliers, and R&D all rate her as the definitive authority on EV manufacturing processes"
+      ],
+      "development_areas": [
+        "Team stability — 3 senior engineer departures in 12 months, all linked to leadership climate concerns",
+        "Executive communication — presentations to SVP and board-level audiences lack the narrative simplicity required at that level",
+        "Conflict management — HR escalation in 2022 has not been fully resolved in terms of underlying behaviour"
+      ],
+      "promotion_recommendation": "Not appropriate for a people-leadership-first role. Recommend consideration for a Distinguished Engineer or Technical Fellow track."
+    },
+    {
+      "year": 2021,
+      "reviewer": "Dr. Hans-Peter Klauss, VP Engineering Technology, BMW Group",
+      "overall_rating": "4.4 / 5.0",
+      "performance_category": "Outstanding",
+      "summary": "Christine continues to set the standard for technical excellence in EV production engineering. The digital twin capability she built for Leipzig is a genuine competitive advantage. Her leadership of junior engineers who want deep technical mentoring is excellent. Her leadership of senior engineers who want autonomy is a persistent challenge.",
+      "strengths_noted": [
+        "Digital twin implementation: industry-leading capability within BMW Group",
+        "Patent portfolio growth: 4 new patents granted",
+        "Technical mentoring of junior engineers: 3 promoted under her sponsorship"
+      ],
+      "development_areas": [
+        "Autonomy and delegation to senior team members",
+        "Interpersonal conflict handling — one HR matter in this period",
+        "Business case development: technical proposals often lack financial justification"
+      ],
+      "promotion_recommendation": "High potential for senior technical role. People leadership development required before general management consideration."
+    }
+  ],
+  "feedback_360": {
+    "peers": [
+      {
+        "reviewer_role": "VP Production, Leipzig Plant",
+        "quote": "Christine is the person I call when I have a problem I cannot solve. She will find the answer, she will find it faster than anyone, and she will be right. She is also the person least likely to tell you the answer in a way you can actually use — you need to translate her. She works best with an interpreter.",
+        "theme": "Exceptional technical resource, communication gap"
+      },
+      {
+        "reviewer_role": "Head of Quality, BMW Group EV",
+        "quote": "I have enormous respect for Christine's technical ability. Working with her is challenging because she has a very low tolerance for what she considers imprecise thinking. If you haven't done your homework before a meeting with Christine, she will tell you, and she won't be subtle about it.",
+        "theme": "Demanding, low tolerance for imprecision"
+      },
+      {
+        "reviewer_role": "Head of Digital Manufacturing, BMW Group",
+        "quote": "Christine built the digital twin capability that the entire BMW Group is now using. She was right about the approach years before anyone else understood it. She's also the hardest person in the company to actually have a productive conversation with if you disagree with her on anything technical.",
+        "theme": "Technical visionary, difficult to challenge"
+      }
+    ],
+    "direct_reports": [
+      {
+        "reviewer_role": "Senior Process Engineer (anonymised)",
+        "quote": "I learned more in 2 years with Christine than in 6 years elsewhere. She expects you to be excellent and she shows you how to be excellent. She is not a warm person and she does not give praise easily. I have found her hard to work for but impossible not to respect.",
+        "theme": "Extreme development value, difficult emotional environment"
+      },
+      {
+        "reviewer_role": "Digital Manufacturing Specialist (anonymised)",
+        "quote": "I have witnessed her reduce experienced engineers to silence in technical reviews when she disagrees with them. She is not cruel intentionally but she has no filter between what she thinks and what she says. Several people have left because of this.",
+        "theme": "Psychologically unsafe for some team members"
+      },
+      {
+        "reviewer_role": "Junior Process Engineer (anonymised)",
+        "quote": "If you are willing to be challenged every day and you can handle being told you're wrong by someone who is always right, it's the best development environment in the company. If you need encouragement and positive feedback regularly, you will struggle.",
+        "theme": "Exceptional development for resilient profiles"
+      }
+    ],
+    "senior_leadership": [
+      {
+        "reviewer_role": "VP Engineering Technology, BMW Group",
+        "quote": "Christine is the closest thing BMW Group has to an EV manufacturing genius. That is not a word I use lightly. The question for this panel is whether genius-level technical ability translates to the leadership of 3,000 production workers across three countries. My assessment is that it does not, and that appointing Christine to this role would be a disservice to both Christine and to BMW Group.",
+        "source": "2025 360 feedback"
+      },
+      {
+        "reviewer_role": "SVP Production, BMW Group",
+        "quote": "Christine is on the team that is making Neue Klasse possible. I need her exactly where she is. If we move her to a general management role, we lose our best technical asset and gain a people leader who will struggle. It is not the right move for the business.",
+        "theme": "Strong case for keeping in technical track"
+      }
+    ]
+  },
+  "interview_notes": {
+    "interviewer": "Dr. Sabine Müller, Executive Search Partner; Klaus Richter, SVP Production",
+    "date": "2026-02-22",
+    "format": "Structured competency interview + live case study (90 min)",
+    "overall_impression": "Weber walked in with a precision and intensity that immediately set the tone. Her technical answers were exceptional — the most detailed and accurate in the candidate pool. Her answers to people-leadership questions were noticeably shorter, less structured, and at times revealed blind spots. The interviewers observed that she became visibly uncomfortable when questions moved from technical content to human dynamics. The case study was a masterclass in technical problem-solving and a weakness display for team engagement.",
+    "question_responses": [
+      {
+        "question": "How would you handle a 6-month semiconductor supply disruption across 3 plants?",
+        "response_summary": "Weber immediately launched into a granular technical response: she would build a semiconductor bill-of-materials model for all 3 plants to identify exact dependency, variant-by-variant; she would conduct a process redesign feasibility study for the top-5 highest-impact chips to assess whether alternative components could be qualified faster than new supply could be secured; and she would implement a 'chip efficiency' programme — looking at whether the same semiconductor function could be consolidated across variants. Her plan was technically extraordinary. When asked how she would manage 3 plant workforces through the disruption, she said 'that's an operations and HR matter' — revealing a silo instinct that concerned the interviewers.",
+        "interviewer_assessment": "Technical dimension: exceptional. People/operations dimension: significant gap. She had not thought about how a supply crisis lands on the people who work in the plants — her framing was entirely system-and-process. This is a defining concern for a 3,000-person leadership role."
+      },
+      {
+        "question": "How would you accelerate Neue Klasse SOP by 6 months?",
+        "response_summary": "This was Weber's strongest question by far. She had specific, detailed knowledge of the current Neue Klasse production engineering status that no other candidate possessed. She outlined a specific 6-month acceleration programme: (1) advance 3 digital twin validation cycles currently planned for months 8-10 to months 2-4; (2) deploy additional engineering capacity to the top-3 process risk items on the engineering risk register; (3) compress the supplier process audit schedule from sequential to parallel; (4) negotiate with R&D to freeze design changes 3 months earlier than currently planned. She noted that the cylinder cell assembly process still had 2 open feasibility questions and described the exact engineering path to resolve them.",
+        "interviewer_assessment": "Outstanding — the best answer on this question in the full candidate pool. Her specific knowledge of the Neue Klasse programme is irreplaceable. The concern is whether she can drive a multi-plant programme at this level of detail without micromanaging her team into the ground."
+      },
+      {
+        "question": "What would you do if Tesla poached 15% of your production engineers?",
+        "response_summary": "Weber's response was interesting for what it revealed. She said her first concern would be 'which engineers specifically and what knowledge do they have.' She then outlined a knowledge management strategy that included process documentation sprints, formal technical mentoring bonds, and process simulation tools as knowledge repositories. When asked about retention and culture, she paused and said: 'I assume if 15% want to leave, it's because Tesla is paying significantly more. The solution is compensation.' She did not mention culture, leadership environment, career development, or belonging as retention factors.",
+        "interviewer_assessment": "The absence of any self-awareness in her retention response was notable. Her 360 feedback consistently shows that people leave her team partly because of the leadership climate. Her belief that attrition is purely a compensation issue is a significant blind spot."
+      }
+    ],
+    "case_study_performance": "Weber solved the Debrecen battery pack integration case in 18 minutes — the fastest in the candidate pool. Her root cause analysis was technically correct and included a specific engineering path to resolution that the interviewers (who had the answer key) confirmed was optimal. However, her recovery plan made no mention of how to communicate with the 620-person production workforce during the disruption, how to manage the morale impact of a production halt, or how to coordinate with government stakeholders at the Debrecen facility. When prompted, she said: 'Those are plant manager matters — I would expect the plant manager to handle them.' This comment concerned the panel significantly."
+  },
+  "reference_checks": [
+    {
+      "referee_name": "Prof. Dr. Klaus Dröder",
+      "relationship": "PhD thesis supervisor, TU Braunschweig",
+      "quote": "Christine Weber is the most gifted engineer I have supervised. I have followed her career at BMW Group with admiration. She is in the top 0.1% of manufacturing engineers globally. I would caution anyone considering her for a general management role — her gift is in technical mastery, and general management is a different discipline. She would be a poor fit for a role where leadership of people is the primary job.",
+      "source": "Academic reference, 2026-02-08"
+    },
+    {
+      "referee_name": "Dr. Ingrid Schüler",
+      "relationship": "Former peer — Head of R&D, Fraunhofer IWU",
+      "quote": "Christine and I worked together for 7 years. She is exceptional. She is also the most difficult person to share leadership with that I have encountered in my career. She does not see leadership as a shared activity — she sees it as an individual technical performance. In a lab setting that works. I am less certain it works for 3,000 factory workers.",
+      "source": "External reference, 2026-02-14"
+    }
+  ],
+  "compensation": {
+    "current_base": "€230,000",
+    "current_total": "€320,000 (incl. performance bonus 30% + IP royalty participation scheme)",
+    "expected_package": "€260,000 base; €380,000 total",
+    "notice_period": "6 months",
+    "availability": "October 2026"
+  },
+  "red_flags": [
+    "People leadership capability is explicitly flagged in 3 consecutive performance reviews — has lost 4 senior engineers in 2 years and a formal HR complaint was filed against her in 2022 for behaviour in a technical review meeting",
+    "Engineering attrition in her team is 14.2% vs. BMW Group engineering average of 6.8% — the clearest quantified signal of a leadership climate problem",
+    "SVP Production explicitly does not want her moved to this role — argues BMW Group loses its best technical resource without gaining a qualified people leader",
+    "Self-described blind spot: believes attrition is purely a compensation issue; no recognition that her own leadership style contributes to team departures — dangerous for a 3,000-person leadership role",
+    "Stakeholder management is underdeveloped — delegates all non-technical conversations; no board-level or government experience; works council and union engagement is completely outside her comfort zone"
+  ],
+  "green_flags": [
+    "Deepest Neue Klasse technical knowledge of any candidate — knows the exact engineering status, open risk items, and critical path for the most strategically important BMW programme",
+    "iX motor insulation recall avoidance: root cause found in 11 weeks vs. 6-month estimate; estimated €340M recall cost avoided — career-defining technical contribution",
+    "Digital twin capability builder: created BMW Group's most advanced manufacturing simulation system from scratch; now deployed across the EV plant network",
+    "Six Sigma Master Black Belt and IATF 16949 Lead Auditor — among the strongest quality credentials in the candidate pool",
+    "7 patents granted, 3 licensed externally — demonstrates technical innovation at the highest level"
+  ]
+}

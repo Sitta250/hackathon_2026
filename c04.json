@@ -1,0 +1,284 @@
+{
+	"candidate_id": "C04",
+	"candidate_name": "Dr. Christine Weber",
+	"candidate_type": "internal",
+	"current_employer": "BMW Group",
+	"current_title": "Head of Production Engineering, BMW Group EMEA",
+	"years_experience_total": 16,
+	"years_in_current_role": 4,
+	"years_at_current_employer": 12,
+	"nationality": "German",
+	"languages": ["German", "English", "French"],
+	"education": [
+	  {
+		"degree": "PhD, Electrical Engineering",
+		"institution": "Karlsruhe Institute of Technology",
+		"year": 2010,
+		"distinction": "summa cum laude"
+	  },
+	  {
+		"degree": "MSc, Mechatronics",
+		"institution": "Karlsruhe Institute of Technology",
+		"year": 2006,
+		"distinction": "with distinction"
+	  }
+	],
+	"certifications": [
+	  "Project Management Professional (PMP)",
+	  "Industry 4.0 Strategy Certificate",
+	  "IATF 16949 Internal Auditor"
+	],
+	"career_history": [
+	  {
+		"company": "BMW Group",
+		"title": "Head of Production Engineering, BMW Group EMEA",
+		"location": "Munich, Germany",
+		"start_year": 2022,
+		"end_year": null,
+		"scope": "Led 310 engineers and specialists with €96M annual capex envelope for process engineering standards, line design and industrialization support across multiple plants.",
+		"key_achievements": [
+		  {
+			"achievement": "Reduced average commissioning overrun on major line projects from 11.2 weeks to 4.6 weeks by introducing modular equipment approval gates.",
+			"metric": "-58.9% schedule overrun",
+			"year": 2024,
+			"verifiable": true
+		  },
+		  {
+			"achievement": "Standardized digital line-simulation templates across 5 plants, reducing engineering change requests after design freeze from 184 to 109.",
+			"metric": "-40.8% post-freeze engineering changes",
+			"year": 2025,
+			"verifiable": true
+		  },
+		  {
+			"achievement": "Improved capex forecast accuracy from 82.1% to 94.5% on industrialization portfolio.",
+			"metric": "+12.4 percentage points forecast accuracy",
+			"year": 2024,
+			"verifiable": true
+		  }
+		],
+		"reason_for_leaving": ""
+	  },
+	  {
+		"company": "BMW Group",
+		"title": "Director, EV Industrialization Programs",
+		"location": "Munich, Germany",
+		"start_year": 2019,
+		"end_year": 2022,
+		"scope": "Directed 140 engineers and program managers across EV launch engineering workstreams with €72M budget responsibility.",
+		"key_achievements": [
+		  {
+			"achievement": "Closed 91 of 103 red-rated industrialization risks before SOP on two electrified vehicle programs.",
+			"metric": "88.3% red-risk closure",
+			"year": 2021,
+			"verifiable": true
+		  },
+		  {
+			"achievement": "Shortened tooling release cycle from 17 weeks to 12 weeks through parallel validation logic.",
+			"metric": "-29.4% tooling release time",
+			"year": 2021,
+			"verifiable": true
+		  }
+		],
+		"reason_for_leaving": "Promoted to enterprise engineering leadership role."
+	  },
+	  {
+		"company": "BMW Group",
+		"title": "Senior Manager, Automation & Controls Engineering",
+		"location": "Leipzig, Germany",
+		"start_year": 2016,
+		"end_year": 2019,
+		"scope": "Led 65 automation engineers and external integrators with €28M annual project budget for line controls and automation systems.",
+		"key_achievements": [
+		  {
+			"achievement": "Reduced robot commissioning defects from 7.4 per cell to 2.6 per cell on a major body shop upgrade.",
+			"metric": "-64.9% commissioning defects",
+			"year": 2018,
+			"verifiable": true
+		  },
+		  {
+			"achievement": "Cut PLC-related downtime from 3.1% to 1.4% across target areas.",
+			"metric": "-1.7 percentage points downtime",
+			"year": 2018,
+			"verifiable": true
+		  }
+		],
+		"reason_for_leaving": "Selected for EV industrialization leadership track."
+	  },
+	  {
+		"company": "Siemens",
+		"title": "Controls Engineering Lead",
+		"location": "Nuremberg, Germany",
+		"start_year": 2010,
+		"end_year": 2014,
+		"scope": "Led automation project teams of 18-25 engineers for industrial motion and controls projects in automotive manufacturing.",
+		"key_achievements": [
+		  {
+			"achievement": "Delivered 14 major controls deployments with average commissioning variance below 3.2%.",
+			"metric": "<3.2% commissioning variance",
+			"year": 2013,
+			"verifiable": false
+		  },
+		  {
+			"achievement": "Reduced recurring software fault tickets by 37.5% through reusable code libraries.",
+			"metric": "-37.5% fault tickets",
+			"year": 2013,
+			"verifiable": false
+		  }
+		],
+		"reason_for_leaving": "Recruited by BMW for automation leadership role."
+	  }
+	],
+	"leadership_indicators": {
+	  "leadership_style_self_described": "High-standard technical leader who believes clarity of thinking and engineering rigor are the foundation of production excellence.",
+	  "decision_making_style": "Analytical, hypothesis-driven and often faster on technical decisions than on people trade-offs.",
+	  "conflict_handling": "Confronts poor logic directly; can sound dismissive when others are not equally prepared.",
+	  "change_orientation": "High on technical change, mixed on people-led cultural change.",
+	  "risk_appetite": "Moderate; willing to take technical bets when data supports them.",
+	  "notable_leadership_moments": [
+		{
+		  "situation": "Repeated late engineering changes were jeopardizing EV launch milestones.",
+		  "action": "Redesigned design-freeze governance and forced early simulation sign-off discipline across engineering functions.",
+		  "outcome": "Post-freeze engineering changes fell from 184 to 109.",
+		  "source": "Engineering KPI review 2025"
+		},
+		{
+		  "situation": "Capex overruns on automation packages created tension with finance and plant leaders.",
+		  "action": "Introduced standardized investment logic with stage-gate approval and forecast reconciliation cadence.",
+		  "outcome": "Forecast accuracy improved from 82.1% to 94.5% within one planning cycle.",
+		  "source": "Performance review 2024"
+		}
+	  ]
+	},
+	"evidence_sources": {
+	  "cv": true,
+	  "performance_reviews": true,
+	  "feedback_360": true,
+	  "project_kpis": true,
+	  "interview_notes": true,
+	  "reference_checks": true
+	},
+	"performance_reviews": [
+	  {
+		"year": 2022,
+		"rating": "4.1/5.0",
+		"manager": "SVP Production Engineering",
+		"summary": "Technically exceptional and highly credible on industrialization complexity; people leadership remains uneven.",
+		"strengths": [
+		  "Technical depth",
+		  "Industrialization rigor",
+		  "Strong program discipline"
+		],
+		"development_areas": [
+		  "Needs stronger empathy in leadership interactions",
+		  "Cross-functional patience can be limited",
+		  "Frontline leadership credibility underdeveloped"
+		],
+		"manager_comments": "Christine is among the strongest technical minds in the organization. Her ceiling depends on whether she can lead humans as well as she leads systems."
+	  },
+	  {
+		"year": 2023,
+		"rating": "4.2/5.0",
+		"manager": "SVP Production Engineering",
+		"summary": "Created significant engineering efficiency gains and better capex control.",
+		"strengths": [
+		  "Very high intellectual horsepower",
+		  "Excellent project structuring",
+		  "Strong industrial engineering instincts"
+		],
+		"development_areas": [
+		  "Can alienate weaker stakeholders",
+		  "Needs more visible coaching of leaders",
+		  "Limited direct union exposure"
+		],
+		"manager_comments": "She is promotable on technical merit, but not yet on all-around executive maturity."
+	  },
+	  {
+		"year": 2024,
+		"rating": "4.2/5.0",
+		"manager": "Klaus Richter",
+		"summary": "Highly valuable architect of production systems but still not a natural people-first operator.",
+		"strengths": [
+		  "Launch engineering mastery",
+		  "Capex discipline",
+		  "Strong digital and automation fluency"
+		],
+		"development_areas": [
+		  "Weak followership in some teams",
+		  "Limited large-scale shopfloor leadership",
+		  "Tendency to win arguments and lose buy-in"
+		],
+		"manager_comments": "For a technical COO-style role she would be very compelling. For this role, the people equation is a serious concern."
+	  }
+	],
+	"feedback_360": {
+	  "peers": [
+		"Christine is brilliant. She often sees the root cause before the rest of us finish the problem statement.",
+		"Working with her can be difficult when she has low tolerance for imperfect thinking.",
+		"She raises the technical bar, but not everyone wants to run through walls for her."
+	  ],
+	  "direct_reports": [
+		"You learn a huge amount from her if you can keep up.",
+		"Feedback is sharp and specific, but it can feel cutting rather than developmental.",
+		"She protects technical excellence, yet team morale dips when pressure spikes."
+	  ],
+	  "senior_leadership": [
+		"Probably the strongest technical internal candidate.",
+		"The gap is not competence; it is whether people would truly follow her in a labor-intensive transformation."
+	  ]
+	},
+	"interview_notes": {
+	  "interviewer": "Klaus Richter",
+	  "date": "2026-03-19",
+	  "format": "Panel interview and technical case",
+	  "overall_impression": "Exceptionally sharp and the most technically sophisticated internal contender. Serious concern on large-scale people leadership and frontline followership.",
+	  "question_responses": [
+		{
+		  "question": "How would you handle a 6-month semiconductor supply disruption across 3 plants?",
+		  "response_summary": "She would immediately map component criticality to architecture and software dependencies, redesign build combinations to protect throughput, and create a digital decision layer linking engineering, purchasing and production scheduling. She focused less on the human side and more on technical product-configuration optimization.",
+		  "interviewer_assessment": "Very strong systems answer, somewhat underweighted labor and customer communication dimensions."
+		},
+		{
+		  "question": "How would you accelerate Neue Klasse SOP by 6 months?",
+		  "response_summary": "She argued the only credible path is to attack engineering change latency, compress validation loops with digital twins, lock design interfaces earlier and assign a single industrialization owner per critical module. She was confident and specific on where time is really lost in launch programs.",
+		  "interviewer_assessment": "Probably the best technical answer in the internal pool."
+		},
+		{
+		  "question": "What would you do if Tesla poached 15% of your production engineers?",
+		  "response_summary": "She would identify capability bottlenecks, create technical fellow pathways, ringfence critical launch talent and redesign knowledge capture to reduce single-point dependency. She talked more about capability architecture than emotional retention.",
+		  "interviewer_assessment": "Intelligent but colder than ideal for a talent-retention scenario."
+		}
+	  ],
+	  "case_study_performance": "Scored 8.5/10. Elite technical architecture; weaker on the leadership psychology of execution."
+	},
+	"reference_checks": [
+	  {
+		"referee_name": "SVP Production Engineering",
+		"relationship": "Current manager",
+		"quote": "Christine is outstanding technically and can solve problems most people cannot even frame. My hesitation is simple: this role is not won on engineering logic alone.",
+		"source": "Reference call, 2026-03-22"
+	  },
+	  {
+		"referee_name": "Leipzig Plant Operations Director",
+		"relationship": "Former cross-functional stakeholder",
+		"quote": "When she is aligned with you, progress is fast. When she thinks you are not prepared, she can run over people.",
+		"source": "Reference call, 2026-03-23"
+	  }
+	],
+	"compensation": {
+	  "current_base": "€223,000",
+	  "current_total": "€286,000",
+	  "expected_package": "€320,000 - €360,000 total compensation",
+	  "notice_period": "Internal transfer; 3 months",
+	  "availability": "Available in 3 months"
+	},
+	"red_flags": [
+	  "Weak people leadership relative to role complexity and workforce scale.",
+	  "Limited direct union and frontline production leadership exposure.",
+	  "Can damage buy-in through overly sharp interpersonal style."
+	],
+	"green_flags": [
+	  "Technically brilliant with strong EV industrialization credibility.",
+	  "Excellent digital manufacturing and engineering governance capability.",
+	  "Strong capex and launch-risk management track record."
+	]
+  }

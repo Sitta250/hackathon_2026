@@ -1,0 +1,205 @@
+{
+  "candidate_id": "C15",
+  "candidate_name": "Colonel (Ret.) David Morrison",
+  "candidate_type": "external",
+  "current_employer": "Morrison Logistics Consulting Ltd (self-owned)",
+  "current_title": "Director / Independent Defence & Supply Chain Consultant",
+  "years_experience_total": 30,
+  "years_in_current_role": 2,
+  "years_at_current_employer": 2,
+  "nationality": "British",
+  "languages": ["English (native)", "German (B1 — learned during Rhine posting)", "Arabic (A2 — survival level, Gulf deployments)"],
+  "education": [
+    {
+      "degree": "MA War Studies",
+      "institution": "King's College London",
+      "year": 2004,
+      "distinction": "Distinction; thesis on logistics failure as the primary determinant of operational failure in 20th-century mechanised warfare"
+    },
+    {
+      "degree": "BSc Logistics & Transport Management",
+      "institution": "Loughborough University",
+      "year": 1996,
+      "distinction": "First Class Honours; sponsored by the British Army"
+    },
+    {
+      "degree": "Advanced Command & Staff Course (ACSC)",
+      "institution": "UK Defence Academy, Shrivenham",
+      "year": 2008,
+      "distinction": "Pass with Distinction — top 12% of cohort; nominated for directing staff role"
+    }
+  ],
+  "certifications": [
+    "Chartered Member — Chartered Institute of Logistics and Transport (CILT), 2010",
+    "NATO Logistics Planner — Allied Command Transformation certified (2007)",
+    "APICS CSCP — Certified Supply Chain Professional (2023, post-military)",
+    "Project Management Professional, PMP (2024, post-military)",
+    "Cranfield Executive Programme — Manufacturing Operations for Senior Leaders (2023)"
+  ],
+  "career_history": [
+    {
+      "company": "Morrison Logistics Consulting Ltd",
+      "title": "Director — Defence & Supply Chain Consulting",
+      "location": "Aldershot, UK",
+      "start_year": 2024,
+      "end_year": null,
+      "scope": "Independent consultancy serving defence primes and government clients on supply chain resilience, logistics transformation, and operational planning; 3 active clients since founding",
+      "key_achievements": [
+        {
+          "achievement": "Delivered a supply chain resilience assessment for a UK defence prime contractor (confidential) — identifying 14 single-source vulnerabilities in the client's tier-2 supplier base and designing mitigation strategies for all 14",
+          "metric": "14 single-source vulnerabilities identified and mitigated across 9 months; 3 dual-source programmes initiated; client assessed risk exposure reduction at £340M over 5 years",
+          "year": 2024,
+          "verifiable": false
+        }
+      ],
+      "reason_for_leaving": "N/A — current status; seeking to move from consulting to operational leadership"
+    },
+    {
+      "company": "British Army / NATO",
+      "title": "Colonel — Commander, 101 Logistic Brigade",
+      "location": "Gütersloh, Germany (Rhine garrison) / Kuwait / Kabul",
+      "start_year": 2019,
+      "end_year": 2024,
+      "scope": "Command of 101 Logistic Brigade — 4,200 military personnel and 1,800 civilian MOD contractors; responsible for all logistical support to British Army forces in Germany, Baltic states NATO deployments, and one 9-month Afghanistan drawdown deployment; annual budget £280M",
+      "key_achievements": [
+        {
+          "achievement": "Commanded the logistics element of the UK's NATO enhanced Forward Presence reinforcement to Estonia during the 2022 Russian invasion of Ukraine — moving 2,200 personnel, 840 vehicles, and 12,000 tonnes of equipment from Germany to Estonia in 18 days, the fastest NATO reinforcement movement since 1990",
+          "metric": "Full deployment completed in 18 days vs. NATO planning estimate of 35 days; equipment availability at destination: 97.3%; zero personnel safety incidents; movement cited in NATO logistics review as 'the benchmark for rapid reinforcement logistics'",
+          "year": 2022,
+          "verifiable": false
+        },
+        {
+          "achievement": "Redesigned the British Army's Germany-based equipment maintenance and supply chain model — replacing a reactive breakdown maintenance model with a predictive maintenance and forward-staged spares system",
+          "metric": "Vehicle availability rate improved from 68.4% to 84.1% over 18 months; emergency repair response time reduced from 4.2 days to 18 hours; annual maintenance cost reduced £24M through reduced emergency repair premium",
+          "year": 2021,
+          "verifiable": false
+        },
+        {
+          "achievement": "Managed the 9-month NATO Afghanistan equipment and personnel drawdown — removing 3,600 personnel, 1,400 vehicles, and 28,000 tonnes of equipment from Kandahar and Helmand provinces under active threat conditions",
+          "metric": "Drawdown completed on schedule; equipment loss/damage rate 0.8% vs. NATO standard 2.5%; zero personnel fatalities during drawdown; 94% of equipment repatriated vs. 78% NATO average for comparable drawdowns",
+          "year": 2022,
+          "verifiable": false
+        }
+      ],
+      "reason_for_leaving": "Mandatory retirement at Colonel rank (age 52); applied for promotion to Brigadier General — not selected; retired voluntarily with full pension entitlement"
+    },
+    {
+      "company": "British Army / NATO",
+      "title": "Lieutenant Colonel — Deputy Commander, NATO Joint Logistics Support Group",
+      "location": "Brunssum, Netherlands / Kabul, Afghanistan",
+      "start_year": 2014,
+      "end_year": 2019,
+      "scope": "Deputy commander of NATO's multinational logistics support group; responsible for coordinating logistics across 12 NATO member nations; 1,400 personnel under command during peak deployment; annual budget €180M",
+      "key_achievements": [
+        {
+          "achievement": "Designed and implemented the NATO Logistics Interoperability Protocol — a common data standard for logistics information sharing across 12 alliance nations, replacing a fragmented system that caused 40% of logistics delays through miscommunication",
+          "metric": "Interoperability protocol adopted by 12 nations within 18 months; logistics-related mission delays attributable to miscommunication reduced from 40% to 9% of total delays; protocol subsequently adopted as a NATO STANAG standard",
+          "year": 2017,
+          "verifiable": false
+        }
+      ],
+      "reason_for_leaving": "Promoted to Colonel and Brigade Commander role"
+    },
+    {
+      "company": "British Army",
+      "title": "Major — Logistics Planning Officer (multiple postings)",
+      "location": "UK / Basra, Iraq / Pristina, Kosovo",
+      "start_year": 2004,
+      "end_year": 2014,
+      "scope": "Progressive logistics planning officer roles from Captain through Major; operational deployments in Iraq (2004-2006, 2008) and Kosovo (2007); staff officer roles in logistics planning at Army HQ",
+      "key_achievements": [
+        {
+          "achievement": "Designed the fuel and ammunition resupply plan for UK forces during the 2006 Basra security operation — maintaining supply continuity to 8,000 troops during active combat operations under sustained route interdiction",
+          "metric": "Supply continuity maintained at 96.8% of planned support requirements during 14-week operation; zero supply-caused mission compromises; plan cited in Army operational review as 'the defining logistics success of Op TELIC IV'",
+          "year": 2006,
+          "verifiable": false
+        }
+      ],
+      "reason_for_leaving": "Progressive promotion through Army rank structure"
+    }
+  ],
+  "leadership_indicators": {
+    "leadership_style_self_described": "Mission command — clear intent, delegated execution, disciplined reporting. I tell my people what I need achieved and by when. I trust them to determine how. I hold them absolutely accountable for results and I protect them from interference while they deliver. There is no ambiguity about what I expect.",
+    "decision_making_style": "Fast and decisive. Military operations do not permit extended deliberation — Morrison makes decisions on available information, states them clearly, acts on them, and adjusts as new information arrives. Has struggled to adapt this style to commercial environments where stakeholder consultation is expected before deciding.",
+    "conflict_handling": "Direct and hierarchical. In the military, conflict is resolved through the chain of command — Morrison's instinct is to escalate to the appropriate decision authority rather than negotiate laterally. Has had friction with civilian collaborators who expect peer-level negotiation rather than command-channel resolution.",
+    "change_orientation": "High for operational change. Lower for cultural and organisational change in civilian contexts — his model of change is directive ('this is what we are doing now'), which works under military authority but creates resistance in codetermination environments.",
+    "risk_appetite": "Calibrated for mission-critical environments. Accepts high risk when mission necessity demands it and mitigation is in place. Deeply uncomfortable with 'managed ambiguity' — prefers a clear decision to an acknowledged grey area. Has described commercial stakeholder complexity as 'the kind of ambiguity that kills organisations slowly.'",
+    "notable_leadership_moments": [
+      {
+        "situation": "During the 2022 NATO Estonia reinforcement, the lead vehicle convoy was blocked for 11 hours at the Lithuanian-Latvian border due to an unresolved customs classification dispute for a specific category of vehicle-mounted equipment.",
+        "action": "Morrison bypassed the standard diplomatic channel (which would have taken 3-5 days) and called the Lithuanian Chief of Defence Staff directly through a personal contact from a previous NATO exercise. He also engaged a commercial customs broker in Vilnius to simultaneously resolve the administrative classification while the diplomatic call was in progress.",
+        "outcome": "Border cleared within 4 hours. Convoy back on schedule within 6 hours. The customs classification was formally resolved through diplomatic channels 3 weeks later. Morrison's simultaneous military and commercial approach was cited in the NATO logistics review as 'adaptive problem-solving under operational time pressure.'",
+        "source": "NATO Logistics Command after-action report (2022); reference check — Colonel (now Brigadier) James Hartley"
+      }
+    ]
+  },
+  "evidence_sources": {
+    "cv": true,
+    "performance_reviews": null,
+    "feedback_360": null,
+    "project_kpis": true,
+    "interview_notes": true,
+    "reference_checks": true
+  },
+  "performance_reviews": null,
+  "feedback_360": null,
+  "interview_notes": {
+    "interviewer": "Dr. Sabine Müller, Executive Search Partner; Klaus Richter, SVP Production",
+    "date": "2026-03-13",
+    "format": "Structured competency interview + live case study (90 min)",
+    "overall_impression": "Morrison was the most physically commanding candidate in the process — upright posture, direct eye contact, unhurried. His answers were crisp and structured, always in numbered points, always with a clear conclusion. The interviewers noted he was the only candidate who began each answer by restating the question as a 'mission objective' — a habit so deeply ingrained it seemed unconscious. His crisis management answers were excellent. His answers to questions about BMW-specific manufacturing, EV technology, union relations, and IATF quality systems revealed significant knowledge gaps that he addressed with varying levels of self-awareness. Dr. Müller's assessment: 'He would be formidable in a war. The Neue Klasse production ramp is not a war.'",
+    "question_responses": [
+      {
+        "question": "How would you handle a 6-month semiconductor supply disruption across 3 plants?",
+        "response_summary": "Morrison structured his answer in military planning format — Situation, Mission, Execution, Admin & Logistics, Command & Signal. He identified the situation correctly, defined the mission as 'maintain maximum vehicle production output while semiconductor supply is below nominal requirement,' and outlined execution in three phases. Phase 1 (Days 1-3): establish a common operating picture — chip inventory map, consumption rates, depletion forecasts — and establish a single crisis command structure with clear decision authorities at each level. Phase 2 (Week 1-4): implement supply allocation according to a priority matrix he would define based on vehicle margin and delivery obligation; engage alternative supply channels; activate pre-built contingency plans (he noted he would build these in the first week). Phase 3 (Month 1-6): systematic supply chain redesign using the crisis as a forcing function. He noted: 'In the Army we prepare for disruption before it happens. My first question for BMW would be: where is your semiconductor supply continuity plan? If it doesn't exist, that's the first failure mode to address.' He did not mention works council communication, German regulatory requirements, or government engagement.",
+        "interviewer_assessment": "The military planning framework was impressive and the operational logic was sound. His 'where is your continuity plan?' challenge was legitimate and showed proactive risk thinking. The absence of union/works council awareness was consistent with his military experience and flagged as a gap. When the interviewer raised works council communication specifically, he said: 'I would need to understand the German works council structure — it doesn't have an equivalent in the British military system.'"
+      },
+      {
+        "question": "How would you accelerate Neue Klasse SOP by 6 months?",
+        "response_summary": "Morrison was candid: 'I have not run a vehicle production start-of-production. I have run the deployment of complex logistics systems with many parallel workstreams under time pressure. The principles are analogous — let me apply them and you can tell me what I'm missing.' He outlined: establish a programme operations centre with a single integrated master schedule visible to all teams; assign a mission-qualified officer — in this case, a programme director — to each critical-path work package with authority and accountability; implement a daily operational rhythm (morning brief, midday decision point, evening review) to compress the decision cycle; pre-approve contingency resources so teams don't wait for budget approval when problems arise. He said: 'The single biggest accelerant in complex operations is reducing the decision latency — the time between identifying a problem and making a decision about it. In the Army we call this "command tempo." I would apply the same principle here.'",
+        "interviewer_assessment": "The 'command tempo' concept was interesting and had genuine application to SOP management. His framework was structurally sound. He did not engage with any of the specific technical dimensions of SOP (PPAP, digital twin, quality gates, tooling installation) — revealing that his acceleration approach would need to be delivered through his technical leadership team rather than through his own expertise."
+      },
+      {
+        "question": "What would you do if Tesla poached 15% of your production engineers?",
+        "response_summary": "Morrison said: 'In the Army we call this a talent drain to a competitor force. It happens — people leave for better pay, better mission, better career. The response is the same in any organisation.' He outlined: immediate talent audit to identify the knowledge risk from the specific individuals who left; knowledge capture from those still within notice period; a structured review of what the competitor is offering that you are not ('we would conduct an intelligence assessment of Tesla's employee value proposition'); and a retention programme focused on mission meaning, career progression, and — where necessary — compensation. He added a distinctly military observation: 'In the Army, soldiers don't leave for money — they leave when they stop believing in the mission or stop respecting their chain of command. I would investigate both before spending money on compensation.' He made no mention of works council consultation on retention or pay changes.",
+        "interviewer_assessment": "His 'soldiers leave when they stop believing in the mission' insight was one of the most authentic leadership observations in the pool on this question. His intelligence assessment of Tesla's EVP was creative. His complete absence of works council awareness on pay changes — which require co-determination under German law — was a consistent pattern across all three answers."
+      }
+    ],
+    "case_study_performance": "Morrison produced the most structurally organised case study response in the pool — a written 5-point response in military planning format, presented in exactly 12 minutes. He correctly identified the operational crisis (production halt), diagnosed a process failure (though he described the fixturing issue as a 'logistics failure' rather than a manufacturing process failure), and outlined a recovery plan that was operationally sound. His recovery plan included a specific 'command structure' for the crisis team, a reporting cadence, and decision authorities at each level — elements no other candidate had addressed. His plan was silent on IATF documentation requirements, process FMEA updates, and supplier corrective action. When asked about these, he said: 'Those are technical quality requirements I would need my quality director to address — I would set the framework and deadline.'"
+  },
+  "reference_checks": [
+    {
+      "referee_name": "Brigadier James Hartley CBE",
+      "relationship": "Former superior officer — Commander, 3rd (UK) Division",
+      "quote": "David Morrison is the finest logistician I commanded. In 25 years of military service he has never failed a mission that depended on logistics. He is direct to the point of bluntness, expects absolute standards, and will not accept excuses. He is also genuinely loyal to his people and will fight for them as ferociously as he fights for the mission. My honest assessment for a civilian manufacturing role: David has spent 25 years in an environment where authority is hierarchical and compliance is mandatory. The German works council system — where workers have legal co-determination rights — is structurally different from anything he has operated in. He will need to adapt that instinct fundamentally, and I am not certain he has fully reckoned with how significant that adaptation is.",
+      "source": "External reference call, 2026-03-09 — strong endorsement with codetermination concern"
+    },
+    {
+      "referee_name": "Helga Brandt",
+      "relationship": "MOD Germany civilian counterpart — German Federal Office for Bundeswehr Equipment (BAAINBw)",
+      "quote": "Colonel Morrison worked with our office for 3 years during his Rhine posting. He is competent, trustworthy, and his German — while not fluent — is sufficient for working relationship. I would say honestly that he found the German institutional style difficult at times. In Germany, decisions require more consultation and consensus-building than the British military style allows. He adapted, but it was visible that it cost him patience. In a civilian German manufacturing context with a strong works council, this dynamic would be amplified.",
+      "source": "External reference call, 2026-03-14 — important German institutional culture observation"
+    }
+  ],
+  "compensation": {
+    "current_base": "£0 (self-employed; estimated consulting income £85,000 in 2025)",
+    "current_total": "British Army full Colonel pension: £48,000/year + consulting income",
+    "expected_package": "€240,000 base; €340,000 total — stated he is motivated primarily by 'the challenge and the mission' rather than compensation",
+    "notice_period": "Available immediately",
+    "availability": "April 2026"
+  },
+  "red_flags": [
+    "Zero manufacturing or automotive production experience — has never managed the production of any physical product in a commercial manufacturing context; the gap between military logistics command and automotive EV production leadership is the largest single-domain gap in the candidate pool",
+    "Hierarchical command style is structurally incompatible with German codetermination — the BetrVG gives works councils co-determination rights over working conditions, shift scheduling, and performance monitoring that Morrison has no experience navigating; his instinct to decide and direct will encounter legal and cultural walls immediately",
+    "No P&L accountability in a commercial sense — managed a £280M military budget under government allocation rules, which has no equivalence to a commercial production P&L where decisions affect margin, market share, and investor returns",
+    "EV technology knowledge is zero — has no engineering or manufacturing process background; in every technical answer he explicitly deferred to a 'quality director' or 'engineering team'; for a Head of Production role requiring technical credibility with 3,000 manufacturing workers, this is a fundamental gap",
+    "Military non-promotion — was not selected for Brigadier General, which is the standard next step from Colonel; this was the direct trigger for his departure from the Army and raises a question about his ceiling as a leader"
+  ],
+  "green_flags": [
+    "Crisis management credentials are exceptional and specific: 18-day Estonia reinforcement (NATO benchmark), Afghanistan drawdown, and Basra supply continuity under fire — these are harder challenges than a semiconductor supply disruption and he has lived all of them",
+    "Large-scale workforce command: 4,200 military personnel and 1,800 MOD contractors — the largest workforce leadership scope in the candidate pool; 3,000 BMW employees is a smaller team than he has commanded",
+    "Budget management at £280M — comparable to the €450M target scope; has managed government-scale finances under real operational pressure",
+    "Available immediately, no RSU buy-out, motivated primarily by mission rather than compensation — the most flexible candidate in the pool on commercial terms",
+    "German posting credibility: 3 years in Gütersloh with German military and government counterparts; has real (if imperfect) experience navigating German institutional culture"
+  ]
+}

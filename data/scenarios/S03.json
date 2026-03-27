@@ -1,0 +1,69 @@
+{
+	"scenario_id": "S03",
+	"scenario_name": "Neue Klasse EV Acceleration / Debrecen SOP Compression",
+	"scenario_category": "acceleration",
+	"description": "The BMW Board has pulled forward the required start-of-production timeline for Debrecen by six months in order to accelerate Neue Klasse competitiveness in Europe. The role of Head of Production for the EV Division now shifts from optimized steady-state management to industrialization at speed. The operating question is no longer whether the plant can launch well under normal timing assumptions, but whether it can compress ramp-up activities without losing control of process stability, automation readiness, and launch sequencing.\n\nThis scenario rewards leaders who can drive accelerated readiness across manufacturing engineering, automation, supplier onboarding, launch governance, and organizational change. Traditional BMW operating discipline still matters, but it is no longer enough. The winner must be able to move a complex production system faster than its default cadence without letting the organization snap.",
+	"business_context": {
+	  "market_conditions": "Competitive pressure in premium EVs has intensified, pushing BMW to accelerate capacity and launch timing.",
+	  "supply_chain_status": "Supply conditions are manageable but stressed by the compressed industrialization schedule and supplier readiness dependencies.",
+	  "internal_pressures": "Board-level visibility is high, and the launch is strategically symbolic for BMW's next-generation EV platform.",
+	  "timeline_pressures": "A six-month acceleration creates severe pressure on SOP readiness, equipment validation, workforce training, and process stabilization.",
+	  "workforce_situation": "Teams face sustained execution intensity, onboarding complexity, and risk of burnout during compressed launch preparation.",
+	  "financial_impact": "A missed or unstable launch could delay revenue recognition, damage investor confidence, and create €150-300M in launch-related value leakage."
+	},
+	"criteria_weight_multipliers": {
+	  "C1_ev_production": 1.0,
+	  "C2_ramp_up_sop": 2.9,
+	  "C3_supply_chain": 0.7,
+	  "C4_quality": 0.8,
+	  "C5_team_leadership": 1.1,
+	  "C6_pnl_budget": 0.6,
+	  "C7_digital_manufacturing": 2.1,
+	  "C8_stakeholder_mgmt": 0.9,
+	  "C9_crisis_management": 0.7,
+	  "C10_change_management": 2.2
+	},
+	"scenario_pressures": [
+	  {
+		"pressure": "Board-mandated six-month launch acceleration",
+		"impact_on_role": "The leader must compress preparation cycles, remove bottlenecks, and create faster decision loops across industrialization and production readiness.",
+		"criteria_affected": ["C2", "C10"],
+		"causal_reasoning": "A shorter time window means standard launch sequencing no longer works. That forces the production leader to excel at SOP acceleration and organizational change, because the plant must adopt new ways of working and absorb more change in less time."
+	  },
+	  {
+		"pressure": "Automation and digital readiness become gating factors",
+		"impact_on_role": "The leader must ensure manufacturing systems, data visibility, and digital production controls are mature enough to support compressed ramp-up.",
+		"criteria_affected": ["C7", "C2"],
+		"causal_reasoning": "When timelines compress, poor digital manufacturing maturity creates hidden delays in validation, process visibility, and issue resolution. This makes digital manufacturing disproportionately valuable, not as a modernization extra, but as a launch-enablement capability."
+	  },
+	  {
+		"pressure": "Cross-functional launch dependencies multiply under time compression",
+		"impact_on_role": "The leader must coordinate engineering, automation, quality, logistics, and HR while keeping the launch plan executable.",
+		"criteria_affected": ["C10", "C5", "C8"],
+		"causal_reasoning": "Compressed launches create interdependent workstreams where small delays cascade quickly. Change management rises because teams must adapt simultaneously, and leadership matters because the organization needs energy and alignment under sustained pressure."
+	  },
+	  {
+		"pressure": "There is less tolerance for traditional phase-gate pacing",
+		"impact_on_role": "The leader must make judgment calls faster and balance calculated risk with launch readiness.",
+		"criteria_affected": ["C2", "C7", "C9"],
+		"causal_reasoning": "In acceleration mode, waiting for complete certainty can itself become a failure mode. Ramp-up expertise matters because the leader must know which risks are acceptable, while digital visibility helps detect issues early enough to act before instability compounds."
+	  }
+	],
+	"emergent_criteria": [
+	  {
+		"id": "EC1",
+		"name": "Industrialization Compression Capability",
+		"weight": 0.12,
+		"reasoning": "This scenario is not just a standard launch. It requires a leader who has repeatedly compressed industrial timelines while preserving execution coherence."
+	  },
+	  {
+		"id": "EC2",
+		"name": "Launch Governance Velocity",
+		"weight": 0.08,
+		"reasoning": "Fast but structured decision-making becomes a competitive advantage when dozens of launch dependencies must be unblocked in near real time."
+	  }
+	],
+	"expected_winner_archetype": "A launch-and-transformation leader with deep SOP and ramp-up credibility, strong digital manufacturing fluency, and the ability to force organizational acceleration without losing production control.",
+	"risk_of_wrong_hire": "If BMW hires a stable operator or a pure crisis firefighter instead of a launch-acceleration leader, the likely outcome is a 3-6 month slip, unstable commissioning, high rework during ramp, and €100-220M in delayed revenue plus launch inefficiency costs.",
+	"key_differentiator": "C2 ramp-up & SOP expertise is the main swing factor, amplified by C7 digital manufacturing and C10 change management."
+  }

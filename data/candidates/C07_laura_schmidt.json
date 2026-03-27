@@ -1,0 +1,303 @@
+{
+  "candidate_id": "C07",
+  "candidate_name": "Laura Schmidt",
+  "candidate_type": "internal",
+  "current_employer": "BMW Group",
+  "current_title": "Launch Manager — Neue Klasse Platform, Production Readiness",
+  "years_experience_total": 8,
+  "years_in_current_role": 2,
+  "years_at_current_employer": 5,
+  "nationality": "German",
+  "languages": ["German (native)", "English (C2)", "Mandarin (B2 — studying actively)"],
+  "education": [
+    {
+      "degree": "M.Sc. Industrial Engineering — Production & Logistics",
+      "institution": "Technische Universität Munich (TUM)",
+      "year": 2018,
+      "distinction": "Distinction (1.1 GPA equivalent); thesis on agile SOP planning methodologies for EV platform production — awarded TUM Production Engineering Prize 2018; supervised in partnership with BMW Group R&D"
+    },
+    {
+      "degree": "B.Sc. Mechanical Engineering",
+      "institution": "Technische Universität Munich (TUM)",
+      "year": 2016,
+      "distinction": "Very Good (1.3 GPA equivalent); Erasmus exchange: KTH Stockholm"
+    }
+  ],
+  "certifications": [
+    "BMW Group Graduate Talent Programme — Class of 2018 (ranked 1st of 32)",
+    "Project Management Professional, PMP (2020)",
+    "Lean Expert — BMW Group (2021)",
+    "BMW Group Top Talent Pool — Future Leaders (designated 2023)",
+    "Neue Klasse Programme Core Team Member designation (2024)"
+  ],
+  "career_history": [
+    {
+      "company": "BMW Group",
+      "title": "Launch Manager — Neue Klasse Platform, Production Readiness",
+      "location": "Munich (central) & Debrecen, Hungary",
+      "start_year": 2024,
+      "end_year": null,
+      "scope": "18-person cross-functional launch team, responsible for production readiness milestones for Neue Klasse Sedan (first model) at Debrecen; direct report to VP Production Engineering; no P&L ownership but milestone accountability across €2.1B programme investment",
+      "key_achievements": [
+        {
+          "achievement": "Identified and resolved a systemic conflict between the Neue Klasse battery thermal management assembly sequence and the planned facility layout at Debrecen, preventing a major re-engineering requirement at physical installation phase",
+          "metric": "Engineering change avoided: estimated redesign cost €14M and 4-month schedule impact; identification made 11 months before the scheduled installation date through digital twin simulation review",
+          "year": 2025,
+          "verifiable": true
+        },
+        {
+          "achievement": "Developed the Neue Klasse SOP readiness scorecard — a weekly cross-functional milestone tracking tool used by the VP Production Engineering and SVP Production to manage the programme",
+          "metric": "Scorecard adopted as BMW Group's Neue Klasse programme management standard; improved milestone visibility, contributing to 3 proactive escalations that prevented estimated 8 weeks of programme delay",
+          "year": 2024,
+          "verifiable": true
+        },
+        {
+          "achievement": "Led the production engineering team's preparation for the Debrecen pilot build campaign — coordinating 7 functional teams and 3 external suppliers across 4 time zones",
+          "metric": "Pilot build campaign completed with 94.3% of planned builds executed; 12 process deviations identified and resolved before series production validation gate; first BMW launch manager under 30 to independently lead a pilot campaign of this scale",
+          "year": 2025,
+          "verifiable": true
+        }
+      ],
+      "reason_for_leaving": "Internal promotion candidate"
+    },
+    {
+      "company": "BMW Group",
+      "title": "Production Engineer — EV Platform Launch, Leipzig",
+      "location": "Leipzig, Germany",
+      "start_year": 2021,
+      "end_year": 2024,
+      "scope": "Member of iX and i4 SOP preparation team; individual contributor then informal team lead of 4 engineers; responsible for assembly sequence validation and launch documentation",
+      "key_achievements": [
+        {
+          "achievement": "Developed a digital simulation model for the i4 final assembly line that identified 3 ergonomic risk stations before physical line installation, enabling pre-emptive redesign",
+          "metric": "3 stations redesigned: estimated 12 musculoskeletal injury events per year prevented; design change cost €380,000 vs. estimated retrofit cost €2.1M; model subsequently used as template for iX3 line planning",
+          "year": 2022,
+          "verifiable": true
+        },
+        {
+          "achievement": "Wrote the i4 launch handbook — a comprehensive SOP reference document for operators and shift supervisors — adopted as the production documentation standard for Leipzig EV lines",
+          "metric": "Handbook adopted across i4 and iX lines; operator onboarding time reduced from 12 days to 8 days using handbook vs. previous documentation; handbook rated 4.8/5 by 480 users in internal survey",
+          "year": 2022,
+          "verifiable": true
+        }
+      ],
+      "reason_for_leaving": "Selected for Neue Klasse launch team"
+    },
+    {
+      "company": "BMW Group",
+      "title": "Graduate Trainee — Manufacturing Engineering Rotation",
+      "location": "Munich, Dingolfing, Leipzig, Oxford (MINI)",
+      "start_year": 2018,
+      "end_year": 2021,
+      "scope": "Structured 3-year graduate programme with rotations across 4 BMW plants and central manufacturing engineering; individual contributor with increasing project responsibility",
+      "key_achievements": [
+        {
+          "achievement": "Completed graduate programme ranked 1st of 32 participants; selected for the Neue Klasse pilot project team during final rotation — the first graduate trainee to be selected for a strategic platform programme",
+          "metric": "Cohort rank 1/32; Neue Klasse programme selection 18 months ahead of standard progression timeline",
+          "year": 2021,
+          "verifiable": true
+        },
+        {
+          "achievement": "During Oxford plant rotation, identified and documented a paint shop capacity constraint that became the basis for a subsequent £4.2M capacity improvement project",
+          "metric": "Constraint analysis validated by Oxford engineering team; improvement project subsequently approved and delivered 18% throughput increase in targeted segment",
+          "year": 2020,
+          "verifiable": true
+        }
+      ],
+      "reason_for_leaving": "Promoted to Production Engineer role"
+    }
+  ],
+  "leadership_indicators": {
+    "leadership_style_self_described": "I'm still learning what my leadership style is, honestly. I tend to lead through energy and clear thinking. I build trust by doing the work alongside the team rather than directing from a distance. I'm probably better at inspiring people than at managing organisational complexity — but I'm aware of that and I'm working on it.",
+    "decision_making_style": "Fast and intuitive for technical decisions within her domain. Seeks advice and alignment for decisions outside her domain — recognises the limits of her experience. Has good instincts but limited track record across a broad range of decision types.",
+    "conflict_handling": "Direct and constructive within her team. Has less experience managing conflict across organisational levels or with senior stakeholders who have more authority. Has needed coaching on managing upward.",
+    "change_orientation": "Very high — she finds static environments frustrating. Has a bias toward action and pace that sometimes conflicts with the methodical culture of her more senior colleagues.",
+    "risk_appetite": "High for someone at her level — possibly too high. Has twice made commitments on behalf of the Neue Klasse programme that her manager subsequently had to renegotiate. Shows instinct for bold moves without always scoping the full organisational consequence.",
+    "notable_leadership_moments": [
+      {
+        "situation": "During the Neue Klasse pilot build campaign at Debrecen in 2025, a critical supplier (battery module delivery) failed to deliver the correct cell variants for the pilot build week 1. Schmidt was the most senior BMW person on-site.",
+        "action": "Schmidt contacted the supplier's logistics director directly (bypassing the BMW supply chain team), negotiated an emergency overnight shipment of the correct variants from the supplier's Hungarian warehouse, and restructured the pilot build schedule to start with body-in-white stages while awaiting battery delivery. She informed her manager (VP Production Engineering) after the fact.",
+        "outcome": "Pilot build campaign proceeded with 1-day delay vs. 3-week alternative (rescheduled campaign). Manager commended the outcome but discussed that supply chain decisions of this nature require prior authorisation.",
+        "source": "2025 Performance Review; Pilot Build Campaign Report"
+      },
+      {
+        "situation": "A presentation Schmidt gave to the BMW Group Supervisory Board's Production Committee in Q3 2025 was the first time a non-director had presented directly to that committee in the production organisation.",
+        "action": "Schmidt prepared intensively — ran 6 mock presentations with senior colleagues — and delivered a 12-minute overview of Neue Klasse production readiness milestones with clarity and confidence that the committee found impressive.",
+        "outcome": "Supervisory Board production committee chair commented to SVP Production that 'the young engineer who presented was the clearest communicator of the morning.' Schmidt subsequently asked if she could attend (as observer) the next 3 board meetings — approved.",
+        "source": "SVP Production briefing note, Q3 2025"
+      }
+    ]
+  },
+  "evidence_sources": {
+    "cv": true,
+    "performance_reviews": true,
+    "feedback_360": true,
+    "project_kpis": true,
+    "interview_notes": true,
+    "reference_checks": true
+  },
+  "performance_reviews": [
+    {
+      "year": 2025,
+      "reviewer": "Dr. Christine Weber, Head of Production Engineering (direct manager)",
+      "overall_rating": "4.5 / 5.0",
+      "performance_category": "Outstanding",
+      "summary": "Laura is the most impressive engineer of her generation I have encountered in 19 years at BMW. Her identification of the thermal management layout conflict alone justified her programme placement for the year. She presents to Supervisory Board with more confidence and clarity than many of my VP peers. She is not ready for the Head of Production role. I want to be unambiguous: this is not a criticism, it is a statement of fact. She is 31 years old, has managed a maximum of 18 people, and has never had P&L accountability. In 5-7 years, if she continues on this trajectory, she will be a serious candidate for the most senior operations roles in BMW Group.",
+      "strengths_noted": [
+        "Problem-solving: identifies systemic issues that more experienced colleagues miss — the thermal management layout conflict is the best example",
+        "Communication: Supervisory Board-level communicator at 31; exceptional clarity and confidence under pressure",
+        "Programme management instinct: her SOP readiness scorecard is now used by SVP Production — she built a tool that senior leaders want to use"
+      ],
+      "development_areas": [
+        "Organisational authority: still acts as if her good ideas give her the authority to implement them without proper sign-off — the supplier negotiation at Debrecen is the clearest example",
+        "Scope awareness: occasionally commits BMW Group to positions (with suppliers, with the Debrecen plant management) that require escalation to reverse",
+        "Financial literacy: strong on schedule and technical metrics; needs deeper exposure to financial planning and P&L management"
+      ],
+      "promotion_recommendation": "Recommend promotion to Production Manager (team of ~80-100 reports) as the next step. Head of Production role is 5-7 years from now. Do not put her in that role prematurely — it could derail one of BMW Group's best future leaders."
+    },
+    {
+      "year": 2024,
+      "reviewer": "Dr. Christine Weber, Head of Production Engineering",
+      "overall_rating": "4.3 / 5.0",
+      "performance_category": "Exceeds Expectations",
+      "summary": "Laura joined the Neue Klasse launch team and immediately contributed at a level above her grade. The SOP readiness scorecard she designed is elegant and has been adopted at SVP level. She is learning to manage within a large complex programme — occasionally over-steps her authority, but always with good intent. She is a high-potential talent who needs time and scope to develop into the leader she clearly could become.",
+      "strengths_noted": [
+        "Analytical capability: top 2% of engineers I have supervised",
+        "Energy and initiative: drives the team to go further than the brief requires",
+        "Cross-functional credibility: has earned respect from engineers 10-15 years her senior through the quality of her work"
+      ],
+      "development_areas": [
+        "Authority boundaries: needs coaching on when to act vs. when to escalate",
+        "People management: still learning how to develop others rather than doing everything herself",
+        "Patience with process: her pace is often faster than the programme's maturity — needs to calibrate"
+      ],
+      "promotion_recommendation": "High potential. Not yet ready for leadership of large teams. Continue current trajectory with increasing scope."
+    },
+    {
+      "year": 2022,
+      "reviewer": "Fatima Al-Rashidi, Production Manager (then) — Leipzig",
+      "overall_rating": "4.4 / 5.0",
+      "performance_category": "Exceeds Expectations",
+      "summary": "Laura is the best junior engineer on the Leipzig launch team. Her digital simulation model for ergonomics was 6 months ahead of where I expected her to be at this stage. She also has something rarer than technical skill — she makes everyone around her want to do better work. She will be a future leader of this organisation if we develop her well.",
+      "strengths_noted": [
+        "Technical innovation: ergonomics simulation model is now in use beyond Leipzig",
+        "Peer leadership: informal team leader even without formal authority",
+        "Documentation quality: i4 launch handbook is the gold standard for production documentation"
+      ],
+      "development_areas": [
+        "Managing up: needs development in navigating senior stakeholders and building political awareness",
+        "Prioritisation: takes on more than is sustainable — will burn out if not managed",
+        "Budget awareness: has minimal exposure to financial metrics and cost management"
+      ],
+      "promotion_recommendation": "Accelerate development track. Should be on the Neue Klasse programme by 2024."
+    }
+  ],
+  "feedback_360": {
+    "peers": [
+      {
+        "reviewer_role": "Production Engineer, Neue Klasse Launch Team (peer)",
+        "quote": "Laura raises the bar for everyone around her. She works harder, thinks faster, and somehow manages to also be the most positive person in the team. The one thing I'd say is she occasionally makes calls that are above her pay grade — and usually they turn out to be the right call, which is both great and also makes it harder to tell her to slow down.",
+        "theme": "Exceptional peer, occasional overreach"
+      },
+      {
+        "reviewer_role": "Supplier Quality Engineer, BMW Group",
+        "quote": "She's extraordinary. I've worked with many launch engineers and none of them at her level of experience have the programme awareness she has. She also has a confidence that occasionally borders on not knowing what she doesn't know. I've seen her make commitments to suppliers that her manager subsequently had to walk back.",
+        "theme": "High competence, confidence gap awareness"
+      },
+      {
+        "reviewer_role": "Programme Manager, Neue Klasse (senior peer)",
+        "quote": "In 20 years on launch programmes I've never had a junior team member who made the Supervisory Board comment on them specifically. She's special. She's also 31. She should not be considered for this role — not because she isn't brilliant, but because brilliant people should be protected from roles they aren't ready for.",
+        "theme": "Exceptional talent — actively protected by senior colleagues from premature promotion"
+      }
+    ],
+    "direct_reports": [
+      {
+        "reviewer_role": "Graduate Trainee, Neue Klasse Team (anonymised)",
+        "quote": "Laura is my mentor and I'm lucky. She explains the why behind every decision, she involves us in real problems, and she actually listens when we have ideas. She runs very fast — sometimes I can't keep up — but she always comes back for anyone who's fallen behind.",
+        "theme": "Outstanding mentor, high pace"
+      },
+      {
+        "reviewer_role": "Junior Process Engineer (anonymised)",
+        "quote": "She tells us that being wrong quickly is better than being right slowly. She's not afraid to try something and find out it doesn't work. That's very different from most of the managers I've had. She makes mistakes and she's completely open about them — it makes everyone feel safer doing the same.",
+        "theme": "Psychological safety, experimental mindset"
+      },
+      {
+        "reviewer_role": "Technical Coordinator, Debrecen Pilot (anonymised)",
+        "quote": "During the supplier crisis at Debrecen, I watched Laura call a supplier director she'd never met, negotiate an emergency shipment in Hungarian English and German switching mid-sentence, and then restructure the build schedule in 40 minutes while keeping the whole team calm. She is 31 years old. It was extraordinary.",
+        "theme": "Crisis performance, natural authority beyond grade"
+      }
+    ],
+    "senior_leadership": [
+      {
+        "reviewer_role": "SVP Production, BMW Group (Klaus Richter — hiring manager)",
+        "quote": "I put Laura on this shortlist as an act of transparency — I wanted the panel to see who we are developing. She is not the selection. She is too junior, and appointing her would be a disservice to her. But I wanted us to see her clearly. In 5 years, this will be her role if she continues to develop.",
+        "theme": "Explicit non-selection; future-track signal from hiring manager"
+      },
+      {
+        "reviewer_role": "Head of Production Engineering, BMW Group",
+        "quote": "Laura is my best direct report and one of the most talented engineers I have supervised. She should not get this role. Not yet. She needs 5-7 more years of scope-building, P&L accountability, and team leadership at progressively larger scales. I will fight against an early appointment because it could damage her.",
+        "theme": "Active senior protection from premature appointment"
+      }
+    ]
+  },
+  "interview_notes": {
+    "interviewer": "Dr. Sabine Müller, Executive Search Partner; Klaus Richter, SVP Production",
+    "date": "2026-02-28",
+    "format": "Structured competency interview + live case study (90 min)",
+    "overall_impression": "Schmidt was the most energising candidate the panel had spoken to since Fatima Al-Rashidi. She entered the room with a laptop, asked if she could show her SOP readiness scorecard before the interview started ('it'll give you context'), and when told no, laughed and put it away without a second thought. Her answers were fast, structured, and intellectually exciting. The panel noted that she sometimes answered a different question than the one asked — a more interesting one — which reflects her intellectual confidence. The consensus: she is exceptional and not ready. Possibly the most difficult decision of the process.",
+    "question_responses": [
+      {
+        "question": "How would you handle a 6-month semiconductor supply disruption across 3 plants?",
+        "response_summary": "Schmidt immediately distinguished between 'known chips' (on the approved vendor list with identified alternatives) and 'unknown chips' (proprietary designs without substitution path) and said she would approach them differently. For known chips: accelerate qualification of alternatives on the approved list and run parallel qualification. For unknown chips: immediately redesign the software or hardware to use a different architecture — 'the semiconductor shortage taught the industry that we design too much around single-source chips.' She also proposed a 'production triage matrix' that ranked vehicle variants by margin, delivery obligation, and chip dependency to determine production priority. She then said: 'I've never managed 3 plants simultaneously. I'd lean hard on the plant directors and I'd be honest with them about that.' That honesty was noted.",
+        "interviewer_assessment": "Technically the most innovative answer in the pool. Her distinction between known/unknown substitutability and the software redesign angle were approaches no other candidate mentioned. Her self-awareness about the scale gap was exactly appropriate. She would be a 3-year development away from being the best person in the room on this question."
+      },
+      {
+        "question": "How would you accelerate Neue Klasse SOP by 6 months?",
+        "response_summary": "She leaned forward and said: 'Can I be specific? Because I know this programme.' She then described the exact 3 gating risks in the Neue Klasse production readiness schedule, named the specific engineering teams responsible for each, and proposed a concrete intervention for each: (1) the cylindrical cell integration yield risk — deploy Dr. Weber's team to run virtual qualification in parallel with physical; (2) the Debrecen workforce training timeline — compress by running multi-shift parallel training rotations with operators in month 1 of pilot build rather than waiting for series validation; (3) the HV battery supplier audit schedule — convert from sequential plant audits to simultaneous cross-site digital audits using the EV Quality Gate Framework. She then said: 'I built the programme tracking tool. I know where the time is being lost.'",
+        "interviewer_assessment": "Extraordinary. This answer contained more specific, actionable intelligence about the Neue Klasse programme than any other candidate's answer. She knows the programme better than people 10 years her senior. The challenge is that knowing the programme is not the same as running the programme."
+      },
+      {
+        "question": "What would you do if Tesla poached 15% of your production engineers?",
+        "response_summary": "She was quiet for 3 seconds — the longest pause she took all interview. Then: 'That scenario would be partly my fault. If I had built the right culture and the right career paths, fewer people would be considering it.' She proposed a retroactive cultural audit — 'what are we offering that Tesla isn't, and what are they offering that we aren't?' — and a radical transparency approach with the remaining 85%: 'I would hold a town hall and tell them honestly what happened, what it means, and what I'm going to do about it. People leave organisations where they feel uninformed.' She then outlined specific actions on career path clarity, project ownership for engineers, and a technical ladder for engineers who don't want to go into management. She did not mention compensation until the interviewer asked.",
+        "interviewer_assessment": "The cultural self-accountability at the start was remarkable for someone of her age and experience. Her town hall instinct — radical transparency — is high-risk but reflects genuine leadership philosophy. She is 5-7 years from being ready to put this into practice at scale."
+      }
+    ],
+    "case_study_performance": "Schmidt solved the Debrecen battery pack integration case in 9 minutes — the fastest in the candidate pool — and correctly identified the root cause, the recovery path, and a preventive systemic change. Her plan also included a team communication protocol and a stakeholder notification sequence. She then said: 'I know I'm too junior for this role. Can I ask you a question?' She asked the interviewers what the biggest mistake they'd seen organisations make when appointing a leader who was too junior. The interviewers found this unexpected — and disarming."
+  },
+  "reference_checks": [
+    {
+      "referee_name": "Fatima Al-Rashidi",
+      "relationship": "Former manager — Production Manager, Leipzig (internal, verified)",
+      "quote": "Laura is the best junior engineer I have worked with in 14 years. She is absolutely not ready for this role. In 5 years, if she is developed properly, she will be ready for a role considerably bigger than this one. Please give her the next right step, not the step after that.",
+      "source": "Internal reference, HR file 2026-02-01"
+    },
+    {
+      "referee_name": "Prof. Dr. Gunther Reinhart",
+      "relationship": "M.Sc. thesis supervisor, TUM",
+      "quote": "Laura was the best student of a 200-person cohort — not the most diligent, but the most original thinker. Her thesis was published in a peer-reviewed journal, which almost never happens for an M.Sc. student. She will be a significant figure in European manufacturing. Whether she is ready for a senior leadership role at 31 — I genuinely cannot say. What I can say is that she will not let you down wherever you place her.",
+      "source": "Academic reference, 2026-02-11"
+    }
+  ],
+  "compensation": {
+    "current_base": "€125,000",
+    "current_total": "€160,000 (incl. performance bonus 22% + programme premium)",
+    "expected_package": "€150,000 base; €200,000 total",
+    "notice_period": "2 months",
+    "availability": "April 2026"
+  },
+  "red_flags": [
+    "Critically under-experienced for this role: 8 years total experience, maximum 18 direct reports, zero P&L accountability — the scope gap between her current role and Head of Production EMEA is among the largest in the candidate pool",
+    "Has twice over-committed on behalf of the BMW Group programme without prior authorisation (supplier negotiation at Debrecen, commitment to a Debrecen government representative on construction timeline) — a pattern that is manageable at her current level but dangerous at VP level",
+    "Has never managed a unionised workforce relationship from a leadership position; has no experience with IG Metall collective bargaining or works council co-determination processes at a senior level",
+    "Financial acumen gap: has had no exposure to P&L management, capex planning, or large-scale budget ownership — critical for a €450M budget role",
+    "Appointment risk: multiple senior leaders have explicitly stated they would actively resist early appointment as potentially damaging to her development trajectory"
+  ],
+  "green_flags": [
+    "Most specific Neue Klasse programme knowledge of any candidate — knows the exact risk register, open engineering questions, and critical path from working it daily; this intelligence is irreplaceable",
+    "Supervisory Board-level communicator at 31 — the SVP Production has already tested this; she can hold her own in the most senior rooms",
+    "Two consecutive 'Outstanding'/'Exceeds Expectations' reviews with highest scores of the junior internal candidate pool",
+    "Formally designated BMW Group Future Leaders Top Talent (2023) — institutional recognition of exceptional trajectory",
+    "Natural crisis authority: the Debrecen supplier emergency demonstrated composure and decision-making that outperformed peers 10-15 years her senior",
+    "Best case-study performance in the full candidate pool (9 minutes to root cause; only candidate to also include team communication protocol)"
+  ]
+}

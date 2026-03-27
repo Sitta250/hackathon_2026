@@ -1,0 +1,204 @@
+{
+  "candidate_id": "C13",
+  "candidate_name": "James Ashworth",
+  "candidate_type": "external",
+  "current_employer": "Amazon.com, Inc.",
+  "current_title": "VP Operations — EU Fulfilment & Logistics Network",
+  "years_experience_total": 20,
+  "years_in_current_role": 3,
+  "years_at_current_employer": 8,
+  "nationality": "British",
+  "languages": ["English (native)", "German (B2 — actively studying, conversational)", "French (B1)"],
+  "education": [
+    {
+      "degree": "MEng Engineering Science (First Class Honours)",
+      "institution": "University of Oxford, Balliol College",
+      "year": 2006,
+      "distinction": "First Class; specialisation in manufacturing systems and operations research; University Prize for Engineering"
+    },
+    {
+      "degree": "MBA",
+      "institution": "London Business School",
+      "year": 2012,
+      "distinction": "Distinction; Dean's List; focus on operations strategy, supply chain design, and organisational behaviour"
+    }
+  ],
+  "certifications": [
+    "Amazon Operations Leadership Programme — VP Track (2020)",
+    "AWS Solutions Architect — Professional (2021)",
+    "Lean Six Sigma Green Belt — Amazon Operations (2015)",
+    "Change Management Practitioner, Prosci (2018)"
+  ],
+  "career_history": [
+    {
+      "company": "Amazon.com, Inc.",
+      "title": "VP Operations — EU Fulfilment & Logistics Network",
+      "location": "Luxembourg (HQ) / London; oversight of operations across Germany, UK, France, Italy, Spain, Poland, Netherlands, Sweden",
+      "start_year": 2023,
+      "end_year": null,
+      "scope": "Operational responsibility for 28 fulfilment centres and associated delivery station network across 8 EU countries; 54,000 direct employees plus ~80,000 third-party logistics workers; €6.8B combined operational budget; end-to-end P&L for EU fulfilment cost structure",
+      "key_achievements": [
+        {
+          "achievement": "Redesigned the EU network's peak season capacity model, introducing a dynamic capacity allocation algorithm that replaced a static site-by-site planning model — resulting in the first EU peak season (2023) with zero capacity failures across all 28 sites",
+          "metric": "Peak capacity utilisation: 94.3% average (vs. 88.1% prior year); zero site-level capacity failures (vs. 4 failures in 2022 peak); customer promise adherence rate 98.7% during peak week (vs. 94.2% in 2022); estimated €180M in avoided expedited logistics costs",
+          "year": 2023,
+          "verifiable": false
+        },
+        {
+          "achievement": "Launched Amazon's EU Robotics Integration Programme — deploying next-generation robotic picking and conveyor systems across 12 fulfilment centres while maintaining 100% of customer delivery commitments during installation",
+          "metric": "12 sites robotics-deployed in 18 months; productivity per labour hour improved 34% at deployed sites; pick accuracy improved from 99.4% to 99.94%; programme delivered €240M in annualised productivity savings against €310M capex (payback 15.5 months)",
+          "year": 2024,
+          "verifiable": false
+        },
+        {
+          "achievement": "Managed a 6-week transport disruption in Germany during the DB rail strike (2024) — rerouting approximately €420M of product flow through alternative carriers and road networks while maintaining delivery promises on 89% of affected orders",
+          "metric": "Service level maintained at 89% vs. 60% analyst expectation for equivalent disruption; additional logistics cost contained at €28M vs. projected €61M through pre-negotiated surge capacity agreements; established as Amazon EU Operations best practice for network resilience",
+          "year": 2024,
+          "verifiable": false
+        }
+      ],
+      "reason_for_leaving": "Actively exploring exit — personal motivation to work in a manufacturing environment with deeper physical product complexity; Amazon's operational model has become increasingly algorithmic and Ashworth finds himself wanting closer connection to the physical product; specifically attracted by BMW's EV transformation scale and complexity"
+    },
+    {
+      "company": "Amazon.com, Inc.",
+      "title": "Director of Operations — Germany Fulfilment Network",
+      "location": "Berlin, Germany",
+      "start_year": 2019,
+      "end_year": 2023,
+      "scope": "9 fulfilment centres across Germany, 22,000 employees; full operational accountability for Germany network cost, quality (promise adherence, accuracy), and safety; reported to VP Operations Europe",
+      "key_achievements": [
+        {
+          "achievement": "Managed Amazon Germany's response to the 2020-2021 COVID surge — scaling Germany fulfilment capacity from 9 to 12 sites in 90 days while maintaining worker safety during the highest-risk period of the pandemic",
+          "metric": "3 new sites operational in 90 days; peak throughput increased 68% year-on-year during 2020 Christmas peak; COVID-related operational cost increase contained at 8.4% vs. external benchmark of 12-18%; zero COVID-related enforcement actions from German health authorities",
+          "year": 2020,
+          "verifiable": false
+        },
+        {
+          "achievement": "Led the negotiation of Amazon Germany's first multi-site works council framework agreement — a landmark for Amazon in Germany, establishing a common baseline for works council engagement across all 9 German sites",
+          "metric": "Framework agreement signed covering all 9 sites; works council dispute escalations reduced 43% in the 12 months post-agreement; agreement cited by ver.di (German services union) as 'a meaningful step toward constructive dialogue' — the first positive characterisation from ver.di in 5 years",
+          "year": 2021,
+          "verifiable": false
+        }
+      ],
+      "reason_for_leaving": "Promoted to VP Operations EU"
+    },
+    {
+      "company": "Amazon.com, Inc.",
+      "title": "Senior Operations Manager / General Manager — Fulfilment Centre, MAN1",
+      "location": "Manchester, UK",
+      "start_year": 2016,
+      "end_year": 2019,
+      "scope": "General Manager of the MAN1 fulfilment centre — 3,200 employees, £180M operating budget; full site P&L and operational accountability",
+      "key_achievements": [
+        {
+          "achievement": "Took MAN1 from the bottom quartile of UK fulfilment centres (by cost per unit and accuracy) to the top quartile within 20 months through a structured operational improvement programme",
+          "metric": "Cost per unit reduced 18.4%; accuracy rate improved from 99.1% to 99.7%; MAN1 ranked 3rd of 22 UK sites at end of programme (from 19th at start); programme method adopted as Amazon UK Operations standard",
+          "year": 2018,
+          "verifiable": false
+        }
+      ],
+      "reason_for_leaving": "Relocated to Germany for Director of Operations role"
+    },
+    {
+      "company": "McKinsey & Company",
+      "title": "Associate / Engagement Manager — Operations Practice",
+      "location": "London / various client sites",
+      "start_year": 2012,
+      "end_year": 2016,
+      "scope": "Operations consulting for manufacturing, retail, and logistics clients; managed teams of 3-5 consultants; clients included 2 automotive manufacturers (not disclosed), 3 FMCG companies, and 1 European defence contractor",
+      "key_achievements": [
+        {
+          "achievement": "Led a 6-month production network redesign for a major European OEM (not disclosed) — restructuring their tier-1 supplier base and internal plant allocation to support an EV transition",
+          "metric": "Redesign projected €380M NPV improvement over 10 years; client implemented 80% of recommendations; engagement rated 4.8/5 by client; Ashworth promoted to Engagement Manager following this project",
+          "year": 2015,
+          "verifiable": false
+        }
+      ],
+      "reason_for_leaving": "Joined Amazon for operational leadership role — wanted to execute rather than advise"
+    }
+  ],
+  "leadership_indicators": {
+    "leadership_style_self_described": "I lead at scale through systems and culture simultaneously. At Amazon I have learned that 54,000 people don't follow a person — they follow a system that a person has built and animated. My job is to design the operational system, model the culture it requires, and then develop 300 managers who live both. I am at my best when the challenge is complex, ambiguous, and has never been done exactly this way before.",
+    "decision_making_style": "Data-driven and fast. Amazon's culture demands rapid, data-backed decisions — Ashworth has absorbed this deeply. Makes decisions with clear 'two-way door' (reversible) vs. 'one-way door' (irreversible) distinctions. Accepts high-quality reversible decisions over perfect irreversible ones.",
+    "conflict_handling": "Constructive and direct. Has managed union conflict in Germany (ver.di), France (CGT), and Italy (CGIL) — Amazon's difficult union history in Europe has given him extensive industrial relations experience. Is comfortable holding firm on operational requirements while creating space for worker voice.",
+    "change_orientation": "Extremely high. Has led transformation at Amazon scale — changes that affect tens of thousands of people simultaneously. Comfortable with the discomfort of transformation. Has been described by peers as 'someone who sees the end state so clearly he sometimes forgets the people aren't there yet.'",
+    "risk_appetite": "Calculated high. Takes significant operational bets (new capacity models, technology deployments) with rigorous pre-analysis. Has a high tolerance for the ambiguity that comes with scale — 'at 54,000 people, you accept that some percentage of any decision will go wrong; the question is which percentage and whether you can detect and correct it.'",
+    "notable_leadership_moments": [
+      {
+        "situation": "In 2021, Amazon Germany's works council at the BER1 site filed a formal complaint that the algorithmic performance monitoring system violated worker dignity under the German Works Constitution Act (BetrVG). This was a company-wide precedent risk.",
+        "action": "Rather than defaulting to the legal team's advice (contest vigorously), Ashworth convened a joint working group with the BER1 works council, Amazon's legal and engineering teams, and an external labour law expert. He proposed a co-designed transparency framework — works councils would receive access to the algorithm's logic and could request parameter reviews. He personally presented the proposal to ver.di's national leadership.",
+        "outcome": "Complaint withdrawn. Transparency framework agreed. Amazon Germany avoided a precedent-setting court case. The framework was subsequently adopted across all 9 German sites. ver.di described it as 'a first step toward responsible algorithm management' — an unprecedented positive statement.",
+        "source": "Reference check — German works council representative; ver.di press statement (2021)"
+      }
+    ]
+  },
+  "evidence_sources": {
+    "cv": true,
+    "performance_reviews": null,
+    "feedback_360": null,
+    "project_kpis": true,
+    "interview_notes": true,
+    "reference_checks": true
+  },
+  "performance_reviews": null,
+  "feedback_360": null,
+  "interview_notes": {
+    "interviewer": "Dr. Sabine Müller, Executive Search Partner; Klaus Richter, SVP Production",
+    "date": "2026-03-11",
+    "format": "Structured competency interview + live case study (90 min)",
+    "overall_impression": "Ashworth was the most charismatic candidate of the process — he entered the room with a warmth and presence that immediately changed the atmosphere. He was funny, self-deprecating about his lack of automotive experience, and analytically impressive. The interviewers noted that when he spoke about his teams at Amazon, genuine emotion was visible — not performed emotion, but the real kind. His lack of automotive and manufacturing product knowledge was significant and consistent across all answers. Klaus Richter observed after the session: 'I would work for this man. I am less certain he is ready to run a car factory next April.'",
+    "question_responses": [
+      {
+        "question": "How would you handle a 6-month semiconductor supply disruption across 3 plants?",
+        "response_summary": "Ashworth said: 'I should be transparent — I have not managed a semiconductor supply chain. What I have managed is a 6-week transport disruption affecting €420M of product flow across 28 sites. The principles are the same; the domain knowledge is different.' He outlined: (1) establish a single source of truth for the supply position — 'the worst thing in a supply crisis is different teams working from different pictures'; (2) build a constraint model that shows the production impact of each possible allocation decision — 'at Amazon we call this decision science; it applies directly'; (3) communicate with extreme transparency internally — 'the moment people suspect they're being protected from the truth, you lose them'; (4) develop 3 scenarios (optimistic, base, severe) and pre-plan responses to all 3 so the team isn't making decisions under acute pressure. He then said: 'I would be leaning heavily on my plant directors and supply chain team for the automotive-specific content. I would be providing the crisis management architecture and the decision-making environment.'",
+        "interviewer_assessment": "Structurally excellent. His honest declaration of the domain gap, followed by an architecture that would leverage others' domain knowledge, was the most mature admission of limits in the candidate pool combined with a credible mitigation strategy. The concern: a Head of Production in a real crisis cannot outsource domain knowledge to plant directors — the decisions need to happen faster than that dependency allows."
+      },
+      {
+        "question": "How would you accelerate Neue Klasse SOP by 6 months?",
+        "response_summary": "Ashworth opened by asking: 'Can you tell me what the top-3 bottlenecks in the current plan are? Because my answer depends entirely on where the time is being lost.' The interviewers declined to answer (for consistency with other candidates). He then said: 'Fair. Without that, let me describe the approach: I would apply Amazon's 'working backwards' methodology — start with the SOP date as a fixed constraint and work backwards to identify everything that must be true 6 months earlier than currently planned. Any gap between current state and what must be true is a project.' He then outlined: compressing sequential validation steps to concurrent, deploying additional engineering resources to the critical path, creating a 'launch critical' team with authority to override standard processes where the delay-vs-risk trade-off favours speed. He acknowledged: 'I do not know what a Start of Production for a vehicle means in practice — the vocabulary is different from my world. I would need 90 days with your engineering team before I could give you a fully credible answer.'",
+        "interviewer_assessment": "The 'working backwards' framing was a fresh and genuinely useful frame — the interviewers noted it was one they had not encountered from the automotive candidates. His honesty about not knowing what SOP means in automotive was both refreshing and concerning. At the level of the role, not knowing what SOP means is a significant gap."
+      },
+      {
+        "question": "What would you do if Tesla poached 15% of your production engineers?",
+        "response_summary": "This was Ashworth's strongest question. 'I know talent attrition at scale. At Amazon Germany we lost significant numbers to tech companies for 3 years — before we fixed it.' He outlined: (1) treat it as a symptom, not the disease — 'attrition of this scale means something about the environment you've built'; (2) within 48 hours, have skip-level conversations (him personally talking to the engineers two levels below him) to understand the lived experience — 'you'll learn more in 4 hours of real conversations than in 4 weeks of HR surveys'; (3) knowledge management: 'identify the single-point-of-failure knowledge holders and double-down on documentation and cross-training'; (4) on retention: 'compete on meaning and growth, not compensation — compensation can be matched; meaning and growth are harder to replicate.' He added: 'At Amazon we created a manufacturing-specific career track for engineers who wanted to stay on the technical ladder. The attrition dropped 40% in 2 years. I would do the same at BMW.'",
+        "interviewer_assessment": "The strongest talent management answer in the candidate pool. His skip-level conversation approach showed a specific, immediately deployable leadership tool. His Amazon Germany talent attrition story provided direct evidence of results. His 'compete on meaning and growth' framing was the most sophisticated and was the only answer directly supported by a comparable case."
+      }
+    ],
+    "case_study_performance": "Ashworth was the only candidate who asked for a 5-minute pause to 'think through the automotive manufacturing vocabulary' before answering. He then produced a structured response that was operationally reasonable but missing critical automotive specifics — he described the recovery action as 'fixing the assembly process' without identifying what the specific fix should be (he did not know the technical vocabulary for fixturing tolerance correction). His communication plan was the best in the pool — detailed, stakeholder-by-stakeholder, with timing and message-by-audience specificity. The interviewers' verdict: his crisis management and communication instincts are outstanding; his automotive manufacturing knowledge is zero. He acknowledged both openly."
+  },
+  "reference_checks": [
+    {
+      "referee_name": "Helen Powell",
+      "relationship": "VP People — Amazon EU (direct HR partner)",
+      "quote": "James is the highest-rated VP Operations leader in our EU network by both business performance and manager NPS score. He has the almost impossible combination of being excellent at systems design and genuinely loved by his teams. I want to be transparent: if he leaves Amazon for BMW, I will miss him enormously and the business will feel it. I have one flag to give you — James is sometimes so confident in his frameworks that he can underestimate domain expertise that he doesn't have. He is a very fast learner, but in his first 12 months in automotive he will be learning from people with 20 years of domain knowledge. He will need the humility to do that without trying to redesign everything before he understands it.",
+      "source": "External reference call, 2026-03-06 — supportive with important domain humility caveat"
+    },
+    {
+      "referee_name": "Burkhard Netz",
+      "relationship": "Former works council chair, Amazon Germany BER1 site (now elected to ver.di regional committee)",
+      "quote": "I opposed Amazon for many years. James Ashworth is the first Amazon manager I have met who I believe actually listens. The algorithm transparency agreement we reached is real — it is not a PR statement. I can say from our side of the table that he is the most constructive management interlocutor we have dealt with in Germany. Whether he knows about making cars — I have no idea. But I know how to work with him, which is not something I can say about many management representatives.",
+      "source": "External reference call, 2026-03-12 — uniquely credible union reference"
+    }
+  ],
+  "compensation": {
+    "current_base": "£310,000 (~€365,000)",
+    "current_total": "£520,000 (~€613,000 incl. Amazon RSU programme — significant unvested stock)",
+    "expected_package": "€320,000 base; €500,000 total — flagged that Amazon RSU buy-out would be required (estimated €250,000 opportunity cost)",
+    "notice_period": "3 months",
+    "availability": "July 2026 (subject to RSU buy-out)"
+  },
+  "red_flags": [
+    "Zero automotive or physical manufacturing experience — has never managed production of a physical product in a process manufacturing context; the cognitive and technical leap from e-commerce fulfilment to automotive assembly is the largest domain gap in the candidate pool",
+    "No IATF 16949, quality management system, or regulatory compliance knowledge in automotive context — would enter the role blind to the quality governance requirements that underpin the entire production system",
+    "Significant compensation package requiring buy-out (est. €250,000 RSU opportunity cost) plus total compensation expectation of €500,000 — above the current target range and creates an equity issue relative to internal candidates and the role's established peer group",
+    "German language B2 — operational and sufficient for conversation, but will require interpreter support for complex works council negotiations and legal discussions under the German Works Constitution Act; his ver.di credibility was built in English",
+    "His own reference flags a pattern of framework-confidence potentially overwhelming domain-humility in new environments — in automotive manufacturing, premature redesign before understanding is a specific and documented failure mode for non-automotive leaders"
+  ],
+  "green_flags": [
+    "54,000-person operational leadership is the largest workforce scale in the candidate pool by a significant factor — managing 3,000 BMW employees will not require him to develop new management architecture, only to adapt an existing one",
+    "EU fulfilment P&L of €6.8B — the largest financial scope in the candidate pool; €450M will be comfortable, not stretching",
+    "Germany works council and ver.di track record: secured the first multi-site framework agreement in Amazon Germany's history and received positive characterisation from ver.di for the first time in 5 years; this is genuinely impressive and directly relevant",
+    "EU Robotics Integration Programme: deployed advanced automation to 12 sites maintaining full operational throughput during installation — the closest transferable credential to an I4.0 production transformation",
+    "Skip-level talent intelligence approach and 'meaning and growth' retention philosophy showed the most sophisticated talent management thinking in the candidate pool — directly relevant for the Tesla attrition challenge"
+  ]
+}

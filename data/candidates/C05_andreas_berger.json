@@ -1,0 +1,329 @@
+{
+  "candidate_id": "C05",
+  "candidate_name": "Andreas Berger",
+  "candidate_type": "internal",
+  "current_employer": "BMW Group",
+  "current_title": "Head of Production Planning & Strategy — EV Division",
+  "years_experience_total": 17,
+  "years_in_current_role": 4,
+  "years_at_current_employer": 10,
+  "nationality": "German-Austrian",
+  "languages": ["German (native)", "English (C2)", "Italian (C1)", "Spanish (B2)"],
+  "education": [
+    {
+      "degree": "MBA — Strategy & Operations",
+      "institution": "INSEAD, Fontainebleau",
+      "year": 2013,
+      "distinction": "Dean's List; focus on operations strategy and stakeholder management in complex organisations"
+    },
+    {
+      "degree": "B.Sc. Industrial Engineering & Management",
+      "institution": "Technische Universität Wien (TU Vienna)",
+      "year": 2009,
+      "distinction": "Distinction; exchange semester at Politecnico di Milano"
+    }
+  ],
+  "certifications": [
+    "BMW Group Executive Development Programme — Advanced Leadership (2019)",
+    "Stakeholder Management & Negotiation, Harvard Negotiation Project (2020)",
+    "Strategic Programme Management (SPM), Oxford Saïd Business School (2021)",
+    "BMW Group iFACTORY Strategy Steering Group Member (2022)"
+  ],
+  "career_history": [
+    {
+      "company": "BMW Group",
+      "title": "Head of Production Planning & Strategy — EV Division",
+      "location": "Munich (Group headquarters)",
+      "start_year": 2022,
+      "end_year": null,
+      "scope": "45-person cross-functional planning function, €25M department budget, responsible for capacity planning, production strategy, and network optimisation across all BMW EV-producing plants globally",
+      "key_achievements": [
+        {
+          "achievement": "Negotiated the production network allocation framework for the Neue Klasse programme, securing agreement across 4 plants (Leipzig, Debrecen, Dingolfing, San Luis Potosí) on volume allocation and investment priorities",
+          "metric": "Framework agreed in 4 months vs. 14-month historical average for comparable network decisions; avoided estimated €120M in duplicated tooling investment through shared platform rationalisation",
+          "year": 2024,
+          "verifiable": true
+        },
+        {
+          "achievement": "Developed the EV ramp capacity model that became the basis for BMW Group's 5-year EV production investment plan, presented to the Supervisory Board",
+          "metric": "Model adopted by CFO and used in 2024 Investor Day presentation; capacity planning accuracy improved from ±22% to ±8% vs. actual volumes for existing EV models",
+          "year": 2023,
+          "verifiable": true
+        },
+        {
+          "achievement": "Brokered agreement between BMW Group and Hungarian government for €500M Debrecen expansion grants, navigating a 16-month negotiation process involving 4 ministries and the local municipality",
+          "metric": "€500M grant package secured; plant expansion capex reduced by 34% vs. unsubsidised scenario; relationship with Hungarian Prime Minister's economic office established for ongoing engagement",
+          "year": 2023,
+          "verifiable": true
+        }
+      ],
+      "reason_for_leaving": "Internal promotion candidate"
+    },
+    {
+      "company": "BMW Group",
+      "title": "Senior Manager — Government Affairs & Industrial Policy, EMEA",
+      "location": "Brussels (EU affairs office) & Munich",
+      "start_year": 2019,
+      "end_year": 2022,
+      "scope": "12-person government affairs team; responsible for BMW Group's engagement with EU legislative processes (Euro 7, EV mandate, battery regulation), national governments, and industry associations (ACEA, VDA)",
+      "key_achievements": [
+        {
+          "achievement": "Led BMW Group's contribution to the EU Battery Regulation legislative process, securing critical amendments on second-life battery requirements and carbon footprint methodology",
+          "metric": "3 BMW-proposed amendments adopted in final regulation text; estimated regulatory compliance cost reduction for BMW Group: €180M over 2024-2030",
+          "year": 2021,
+          "verifiable": true
+        },
+        {
+          "achievement": "Negotiated BMW Group's participation in the European Battery Alliance (EBA) advisory structure, establishing BMW as a co-chair of the manufacturing working group",
+          "metric": "BMW co-chair position secured; intelligence advantage estimated at 6-month lead time on EU battery policy developments vs. non-member OEMs",
+          "year": 2020,
+          "verifiable": true
+        }
+      ],
+      "reason_for_leaving": "Promoted to Head of Production Planning & Strategy"
+    },
+    {
+      "company": "BMW Group",
+      "title": "Manager — Corporate Strategy, BMW Group Headquarters",
+      "location": "Munich, Germany",
+      "start_year": 2016,
+      "end_year": 2019,
+      "scope": "Strategy team member supporting SVP-level strategy reviews and M&A analysis; team of 15; no direct reports initially, team lead of 4 from 2018",
+      "key_achievements": [
+        {
+          "achievement": "Led the strategic analysis supporting BMW's decision to establish the Debrecen Plant, including market entry assessment, government incentive analysis, and labour market modelling",
+          "metric": "Analysis presented to Management Board; Debrecen investment decision announced 2018; subsequent outcome validated 94% of labour cost and incentive assumptions in the analysis",
+          "year": 2018,
+          "verifiable": true
+        }
+      ],
+      "reason_for_leaving": "Offered government affairs leadership role aligned with strategy background"
+    },
+    {
+      "company": "Oliver Wyman",
+      "title": "Engagement Manager — Automotive & Industrial Practice",
+      "location": "Munich / Frankfurt / various client sites",
+      "start_year": 2013,
+      "end_year": 2016,
+      "scope": "Led consulting engagements for automotive OEMs and tier-1 suppliers on production strategy, network optimisation, and operational efficiency; managed teams of 3-5 consultants",
+      "key_achievements": [
+        {
+          "achievement": "Led a production network consolidation study for a major European OEM (confidential), recommending closure of 2 plants and rebalancing of 4 others",
+          "metric": "Client implemented 70% of recommendations; estimated annual saving €290M; engagement received 'Outstanding' client rating",
+          "year": 2015,
+          "verifiable": false
+        },
+        {
+          "achievement": "Developed BMW Group's first EV production readiness assessment (as external consultant, before joining BMW) — analysis that was subsequently validated internally and contributed to BMW's EV strategy pivot",
+          "metric": "Report cited internally by BMW strategy team; Berger subsequently recruited by BMW partly based on this work",
+          "year": 2015,
+          "verifiable": false
+        }
+      ],
+      "reason_for_leaving": "Joined BMW Group in corporate strategy role — career ambition to work inside an OEM"
+    },
+    {
+      "company": "Porsche Consulting",
+      "title": "Consultant",
+      "location": "Stuttgart, Germany",
+      "start_year": 2009,
+      "end_year": 2011,
+      "scope": "Consultant in automotive operations practice; analysis and project support role",
+      "key_achievements": [
+        {
+          "achievement": "Supported a production efficiency programme at a Porsche supplier, contributing to process analysis and improvement recommendations",
+          "metric": "Project delivered 14% cycle time reduction in targeted assembly cell; personal contribution as junior consultant was analytical support rather than leadership",
+          "year": 2011,
+          "verifiable": false
+        }
+      ],
+      "reason_for_leaving": "Took sabbatical for INSEAD MBA"
+    }
+  ],
+  "leadership_indicators": {
+    "leadership_style_self_described": "I lead through alignment. My job is to make sure the right people are in the room, the right information is on the table, and the right decisions get made. I'm at my best building coalitions and managing complex multi-stakeholder environments.",
+    "decision_making_style": "Deliberate and politically attuned. Reads the room before committing. Has an exceptional ability to sequence conversations to build momentum toward a desired outcome. Can be slow to decide when political consensus is unclear.",
+    "conflict_handling": "Diplomatically skilled — rarely in direct conflict. Uses reframing and relationship management to manage conflict indirectly. Has been described as 'Teflon' — rarely takes direct blame but also rarely drives through resistance.",
+    "change_orientation": "Strategic — excellent at designing change and building the case for it. Weaker at implementing change on the shopfloor — has limited direct operational accountability.",
+    "risk_appetite": "Moderate in strategic decisions, low in operational ones. Comfortable taking political risk in stakeholder negotiations; avoids operational decisions that could visibly fail.",
+    "notable_leadership_moments": [
+      {
+        "situation": "In 2023, the Debrecen plant expansion was at risk after Hungary announced a new foreign investment review law that could have delayed BMW's government grant approval by 18 months, threatening the Neue Klasse production timeline.",
+        "action": "Berger flew to Budapest within 48 hours, engaged the investment promotion agency directly, and co-designed a modified grant structure that satisfied Hungarian legal requirements while preserving BMW's timeline. He involved the German Embassy's commercial attaché, the VDA, and BMW's Hungarian plant director simultaneously.",
+        "outcome": "Grant package approved on original timeline; €500M secured; Debrecen expansion proceeded without delay.",
+        "source": "2023 Performance Review; Government Affairs debrief memo"
+      }
+    ]
+  },
+  "evidence_sources": {
+    "cv": true,
+    "performance_reviews": true,
+    "feedback_360": true,
+    "project_kpis": true,
+    "interview_notes": true,
+    "reference_checks": true
+  },
+  "performance_reviews": [
+    {
+      "year": 2025,
+      "reviewer": "Dr. Friedrich Blümel, SVP Strategy & Network, BMW Group",
+      "overall_rating": "4.0 / 5.0",
+      "performance_category": "Exceeds Expectations",
+      "summary": "Andreas is the best strategic stakeholder manager in the production organisation. The Debrecen grant negotiation and the Neue Klasse network framework are landmark achievements. My honest assessment for the Head of Production role: Andreas is a world-class strategist and relationship builder, but the role requires running a 3,000-person manufacturing operation — something Andreas has never done and has shown limited interest in.",
+      "strengths_noted": [
+        "Stakeholder management: best in organisation — government, supervisory board, union leadership, cross-plant management",
+        "Strategic planning: Neue Klasse capacity model is now BMW Group standard methodology",
+        "Coalition building: unique ability to align competing interests — demonstrated in multi-plant network negotiations"
+      ],
+      "development_areas": [
+        "Operational leadership: has never had direct accountability for production output, quality, or safety in a live manufacturing environment",
+        "Technical depth: relies entirely on technical advisors for engineering content — cannot independently assess technical options",
+        "People leadership at scale: largest team ever managed is 45 people; 3,000+ is a completely different challenge"
+      ],
+      "promotion_recommendation": "Strongly recommend for an SVP Strategy or Chief of Staff role. Not recommended for a direct production leadership appointment without a significant operational assignment first."
+    },
+    {
+      "year": 2023,
+      "reviewer": "Dr. Friedrich Blümel, SVP Strategy & Network, BMW Group",
+      "overall_rating": "4.2 / 5.0",
+      "performance_category": "Exceeds Expectations",
+      "summary": "An outstanding year strategically. The Debrecen grant outcome is the most significant single commercial achievement in my function in 5 years. Andreas continues to grow as a strategic leader. His operations profile remains a gap that needs addressing if he aspires to a broader production leadership role.",
+      "strengths_noted": [
+        "Government and regulatory affairs: acknowledged as BMW Group expert",
+        "Cross-functional influence without authority",
+        "Written communication: produces the clearest and most persuasive executive-level briefing documents in the function"
+      ],
+      "development_areas": [
+        "Factory floor time: has visited each BMW plant fewer than 4 times in 10 years",
+        "Supply chain operational depth: understands supply chain strategy but not supply chain operations",
+        "Crisis response in production environment: untested"
+      ],
+      "promotion_recommendation": "High potential for senior roles. Recommend a 12-month embedded assignment in a plant leadership team before any production VP consideration."
+    },
+    {
+      "year": 2021,
+      "reviewer": "Dr. Friedrich Blümel, SVP Strategy & Network, BMW Group",
+      "overall_rating": "3.9 / 5.0",
+      "performance_category": "Meets Expectations (High)",
+      "summary": "Andreas delivered well on the EU Battery Regulation work — the amendment outcomes exceeded expectations. He continues to be a highly effective operator in a political and strategic context. He has expressed ambition for broader leadership roles and I have encouraged him to seek operational experience as the next developmental step.",
+      "strengths_noted": [
+        "EU policy engagement: established BMW as credible voice in Battery Regulation process",
+        "Relationship quality: builds genuine, durable relationships with government and industry counterparts",
+        "Analytical depth in strategy and policy — highly credible with supervisory board"
+      ],
+      "development_areas": [
+        "Operations exposure remains the single largest gap",
+        "Technical credibility: engineering peers rate him as 'good on strategy, light on substance'",
+        "Accountability under operational pressure: untested in a live manufacturing crisis"
+      ],
+      "promotion_recommendation": "Promising for senior strategic roles. Must gain operational experience before any production leadership consideration."
+    }
+  ],
+  "feedback_360": {
+    "peers": [
+      {
+        "reviewer_role": "VP Production, Leipzig Plant",
+        "quote": "Andreas is the most politically sophisticated person I've worked with at BMW. He can walk into any room and find the alignment that others miss. He also knows almost nothing about what happens on my production floor — and he knows he doesn't know, which I respect. I would not want him running my plant.",
+        "theme": "Outstanding stakeholder management, acknowledged operational gap"
+      },
+      {
+        "reviewer_role": "VP Supply Chain, BMW Group",
+        "quote": "He's brilliant at negotiation and strategy. When there's a real supply crisis — trucks blocking, lines stopping — Andreas is not the person I'd call. He'd frame the problem beautifully, build a coalition, and schedule three meetings. I need someone who acts in an hour.",
+        "theme": "Strategic strength, crisis action gap"
+      },
+      {
+        "reviewer_role": "Head of Works Council, BMW Group (Central)",
+        "quote": "Andreas is one of the few management representatives who treats us as partners, not adversaries. He invests in relationship before he needs something. He's very credible with our members and with me personally. Whether he has the operational chops for a plant leadership role — that's a different question that I genuinely don't know the answer to.",
+        "theme": "Excellent union relationship, operational credibility unknown"
+      }
+    ],
+    "direct_reports": [
+      {
+        "reviewer_role": "Senior Production Planner (anonymised)",
+        "quote": "Working for Andreas is excellent for your career visibility. He puts you in front of senior people, gives you real responsibility, and creates space for you to contribute. He's less good at giving technical feedback — he'll tell you if your stakeholder strategy is wrong, but he can't help you if your planning model is wrong.",
+        "theme": "Career development strength, technical mentoring gap"
+      },
+      {
+        "reviewer_role": "Strategy Manager (anonymised)",
+        "quote": "He's a brilliant manager for strategy people. He gives direction, clears obstacles, and fights for the team's work. I sometimes wish he pushed us harder technically — he accepts outputs that I think could be more rigorous.",
+        "theme": "Good manager, insufficient technical challenge"
+      },
+      {
+        "reviewer_role": "Government Affairs Manager (anonymised)",
+        "quote": "Andreas taught me everything about how to operate in a complex stakeholder environment. He is a master at it. I'm not sure he's the right fit for a role where you need to make fast decisions about production lines — that's not where his genius lies.",
+        "theme": "Exceptional stakeholder development, production leadership gap"
+      }
+    ],
+    "senior_leadership": [
+      {
+        "reviewer_role": "SVP Strategy & Network, BMW Group",
+        "quote": "Andreas is my best strategic asset in the production organisation. He cannot replace an operational leader and I would be concerned if this process mistook strategy excellence for operational leadership readiness.",
+        "theme": "Clear non-endorsement for operational role"
+      },
+      {
+        "reviewer_role": "SVP Production, BMW Group (Klaus Richter — hiring manager)",
+        "quote": "Andreas is on the shortlist because he brings something genuinely different — stakeholder management and strategic navigation that operational candidates don't have. My concern is that in week one of this role, I will need someone who can run 3 plants, not someone who can negotiate with governments. The question is whether Andreas can develop the operational credibility fast enough.",
+        "theme": "Conditional interest — operational uncertainty from the hiring manager"
+      }
+    ]
+  },
+  "interview_notes": {
+    "interviewer": "Dr. Sabine Müller, Executive Search Partner; Klaus Richter, SVP Production",
+    "date": "2026-02-24",
+    "format": "Structured competency interview + live case study (90 min)",
+    "overall_impression": "Berger walked into the room as if he owned it — composed, warm, self-assured. His verbal answers were polished and persuasive. The interviewers noted that he was the only candidate who, rather than answering questions directly, occasionally reframed the question in a way that played to his strengths. In the case study, his stakeholder management instincts were brilliant; his operational problem-solving was the weakest in the candidate pool.",
+    "question_responses": [
+      {
+        "question": "How would you handle a 6-month semiconductor supply disruption across 3 plants?",
+        "response_summary": "Berger's response was structured around stakeholder management: immediately brief the SVP and Management Board with a clear framing and proposed decision; convene a cross-functional steering group with supply chain, finance, and sales; ensure the works councils at all 3 plants are in the communication loop from Day 3 (not day 30); engage government contacts in Germany and Hungary to understand if any state mechanisms (EU emergency supply reserves, export controls) could be relevant. He mentioned customer communication, media management, and supplier relationship management. When probed on specific production adaptations (build-out, variant sequencing), he acknowledged he would rely on his production directors for those decisions.",
+        "interviewer_assessment": "Excellent on the political and communication dimension — the best response in the candidate pool on stakeholder coordination. Completely absent on the operational dimension. He does not know what build-out sequencing is, and when pressed he said 'I would delegate the operational detail.' That is concerning for the Head of Production role."
+      },
+      {
+        "question": "How would you accelerate Neue Klasse SOP by 6 months?",
+        "response_summary": "Berger proposed a governance-first response: a dedicated acceleration steering committee with clear ownership; a political path to unlock additional funding if needed; and early alignment with government on any workforce hiring requirements. He mentioned 'removing bureaucratic obstacles from the engineering and production teams' and 'fighting internally for the resources they need.' He did not propose any specific operational or technical levers. When asked which 3 activities on the critical path he would prioritise, he said he 'would need to review the programme plan with the engineering team first.'",
+        "interviewer_assessment": "The governance dimension was reasonable. The absence of any operational or technical content was significant. He is not a credible interlocutor for the engineering and production teams who will be running the SOP — they will not respect an answer about 'removing bureaucratic obstacles.'"
+      },
+      {
+        "question": "What would you do if Tesla poached 15% of your production engineers?",
+        "response_summary": "This was Berger's best interview answer. He proposed a comprehensive retention and employer brand strategy: engage HR for an immediate compensation benchmarking review; launch an 'employer value proposition' refresh specifically for engineering talent; engage works council partners as talent retention allies; use his government relationships to explore whether Bavarian state incentives for skilled worker retention (a real policy area in Germany) could be leveraged; and fundamentally — 'I would want to understand what Tesla is offering that we aren't, and fix it.' He noted the reputational risk if the news went public.",
+        "interviewer_assessment": "Strong — shows his strength in multi-stakeholder strategy. The government-incentive angle was creative and shows genuine domain knowledge. Interviewers still noted he did not address knowledge management or succession for the departed engineers — the operational continuity piece."
+      }
+    ],
+    "case_study_performance": "Berger produced a detailed stakeholder communication plan for the Debrecen battery pack integration case. He identified who needed to know what and when, including government contacts in Hungary, works council chairs, SVP Production, and the BMW press office. He did not identify the root cause of the integration failure — when asked, he said he 'would bring in the right technical expert.' His recovery plan focused on governance and communication rather than technical resolution. Interviewers rated his case study as 'Strong on Governance, Inadequate on Operations.'"
+  },
+  "reference_checks": [
+    {
+      "referee_name": "Dr. Péter Szijjártó (alias used — actual identity protected)",
+      "relationship": "Hungarian government counterpart in Debrecen grant negotiation",
+      "quote": "Mr. Berger was the most professional and constructive industrial negotiator I have worked with in 12 years in this ministry. He understood our political constraints and found solutions that worked for both sides. I would work with him again without hesitation.",
+      "source": "External reference, 2026-02-06"
+    },
+    {
+      "referee_name": "Dr. Friedrich Blümel",
+      "relationship": "Direct manager — SVP Strategy & Network, BMW Group (internal, verified)",
+      "quote": "Andreas is outstanding at what he does. What he does is not running a production facility. I want to be clear: I support his ambition, and I do not want this reference to close doors for him. But I also want to be honest — the Head of Production role requires operational leadership that Andreas has not demonstrated and for which I have no evidence. I would support him for a Chief of Staff or SVP Strategy role without hesitation.",
+      "source": "Internal reference, HR file 2026-01-25"
+    }
+  ],
+  "compensation": {
+    "current_base": "€205,000",
+    "current_total": "€290,000 (incl. performance bonus 32% + LTI)",
+    "expected_package": "€250,000 base; €360,000 total",
+    "notice_period": "3 months",
+    "availability": "July 2026"
+  },
+  "red_flags": [
+    "No direct production management experience — has never had accountability for production output, quality, or safety in a live manufacturing environment; managing 3,000+ workers is entirely untested",
+    "Largest team ever managed is 45 people — the scale gap to 3,000+ is not bridgeable by stakeholder skill alone",
+    "Technical credibility with engineers and production teams is explicitly flagged as a gap — 'light on substance' in peer feedback; production teams will not follow strategy without operational respect",
+    "Crisis response in an operational environment is completely untested — his crisis management experience is political/governmental, not production-floor",
+    "Self-aware about the gap but potentially underestimating it — described his operational limitation as something he would 'delegate to plant directors' which is not a viable model for a Head of Production role"
+  ],
+  "green_flags": [
+    "Best stakeholder management credentials in the candidate pool — government, supervisory board, works council, media, and cross-functional internal stakeholders; critical for a politically complex role",
+    "Personally secured €500M in Debrecen government grants — this kind of relationship and negotiation capability is rare and directly valuable for the role",
+    "Neue Klasse network framework: demonstrated ability to align 4 plants on production allocation — exactly the cross-plant coordination the role requires strategically",
+    "Supervisory board-level credibility: has personally presented to the BMW Supervisory Board; will not be intimidated by the politics of a senior executive role",
+    "Strong works council relationship: central works council chair rates him as 'one of the few management representatives who treats us as partners' — invaluable for a 3,000+ union workforce"
+  ]
+}

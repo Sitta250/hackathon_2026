@@ -1,0 +1,325 @@
+{
+  "candidate_id": "C01",
+  "candidate_name": "Dr. Stefan Keller",
+  "candidate_type": "internal",
+  "current_employer": "BMW Group",
+  "current_title": "Vice President Production — 3 Series & 4 Series, Dingolfing Plant",
+  "years_experience_total": 24,
+  "years_in_current_role": 5,
+  "years_at_current_employer": 18,
+  "nationality": "German",
+  "languages": ["German (native)", "English (C1)", "French (B1)"],
+  "education": [
+    {
+      "degree": "Dr.-Ing. (PhD) Mechanical Engineering — Production Systems",
+      "institution": "Technische Universität München",
+      "year": 2002,
+      "distinction": "Summa Cum Laude; thesis on adaptive line-balancing algorithms for mixed-model assembly"
+    },
+    {
+      "degree": "Dipl.-Ing. Mechanical Engineering",
+      "institution": "Karlsruhe Institute of Technology (KIT)",
+      "year": 1999,
+      "distinction": "Top 5% cohort"
+    }
+  ],
+  "certifications": [
+    "Six Sigma Black Belt (ASQ, 2007)",
+    "IATF 16949 Internal Auditor (2009)",
+    "BMW Group Executive Leadership Program — Class of 2014",
+    "Lean Manufacturing Expert, BMW Group Internal (2011)"
+  ],
+  "career_history": [
+    {
+      "company": "BMW Group",
+      "title": "VP Production — 3 Series & 4 Series, Dingolfing",
+      "location": "Dingolfing, Germany",
+      "start_year": 2019,
+      "end_year": null,
+      "scope": "2,200-person production workforce, €280M annual operating budget, 3 Series sedan/touring and 4 Series coupe body-in-white through final assembly",
+      "key_achievements": [
+        {
+          "achievement": "Increased overall equipment effectiveness (OEE) across Dingolfing 3 Series line from 81.4% to 91.7% through a structured TPM programme over 18 months",
+          "metric": "OEE +10.3pp; equated to 22,400 additional vehicles annually without capex",
+          "year": 2021,
+          "verifiable": true
+        },
+        {
+          "achievement": "Led SOP execution for the 3 Series LCI (G20 facelift) with zero Day-1 quality holds — first Dingolfing SOP in 8 years to achieve this milestone",
+          "metric": "D1 quality rate 99.1% (target was 96.0%); launch premium €0 vs plan",
+          "year": 2022,
+          "verifiable": true
+        },
+        {
+          "achievement": "Reduced warranty-relevant defect rate (PPM outgoing) from 412 to 187 PPM across a 24-month Six Sigma programme involving 14 DMAIC projects",
+          "metric": "PPM -54.6%; estimated warranty savings €43M cumulative",
+          "year": 2023,
+          "verifiable": true
+        }
+      ],
+      "reason_for_leaving": "Internal promotion candidate"
+    },
+    {
+      "company": "BMW Group",
+      "title": "Head of Body Shop — Dingolfing Plant",
+      "location": "Dingolfing, Germany",
+      "start_year": 2014,
+      "end_year": 2019,
+      "scope": "680 direct reports, 340 robots, €60M department budget, responsible for all BIW operations for 7-Series and 5-Series",
+      "key_achievements": [
+        {
+          "achievement": "Deployed first AI-assisted weld-seam inspection system in Dingolfing body shop, reducing manual inspection headcount by 12 FTEs while improving detection rate",
+          "metric": "False-negative defect escape rate reduced from 3.2% to 0.4%; €2.1M annual labour saving",
+          "year": 2017,
+          "verifiable": true
+        },
+        {
+          "achievement": "Managed 7-Series G12 model changeover, compressing shutdown window from planned 18 days to 11 days without quality deviation",
+          "metric": "Production restart 7 days ahead; opportunity cost saving estimated at €31M",
+          "year": 2015,
+          "verifiable": true
+        }
+      ],
+      "reason_for_leaving": "Promoted to VP Production role"
+    },
+    {
+      "company": "BMW Group",
+      "title": "Production Group Leader — Final Assembly, Dingolfing",
+      "location": "Dingolfing, Germany",
+      "start_year": 2009,
+      "end_year": 2014,
+      "scope": "85 direct reports, trim-and-final assembly for 5 Series, shift supervisory responsibility",
+      "key_achievements": [
+        {
+          "achievement": "Designed and implemented a station cycle-time rebalancing initiative that eliminated the single largest bottleneck in the 5-Series F10 final assembly line",
+          "metric": "Takt time reduced from 74s to 68s; line output increased by 8.8% without headcount increase",
+          "year": 2012,
+          "verifiable": true
+        }
+      ],
+      "reason_for_leaving": "Promoted to Head of Body Shop"
+    },
+    {
+      "company": "BMW Group",
+      "title": "Production Engineer / Six Sigma Project Lead",
+      "location": "Munich, Germany",
+      "start_year": 2006,
+      "end_year": 2009,
+      "scope": "Individual contributor then team-lead of 6-person DMAIC project teams across multiple plants",
+      "key_achievements": [
+        {
+          "achievement": "Led cross-plant Six Sigma project targeting paint-shop rework rates at Regensburg and Dingolfing",
+          "metric": "Rework rate reduced from 18.3% to 9.7%; combined saving €8.4M/year",
+          "year": 2008,
+          "verifiable": true
+        }
+      ],
+      "reason_for_leaving": "Promoted to Production Group Leader"
+    },
+    {
+      "company": "Robert Bosch GmbH",
+      "title": "Process Development Engineer",
+      "location": "Stuttgart, Germany",
+      "start_year": 2002,
+      "end_year": 2006,
+      "scope": "R&D and process engineering for diesel injection systems manufacturing, 4-person project team",
+      "key_achievements": [
+        {
+          "achievement": "Developed revised honing process for common-rail injector bores achieving tighter tolerance capability",
+          "metric": "Cpk improvement from 1.22 to 1.67; scrap rate reduced 31%",
+          "year": 2005,
+          "verifiable": false
+        }
+      ],
+      "reason_for_leaving": "Joined BMW Group for greater leadership scope"
+    }
+  ],
+  "leadership_indicators": {
+    "leadership_style_self_described": "Structured operator — I believe in clear standards, measured accountability, and letting data drive decisions. My job is to build systems that don't need me to function.",
+    "decision_making_style": "Deliberate and evidence-based. Prefers structured analysis (A3, DMAIC) before committing to a course of action. Uncomfortable with high-ambiguity decisions where data is sparse.",
+    "conflict_handling": "Direct but formal. Escalates through established channels. Has been described as 'procedurally correct but slow to resolve interpersonal tension informally.'",
+    "change_orientation": "Incremental improver. Excels at optimizing existing systems; less comfortable designing from scratch. Has expressed skepticism about 'digital transformation' initiatives that lack proven ROI.",
+    "risk_appetite": "Conservative. Will accept operational risk only when supported by a robust business case and mitigation plan. Has never led a greenfield startup.",
+    "notable_leadership_moments": [
+      {
+        "situation": "During Q3 2021, a critical torque-press failure in the body shop threatened to halt 5-Series production for an estimated 4 days during peak export season.",
+        "action": "Keller personally convened a 90-minute PDCA war room, sourced a replacement press head from the Regensburg plant via overnight logistics, and redesigned station sequencing to run around the degraded tool for 31 hours.",
+        "outcome": "Production loss limited to 6.5 hours (vs. 4-day estimate); zero customer delivery delays; documented as a BMW Group 'Best Practice in Crisis Response' case.",
+        "source": "2021 Performance Review, Plant Director Jürgen Braun"
+      },
+      {
+        "situation": "2022 IG Metall regional strike threat at Dingolfing — workforce sentiment survey showed 41% of body shop employees considering strike action over shift rotation changes.",
+        "action": "Keller engaged works council directly, commissioned an independent ergonomics review, and modified 3 of the 5 contested rotation schedules within 4 weeks.",
+        "outcome": "Strike vote did not proceed; workforce sentiment score recovered to 68% positive within 2 quarters.",
+        "source": "HR Employee Relations report, 2022; 360 Feedback cycle 2023"
+      }
+    ]
+  },
+  "evidence_sources": {
+    "cv": true,
+    "performance_reviews": true,
+    "feedback_360": true,
+    "project_kpis": true,
+    "interview_notes": true,
+    "reference_checks": true
+  },
+  "performance_reviews": [
+    {
+      "year": 2023,
+      "reviewer": "Jürgen Braun, Plant Director Dingolfing",
+      "overall_rating": "4.2 / 5.0",
+      "performance_category": "Exceeds Expectations",
+      "summary": "Stefan continues to be the most reliable production leader in the plant. His management of the G20 LCI SOP was textbook. His teams deliver consistently and his metrics are among the best in the BMW network.",
+      "strengths_noted": [
+        "Exceptional process discipline and quality focus",
+        "Outstanding crisis response under operational pressure",
+        "Strong works council relationships built over many years"
+      ],
+      "development_areas": [
+        "Digital transformation leadership — Stefan needs to more actively champion I4.0 initiatives rather than delegating them to his engineering team",
+        "Cross-functional influencing outside his direct chain — tendency to operate in silo"
+      ],
+      "promotion_recommendation": "Ready for next level in 12-18 months if he broadens his digital manufacturing portfolio"
+    },
+    {
+      "year": 2022,
+      "reviewer": "Jürgen Braun, Plant Director Dingolfing",
+      "overall_rating": "4.0 / 5.0",
+      "performance_category": "Meets Expectations (High)",
+      "summary": "A strong year for Stefan. The LCI preparation work was exceptional. Some concern about his engagement with the BMW iFACTORY digitalisation roadmap — he is not leading from the front on this agenda.",
+      "strengths_noted": [
+        "Operational excellence mindset deeply embedded in his team culture",
+        "Excellent budget management — underspent by 3.1% with no trade-off in output",
+        "High workforce stability — attrition 2.3% vs. plant average 5.1%"
+      ],
+      "development_areas": [
+        "Needs to accelerate digital literacy personally and model this for direct reports",
+        "Strategic horizon — focus tends to be current-year performance rather than 3-5yr transformation"
+      ],
+      "promotion_recommendation": "Strong candidate for broader VP role; recommend digital exposure assignment"
+    },
+    {
+      "year": 2021,
+      "reviewer": "Jürgen Braun, Plant Director Dingolfing",
+      "overall_rating": "4.4 / 5.0",
+      "performance_category": "Exceeds Expectations",
+      "summary": "Stefan's handling of the press failure incident in Q3 was exceptional and demonstrates exactly the crisis-response capability we need at the next level. His OEE improvement programme has been the standout plant achievement of the year.",
+      "strengths_noted": [
+        "OEE programme delivered €22M+ annualised value — best plant result in 5 years",
+        "Crisis leadership: maintained composure and problem-solved rapidly under extreme time pressure",
+        "Mentoring of two senior team leaders who were subsequently promoted"
+      ],
+      "development_areas": [
+        "International exposure remains limited — has not operated outside Dingolfing",
+        "EV-specific production experience is indirect — should seek assignment on EV lines"
+      ],
+      "promotion_recommendation": "High potential for VP-level role. Needs EV manufacturing exposure before taking a broader EV-focused position."
+    }
+  ],
+  "feedback_360": {
+    "peers": [
+      {
+        "reviewer_role": "VP Production Planning, Dingolfing",
+        "quote": "Stefan is the person I want running production when something goes wrong. He's calm, methodical, and he gets the right people in the room immediately. His only gap is that he's sometimes reluctant to commit to a path before he has all the data — in a crisis that's fine, but in a fast-moving planning environment it can slow us down.",
+        "theme": "Operational strength, deliberate pace"
+      },
+      {
+        "reviewer_role": "Head of Logistics & Materials, Dingolfing",
+        "quote": "Stefan is a brilliant operator but he can be territorial. Early in the OEE programme he wasn't forthcoming about a logistics bottleneck because he wanted to own the solution. We lost about 6 weeks because of that. When he does collaborate, the results are outstanding.",
+        "theme": "Excellence with occasional silo behaviour"
+      },
+      {
+        "reviewer_role": "VP Quality Assurance, BMW Group",
+        "quote": "In 18 years of working with plant leaders, Stefan is in the top three I've encountered for quality mindset. He doesn't just hit quality targets — he builds cultures that sustain them. His PPM improvement programme will be used as a training case for years.",
+        "theme": "Exceptional quality leadership"
+      }
+    ],
+    "direct_reports": [
+      {
+        "reviewer_role": "Head of Final Assembly, Dingolfing (anonymised)",
+        "quote": "He sets extremely high standards and holds everyone to them, including himself. He's not the warmest leader but he is completely fair and he always has time for a genuine problem. I've learned more about production management from Stefan than from anyone else in my career.",
+        "theme": "Demanding but fair; exceptional teacher"
+      },
+      {
+        "reviewer_role": "Production Planning Manager (anonymised)",
+        "quote": "Sometimes decisions sit with him for too long. He wants more analysis than is practical when we need to move fast. I wish he would delegate more of the smaller decisions and trust us to bring him the big ones.",
+        "theme": "Bottleneck on fast-moving decisions"
+      },
+      {
+        "reviewer_role": "Shift Supervisor, Body Shop (anonymised)",
+        "quote": "Stefan is the best boss I've had. He knows every station on the line — he's not a manager sitting in an office. When there's a problem on the floor he's the first one there.",
+        "theme": "Hands-on, respected on the floor"
+      }
+    ],
+    "senior_leadership": [
+      {
+        "reviewer_role": "Plant Director, Dingolfing",
+        "quote": "Stefan is the clearest successor for a broader production VP role in the plant network. My only hesitation is the EV gap — this role is fundamentally about EV, and Stefan's direct EV experience is limited to adjacent exposure. He would need 6-12 months to come up to speed on EV-specific production challenges.",
+        "theme": "Strong endorsement with EV caveat"
+      },
+      {
+        "reviewer_role": "SVP Production Strategy, BMW Group",
+        "quote": "Stefan is what I call a 'deep expert' leader — he is exceptional within his domain and has earned enormous credibility. The question for this role is whether he can lead transformation rather than optimization. His track record is optimization. That is an important distinction for the Neue Klasse challenge.",
+        "theme": "Optimization vs. transformation capability gap"
+      }
+    ]
+  },
+  "interview_notes": {
+    "interviewer": "Dr. Sabine Müller, Executive Search Partner; Klaus Richter, SVP Production",
+    "date": "2026-02-18",
+    "format": "Structured competency interview + live case study (90 min)",
+    "overall_impression": "Keller presented with quiet authority and substance. Every answer was grounded in data and experience. He was visibly more confident answering operational questions than strategic or transformation-oriented ones. The case study performance was technically excellent but revealed a preference for sequential analysis over rapid iteration.",
+    "question_responses": [
+      {
+        "question": "How would you handle a 6-month semiconductor supply disruption across 3 plants?",
+        "response_summary": "Keller immediately structured his response around a phased response model: (1) 72-hour crisis triage — map exact affected variants, create a vehicle-priority matrix weighted by margin and contract obligations; (2) 2-week plan — activate second-source suppliers already on the approved vendor list, initiate spot market assessment, convene cross-functional semiconductor task force; (3) operational adjustment — implement build-out sequencing (complete vehicles without affected chips, park and retrofit); (4) 6-month horizon — accelerate dual-sourcing programme for top-30 critical semiconductors. He cited the 2021 industry-wide shortage as experience, noting that Dingolfing lost 11,400 units but recovered 7,200 through his team's build-out sequencing initiative.",
+        "interviewer_assessment": "Extremely strong. He has lived this scenario. His build-out methodology is well-documented and the metrics were credible. Minor gap: he did not address government/political stakeholder communication proactively — needed prompting."
+      },
+      {
+        "question": "How would you accelerate Neue Klasse SOP by 6 months?",
+        "response_summary": "Keller outlined a critical-path analysis approach: identify the top-5 gating milestones, assign a dedicated rapid-response team to each, and create a daily deviation management board with 24-hour escalation protocols. He proposed leveraging simulation tools (digital twin of the line) to front-load problem-solving before physical installation. He emphasised that quality cannot be traded for speed — 'a 6-month early SOP that generates 6 months of quality problems is a net negative.' He was more cautious than the interviewers expected, qualifying heavily.",
+        "interviewer_assessment": "Competent but conservative. His quality-first instinct is correct, but the interviewers probed whether he had the appetite to make bold compromises to hit the timeline — he seemed uncomfortable with that framing. Takeshi Nakamura-like caution, not Tesla-like urgency."
+      },
+      {
+        "question": "What would you do if Tesla poached 15% of your production engineers?",
+        "response_summary": "Keller's response focused on retention architecture: structured stay interviews within 30 days, competitive compensation benchmarking, and creating visible career progression pathways. He would also immediately identify the critical-knowledge engineers among the 15% and implement a knowledge-transfer programme regardless of whether they stayed. For backfill, he would look internally first (apprenticeship accelerated pathways), then externally. He acknowledged this was a gap in his direct experience — 'I've never faced talent war with a new-entrant OEM at this scale.'",
+        "interviewer_assessment": "Honest and structured. His retention instincts are sound. His candour about inexperience in talent-competition scenarios was refreshing but also a genuine gap for a role where BMW-to-Tesla attrition is a live threat."
+      }
+    ],
+    "case_study_performance": "Presented with a 90-minute live case: a simulated Neue Klasse battery pack integration delay at Debrecen (3 weeks behind after SOP week 2). Keller correctly identified the root cause (fixturing design mismatch not caught in digital validation) and proposed a structured 5-step recovery plan. His solution was methodically sound but took 25 minutes to structure before he began solving — interviewers noted a peer candidate had begun proposing solutions in 8 minutes. His final recommendation was conservative but defensible."
+  },
+  "reference_checks": [
+    {
+      "referee_name": "Jürgen Braun",
+      "relationship": "Direct manager — Plant Director Dingolfing (internal, verified)",
+      "quote": "Stefan is the most reliable production leader I have managed in 30 years. If I am choosing someone to run an established production system flawlessly, Stefan is my first call. If I am choosing someone to build something new from ambiguity — that is a different conversation.",
+      "source": "Internal reference, HR file 2026-01-22"
+    },
+    {
+      "referee_name": "Dr. Andreas Schell",
+      "relationship": "Former peer — VP Production 5-Series (now external)",
+      "quote": "Stefan and I worked together on the G30 launch. He was outstanding. He will not take a shortcut even when one is clearly available — sometimes that is exactly right, and sometimes it costs you two weeks you didn't have.",
+      "source": "External reference call, 2026-02-05"
+    }
+  ],
+  "compensation": {
+    "current_base": "€285,000",
+    "current_total": "€410,000 (incl. performance bonus 35% + LTI)",
+    "expected_package": "€320,000 base; €480,000 total",
+    "notice_period": "6 months",
+    "availability": "September 2026 earliest"
+  },
+  "red_flags": [
+    "Zero direct EV production line experience — entire career has been ICE/PHEV; EV-specific challenges (battery module integration, high-voltage safety protocols, BMS calibration at SOP) are new territory",
+    "Digital manufacturing (I4.0) has consistently appeared as a development area in 3 consecutive performance reviews; has not self-initiated any digital transformation projects",
+    "Conservative risk appetite and slow decision-making under ambiguity — peer feedback consistently notes he delays decisions when data is incomplete, which is problematic for a Neue Klasse ramp-up environment",
+    "International exposure is limited to Dingolfing plant visits — has never held a leadership role outside Germany or managed multi-country teams"
+  ],
+  "green_flags": [
+    "18 years of BMW institutional knowledge with deep Dingolfing network — works council, supplier, and engineering relationships are immediately deployable",
+    "Proven SOP execution: G20 LCI delivered with 99.1% Day-1 quality rate, best Dingolfing result in 8 years",
+    "Six Sigma Black Belt with documented, quantified results — PPM reduction programme saved estimated €43M in warranty costs",
+    "Exceptional crisis leadership: press failure incident recovered in 6.5 hours vs. 4-day estimate — documented BMW Group best practice",
+    "Highest workforce stability of any VP at Dingolfing: attrition 2.3% vs. 5.1% plant average — reflects genuine team loyalty"
+  ]
+}

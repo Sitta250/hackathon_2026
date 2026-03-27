@@ -1,0 +1,153 @@
+{
+	"team_profile_id": "BMW-EV-EMEA-TEAM-2026-001",
+	"team_name": "EV Division EMEA Leadership Team",
+	"role_being_hired": "Head of Production - EV Division, EMEA",
+	"team_members": [
+	  {
+		"member_id": "T01",
+		"name": "Klaus Richter",
+		"title": "SVP Production EMEA",
+		"relationship_to_role": "boss",
+		"years_in_role": 7,
+		"years_at_bmw": 25,
+		"background": "Klaus Richter has spent most of his career inside BMW production leadership roles, with a short early-career period at Audi before joining BMW. He built his reputation through stable plant performance, disciplined escalation, and an ability to keep politically sensitive operations under control. He is deeply socialized into BMW's internal operating norms and places high trust in leaders who understand the unwritten rules of the organization. He has previously blocked external executive hires when he believed they would create disruption without sufficient cultural fit.",
+		"leadership_style": "Klaus leads through structure, predictability, and tight control of escalation. He prefers disciplined operators who do not create noise, force unnecessary confrontation, or surprise him in front of senior stakeholders. He gives autonomy slowly and only after a leader proves judgment, loyalty, and internal calibration.",
+		"decision_making": "He makes decisions cautiously and prefers to reduce uncertainty before committing. He relies heavily on trusted internal signals, pattern recognition from prior BMW cases, and informal stakeholder reads in addition to formal business logic. He is willing to act decisively, but only when he believes the situation is fully understood and politically containable.",
+		"personality_traits": [
+		  "conservative",
+		  "risk-averse",
+		  "protective",
+		  "status-conscious",
+		  "loyal to insiders",
+		  "disciplined",
+		  "low-tolerance for surprises"
+		],
+		"communication_style": "Formal, measured, and hierarchical. He dislikes overly polished consultant language and becomes skeptical when someone sounds more visionary than operational.",
+		"what_they_value_in_new_hire": "A calm, credible production leader who understands BPS, can manage quality gates and escalation discipline, and will not destabilize the EMEA production network. He values internal legitimacy, operational maturity, and someone who knows when to push and when not to.",
+		"what_would_cause_friction": "Publicly challenging legacy BMW processes too early, bypassing him in executive discussions, overpromising transformation speed, or appearing more loyal to a personal agenda than to the production organization. He will react badly to any candidate who seems culturally dismissive of BMW's way of working.",
+		"known_biases": "Strong preference for internal candidates or external hires from German automotive environments. Suspicious of leaders from Tesla, Amazon, or software-led companies. Likely to overweight cultural fit and underweight unconventional upside.",
+		"relationship_with_other_team_members": "Aligns strongly with Hans-Peter on discipline and quality rigor, and with Thomas on organizational stability. Maintains a pragmatic working relationship with Eva when numbers support his position. He often finds Sophie useful but too aggressive and insufficiently political."
+	  },
+	  {
+		"member_id": "T02",
+		"name": "Dr. Hans-Peter Winkler",
+		"title": "Head of Quality",
+		"relationship_to_role": "peer",
+		"years_in_role": 9,
+		"years_at_bmw": 25,
+		"background": "Hans-Peter is a long-tenured BMW quality executive with deep roots in manufacturing engineering, process validation, and formal quality systems. He built his standing through quality containment during difficult launches and is seen as a guardian of premium manufacturing standards. He has little patience for leaders who talk about speed without showing respect for process capability. He openly views Tesla-style tolerance for post-launch imperfection as incompatible with BMW's premium brand promise.",
+		"leadership_style": "He is exacting, uncompromising, and standards-driven. He leads by insisting on process discipline, technical precision, and clear accountability for deviations. He is respected for competence but often feared for rigidity.",
+		"decision_making": "He makes decisions analytically and from a quality-risk-first perspective. When data is incomplete, he defaults toward containment and risk reduction. He will accept delay, cost, and internal frustration if he believes that is necessary to protect product integrity and customer trust.",
+		"personality_traits": [
+		  "perfectionist",
+		  "rigid",
+		  "principled",
+		  "skeptical",
+		  "detail-obsessed",
+		  "technically authoritative",
+		  "low-empathy in conflict"
+		],
+		"communication_style": "Direct, technical, and often blunt. He uses evidence, tolerances, and standards language rather than diplomatic framing.",
+		"what_they_value_in_new_hire": "A production leader who respects quality gates, understands process capability, and does not treat quality as an obstacle to throughput. He values technical depth, seriousness, and a willingness to stop production when required.",
+		"what_would_cause_friction": "Any 'move fast and fix later' mindset, tolerance for launch instability, or attempts to pressure quality teams into accepting elevated risk. He will quickly become adversarial with candidates who frame him as slow or bureaucratic.",
+		"known_biases": "Systematically favors candidates with German automotive, plant, and quality-heavy backgrounds. Likely to discount leaders from high-growth tech-manufacturing cultures. Tends to equate quality conservatism with executive maturity.",
+		"relationship_with_other_team_members": "Strong natural alliance with Klaus on control and operating discipline. Periodic tension with Sophie because she pushes speed and reform. Good working alignment with Eva when quality risk is translated into financial terms. Thomas sees him as difficult but predictable."
+	  },
+	  {
+		"member_id": "T03",
+		"name": "Sophie Laurent",
+		"title": "Head of Supply Chain",
+		"relationship_to_role": "peer",
+		"years_in_role": 3,
+		"years_at_bmw": 6,
+		"background": "Sophie Laurent joined BMW after McKinsey and has become one of the more visible modernizers in the EV operating environment. Her background spans supply chain transformation, scenario modeling, and performance management in complex industrial settings. She is less emotionally attached to legacy BMW habits than the longer-tenured leaders and is comfortable challenging slow governance if she believes it blocks performance. She is seen by some as high-potential and by others as politically dangerous.",
+		"leadership_style": "Fast-paced, demanding, and analytically aggressive. She expects leaders to make decisions with imperfect information and to use data to force clarity rather than wait for consensus. She values speed, adaptability, and intellectual sharpness over institutional caution.",
+		"decision_making": "She is hypothesis-driven, data-heavy, and comfortable making directional calls before perfect certainty exists. She updates quickly when evidence changes and has little respect for indecision disguised as alignment. She tends to favor strategic momentum over procedural comfort.",
+		"personality_traits": [
+		  "analytical",
+		  "ambitious",
+		  "fast-paced",
+		  "impatient",
+		  "reform-oriented",
+		  "intellectually confident",
+		  "results-driven"
+		],
+		"communication_style": "Sharp, concise, and sometimes abrasive. She asks hard questions fast and has limited patience for slow, circular discussion.",
+		"what_they_value_in_new_hire": "A leader who can move at pace, work cross-functionally using data, and not hide behind tradition when business conditions change. She values strategic agility, decision speed, and comfort with modern manufacturing and planning tools.",
+		"what_would_cause_friction": "Slow consensus-building without substance, excessive deference to hierarchy, resistance to digitization, or leaders who use culture as an excuse for low-speed execution. She will disengage quickly from candidates who sound safe but unambitious.",
+		"known_biases": "Biased toward transformational and analytically strong leaders. May underweight the political and labor-relations realities of BMW's manufacturing environment. Tends to view conservative operators as blockers unless they prove otherwise quickly.",
+		"relationship_with_other_team_members": "She clashes most with Hans-Peter on pace and with Thomas on what she sees as over-accommodation. She has guarded respect for Eva because both care about numbers. Klaus uses her selectively but does not fully trust her instincts. She will likely be the strongest internal advocate for an external modernizer."
+	  },
+	  {
+		"member_id": "T04",
+		"name": "Thomas Brenner",
+		"title": "Head of HR Manufacturing",
+		"relationship_to_role": "peer / key stakeholder",
+		"years_in_role": 11,
+		"years_at_bmw": 20,
+		"background": "Thomas has spent two decades inside BMW's manufacturing HR ecosystem and is deeply experienced in plant leadership transitions, labor relations, and works council engagement. He understands where organizational change fails because leaders underestimate Mitbestimmung, informal networks, or line-manager trust. He is widely seen as a stabilizer who can defuse conflict before it becomes political damage. He strongly favors candidates who understand German industrial culture and can work constructively with internal stakeholders from day one.",
+		"leadership_style": "Consensus-oriented, protective of organizational cohesion, and strongly people-centered. He leads by relationship management, early issue sensing, and building broad enough alignment that execution can hold. He prefers durable compromises over heroic but divisive moves.",
+		"decision_making": "He decides slowly by comparing stakeholder reactions, labor implications, and long-term people consequences. He is less persuaded by pure logic if he believes the organization cannot absorb the move. He values social feasibility almost as much as strategic correctness.",
+		"personality_traits": [
+		  "diplomatic",
+		  "patient",
+		  "consensus-seeking",
+		  "protective",
+		  "politically attuned",
+		  "people-first",
+		  "conflict-averse"
+		],
+		"communication_style": "Warm, careful, and indirect when tension is high. He often frames hard messages as organizational realities rather than personal opposition.",
+		"what_they_value_in_new_hire": "A leader who can work with plant populations, respect works council realities, manage change without social damage, and build trust across the manufacturing organization. He values humility, cultural sensitivity, and people credibility.",
+		"what_would_cause_friction": "Disregard for works council dynamics, aggressive top-down change, imported management models from non-German companies, or visible disrespect for longstanding BMW talent. He will strongly resist candidates who appear likely to trigger avoidable organizational conflict.",
+		"known_biases": "Prefers internal or culturally proximate external hires. Strongly skeptical of leaders from non-German, hyper-growth, or anti-union environments. Likely to overweight cultural integration risk and underweight the need for disruptive change.",
+		"relationship_with_other_team_members": "Aligns naturally with Klaus on stability and with Hans-Peter when quality and workforce discipline intersect. Has recurring tension with Sophie, whose style he sees as socially risky. Works well with Eva when workforce risks are translated into retention, absenteeism, and productivity numbers."
+	  },
+	  {
+		"member_id": "T05",
+		"name": "Dr. Eva Hoffmann",
+		"title": "CFO Manufacturing",
+		"relationship_to_role": "peer",
+		"years_in_role": 5,
+		"years_at_bmw": 8,
+		"background": "Eva joined BMW from Deutsche Bank and brought a sharper capital allocation mindset into manufacturing governance. She is less emotionally tied to legacy internal pathways than many peers, but she is ruthless on investment logic and executive economics. She evaluates leaders through the lens of value creation, execution risk, and cost structure, not sentiment. She is open to external hires if the business case is compelling and the ramp-to-value is defensible.",
+		"leadership_style": "Hard-edged, performance-focused, and financially disciplined. She gives support when the numbers are credible and withdraws quickly when initiatives become narrative-heavy. She values clarity, accountability, and measured trade-offs.",
+		"decision_making": "She makes decisions by analyzing ROI, downside exposure, time-to-impact, and controllability. She is willing to back bold moves if the economics are explicit and the risks are bounded. She has little patience for strategic theater without quantified assumptions.",
+		"personality_traits": [
+		  "analytical",
+		  "skeptical",
+		  "disciplined",
+		  "unemotional",
+		  "demanding",
+		  "commercially sharp",
+		  "decisive"
+		],
+		"communication_style": "Crisp, numbers-first, and interrogative. She tends to ask what the assumption is, what the downside is, and when the result shows up.",
+		"what_they_value_in_new_hire": "A leader who can connect production decisions to cost, productivity, launch economics, and risk-adjusted value. She values financial fluency, realistic execution planning, and leaders who do not hide behind operational jargon.",
+		"what_would_cause_friction": "Expensive external candidates with vague transformation narratives, proposals without ROI logic, or leaders who treat budget discipline as a secondary issue. She will challenge any candidate who cannot translate operational choices into economic consequences.",
+		"known_biases": "Biased toward candidates who can quantify impact and trade-offs. May underappreciate subtle cultural and labor factors if they are not translated into measurable business effects. Neutral on internal versus external as long as value and ramp risk are explicit.",
+		"relationship_with_other_team_members": "Often aligns with Sophie on speed and analytical rigor, though she is more disciplined and less ideological. She works pragmatically with Klaus when he brings control and predictability. She can support Hans-Peter when quality risk has financial consequence. Thomas sees her as too cold, but not political."
+	  }
+	],
+	"team_dynamics_summary": "This team is structurally conservative, with real power concentrated in Klaus and reinforced by Hans-Peter and Thomas when questions of quality, organizational stability, or internal legitimacy arise. Sophie is the disruptive minority voice and will likely support a faster, more modern candidate, but she cannot carry the decision alone. Eva is the swing stakeholder: she is not culturally invested in either camp, but she can legitimize or destroy a candidate by reframing the debate in financial terms. The central tension is between stability and modernization. The wrong new hire will get triangulated immediately: blocked by Klaus, challenged by Hans-Peter, socially resisted by Thomas, and financially scrutinized by Eva. The right hire can exploit a team gap around modernization, but only if they do it without triggering the anti-outsider reflex embedded in the group.",
+	"critical_relationship": {
+	  "member_id": "T01",
+	  "name": "Klaus Richter",
+	  "reason": "Klaus is both the formal boss and the informal gatekeeper of internal legitimacy. If he loses trust in the new hire early, the rest of the team will become harder to manage, and even strong business performance may not offset the political damage."
+	},
+	"team_gap_analysis": {
+	  "current_gaps": [
+		"No true integrator who combines BMW production discipline with modern digital manufacturing and transformation speed",
+		"Limited internal appetite for bold organizational change despite Neue Klasse and EV acceleration pressures",
+		"Weak natural bridge between conservative production governance and data-driven modern operating models",
+		"Potential underweighting of external competitive threats in talent, technology, and launch velocity"
+	  ],
+	  "what_right_hire_could_fill": "The right hire would add a rare combination of production credibility, change leadership, digital manufacturing fluency, and stakeholder navigation. Ideally, this person can modernize execution without triggering political antibodies, translate transformation into BMW-compatible language, and create more adaptive collaboration between production, supply chain, HR, and finance."
+	},
+	"political_landmines": [
+	  "Do not publicly criticize BPS, legacy BMW decision-making, or plant governance in the first 90 days.",
+	  "Do not force a speed-over-quality narrative with Hans-Peter; any sign of quality trivialization will become a reputational scar immediately.",
+	  "Do not bypass Klaus in executive escalation or attempt to build an alternative power base through Sophie or Eva.",
+	  "Do not underestimate works council and Mitbestimmung dynamics by launching organizational changes before Thomas is aligned."
+	]
+  }

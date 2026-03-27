@@ -1,0 +1,212 @@
+{
+  "candidate_id": "C09",
+  "candidate_name": "Takeshi Nakamura",
+  "candidate_type": "external",
+  "current_employer": "Toyota Motor Corporation",
+  "current_title": "General Manager — Global Manufacturing Quality & TPS Promotion Division",
+  "years_experience_total": 22,
+  "years_in_current_role": 5,
+  "years_at_current_employer": 22,
+  "nationality": "Japanese",
+  "languages": ["Japanese (native)", "English (C1 — precise and formal)", "German (A2 — basic, actively learning)"],
+  "education": [
+    {
+      "degree": "M.Eng. Industrial Engineering & Systems Management",
+      "institution": "Osaka University, Japan",
+      "year": 2004,
+      "distinction": "Distinction; thesis on multi-level kanban optimisation for mixed-model automotive assembly — co-supervised with Toyota R&D"
+    },
+    {
+      "degree": "B.Eng. Mechanical Engineering",
+      "institution": "Kyoto University, Japan",
+      "year": 2002,
+      "distinction": "Top 8% of cohort; specialisation in precision manufacturing"
+    }
+  ],
+  "certifications": [
+    "Toyota Production System Certified Sensei — Toyota Institute (highest internal designation, awarded to fewer than 200 individuals globally, 2016)",
+    "IATF 16949 Lead Auditor — Bureau Veritas (2010, recertified 2016, 2022)",
+    "VDA 6.3 Process Auditor (2014)",
+    "Six Sigma Master Black Belt — JUSE (2013)",
+    "Toyota Global Quality Award — Gold Level recipient (2019, 2022)",
+    "Japan Institute of Plant Maintenance — Certified TPM Instructor (2011)"
+  ],
+  "career_history": [
+    {
+      "company": "Toyota Motor Corporation",
+      "title": "General Manager — Global Manufacturing Quality & TPS Promotion Division",
+      "location": "Toyota City, Japan (with 60-80 travel days/year to global plants)",
+      "start_year": 2021,
+      "end_year": null,
+      "scope": "280-person division responsible for TPS implementation and quality system governance across all Toyota manufacturing plants globally (67 plants, 29 countries); functional authority for quality standards, not P&L accountability; highest internal TPS Sensei designation",
+      "key_achievements": [
+        {
+          "achievement": "Led the TPS-Digital Integration programme — embedding real-time digital monitoring and andon systems into TPS principles across 12 pilot plants, creating the 'Toyota Digital TPS' framework now being rolled out globally",
+          "metric": "12 pilot plants completed; average OEE improvement at pilot plants 6.4pp over 18 months; digital andon response time reduced from 4.2 minutes (manual) to 38 seconds; global rollout to all 67 plants planned through 2028",
+          "year": 2024,
+          "verifiable": false
+        },
+        {
+          "achievement": "Designed and delivered the IATF 16949 readiness programme for Toyota's 14 most recently expanded plants in emerging markets, achieving first-time IATF certification at all 14 within a 30-month window",
+          "metric": "14/14 plants certified on first attempt — the only time in Toyota's history all new plants achieved first-attempt certification in a single programme; average major NC count at audit: 0.4 (industry average for comparable plants: 2.1)",
+          "year": 2023,
+          "verifiable": false
+        },
+        {
+          "achievement": "Personally led the root cause investigation for a systemic seat rail weld crack issue on the bZ4X and Subaru Solterra — identified a corrosion-accelerated fatigue failure mode not captured in the original process FMEA, enabling redesign and recall containment",
+          "metric": "Root cause determined in 8 days (engineering team had estimated 6-8 weeks); redesigned process deployed within 90 days; recall scope reduced from estimated 420,000 to 190,000 vehicles through containment precision",
+          "year": 2022,
+          "verifiable": false
+        }
+      ],
+      "reason_for_leaving": "Seeking final career chapter — wants to apply TPS and quality mastery to a European EV transformation programme; personal aspiration to contribute outside Japan for the final decade of career"
+    },
+    {
+      "company": "Toyota Motor Corporation",
+      "title": "Plant Quality Director — TMMK (Toyota Motor Manufacturing Kentucky)",
+      "location": "Georgetown, Kentucky, USA",
+      "start_year": 2016,
+      "end_year": 2021,
+      "scope": "140-person quality organisation; full quality system accountability for 8,000-employee plant (largest Toyota plant outside Japan); 550,000 vehicles/year; Camry, Avalon, Venza",
+      "key_achievements": [
+        {
+          "achievement": "Transformed TMMK from 41st of 67 Toyota plants in internal quality ranking to 4th in 3 years through a structured quality culture programme called 'TMMK Quality Promise'",
+          "metric": "Quality rank: 41st → 4th globally (Toyota internal index); customer-facing quality index improvement: 22pp over 36 months; team member defect report (voluntary quality issue reporting) participation rate increased from 34% to 81%",
+          "year": 2019,
+          "verifiable": false
+        },
+        {
+          "achievement": "Implemented a cultural-bridge programme for TMMK's workforce — adapting Toyota's quality culture for a US workforce context while preserving TPS principles, resulting in the highest voluntary quality reporting rate in the North American Toyota network",
+          "metric": "81% team member participation rate in quality reporting (vs. Toyota NA average 47%); TMMK featured as a case study in the Toyota Institute cultural adaptation curriculum",
+          "year": 2020,
+          "verifiable": false
+        }
+      ],
+      "reason_for_leaving": "Returned to Japan for Global Quality Division General Manager role"
+    },
+    {
+      "company": "Toyota Motor Corporation",
+      "title": "Senior TPS Instructor / Quality System Lead — Toyota Europe (TMME)",
+      "location": "Brussels, Belgium / Valenciennes, France / Burnaston, UK",
+      "start_year": 2011,
+      "end_year": 2016,
+      "scope": "TPS implementation lead for 3 European Toyota plants; rotational posting across TMME plants; responsible for TPS health assessments, kaizen leadership, and IATF compliance; team of 18 TPS instructors",
+      "key_achievements": [
+        {
+          "achievement": "Led the TPS health recovery programme at Toyota Valenciennes (TMMF) after a quality audit revealed systemic standard work deviation in 34% of assembly stations",
+          "metric": "Standard work compliance restored to 97% within 6 months; TMMF quality rank improved from 58th to 29th globally over 2 years; programme method subsequently adopted as Toyota Europe's standard 'Quality Recovery Playbook'",
+          "year": 2013,
+          "verifiable": false
+        }
+      ],
+      "reason_for_leaving": "Returned to Toyota City for Plant Quality Director appointment at TMMK"
+    },
+    {
+      "company": "Toyota Motor Corporation",
+      "title": "TPS Promotion Engineer / Quality Engineer",
+      "location": "Toyota City, Japan / Takaoka Plant",
+      "start_year": 2004,
+      "end_year": 2011,
+      "scope": "TPS promotion and quality engineering roles; individual contributor through team lead; rotated across 4 Toyota Japan plants as TPS practitioner; studied directly under two designated TPS Sensei",
+      "key_achievements": [
+        {
+          "achievement": "Completed the 7-year structured TPS Sensei development programme — one of 12 engineers accepted in his cohort; received the TPS Certified Sensei designation at age 34, the youngest recipient in his division's history",
+          "metric": "Certified at age 34 vs. average age at certification of 43; 1 of 12 accepted from 180 applicants in his cohort",
+          "year": 2011,
+          "verifiable": false
+        }
+      ],
+      "reason_for_leaving": "Assigned to Toyota Europe posting"
+    }
+  ],
+  "leadership_indicators": {
+    "leadership_style_self_described": "I lead by teaching, not directing. A good leader in TPS creates the conditions for people to see problems themselves and solve them at the lowest level. The measure of my leadership is not what I achieve — it is what my team achieves when I am not present.",
+    "decision_making_style": "Methodical and patient. Does not make major decisions without exhaustive data and root cause analysis. Has been known to delay a decision by days to ensure completeness. In his words: 'A decision made quickly with insufficient analysis often requires a more costly decision later. I would rather be one day slow than one month wrong.'",
+    "conflict_handling": "Non-confrontational in style but unmovable on quality standards. Will not approve a process that does not meet his standards regardless of production pressure. Has been described as 'the most polite person you cannot argue with.' Does not raise his voice; presents data until the other party either agrees or formally overrules him.",
+    "change_orientation": "High for continuous improvement (kaizen) — it is TPS doctrine. Lower for discontinuous change (reorganisation, rapid transformation). Views rapid transformation with suspicion: 'A factory that is constantly being reorganised never improves. Stability enables kaizen.'",
+    "risk_appetite": "Near-zero for quality risk. Moderate for process innovation that reduces defect risk. Deeply averse to organisation and people risk — prefers long, slow consensus-building.",
+    "notable_leadership_moments": [
+      {
+        "situation": "At TMMK in 2018, the production director pushed for a 6-week schedule to reduce the andon call rate metric (which was rising) by raising the threshold at which andon calls were mandatory rather than discretionary. This would have made the quality metric look better without addressing the underlying quality issues.",
+        "action": "Nakamura refused to implement the change. He presented data showing that the rising andon rate was an indicator of genuine quality pressure in the line, not excessive sensitivity. He proposed instead a 90-day root cause programme targeting the top-3 sources of andon calls. He escalated to the Plant President when the production director persisted.",
+        "outcome": "Plant President supported Nakamura. The root cause programme was implemented. Andon call rate reduced 38% over 90 days through genuine quality improvement, not metric manipulation. TMMK quality rank improved from 41st to 19th during that period.",
+        "source": "Reference check — TMMK Plant President (now retired)"
+      }
+    ]
+  },
+  "evidence_sources": {
+    "cv": true,
+    "performance_reviews": null,
+    "feedback_360": null,
+    "project_kpis": true,
+    "interview_notes": true,
+    "reference_checks": true
+  },
+  "performance_reviews": null,
+  "feedback_360": null,
+  "interview_notes": {
+    "interviewer": "Dr. Sabine Müller, Executive Search Partner; Klaus Richter, SVP Production",
+    "date": "2026-03-05",
+    "format": "Structured competency interview + live case study (90 min). Conducted in English.",
+    "overall_impression": "Nakamura arrived 15 minutes early, reviewed the room setup carefully, and rearranged his chair slightly before sitting — a detail that the interviewers noted as consistent with his reputation for precision. His answers were impeccably structured, deeply considered, and occasionally so thorough that the interviewers needed to interrupt to stay on time. He showed genuine warmth and humility — repeatedly crediting Toyota colleagues and the team rather than himself. The interviewers' principal concern: the role requires decisiveness and pace that Nakamura's answers suggested he might not naturally provide. His German language limitation was acknowledged openly by him and noted as a real operational risk for a 3,000-person German workforce.",
+    "question_responses": [
+      {
+        "question": "How would you handle a 6-month semiconductor supply disruption across 3 plants?",
+        "response_summary": "Nakamura paused for 8 seconds — the interviewers were initially unsure he had heard the question — then said: 'I want to answer this carefully because it touches many dimensions.' He outlined a 5-step approach: (1) understand the current state precisely — chip-by-chip inventory map within 48 hours; (2) establish a visual management board for the crisis — shared across all 3 plants, updated daily, so every decision-maker has the same picture; (3) implement a daily PDCA cycle for the crisis task force — 'in TPS, daily PDCA is the heartbeat of improvement; a crisis is just an accelerated improvement challenge'; (4) prioritise vehicles by a matrix of customer delivery obligation and process completion state — 'finish what is closest to complete first'; (5) treat the crisis as a kaizen opportunity for supply chain design — document every deviation and its root cause so the design changes are data-driven. He then added: 'I must be transparent — I have not personally managed a multi-plant supply crisis at this scale. At Toyota we have strong central supply chain support. I would need to understand how BMW Group's supply chain function works before I could give you a confident answer about how I would coordinate with them.'",
+        "interviewer_assessment": "Structurally strong, visually excellent (he actually sketched the PDCA cycle on a notepad while talking). His transparency about the multi-plant supply chain coordination gap was appropriate. The interviewers were concerned by the 8-second pause and the overall pace — a real crisis requires immediate action, not careful deliberation. His PDCA framing of a crisis, while methodologically correct, suggested a cadence that might be too slow for an acute supply disruption."
+      },
+      {
+        "question": "How would you accelerate Neue Klasse SOP by 6 months?",
+        "response_summary": "Nakamura said: 'Before I answer, I must challenge the premise slightly — acceleration is only possible if the current plan has waste in it. The first thing I would do is analyse the current plan for muda (waste), not for activities to compress.' He then proposed: conduct a value-stream map of the SOP process itself — identifying waiting time, rework loops, and sequential activities that could be parallelised; implement the 'concurrent engineering' approach where production readiness activities overlap with design finalisation rather than follow it; apply the jidoka principle to the SOP process — at the first sign of a problem, stop and correct rather than proceeding and creating downstream rework. He estimated that 'in my experience, a well-run SOP plan typically has 25-35% of activities that are sequential by convention rather than by necessity — parallelising these is where the 6 months would come from.' He was careful: 'I would not compress the quality validation milestones. You cannot kaizen a safety problem away after SOP.'",
+        "interviewer_assessment": "Intellectually the most rigorous answer on this question. His value-stream mapping of the SOP process itself was a distinctive and insightful approach. His quality non-negotiable was appropriate. The concern: he did not mention the human/political dimensions of acceleration — getting 7 functional teams to change their plans simultaneously is not a VSM exercise; it requires leadership, urgency, and sometimes confrontation."
+      },
+      {
+        "question": "What would you do if Tesla poached 15% of your production engineers?",
+        "response_summary": "Nakamura's response was characteristically thorough and methodical. He began by reframing: 'In TPS, we say every problem is a gift — it shows you where the system is weak. If 15% want to go to Tesla, the system was already weak before they left.' He outlined a 4-phase response: Phase 1 — don't panic; conduct root cause analysis before taking action ('acting before understanding root cause creates more problems'); Phase 2 — implement knowledge transfer using Toyota's standard 'skill map' methodology to identify and document the critical knowledge at risk; Phase 3 — understand why they are leaving ('conduct structured exit interviews, not HR exit interviews — those are too formal; I mean genuine conversations') and address the root cause; Phase 4 — rebuild the talent system with better visual career pathways. He paused and added: 'I am concerned that I may be too slow in my instincts for this role. When I described Phase 1 as 'don't panic,' I am aware that in some situations, speed of action matters more than depth of analysis.'",
+        "interviewer_assessment": "The self-reflection at the end — volunteering that he might be too slow — was disarming and showed genuine self-awareness. His knowledge-transfer methodology was practically the best in the pool. His instinct to conduct root cause analysis before acting is correct in principle; the question is whether the analysis window he would take (days) is compatible with a talent crisis that moves in hours."
+      }
+    ],
+    "case_study_performance": "Nakamura worked through the Debrecen case methodically and correctly — he identified the root cause (tolerance stack-up in fixturing, consistent with a process FMEA gap) in 22 minutes. His recovery plan was the most detailed quality-assurance plan of any candidate — he described exactly which inspection steps to add, which process parameters to monitor, and which documents to update. He used 4 minutes at the end to sketch a 'problem-solving A3' on paper. When asked to present his recommendation in 2 minutes for a board audience, he paused and said: 'Two minutes is not enough time to explain this correctly.' The interviewers asked him to try. His 2-minute summary was technically dense and would not have been accessible to a non-engineer board member. This was noted as a significant communication gap for a role with board-level visibility."
+  },
+  "reference_checks": [
+    {
+      "referee_name": "Dr. James Lentz (retired)",
+      "relationship": "Former President, Toyota Motor North America",
+      "quote": "Takeshi is the finest quality mind I have encountered in 35 years in automotive. At TMMK he transformed a culture — not just a metric. He is also the most patient leader I have worked with, which is a strength and occasionally a limitation. In a fast-moving situation, Takeshi will still insist on completing the analysis before acting. I say this not as a criticism but as factual context: if the role requires fast operational decisions, you will need to understand whether Takeshi's decision cadence matches the pace required.",
+      "source": "External reference call, 2026-02-20"
+    },
+    {
+      "referee_name": "Hiroshi Yamashita",
+      "relationship": "Toyota Institute Director — TPS Education (current)",
+      "quote": "Takeshi Nakamura is one of the ten greatest TPS practitioners alive. That is not hyperbole — it is the consensus of the Toyota Institute faculty. His knowledge of TPS at the theoretical and applied level is unmatched outside Toyota City. Whether he would thrive in a European OEM environment — managing a union workforce in a culture he has limited experience with, in a role that is primarily operations rather than quality — I genuinely do not know. He has the capability. Whether the fit is right is a question I cannot answer from here.",
+      "source": "External reference call, 2026-02-24 — contains a genuine hedge on cultural and role fit"
+    },
+    {
+      "referee_name": "Sophie Deckers",
+      "relationship": "Former HR Director, Toyota Motor Europe",
+      "quote": "Takeshi worked in our European plants for 5 years. He was deeply effective — the Valenciennes quality transformation is legendary in our network. He also had significant cultural adjustment to make. In his first year, he was occasionally seen by French workers as 'the person from Japan who is here to tell us we're doing it wrong.' He learned from this, adapted, and by year 3 was one of the most respected people on the site. The adaptation period was real and took time. In a BMW context — German workers, works council, IG Metall — he would face a different but comparable cultural integration challenge.",
+      "source": "External reference call, 2026-02-28 — important contextual hedge on European cultural integration"
+    }
+  ],
+  "compensation": {
+    "current_base": "¥38,500,000 (~€240,000 at current rate)",
+    "current_total": "¥56,000,000 (~€350,000 incl. Toyota bonus structure)",
+    "expected_package": "€280,000 base; €400,000 total — plus relocation support and German language tuition",
+    "notice_period": "6 months (Toyota standard for General Manager level)",
+    "availability": "October 2026 earliest"
+  },
+  "red_flags": [
+    "Decision-making pace is explicitly flagged by two references and self-acknowledged in interview — methodical PDCA approach may be too slow for the crisis-response and transformation pace required in this role at this moment in the Neue Klasse programme",
+    "German language is A2 — managing 3,000+ German-speaking workers, IG Metall collective bargaining, and German Supervisory Board communications in English or via translator is operationally and relationally risky; European cultural adaptation took 2+ years at Toyota",
+    "No P&L accountability in any role — entire career has been in functional quality and TPS promotion roles; has never owned a production budget, managed production output targets, or been accountable for a plant's commercial performance",
+    "EV-specific experience is indirect — TPS Digital Integration programme touched EV plants, but Nakamura has not directly managed EV production processes; his hands-on experience is ICE and hybrid assembly",
+    "Board and executive communication gap revealed in case study — when asked to summarise his analysis in 2 minutes for a board audience, his response was technically dense and inaccessible to non-engineers; the Head of Production role has significant SVP and Supervisory Board exposure"
+  ],
+  "green_flags": [
+    "TPS Certified Sensei — one of fewer than 200 globally; the highest TPS designation in existence; his introduction of TPS Digital Integration at Toyota is exactly the bridge between traditional lean and I4.0 that BMW needs for Neue Klasse",
+    "IATF 16949 Lead Auditor with a track record of first-attempt certification across 14 plants simultaneously — the strongest quality systems credential in the candidate pool alongside Yuki Tanaka",
+    "Cultural adaptation evidence at TMMK: transformed a US workforce from rank 41st to 4th globally in Toyota quality index; the TMMK Quality Promise programme is now a Toyota Institute case study in cross-cultural quality leadership",
+    "Self-awareness is genuine and rare: in the interview he volunteered that his pace might be too slow for the role — this level of self-reflection is a foundation for rapid development",
+    "Six-month notice period gives BMW time to plan transition; his availability in October 2026 aligns with a realistic appointment timeline"
+  ]
+}

@@ -1,0 +1,187 @@
+{
+  "candidate_id": "C11",
+  "candidate_name": "Dr. Anika Lindström",
+  "candidate_type": "external",
+  "current_employer": "Tesla, Inc.",
+  "current_title": "Senior Director, Manufacturing Engineering — Gigafactory Europe (Berlin-Brandenburg)",
+  "years_experience_total": 16,
+  "years_in_current_role": 4,
+  "years_at_current_employer": 4,
+  "nationality": "Swedish",
+  "languages": ["Swedish (native)", "German (C2 — grew up partly in Hamburg)", "English (C2)", "Mandarin (B1)"],
+  "education": [
+    {
+      "degree": "PhD Industrial Engineering — Flexible Manufacturing Systems & Digital Production",
+      "institution": "KTH Royal Institute of Technology, Stockholm",
+      "year": 2012,
+      "distinction": "Excellent; thesis on reconfigurable manufacturing systems for high-mix low-volume EV powertrain production — awarded the KTH Innovation Prize 2013; 2 patents derived from thesis"
+    },
+    {
+      "degree": "M.Sc. Mechanical Engineering — Mechatronics",
+      "institution": "KTH Royal Institute of Technology",
+      "year": 2008,
+      "distinction": "Distinction; exchange semester at ETH Zurich"
+    }
+  ],
+  "certifications": [
+    "Professional Engineer (ingenjör), Swedish Engineering Society (2013)",
+    "Tesla Manufacturing Excellence Programme — Founding Cohort (2022)",
+    "Industry 4.0 Expert — Fraunhofer Institute for Manufacturing Technology (IWU) — external collaboration (2020)",
+    "AWS Certified Solutions Architect (Associate) — for manufacturing data infrastructure (2021)"
+  ],
+  "career_history": [
+    {
+      "company": "Tesla, Inc.",
+      "title": "Senior Director, Manufacturing Engineering — Gigafactory Berlin-Brandenburg",
+      "location": "Grünheide, Brandenburg, Germany",
+      "start_year": 2022,
+      "end_year": null,
+      "scope": "180-person manufacturing engineering function; technical accountability for all production processes across the Gigafactory Berlin (Model Y, ~250,000 vehicles/year capacity); battery module integration, general assembly, paint shop engineering; reported to VP Manufacturing Europe",
+      "key_achievements": [
+        {
+          "achievement": "Led the engineering recovery after Gigafactory Berlin's initial SOP quality crisis — a systemic paint adhesion failure affecting 4,100 vehicles in the first 6 weeks of production — by redesigning the pre-treatment process and retraining the entire paint engineering team within 4 weeks",
+          "metric": "Paint adhesion defect rate reduced from 8.3% (first 6 weeks) to 0.4% (weeks 7-20); 4,100-vehicle inspection and correction programme completed without extending production shutdown; engineering solution was fully deployed in 28 days from issue identification",
+          "year": 2022,
+          "verifiable": false
+        },
+        {
+          "achievement": "Designed and implemented Gigafactory Berlin's 'AlgoAssembly' programme — an AI-assisted assembly sequencing and anomaly detection system that reduced in-process defect discovery cycle time from 4.2 hours to 11 minutes",
+          "metric": "Defect discovery cycle time: 4.2 hours → 11 minutes (97.6% reduction); estimated 3,800 additional vehicles per year produced with the same headcount due to reduced rework cycles; AlgoAssembly presented at Tesla AI Day 2023 as a production innovation reference",
+          "year": 2023,
+          "verifiable": false
+        },
+        {
+          "achievement": "Led the manufacturing engineering preparation for the Model Y Highland refresh at Gigafactory Berlin — redesigning 34 assembly stations with a 6-person SWAT team in 18 weeks, parallel to ongoing production",
+          "metric": "Highland refresh Job 1 achieved on revised timeline (4 weeks early vs. revised plan after initial delay); Day-1 quality rate 97.8%; zero production shutdown during station redesign — all redesign work completed in 'parallel track' to running production",
+          "year": 2024,
+          "verifiable": false
+        }
+      ],
+      "reason_for_leaving": "Actively exploring exit from Tesla — concerns about long-term career trajectory (limited upward mobility without relocating to Austin, TX), desire to work within a company with stronger engineering governance culture, and personal motivation to work on a greenfield EV platform (Neue Klasse) rather than incremental improvements to an existing architecture"
+    },
+    {
+      "company": "Northvolt AB",
+      "title": "Head of Cell Manufacturing Engineering — Northvolt Ett (Skellefteå Gigafactory)",
+      "location": "Skellefteå, Sweden",
+      "start_year": 2018,
+      "end_year": 2022,
+      "scope": "Lead manufacturing engineer for Northvolt's first gigafactory build-out; team of 45 engineers; responsible for all cell manufacturing process design from electrode coating through formation and testing; reported to CTO",
+      "key_achievements": [
+        {
+          "achievement": "Designed the electrode calendering and slitting process for Northvolt Ett's NMC cell manufacturing line — one of the 4 most critical process steps for cell energy density and yield",
+          "metric": "First-pass yield at calendering/slitting process: 91.4% at SOP (industry comparable range 78-88% for first-year gigafactory operations); energy density 241 Wh/kg vs. target 235 Wh/kg; process subsequently replicated for Northvolt Zwei (Germany)",
+          "year": 2021,
+          "verifiable": false
+        },
+        {
+          "achievement": "Built and implemented a fully automated quality monitoring system for the cell formation process — the first Northvolt production system with closed-loop AI control adjusting formation parameters in real time based on cell response data",
+          "metric": "Cell formation yield improved from 87.3% to 94.1% over 12 months; formation energy consumption reduced 8.4%; system runs autonomously with human-in-the-loop alert escalation; presented as a Northvolt innovation case at Battery Japan 2022",
+          "year": 2021,
+          "verifiable": false
+        }
+      ],
+      "reason_for_leaving": "Recruited by Tesla for Gigafactory Berlin Senior Director role during Gigafactory Berlin preparation phase; opportunity to bring gigafactory engineering expertise to vehicle manufacturing at scale"
+    },
+    {
+      "company": "Scania CV AB",
+      "title": "Manufacturing Systems Engineer / Project Lead — Powertrain",
+      "location": "Södertälje, Sweden",
+      "start_year": 2012,
+      "end_year": 2018,
+      "scope": "Manufacturing engineering for Scania's electrified powertrain line introduction; team of 8 engineers by 2016; responsible for flexible manufacturing cell design and simulation for hybrid truck powertrain assembly",
+      "key_achievements": [
+        {
+          "achievement": "Designed the first fully flexible manufacturing cell for Scania's hybrid powertrain assembly — a system capable of assembling 6 powertrain variants on a single line with automated tooling changeover",
+          "metric": "Changeover time between variants: 8.2 minutes (vs. dedicated line benchmark of 0 minutes but with 6x the floor space); first-pass yield 94.7% at SOP; cell design awarded Scania Production Excellence Award 2015",
+          "year": 2015,
+          "verifiable": false
+        }
+      ],
+      "reason_for_leaving": "Joined Northvolt to be part of building European battery manufacturing capability from scratch"
+    }
+  ],
+  "leadership_indicators": {
+    "leadership_style_self_described": "I lead fast. I hire people who are better than me in their domain, point them at the hardest problem, and get out of their way unless they need me. I believe that speed of learning is more important than depth of planning in a transformation environment — you cannot think your way to a great factory, you have to build your way there.",
+    "decision_making_style": "Fast and data-driven. Has a high tolerance for reversible mistakes ('iterate quickly') and low tolerance for slow decisions ('the cost of delay is invisible but real'). Has occasionally made decisions that created downstream problems — described by one reference as 'she breaks more things than she fixes, but she fixes them faster than anyone else breaks them.'",
+    "conflict_handling": "Direct and non-hierarchical. Comfortable challenging senior leaders if she believes the decision is wrong. Has had conflicts with Tesla's US management team over production targets she considered unsafe to achieve at the quality level required. Does not hold grudges — resolves conflict quickly and moves on.",
+    "change_orientation": "Very high — she regards the status quo as something to be questioned, not preserved. Can frustrate colleagues and direct reports who need stability. Has been described as 'exhausting in the best possible way.'",
+    "risk_appetite": "High for process and technology risk (deliberate). Lower than she realises for people and cultural risk — she has a blind spot around the human dimensions of rapid change.",
+    "notable_leadership_moments": [
+      {
+        "situation": "At Gigafactory Berlin in early 2022, Tesla's VP Manufacturing Europe directed Lindström to resume paint shop production 10 days after the adhesion defect was identified, before her engineering team had completed the root cause investigation, in order to hit a quarterly production target.",
+        "action": "Lindström refused and documented her refusal formally. She presented a risk assessment showing that resuming production before root cause confirmation would likely result in a second quality escape affecting an additional 2,000-4,000 vehicles at a cost exceeding the revenue impact of the 10-day delay. She proposed an alternative: run a parallel compressed investigation track with a specific 72-hour decision gate.",
+        "outcome": "VP Manufacturing Europe accepted the 72-hour gate. Root cause confirmed at hour 64. Production resumed with corrected process. Total delay 8 additional days vs. the directive. Second quality escape avoided. Lindström's approach was described by the Tesla engineering team as 'the moment that established her credibility at the site.'",
+        "source": "Reference check — Tesla VP Manufacturing Europe"
+      }
+    ]
+  },
+  "evidence_sources": {
+    "cv": true,
+    "performance_reviews": null,
+    "feedback_360": null,
+    "project_kpis": true,
+    "interview_notes": true,
+    "reference_checks": true
+  },
+  "performance_reviews": null,
+  "feedback_360": null,
+  "interview_notes": {
+    "interviewer": "Dr. Sabine Müller, Executive Search Partner; Klaus Richter, SVP Production",
+    "date": "2026-03-07",
+    "format": "Structured competency interview + live case study (90 min). Conducted in German.",
+    "overall_impression": "Lindström was the most energetic candidate in the process. She arrived with a printed 2-page 'perspective document' on the Neue Klasse manufacturing challenge (unsolicited) and placed it on the table without asking permission — the interviewers read it during a break and found it substantive. Her German was fluent and natural. She was faster and more specific than any other candidate on digital manufacturing topics. The interviewers' concern: her Tesla experience is almost entirely engineering, not production management — she has no P&L accountability, no union management experience, and her cultural instincts around workforce management were forged at a company that is structurally anti-union.",
+    "question_responses": [
+      {
+        "question": "How would you handle a 6-month semiconductor supply disruption across 3 plants?",
+        "response_summary": "Lindström immediately reframed: 'At Tesla we call this a constraint problem. Every constraint has a theory of constraints solution — find the bottleneck, exploit it, subordinate everything else to it, elevate it, repeat.' She proposed building a real-time chip allocation model using the production scheduling data already in BMW's manufacturing systems: 'You have the data — you just need to operationalise it as a constraint solver. Give me your SAP production data and I can have an allocation model running in 48 hours.' She then outlined the operational adjustments: variant-level production priority matrix, automated build-out sequencing to park vehicles awaiting chips rather than stopping the line, and engineering derogation requests for non-safety-critical chip functions to use buffer stock of alternatives. On stakeholder management: 'I would set up a daily 15-minute chip status call with all 3 plant teams — maximum transparency, minimum bureaucracy.' She did not mention works council communication, government engagement, or customer demand management.",
+        "interviewer_assessment": "The digital/analytical dimension was outstanding — building a real-time constraint model in 48 hours is an idea no other candidate proposed. The complete absence of stakeholder management (works council, government, customer) from her response was concerning. When the interviewer specifically asked about works council communication, she said 'that would be HR's responsibility' — revealing a significant gap in her understanding of the role's co-determination obligations."
+      },
+      {
+        "question": "How would you accelerate Neue Klasse SOP by 6 months?",
+        "response_summary": "This was her strongest answer. She began: 'Six months is achievable but it requires a different philosophy from how BMW has historically approached SOP.' She proposed: (1) Abandon the sequential gate model entirely for this programme — 'gates slow you down by creating artificial decision points; replace with continuous validation and real-time risk dashboards'; (2) Deploy manufacturing engineering teams to the R&D facility — 'the reason SOP is slow is that engineering and manufacturing plan in sequence; we should be designing producibility in real-time as the product is designed'; (3) Use the Gigafactory Berlin digital twin approach for Debrecen — 'Tesla ran the entire Gigafactory Berlin production system in simulation for 8 months before physical installation; this is not optional, it is the acceleration tool'; (4) Hire 40 additional manufacturing engineers from the aerospace and semiconductor sectors now — 'the limiting factor is not money or tooling, it is engineering bandwidth.' She paused and added: 'I would also propose we bring 20 of our best engineers to Tesla's Austin facility for 3 months to observe how they run an SOP. I know that sounds uncomfortable. It is the fastest way to learn.'",
+        "interviewer_assessment": "The best answer on this question in the full external candidate pool. Her specific proposal to visit Tesla Austin was bold and potentially offensive — but the instinct (learn from the competition) is right. Her digital twin approach is exactly what BMW's iFACTORY strategy calls for. The gate elimination proposal would require extensive works council engagement that she did not acknowledge."
+      },
+      {
+        "question": "What would you do if Tesla poached 15% of your production engineers?",
+        "response_summary": "Lindström was quiet for a moment and then said: 'This scenario is personal for me — I am the person Tesla hired away from Northvolt. So I know exactly what motivated me to leave and what would have kept me.' She outlined: (1) Understand immediately which 15% — 'there are engineers you can replace in 30 days and engineers you cannot replace in 3 years; the crisis level depends entirely on which group you lost'; (2) For critical knowledge: implement her 'shadow engineering' model from Northvolt — every critical engineer trains a designated shadow who knows 80% of their knowledge; (3) On retention: 'Pay is rarely the real reason. At Northvolt I left because I wanted to build something at a larger scale. What Tesla offered me that BMW needs to offer your engineers is ownership — not equity, but genuine product ownership and the feeling that their technical decisions shape the car.' She then said something that surprised the interviewers: 'If I take this role and Tesla can poach my engineers, it means I failed to build a culture where they feel they belong. That starts on day one.'",
+        "interviewer_assessment": "The most personally reflective answer in the candidate pool — she drew on her own experience as a poached engineer with insight and honesty. Her 'shadow engineering' model was practically useful. Her point about ownership vs. equity as the retention lever was the most nuanced observation in the pool on this question."
+      }
+    ],
+    "case_study_performance": "Lindström solved the Debrecen battery pack integration case in 16 minutes and immediately proposed a digital diagnostic as part of the root cause process — 'pull the digital twin log for the fixturing installation sequence and look for the deviation point.' No other candidate had proposed using the digital twin for root cause analysis. Her recovery plan included a real-time monitoring protocol for the corrected process, a machine learning-based anomaly detection model for the battery integration station, and a compressed supplier requalification using digital PPAP. The interviewers found her recovery plan technically the most sophisticated in the pool. Her communication plan was absent until prompted — she acknowledged this as a 'known gap: I think in systems before I think in people.'"
+  },
+  "reference_checks": [
+    {
+      "referee_name": "Marcus Lind",
+      "relationship": "CTO, Northvolt AB (current)",
+      "quote": "Anika is one of the three most talented manufacturing engineers I have worked with. She built the Northvolt Ett cell manufacturing process largely on her own intellectual model — and it worked. She also left us for Tesla with 6 weeks notice when a better opportunity appeared, which damaged us significantly. She is brilliant and she is loyal to her own mission, not to an organisation. For BMW, that means you will get everything she has for as long as the mission is compelling. The moment it isn't — or the moment a better mission appears — you need to understand that risk.",
+      "source": "External reference call, 2026-03-02 — significant loyalty hedge"
+    },
+    {
+      "referee_name": "Thomas Ziegler",
+      "relationship": "VP Manufacturing Europe, Tesla (current manager)",
+      "quote": "Anika is the best manufacturing engineering leader I have in Europe. I do not want to help BMW recruit her. I am providing this reference because she specifically asked me to and because I respect that she is seeking her own development. What I will tell you honestly: Anika is exceptional at engineering and at building engineering teams. She has zero experience managing a unionised workforce — Tesla Grünheide has a works council but Anika has deliberately kept her distance from it. If she joins BMW, the works council relationship will be her most significant challenge and probably her most significant blind spot.",
+      "source": "External reference call, 2026-03-08 — candid, contains important works council warning from current manager"
+    }
+  ],
+  "compensation": {
+    "current_base": "€265,000",
+    "current_total": "€420,000 (incl. Tesla RSU programme — significant unvested stock)",
+    "expected_package": "€280,000 base; €440,000 total — has flagged that unvested Tesla RSUs represent €180,000 opportunity cost of leaving; buy-out would be required",
+    "notice_period": "3 months",
+    "availability": "August 2026 (subject to RSU buy-out negotiation)"
+  },
+  "red_flags": [
+    "Zero union management experience — Tesla's structural anti-union culture has meant Lindström has consciously avoided works council engagement at Gigafactory Berlin; her current manager explicitly flags this as her most significant blind spot for a BMW role; IG Metall at Leipzig, Dingolfing, and Debrecen is a complex, powerful stakeholder she has never managed",
+    "No P&L accountability in any role — entire career has been in engineering and manufacturing engineering functions; has never owned a production budget, managed production output targets, or been accountable for a plant's commercial results",
+    "Tesla RSU buy-out creates a €180,000 compensation obligation that BMW must decide whether to cover — creates a precedent risk and a financial commitment",
+    "Loyalty question raised by CTO reference — left Northvolt with 6 weeks notice at a critical moment for the organisation; pattern suggests mission-driven commitment rather than organisational loyalty; retention risk if a more compelling opportunity emerges",
+    "No experience managing a workforce of 3,000+ — largest team managed is 180 engineers; the shift from leading engineers to leading a mixed workforce including operators, maintenance, logistics, and quality staff is a significant capability expansion"
+  ],
+  "green_flags": [
+    "Gigafactory Berlin manufacturing engineering lead — the only candidate who has hands-on experience with the Tesla production system that is BMW's primary competitive benchmark; her knowledge of Tesla's manufacturing innovations is a direct competitive intelligence asset",
+    "AlgoAssembly AI anomaly detection system: reduced defect discovery cycle time 97.6% — this is exactly the digital manufacturing innovation BMW's iFACTORY strategy targets; no other candidate has built anything comparable",
+    "Northvolt cell manufacturing engineering: designed the electrode process for Europe's most advanced battery gigafactory; Neue Klasse cylindrical cell production requires exactly this knowledge",
+    "German C2 fluency, grew up partly in Hamburg — genuine cultural fluency in Germany beyond language; workforce communication in German will be natural and credible",
+    "Self-aware about her gap: acknowledged in interview that she 'thinks in systems before people' and in the case study admitted the communication plan was absent until prompted; this level of self-awareness is the foundation for rapid development"
+  ]
+}

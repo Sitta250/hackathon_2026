@@ -1,0 +1,69 @@
+{
+	"scenario_id": "S04",
+	"scenario_name": "Talent War / Engineering Retention Emergency",
+	"scenario_category": "competitive",
+	"description": "BMW's EV Division in EMEA is facing a severe talent market shock. Amazon, Tesla, and several software-centric mobility players have aggressively targeted automation engineers, data specialists, and high-potential manufacturing leaders, driving attrition to 15% in critical talent pools. The immediate issue is not physical plant disruption; it is capability erosion inside the operating system. If leadership cannot stabilize and re-motivate the organization, execution risk will compound over the next 12 months as institutional knowledge leaks out.\n\nIn this environment, the Head of Production must become a talent stabilizer and organizational transformer, not just a plant manager. The winning leader is the one who can retain key people, rebuild managerial trust, modernize how teams work, and make BMW's production organization feel like a place ambitious technical talent wants to stay. A traditional operator may keep the lines running for a quarter; the wrong people strategy will still hollow out the system underneath.",
+	"business_context": {
+	  "market_conditions": "Competition for EV and digital manufacturing talent is intense across Europe, especially in automation, data, and advanced production roles.",
+	  "supply_chain_status": "Supply chain is relatively stable, but capability gaps in engineering and operations execution are growing internally.",
+	  "internal_pressures": "Leadership must stop critical attrition, protect execution continuity, and maintain employer credibility in a highly visible talent market.",
+	  "timeline_pressures": "Retention interventions must show effect within one to two quarters before expertise loss begins impairing production and launches.",
+	  "workforce_situation": "Critical technical teams are fatigued, externally recruited, and increasingly skeptical of rigid hierarchical management models.",
+	  "financial_impact": "Replacement costs, delayed projects, productivity loss, and launch slippage could create €50-120M in cumulative impact over 12 months."
+	},
+	"criteria_weight_multipliers": {
+	  "C1_ev_production": 0.8,
+	  "C2_ramp_up_sop": 0.7,
+	  "C3_supply_chain": 0.5,
+	  "C4_quality": 0.8,
+	  "C5_team_leadership": 2.7,
+	  "C6_pnl_budget": 0.6,
+	  "C7_digital_manufacturing": 1.8,
+	  "C8_stakeholder_mgmt": 1.0,
+	  "C9_crisis_management": 0.6,
+	  "C10_change_management": 2.5
+	},
+	"scenario_pressures": [
+	  {
+		"pressure": "Critical talent attrition is eroding execution capability from within",
+		"impact_on_role": "The leader must retain key experts, rebuild trust, and maintain team effectiveness despite knowledge loss risk.",
+		"criteria_affected": ["C5", "C10"],
+		"causal_reasoning": "When 15% of critical engineers are leaving or at risk, output and launch readiness begin to degrade even if external conditions are stable. Team leadership matters more because retention is strongly manager-mediated, and change management matters more because the organization must evolve how it leads and motivates talent."
+	  },
+	  {
+		"pressure": "Digital talent expects modern leadership and operating practices",
+		"impact_on_role": "The leader must connect manufacturing excellence with digital ambition, autonomy, and visible modernization.",
+		"criteria_affected": ["C7", "C10", "C5"],
+		"causal_reasoning": "High-value engineers and automation specialists are less likely to stay in organizations that feel operationally rigid and technologically stale. Digital manufacturing rises not only because of process improvement, but because it signals future relevance to the workforce."
+	  },
+	  {
+		"pressure": "Leadership quality directly affects retention in local teams",
+		"impact_on_role": "The leader must coach managers, remove friction, and create a high-commitment environment rather than relying on process authority alone.",
+		"criteria_affected": ["C5", "C10"],
+		"causal_reasoning": "In a talent war, people do not leave abstract systems; they leave management environments. That makes large-scale leadership an economic lever, not a soft skill. Change management rises because retention requires behavior and culture shifts, not only compensation responses."
+	  },
+	  {
+		"pressure": "Execution continuity depends on protecting hidden expertise networks",
+		"impact_on_role": "The leader must identify critical roles, prevent cascading attrition, and redesign ways of working so knowledge is not concentrated in fragile pockets.",
+		"criteria_affected": ["C5", "C7", "C8"],
+		"causal_reasoning": "Technical organizations often run on informal knowledge hubs. Once those people leave, downstream coordination problems appear. Strong leadership and digitally enabled operating models help institutionalize knowledge and reduce dependence on a few individuals."
+	  }
+	],
+	"emergent_criteria": [
+	  {
+		"id": "EC1",
+		"name": "Critical Talent Retention Capability",
+		"weight": 0.13,
+		"reasoning": "This scenario is fundamentally about stopping capability drain. The ability to hold and re-engage scarce technical talent becomes strategically decisive."
+	  },
+	  {
+		"id": "EC2",
+		"name": "Leadership Brand Credibility with Technical Teams",
+		"weight": 0.07,
+		"reasoning": "In a competitive talent market, leaders themselves become part of the employee value proposition. Some candidates can stabilize confidence; others cannot."
+	  }
+	],
+	"expected_winner_archetype": "A people-first transformation leader who can retain high-skill technical teams, modernize the operating environment, and lead through influence rather than hierarchy alone.",
+	"risk_of_wrong_hire": "If BMW hires a conventional plant operator for this scenario, the organization may preserve surface-level production discipline while losing critical technical capability underneath. The likely result is another 8-12% attrition in targeted roles, delayed automation initiatives, reduced management credibility, and €40-90M in replacement, productivity, and program-delay costs.",
+	"key_differentiator": "The swing is driven by C5 team leadership at scale, with C10 change management as the decisive amplifier."
+  }

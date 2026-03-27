@@ -1,0 +1,340 @@
+{
+  "candidate_id": "C06",
+  "candidate_name": "Yuki Tanaka",
+  "candidate_type": "internal",
+  "current_employer": "BMW Group",
+  "current_title": "Head of Quality Systems — EV Production Lines, Leipzig & Dingolfing",
+  "years_experience_total": 18,
+  "years_in_current_role": 3,
+  "years_at_current_employer": 6,
+  "nationality": "Japanese (German permanent resident)",
+  "languages": ["Japanese (native)", "German (C1)", "English (C2)"],
+  "education": [
+    {
+      "degree": "M.Eng. Precision Engineering & Quality Management",
+      "institution": "Nagoya University, Japan",
+      "year": 2008,
+      "distinction": "Highest distinction; thesis on statistical process control for micro-tolerance electric motor assembly — co-authored with Toyota R&D"
+    },
+    {
+      "degree": "B.Eng. Mechanical Engineering",
+      "institution": "Osaka University, Japan",
+      "year": 2006,
+      "distinction": "Top 4% of cohort"
+    }
+  ],
+  "certifications": [
+    "IATF 16949 Lead Auditor (certified 2012, recertified 2018, 2024)",
+    "VDA 6.3 Process Auditor (2015)",
+    "Toyota Production System Practitioner — Toyota Institute Internal Certification (2011)",
+    "Six Sigma Black Belt (JUSE — Japanese Union of Scientists and Engineers, 2013)",
+    "BMW Group Quality Excellence Award Recipient (2022)",
+    "Certified Reliability Engineer, ASQ (2016)"
+  ],
+  "career_history": [
+    {
+      "company": "BMW Group",
+      "title": "Head of Quality Systems — EV Production Lines, Leipzig & Dingolfing",
+      "location": "Leipzig (primary) & Dingolfing, Germany",
+      "start_year": 2023,
+      "end_year": null,
+      "scope": "65 quality engineers and auditors across 2 plants, functional responsibility for all EV quality systems (IATF compliance, process audit, SPC, in-line and end-of-line inspection), €18M quality budget",
+      "key_achievements": [
+        {
+          "achievement": "Designed and implemented the BMW Group EV Quality Gate Framework — a standardised quality inspection architecture for EV-specific risks (HV battery, eDrive, BMS) now deployed across all BMW EV plants globally",
+          "metric": "Framework deployed to 5 plants in 14 months; EV-specific quality escape rate reduced 43% across network vs. 12-month pre-framework baseline; framework adopted as BMW Group standard Q3 2024",
+          "year": 2024,
+          "verifiable": true
+        },
+        {
+          "achievement": "Implemented Statistical Process Control (SPC) programme for battery cell-to-module bonding process at Leipzig, identifying and correcting a drift condition 11 weeks before it would have caused a production quality escape",
+          "metric": "Predicted quality escape (estimated impact: 3,200 vehicles) prevented; annual scrap cost avoidance €4.7M; SPC model presented at IATF International Conference 2024",
+          "year": 2024,
+          "verifiable": true
+        },
+        {
+          "achievement": "Led the 3-year IATF 16949 recertification audit for both Leipzig and Dingolfing EV lines simultaneously — zero major non-conformances across both sites for the first time in BMW Group history",
+          "metric": "Zero major NCs at both sites; 3 minor NCs total (vs. 9 minor NCs and 1 major NC in previous combined audit cycle); BMW Group Quality Director cited as 'best audit outcome in 15 years'",
+          "year": 2023,
+          "verifiable": true
+        }
+      ],
+      "reason_for_leaving": "Internal promotion candidate"
+    },
+    {
+      "company": "BMW Group",
+      "title": "Senior Quality Engineer — EV Systems, Leipzig Plant",
+      "location": "Leipzig, Germany",
+      "start_year": 2020,
+      "end_year": 2023,
+      "scope": "Quality engineering lead for eDrive and HV battery assembly quality on iX and i4 lines; team of 12 engineers; accountable for SPC, process capability, and supplier quality at the EV integration interface",
+      "key_achievements": [
+        {
+          "achievement": "Developed the supplier incoming quality inspection protocol for cylindrical battery cells, addressing a critical gap in BMW Group's quality system for cell-level inspection",
+          "metric": "Incoming defect escape rate reduced from 0.8% to 0.04% over 18 months; protocol adopted by BMW Group's Neue Klasse battery team as the standard for cell incoming inspection",
+          "year": 2022,
+          "verifiable": true
+        },
+        {
+          "achievement": "Introduced a Poka-Yoke (error-proofing) programme across i4 high-voltage connector assembly stations, eliminating a persistent connector polarity error that had caused 34 vehicle rework events in the first 6 months of production",
+          "metric": "34 rework events in 6 months → 0 rework events in following 30 months; one-time implementation cost €420,000; cumulative rework cost avoidance €2.8M",
+          "year": 2021,
+          "verifiable": true
+        }
+      ],
+      "reason_for_leaving": "Promoted to Head of Quality Systems"
+    },
+    {
+      "company": "BMW Group",
+      "title": "Quality Systems Manager — IATF Compliance",
+      "location": "Munich (central quality function)",
+      "start_year": 2018,
+      "end_year": 2020,
+      "scope": "BMW Group central quality team; responsible for IATF 16949 compliance governance across 7 BMW manufacturing sites globally; no direct production reports but functional authority in audit context",
+      "key_achievements": [
+        {
+          "achievement": "Developed BMW Group's standard IATF 16949 gap analysis methodology used by all plants for self-assessment between certification cycles",
+          "metric": "Methodology deployed to all 7 BMW plants; average pre-audit major NC risk score reduced from 2.4 to 0.6 at deploying sites; methodology cited in VDA 6.1 industry guidance update",
+          "year": 2019,
+          "verifiable": true
+        }
+      ],
+      "reason_for_leaving": "Moved to Leipzig plant to gain direct EV production quality experience"
+    },
+    {
+      "company": "Toyota Motor Corporation",
+      "title": "Quality Engineering Manager — eDrive Systems (Research & Development)",
+      "location": "Toyota City, Japan / Brussels (EU liaison)",
+      "start_year": 2014,
+      "end_year": 2018,
+      "scope": "Quality engineering lead for electric motor assembly processes in Toyota's hybrid/EV powertrain R&D-to-production transition; team of 18 engineers; involved in SOP quality readiness for Prius PHV and early bZ series processes",
+      "key_achievements": [
+        {
+          "achievement": "Led process capability programme for permanent magnet rotor assembly, achieving series-readiness Cpk targets 4 months ahead of programme schedule",
+          "metric": "Cpk 1.71 achieved at SOP (target 1.33); zero Day-1 quality holds on rotor assembly at series launch; process subsequently replicated for 3 additional Toyota EV platforms",
+          "year": 2017,
+          "verifiable": false
+        },
+        {
+          "achievement": "Established Toyota's Brussels quality liaison function — responsible for ensuring European production JVs met Toyota quality standards during SOP",
+          "metric": "3 European JV plants certified to Toyota quality standards within 18 months; audit finding rate in EU plants reduced 58% over 2 years",
+          "year": 2016,
+          "verifiable": false
+        }
+      ],
+      "reason_for_leaving": "Joined BMW Group for opportunity to work across multiple EV platforms and bridge Japanese-German manufacturing cultures"
+    },
+    {
+      "company": "Toyota Motor Corporation",
+      "title": "Quality Engineer — TPS Implementation",
+      "location": "Toyota City, Japan",
+      "start_year": 2008,
+      "end_year": 2014,
+      "scope": "Quality engineer within TPS promotion division; supported implementation of Toyota Production System quality tools (jidoka, andon, poka-yoke) at Toyota and supplier facilities",
+      "key_achievements": [
+        {
+          "achievement": "Led poka-yoke implementation programme across 6 Toyota supplier facilities in the Aichi prefecture region, eliminating assembly error categories in targeted processes",
+          "metric": "Targeted error categories reduced to zero within 90 days at 5 of 6 sites; cumulative defect escape reduction across programme: 74%",
+          "year": 2012,
+          "verifiable": false
+        }
+      ],
+      "reason_for_leaving": "Promoted to Quality Engineering Manager role"
+    }
+  ],
+  "leadership_indicators": {
+    "leadership_style_self_described": "Patient and systematic. I believe that quality is built into the process, not inspected into the product. My role is to design systems that make defects physically impossible, and to develop engineers who think this way instinctively.",
+    "decision_making_style": "Data-driven and methodical. Will not make quality-related decisions without adequate process capability data. Can be perceived as slow by operations colleagues who want faster decisions. Willing to escalate decisively when quality data crosses a threshold.",
+    "conflict_handling": "Conflict between production speed and quality is his daily reality. Has developed a precise approach: presents data, makes his recommendation explicit, documents the decision-maker's choice if overruled, and follows up with data. Described by peers as 'diplomatically immovable.'",
+    "change_orientation": "High for quality systems change; conservative about broader operational changes he considers outside his domain. Has strong opinions about the boundary between quality engineering and production management.",
+    "risk_appetite": "Near-zero for quality risk. Moderate for process innovation when it reduces defect risk. Cautious about organisational and people risks.",
+    "notable_leadership_moments": [
+      {
+        "situation": "In early 2024, production pressure at Leipzig led a shift manager to request bypassing the SPC monitoring hold on the battery bonding line to meet a weekly output target. The drift condition was outside Tanaka's control limit but not yet at the specification limit.",
+        "action": "Tanaka held the line — literally walked to the production manager's office and presented the SPC control chart data with a clear recommendation to stop and investigate. He escalated to the Plant Director when the Production Manager initially overruled him. He documented the disagreement formally.",
+        "outcome": "Plant Director supported Tanaka's call. Investigation found the drift was caused by an adhesive batch temperature variation from the supplier. Correction implemented. Estimated 3,200 vehicles protected from a latent defect.",
+        "source": "2024 Quality Systems report; 2025 performance review"
+      },
+      {
+        "situation": "After joining BMW from Toyota in 2018, Tanaka was asked to train the BMW central quality team on TPS jidoka principles. The workshop was initially met with resistance — senior BMW engineers felt they were being 'lectured by a Toyota person.'",
+        "action": "He restructured the workshop to start with a BMW-specific case study rather than Toyota examples, demonstrating jidoka principles using a BMW production incident from Dingolfing. He acknowledged openly that 'BMW has its own quality legacy that is excellent — I am here to add one thing Toyota does particularly well, not to replace what works.'",
+        "outcome": "Workshop rated 4.7/5.0 by participants. 3 jidoka principles subsequently adopted in BMW's quality management standard. Tanaka's approach to cultural bridging was cited in his 2019 performance review.",
+        "source": "2019 Performance Review; Training evaluation records"
+      }
+    ]
+  },
+  "evidence_sources": {
+    "cv": true,
+    "performance_reviews": true,
+    "feedback_360": true,
+    "project_kpis": true,
+    "interview_notes": true,
+    "reference_checks": true
+  },
+  "performance_reviews": [
+    {
+      "year": 2025,
+      "reviewer": "Dr. Karoline Reiss, VP Quality, BMW Group",
+      "overall_rating": "4.3 / 5.0",
+      "performance_category": "Exceeds Expectations",
+      "summary": "Yuki is the gold standard for quality leadership in BMW Group's EV programme. The EV Quality Gate Framework is a legacy contribution that will benefit the BMW network for a decade. My assessment for the Head of Production role: Yuki is the finest quality leader we have. He is not yet a production leader. The scope, the budget, the P&L, the 3,000 people — none of these are in his current experience. His trajectory suggests he could get there, but 'not yet' is my honest assessment.",
+      "strengths_noted": [
+        "Quality systems design: best in BMW Group for EV-specific quality architecture",
+        "Cross-cultural leadership: unique ability to bridge Toyota and BMW quality philosophies — has created a synthesis that is better than either alone",
+        "Technical credibility with both engineering and production teams — rare combination",
+        "IATF 16949 expertise: the most qualified person in BMW Group on this standard"
+      ],
+      "development_areas": [
+        "Production leadership scope: entire career has been in quality function; has never had P&L accountability or direct production output ownership",
+        "People leadership at scale: 65 direct reports is excellent but well below the 3,000+ required",
+        "Commercial/financial acumen: quality budget management (€18M) is well below the €450M scope; has limited financial modelling experience",
+        "Union/works council engagement: indirect experience through quality discussions; not the same as direct workforce leadership in a transformation environment"
+      ],
+      "promotion_recommendation": "Trajectory points toward a VP Quality or Head of Quality Group role as the logical next step. Head of Production is a different track — recommend exploring if Yuki wants to transition to a broader production leadership role rather than assuming it."
+    },
+    {
+      "year": 2023,
+      "reviewer": "Dr. Karoline Reiss, VP Quality, BMW Group",
+      "overall_rating": "4.4 / 5.0",
+      "performance_category": "Outstanding",
+      "summary": "The dual-plant zero-major-NC IATF audit outcome is the single most impressive quality system achievement in BMW Group this year. Yuki's ability to simultaneously manage quality systems across Leipzig and Dingolfing while implementing a new framework was extraordinary. He is ready for a broader leadership role. Whether that role is production or quality is the key question.",
+      "strengths_noted": [
+        "IATF recertification outcome: best in BMW Group history",
+        "Team development: promoted 4 engineers to senior roles in 2 years — strong talent development instinct",
+        "Cross-plant influence: achieves alignment between Leipzig and Dingolfing quality cultures through respect, not authority"
+      ],
+      "development_areas": [
+        "Production floor ownership — needs exposure to production management accountability",
+        "Budget scale — should seek a role with significantly larger budget scope",
+        "Strategic horizon — quality focus can sometimes be tactical; needs to think at the business strategy level"
+      ],
+      "promotion_recommendation": "Ready for VP-level role in quality. Discuss with Yuki whether he wants to move toward broader production leadership — if so, a production management rotation is needed."
+    },
+    {
+      "year": 2021,
+      "reviewer": "Dr. Karoline Reiss, VP Quality, BMW Group",
+      "overall_rating": "4.1 / 5.0",
+      "performance_category": "Exceeds Expectations",
+      "summary": "Yuki continues to raise the bar for EV quality at Leipzig. The poka-yoke programme was textbook — identified a real problem, designed an elegant solution, implemented it cleanly. His cross-cultural work integrating TPS approaches into BMW quality practice is unique and genuinely valuable. He is developing well as a quality leader. Broader leadership development needed.",
+      "strengths_noted": [
+        "EV-specific quality expertise: deepest in BMW Group",
+        "TPS/BMW cultural bridge: unique organisational asset",
+        "Zero-defect mindset: uncompromising, but knows how to translate quality standards into operational terms"
+      ],
+      "development_areas": [
+        "Commercial awareness: should participate in P&L reviews beyond quality cost reporting",
+        "Stakeholder management beyond quality function",
+        "Scale of team management"
+      ],
+      "promotion_recommendation": "On track for Head of Quality Systems promotion. Long-term watch for broader leadership."
+    }
+  ],
+  "feedback_360": {
+    "peers": [
+      {
+        "reviewer_role": "Head of Production, i4 Line, Leipzig",
+        "quote": "Yuki is the person I trust most when he tells me something is wrong. He doesn't cry wolf — when he escalates, it's serious. He can be frustrating when I need to move fast and he wants more data, but I've been wrong and he's been right enough times that I've learned to listen. Whether he could run production — I genuinely don't know. That's a different job.",
+        "theme": "High operational credibility, production scope question"
+      },
+      {
+        "reviewer_role": "Head of Supply Chain, BMW Group EV",
+        "quote": "Yuki has taught me more about quality thinking in 3 years than I learned in the previous 10. He has a way of explaining complex quality concepts — in German, English, or by drawing a picture — that makes them immediately actionable. He's also one of the most culturally sensitive people I've worked with. He understands that BMW culture and Toyota culture are different and he works with both rather than imposing one.",
+        "theme": "Exceptional teacher, strong cross-cultural intelligence"
+      },
+      {
+        "reviewer_role": "VP Production Engineering, BMW Group",
+        "quote": "Yuki's quality gate framework is now part of how we build cars. That's a career-level contribution. He's also very focused on quality — I'm not sure he's interested in the broader production leadership role, honestly. When we've talked about it, he seems more excited about the quality challenges than the production management challenges.",
+        "theme": "Profound quality impact; may prefer quality track"
+      }
+    ],
+    "direct_reports": [
+      {
+        "reviewer_role": "Senior Quality Engineer, Leipzig (anonymised)",
+        "quote": "Working for Yuki is the best professional development of my career. He teaches, he challenges, he shows you the answer and then makes you derive it yourself. He is patient in a way that most managers are not. He will sit with you for an hour on an SPC chart until you genuinely understand it.",
+        "theme": "Exceptional development investment, patient teaching style"
+      },
+      {
+        "reviewer_role": "Quality Auditor, Dingolfing (anonymised)",
+        "quote": "He holds us to very high standards but he's completely fair. He never makes a decision that isn't backed by data. Sometimes I wish he would move faster — he wants the full picture before acting. But I have never seen him be wrong, so I've learned to wait for the full picture.",
+        "theme": "High standards, methodical pace, always correct"
+      },
+      {
+        "reviewer_role": "Junior Quality Engineer (anonymised)",
+        "quote": "When I made a mistake that nearly let a bad batch through, Yuki sat with me for 2 hours reviewing what went wrong in the system — not blaming me, fixing the process. He said 'if you failed, I failed first because the system should have caught this.' That's why I trust him completely.",
+        "theme": "Systemic accountability, high psychological safety"
+      }
+    ],
+    "senior_leadership": [
+      {
+        "reviewer_role": "VP Quality, BMW Group",
+        "quote": "I want Yuki to be my successor as VP Quality, not Head of Production. He is on the wrong career track for this role — or rather, this is the wrong role for his career track. That said, if anyone could make the cross-over work, Yuki could. He has the intellectual capacity and the values for broader leadership.",
+        "theme": "Wrong track, but high ceiling"
+      },
+      {
+        "reviewer_role": "SVP Production, BMW Group",
+        "quote": "Yuki brings something the other candidates don't — he has 18 years of the most rigorous quality thinking I have encountered, combining Toyota and BMW at the highest level. My honest concern is whether quality expertise translates to production leadership at this scale. I think it can, but Yuki would need significant support in his first year on the production management dimensions.",
+        "theme": "Unique quality asset, supported conditional interest"
+      }
+    ]
+  },
+  "interview_notes": {
+    "interviewer": "Dr. Sabine Müller, Executive Search Partner; Klaus Richter, SVP Production",
+    "date": "2026-02-26",
+    "format": "Structured competency interview + live case study (90 min)",
+    "overall_impression": "Tanaka was the most methodical and precise interviewee of the panel. He paused thoughtfully before each answer, often longer than the interviewers expected — then delivered an answer that was invariably structured and substantive. He was the only candidate who asked to clarify the criteria for a 'good answer' before the case study began. There was occasional stiffness in his English and German when answering quickly under pressure, which he acknowledged and compensated for by slowing down. The panel was impressed by his intellectual depth and concerned about his production scope.",
+    "question_responses": [
+      {
+        "question": "How would you handle a 6-month semiconductor supply disruption across 3 plants?",
+        "response_summary": "Tanaka opened by saying: 'This is a quality of supply chain problem before it is a production problem. If the disruption exists, the quality of our supply chain design failed first.' He then outlined a systematic approach: (1) immediately implement an incoming quality 100% inspection protocol for all remaining semiconductor stock to preserve every usable unit; (2) quality-prioritise build sequence by identifying which vehicle variants have the highest safety criticality from the affected chips; (3) implement a zero-waste protocol for any partially assembled vehicles to ensure no vehicle enters the customer without a quality-verified chip solution; (4) build a process capability model for any chip substitution to ensure alternative components meet quality requirements before deployment. He acknowledged: 'I have not led a supply chain crisis negotiation — I would rely on supply chain colleagues for that dimension, while ensuring the quality framework supported every decision.'",
+        "interviewer_assessment": "Distinctive framing — the quality-first lens was refreshing and technically sound. His honest acknowledgement of the supply chain leadership gap showed self-awareness. The answer was strong but narrower than what the role requires."
+      },
+      {
+        "question": "How would you accelerate Neue Klasse SOP by 6 months?",
+        "response_summary": "Tanaka was fully engaged on this question. He said: 'I know the Neue Klasse quality plan in detail — I helped write parts of it.' He proposed: (1) advance the process capability qualification milestones using the digital twin to run virtual PPAP, allowing physical PPAP to be compressed; (2) implement the EV Quality Gate Framework from Day 1 of pilot builds rather than at SOP — learning earlier means correcting earlier; (3) compress the supplier quality audit schedule using risk-based audit priority rather than sequential plant visits; (4) create a 'quality SWAT team' of 10-15 of the best engineers from across the network embedded at Debrecen for the full ramp period. He noted that 6 months was achievable only if the design freeze date was also advanced — 'you cannot accelerate production readiness if the product is still changing.'",
+        "interviewer_assessment": "Excellent — specific, technically grounded, and showed deep programme knowledge. His condition about design freeze showed mature systems thinking. Strongest answer on this question alongside Fatima Al-Rashidi."
+      },
+      {
+        "question": "What would you do if Tesla poached 15% of your production engineers?",
+        "response_summary": "Tanaka approached this as a quality knowledge management problem: 'The first thing I would ask is: in which process areas do the 15% hold critical knowledge? What is our knowledge concentration risk?' He would then initiate a knowledge documentation sprint (process FMEAs, control plans, SPC models updated with the departing engineers before they leave), implement a formal technical mentoring bond between each departing engineer and their successor, and build redundancy in critical process knowledge as a long-term structural change. On retention, he noted: 'In Japan, loyalty culture is different. In Germany, I have learned that people leave for recognition, career growth, and belonging — not only money. I would want to understand which of these is driving the decision before responding.'",
+        "interviewer_assessment": "His cross-cultural insight on retention motivation was the most sophisticated observation in the candidate pool on this question. The knowledge management approach was rigorous. Good answer overall."
+      }
+    ],
+    "case_study_performance": "Tanaka worked through the Debrecen case with characteristic precision. He correctly identified the root cause (fixturing tolerance stack-up confirmed on the battery pack integration) within 12 minutes using a systematic fault tree approach he drew on paper. His recovery plan included specific process changes, a quality monitoring protocol for the corrected process, and a knowledge transfer requirement to prevent recurrence. He did not address stakeholder communication or workforce management during the shutdown, and when prompted he acknowledged: 'I was focused on the technical resolution — you are right that the people dimension is equally important.' His self-awareness in that moment was noted positively."
+  },
+  "reference_checks": [
+    {
+      "referee_name": "Hiroshi Kimura (retired)",
+      "relationship": "Former manager — Toyota Quality Division Director",
+      "quote": "Yuki Tanaka is the finest quality engineer I have worked with in 30 years at Toyota. He also has something most engineers do not — he understands people. He left Toyota to grow, and from what I understand, he has grown significantly. Whether he is ready to lead a large production organisation, I cannot say with confidence — that is a very different role from quality leadership. What I can say is that wherever Yuki is, quality improves.",
+      "source": "External reference, 2026-02-09"
+    },
+    {
+      "referee_name": "Dr. Karoline Reiss",
+      "relationship": "Direct manager — VP Quality, BMW Group (internal, verified)",
+      "quote": "I support Yuki pursuing this role if he genuinely wants it. I also want to be transparent: I believe the ideal role for Yuki is VP Quality BMW Group, which he could lead superbly. For the Head of Production role, he would need a strong operational deputy and significant support on the P&L and people leadership dimensions in year one. He has the intellect and the values. The question is whether the experience gap can be bridged quickly enough for the organisation's needs.",
+      "source": "Internal reference, HR file 2026-01-31"
+    }
+  ],
+  "compensation": {
+    "current_base": "€185,000",
+    "current_total": "€245,000 (incl. performance bonus 24% + quality excellence award)",
+    "expected_package": "€220,000 base; €310,000 total",
+    "notice_period": "3 months",
+    "availability": "June 2026"
+  },
+  "red_flags": [
+    "Entire career has been in quality function — has never held direct accountability for production output, takt time, or workforce productivity; the Head of Production role requires managing operations, not auditing them",
+    "Budget scale gap is significant: current €18M quality budget vs. €450M production budget; no demonstrated P&L ownership or large-scale capex experience",
+    "People leadership scale gap: 65 direct reports vs. 3,000+ — cross-cultural and functional management of a diverse 3,000-person workforce is untested",
+    "May not want the role: VP Quality feedback and peer comments suggest Yuki's passion is quality excellence, not general production management — appointment could result in a leader who is misaligned with the role",
+    "German language under pressure: acknowledged communication stiffness in high-intensity situations could create issues in crisis communications with a large German workforce"
+  ],
+  "green_flags": [
+    "Best IATF 16949 credentials in the candidate pool — Lead Auditor with dual-plant zero-NC audit outcome (BMW Group record); quality compliance will be unimpeachable",
+    "EV Quality Gate Framework: designed the quality architecture now used by all BMW EV plants globally — institutional contribution matched by no other candidate",
+    "Unique TPS-BMW synthesis: 10 years at Toyota followed by 6 years at BMW creates a cross-cultural quality perspective that no other candidate possesses",
+    "Three consecutive 'Exceeds Expectations' or 'Outstanding' reviews with increasing scope and impact",
+    "Exceptional team development record: promoted 4 engineers in 2 years and has among the lowest attrition of any quality function in BMW Group",
+    "Cross-plant influence without authority: manages quality systems across Leipzig and Dingolfing through respect and expertise, not hierarchy — highly relevant for multi-plant coordination"
+  ]
+}

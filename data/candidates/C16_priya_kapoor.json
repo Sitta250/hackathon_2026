@@ -1,0 +1,212 @@
+{
+  "candidate_id": "C16",
+  "candidate_name": "Dr. Priya Kapoor",
+  "candidate_type": "external",
+  "current_employer": "Airbus SE",
+  "current_title": "VP Final Assembly & Delivery — A320 Family, Hamburg-Finkenwerder",
+  "years_experience_total": 18,
+  "years_in_current_role": 4,
+  "years_at_current_employer": 14,
+  "nationality": "British-Indian",
+  "languages": ["English (native)", "German (C1 — lived in Hamburg 10 years)", "French (B2)", "Hindi (native)"],
+  "education": [
+    {
+      "degree": "PhD Aerospace Manufacturing Engineering — Composite Structure Assembly Processes",
+      "institution": "Cranfield University, UK",
+      "year": 2008,
+      "distinction": "Distinction; thesis on automated fibre placement process capability for primary aircraft structure — awarded the Royal Aeronautical Society Young Member Prize 2009; thesis led to a patent with BAE Systems"
+    },
+    {
+      "degree": "MEng Aerospace Engineering (First Class Honours)",
+      "institution": "University of Bristol",
+      "year": 2004,
+      "distinction": "First Class; Year Prize for Manufacturing Stream; Rolls-Royce sponsored placement year"
+    }
+  ],
+  "certifications": [
+    "AS9100 Rev D Lead Auditor — Bureau Veritas (2014, recertified 2020)",
+    "APQP Practitioner — Airbus Group Internal (analogous to IATF APQP, 2012)",
+    "Six Sigma Black Belt — Airbus Group Internal (2013)",
+    "Airbus Leadership University — VP Track (2021)",
+    "IATA Aviation Safety Auditor (2016)",
+    "Lean Aerospace Initiative (LAI) — MIT Senior Practitioner (2019)"
+  ],
+  "career_history": [
+    {
+      "company": "Airbus SE",
+      "title": "VP Final Assembly & Delivery — A320 Family, Hamburg-Finkenwerder",
+      "location": "Hamburg, Germany",
+      "start_year": 2022,
+      "end_year": null,
+      "scope": "4,800 direct and matrix employees across final assembly, systems installation, cabin completion, and flight test/delivery; €3.1B production value (at list price) per year; responsible for A320neo, A321neo, and A321XLR from fuselage join to customer delivery; IG Metall collective agreement, Airbus works council (Gesamtbetriebsrat)",
+      "key_achievements": [
+        {
+          "achievement": "Managed the A321XLR SOP ramp-up at Hamburg — the most complex single-aisle aircraft derivative in Airbus history (14% more assembly hours per aircraft than A321neo) — achieving rate 2 (2 aircraft/month) within 8 months of Job 1 while simultaneously maintaining A320neo/A321neo at rate 45/month",
+          "metric": "A321XLR: rate 2 achieved month 8 (plan: month 12); Day-1 quality gate pass rate 96.4% (Airbus standard: 94.0%); zero impact on A320neo/A321neo output — maintained rate 45 throughout XLR ramp; first A321XLR delivered to Iberia on original schedule",
+          "year": 2024,
+          "verifiable": false
+        },
+        {
+          "achievement": "Reduced Hamburg final assembly non-quality cost (NQC) from €410M/year (2021 baseline) to €267M/year through a structured 3-year quality improvement programme targeting the top-10 defect families",
+          "metric": "NQC reduction: €143M/year (34.9%); top-10 defect families: 8 eliminated, 2 significantly reduced; programme required 240 cross-functional kaizen events and a complete revision of 84 assembly work instructions",
+          "year": 2024,
+          "verifiable": false
+        },
+        {
+          "achievement": "Negotiated a productivity-linked works agreement with IG Metall Hamburg and the Airbus European Works Council for the A321XLR ramp — the first Airbus Hamburg agreement linking assembly rate targets to shift flexibility since 2009",
+          "metric": "Agreement signed covering 4,800 employees; shift flexibility provisions enabled the A321XLR ramp without headcount increase beyond plan; IG Metall Hamburg described it as 'a fair negotiation that respected worker interests while enabling industrial ambition'",
+          "year": 2023,
+          "verifiable": false
+        }
+      ],
+      "reason_for_leaving": "Seeking a transformation-scale challenge outside aerospace; Airbus Hamburg is operationally excellent but incremental — wants to participate in the EV manufacturing transformation as a once-in-a-generation inflection point; personal motivation is also a new geography after 10 years in Hamburg"
+    },
+    {
+      "company": "Airbus SE",
+      "title": "Head of Production — Systems Installation & Cabin, Hamburg",
+      "location": "Hamburg, Germany",
+      "start_year": 2018,
+      "end_year": 2022,
+      "scope": "1,800 employees; responsible for all systems installation (hydraulics, fuel, electrical, avionics wiring) and cabin completion for A320 family at Hamburg; reported to VP Final Assembly",
+      "key_achievements": [
+        {
+          "achievement": "Led the electrical systems installation standardisation programme — replacing 26 aircraft-variant-specific wiring harness standards with a common modular standard, reducing the complexity that was driving 38% of Hamburg's non-quality cost in systems installation",
+          "metric": "Wiring harness standards consolidated from 26 to 9; systems installation NQC reduced from €89M to €51M/year (42.7% reduction); programme took 3 years and required collaboration with 14 tier-1 avionics suppliers",
+          "year": 2021,
+          "verifiable": false
+        },
+        {
+          "achievement": "Managed Hamburg's production continuity during the COVID-19 pandemic shutdown and restart — one of only 3 Airbus sites that maintained a minimum skeleton production rate throughout the March-June 2020 period",
+          "metric": "Minimum 1 aircraft/month maintained throughout shutdown (vs. 0 at Toulouse and Tianjin); safety protocol compliance: 100% (zero COVID enforcement actions); restart to full rate achieved in 14 weeks vs. Airbus plan of 22 weeks",
+          "year": 2020,
+          "verifiable": false
+        }
+      ],
+      "reason_for_leaving": "Promoted to VP Final Assembly & Delivery"
+    },
+    {
+      "company": "Airbus SE",
+      "title": "Manufacturing Engineering Manager / Senior Production Engineer",
+      "location": "Hamburg & Toulouse",
+      "start_year": 2012,
+      "end_year": 2018,
+      "scope": "Progressive manufacturing engineering roles; team leader of 22 engineers from 2015; responsible for A320 family fuselage join and wing-to-fuselage integration process engineering",
+      "key_achievements": [
+        {
+          "achievement": "Designed the automated shim selection and installation process for A320 wing-to-fuselage join — eliminating a manual shimming process that was the single largest source of fit-up variation and rework in Hamburg assembly",
+          "metric": "Fit-up variation reduced from ±2.8mm to ±0.4mm; rework at wing-to-fuselage join reduced 81%; process adopted by Toulouse A320 line within 18 months; patent filed (EP2847087)",
+          "year": 2016,
+          "verifiable": false
+        }
+      ],
+      "reason_for_leaving": "Promoted to Head of Production"
+    },
+    {
+      "company": "BAE Systems — Military Aircraft Division",
+      "title": "Process Engineer / Manufacturing Systems Analyst",
+      "location": "Warton, Lancashire, UK",
+      "start_year": 2008,
+      "end_year": 2012,
+      "scope": "Manufacturing engineering for Typhoon fuselage assembly; individual contributor then team member of 8; responsible for composite structure assembly process capability",
+      "key_achievements": [
+        {
+          "achievement": "Led the process capability improvement programme for the Typhoon forward fuselage composite skin joining process — reducing the fit-up rejection rate that was causing approximately 3 aircraft/year of schedule delay",
+          "metric": "Fit-up rejection rate reduced from 8.4% to 1.1%; estimated annual schedule recovery value: £42M; programme foundation was the author's PhD thesis work applied to a production context",
+          "year": 2011,
+          "verifiable": false
+        }
+      ],
+      "reason_for_leaving": "Joined Airbus for larger-scale assembly management and European career"
+    }
+  ],
+  "leadership_indicators": {
+    "leadership_style_self_described": "Standards-led and deeply collaborative. In aerospace, a quality failure can kill people — that reality shapes your leadership instincts permanently. I have very high standards and I make them completely transparent. Within those standards, I give teams enormous autonomy. I lead difficult conversations early and directly because in aerospace — and I believe in automotive — the cost of avoiding a difficult conversation is always higher than the cost of having it.",
+    "decision_making_style": "Data-driven and safety-first. Has a clear hierarchy: safety, quality, delivery, cost — in that order, always. Will make decisions against cost and schedule to protect quality. Described by her team as 'the person who will stop a production line if she believes the quality case isn't made, even if it costs €10M a day.'",
+    "conflict_handling": "Direct and structured. Does not avoid conflict but approaches it through data and established standards rather than through authority or personality. Has successfully managed conflict with Airbus programme offices (who prioritise schedule) and with IG Metall (who prioritise worker conditions) — has developed a discipline of separating the people from the problem.",
+    "change_orientation": "High but patient. Drives significant change in every role but invests heavily in building coalition and understanding before moving. Has been described as 'she takes 2 months to align everyone and then changes happen in weeks that others couldn't achieve in years.'",
+    "risk_appetite": "Near-zero for safety and quality risk. Moderate for operational risk with mitigation. High for technical innovation risk when the safety case is clear. Has a structured risk assessment process she applies to every major decision.",
+    "notable_leadership_moments": [
+      {
+        "situation": "During the A321XLR ramp in 2024, a new cabin floor structure installation sequence was found to create a stress concentration at a specific frame junction — identified by a production engineer during day-3 of production. The deviation from design intent was technically within drawing tolerance but Kapoor judged the stress concentration to be a latent safety risk.",
+        "action": "Kapoor halted production of A321XLR immediately and submitted a mandatory safety report to EASA. She convened an airworthiness review within 6 hours, engaging Airbus structures R&D and EASA concurrently. She briefed the Airbus CEO and the A321XLR launch customer (Iberia) personally within 24 hours — before the issue was formally resolved — on the hold and the investigation timeline.",
+        "outcome": "EASA review concluded the stress concentration was within acceptable airworthiness margins but required a revised installation sequence to prevent recurrence. Production resumed after 6 days. No aircraft were found with the defect; the early detection prevented a retrospective inspection of 12 delivered aircraft. Iberia's CEO described Kapoor's direct briefing as 'the most transparent and responsible communication I have received from an OEM during a production issue.'",
+        "source": "Reference check — Airbus CEO Tom Enders (predecessor); EASA safety report reference number provided"
+      }
+    ]
+  },
+  "evidence_sources": {
+    "cv": true,
+    "performance_reviews": null,
+    "feedback_360": null,
+    "project_kpis": true,
+    "interview_notes": true,
+    "reference_checks": true
+  },
+  "performance_reviews": null,
+  "feedback_360": null,
+  "interview_notes": {
+    "interviewer": "Dr. Sabine Müller, Executive Search Partner; Klaus Richter, SVP Production",
+    "date": "2026-03-14",
+    "format": "Structured competency interview + live case study (90 min). Conducted in German.",
+    "overall_impression": "Kapoor was the most immediately credible large-scale assembly leader in the external pool. She manages a larger and more complex final assembly operation than the BMW role requires and she has done it in Hamburg — in German, with IG Metall, with a works council. The interviewers' challenge was the aerospace-to-automotive transition: the regulatory frameworks are different, the production rhythm is radically different (1 aircraft per day vs. 1,000 cars per day), and the EV-specific technology (battery systems, eDrive, BMS) is outside her experience. Her answers showed acute self-awareness about these gaps and a structured plan for how she would close them.",
+    "question_responses": [
+      {
+        "question": "How would you handle a 6-month semiconductor supply disruption across 3 plants?",
+        "response_summary": "Kapoor opened by noting the aerospace parallel: 'In 2020 and 2021 we had a comparable challenge with composite raw material supply — pre-preg carbon fibre allocation was constrained industry-wide for 14 months. Let me tell you what worked and what didn't.' She outlined: (1) establish an aircraft-by-aircraft — or in this case, vehicle-by-vehicle — completion status map to identify which units can be completed with available chips and which must be parked; (2) implement a 'build-to-install' rather than 'build-to-schedule' rhythm — only draw chips from inventory when a specific vehicle is ready for that station, eliminating wasteful pre-kitting; (3) engage the supply chain team and the chip suppliers simultaneously in a joint allocation committee — 'in aerospace we call this a supplier summit; it sounds simple but having everyone in the same room with the same data changes the conversation'; (4) communicate with works councils within 24 hours — 'in my experience, the works council is your most effective internal communication channel to the workforce; engaging them early and honestly is always the right decision.' She added: 'I have not managed semiconductor supply specifically — but the supply constraint management methodology is the same as composites, and I have 4 years of that.',",
+        "interviewer_assessment": "Outstanding — the composites supply parallel was both immediately credible and structurally correct. She was the only candidate to cite proactive works council communication as a crisis management step (not just a stakeholder obligation) — showing genuine German institutional understanding. Her build-to-install proposal was novel and operationally sophisticated."
+      },
+      {
+        "question": "How would you accelerate Neue Klasse SOP by 6 months?",
+        "response_summary": "Kapoor was specific and self-aware: 'I want to be honest that aircraft SOP and vehicle SOP are different in important ways — rate in aerospace is 1-5 per day; in automotive it's hundreds per day. The ramp curve is different, the quality gate structure is different. What I can offer is the aerospace discipline of not letting ramp pressure override quality readiness.' She outlined: (1) implement a 'quality-paced ramp' — defining the rate at each week of ramp based on quality performance, not a fixed schedule; 'if the quality data at rate 10 isn't good, you do not go to rate 20 the following week'; (2) use digital mock-up validation exhaustively before physical installation — 'Airbus spent 18 months on A321XLR digital validation; we found 340 interference issues that would have been factory problems'; (3) establish a cross-functional 'quality signal' meeting daily during the ramp — not a status meeting, a problem-solving meeting with authority to make decisions; (4) personally visit the factory floor every morning during the ramp — 'the most important quality data is not on the dashboard; it's in the conversation with the person who built it.' She paused: 'I want to learn the automotive SOP process in detail before I claim I would do it better.'",
+        "interviewer_assessment": "The quality-paced ramp concept was the most disciplined and intellectually coherent approach to SOP acceleration in the pool — her argument that you should let quality data set the rate rather than a fixed schedule is counterintuitive but correct for a complex system. Her daily floor walk habit was noted positively. Her honest caveat about automotive SOP specificity was appropriate."
+      },
+      {
+        "question": "What would you do if Tesla poached 15% of your production engineers?",
+        "response_summary": "Kapoor said: 'My first reaction is: when did I know this was a risk? Because if I'm surprised, my talent intelligence was inadequate. In Airbus Hamburg we monitor attrition risk continuously — we have stay interviews twice a year with every critical-knowledge engineer.' She then outlined: immediate knowledge risk assessment and documentation for engineers within their notice period; a skip-level conversation programme with the remaining 85% within 2 weeks; works council engagement on retention package design — 'in Germany, pay changes require co-determination; the works council is not a barrier to retention, it is a co-author of it'; and a cultural audit — 'if engineers are choosing Tesla's culture over BMW's, we have a culture problem to solve, not just a compensation problem.' She added: 'In aerospace, losing an engineer who holds airworthiness sign-off authority for a specific process is a production stop. I suspect in EV you have equivalent single-point-of-failure knowledge. I would map that before anything else.'",
+        "interviewer_assessment": "The strongest answer in the pool on this question. Her co-determination framing of works council as a 'co-author' of retention rather than a constraint was exactly the cultural understanding BMW needs. The airworthiness sign-off parallel to EV critical knowledge was insightful and showed cross-domain systems thinking. Stay interview practice twice a year was a specific, practical tool no other candidate had mentioned."
+      }
+    ],
+    "case_study_performance": "Kapoor worked through the Debrecen case methodically and reached the root cause in 19 minutes, describing it accurately as a tolerance stack-up at the fixturing interface. Her recovery plan was the most safety-conscious in the pool — she included a check for whether any already-completed vehicles had been built with the defective fixturing and required a retrospective inspection protocol before they left the plant. No other candidate had proposed a retrospective check. She noted: 'In aerospace, you don't just fix the process going forward — you account for everything built with the defective process. I don't know whether automotive quality standards require the same, but I would ask that question.' Her communication plan was detailed, including a specific note that the Hungarian government industrial affairs office should receive a courtesy call from a BMW senior executive within 48 hours — showing specific knowledge of the Debrecen context."
+  },
+  "reference_checks": [
+    {
+      "referee_name": "Klaus Richter (pre-existing relationship declared)",
+      "relationship": "NOTE: Klaus Richter (BMW SVP Production, hiring manager) has a professional acquaintance relationship with Kapoor through the ACARE (Advisory Council for Aviation Research) industry forum. This relationship was declared by both parties and Richter recused himself from the reference evaluation for this candidate.",
+      "quote": "Recused — see above. Reference evaluation conducted by Dr. Sabine Müller independently.",
+      "source": "Conflict of interest declaration, 2026-03-01"
+    },
+    {
+      "referee_name": "Fabian Scheffler",
+      "relationship": "IG Metall Hamburg — Senior Negotiator (union counterpart in works council negotiations)",
+      "quote": "Dr. Kapoor is one of two management representatives in my 20 years of industrial relations work with whom I would use the word 'trust.' She does not always give us what we ask for — but she always tells us the truth about what she can and cannot do, and she always engages us before decisions are made, not after. The A321XLR works agreement was hard work. She held her position on rate targets firmly and we held ours on shift flexibility. The final agreement was one both sides could defend to their members. That is rarer than it should be.",
+      "source": "External reference call, 2026-03-10 — exceptional union reference"
+    },
+    {
+      "referee_name": "Jörg Deckers",
+      "relationship": "Airbus A320 Programme Director (internal peer; Kapoor's operational counterpart)",
+      "quote": "Priya is the most operationally rigorous VP in the Hamburg assembly organisation. The A321XLR ramp was a genuine success that most of us thought was unreachable on the original schedule. My one observation — offered in the spirit of full transparency — is that Priya's quality standards are so high that she has occasionally created tension with programme timeline commitments. At Airbus, that is ultimately the correct trade-off. Whether BMW's Neue Klasse environment requires the same absolute quality supremacy over schedule, or whether the competitive dynamics require more balanced trade-offs, is something she and BMW would need to negotiate clearly at the outset.",
+      "source": "External reference call, 2026-03-16 — supportive with important quality-vs-schedule tension flag"
+    }
+  ],
+  "compensation": {
+    "current_base": "€275,000",
+    "current_total": "€395,000 (incl. Airbus STI 30% + LTI)",
+    "expected_package": "€295,000 base; €440,000 total",
+    "notice_period": "6 months (Airbus VP standard)",
+    "availability": "November 2026"
+  },
+  "red_flags": [
+    "Aerospace-to-automotive production rate gap is fundamental: A320 family Hamburg produces 1-3 aircraft per day at ~12,000 assembly hours each; BMW Neue Klasse will produce ~1,000 vehicles per day at ~30 assembly hours each — the operational rhythm, quality gate structure, and workforce management model are structurally different in ways that require significant adaptation",
+    "Zero EV-specific production experience — no battery module assembly, eDrive integration, BMS, or HV system production knowledge; the Neue Klasse programme is fundamentally a battery-centric manufacturing challenge that Kapoor has no direct equivalent for",
+    "Six-month notice period creates an availability problem — earliest November 2026 start risks missing the critical Neue Klasse programme window",
+    "Quality-over-schedule instinct may create tension in BMW's competitive context — her programme director reference explicitly flags this; BMW's Neue Klasse ramp has strategic urgency that requires quality and speed simultaneously rather than absolute quality supremacy over schedule",
+    "Conflict of interest declaration with hiring manager (Klaus Richter pre-existing relationship) required recusal — while handled transparently, adds process complexity and potential perception risk"
+  ],
+  "green_flags": [
+    "Largest final assembly operation in the candidate pool: 4,800 employees, 3,000 vehicles/year equivalent complexity (aircraft list price basis), A321XLR SOP achieved 4 months ahead of plan — the most credible large-scale complex assembly leadership credential outside the automotive candidates",
+    "Hamburg IG Metall relationship: union negotiator with 20 years' experience described her with the word 'trust' — the rarest and most valuable endorsement in the candidate pool; directly transferable to BMW's IG Metall relationship",
+    "Non-quality cost reduction: €143M/year reduction across a 3-year programme — the largest single quantified quality improvement achievement in the candidate pool; quality cost management at this scale is directly applicable to BMW's production economics",
+    "German C1 with 10 years in Hamburg — native-level professional fluency; works council negotiation, IG Metall engagement, and 4,800-person German workforce communication will all be natural; no adjustment period",
+    "Retrospective quality check instinct in the case study — the only candidate to ask about vehicles already built before the defect was identified; this level of quality completeness thinking is rare and valuable"
+  ]
+}

@@ -1,0 +1,56 @@
+{
+	"scenario_id": "S01",
+	"scenario_name": "Normal Operations / Stable EV Expansion",
+	"scenario_category": "baseline",
+	"description": "BMW's EV Division in EMEA is operating under broadly stable conditions. Demand for premium EVs is healthy but not overheated, supplier performance is within expected tolerance bands, and plant operations are being judged on execution consistency rather than heroic recovery. The role of Head of Production is centered on delivering reliable output, maintaining premium quality standards, and coordinating cross-functional execution across production, quality, logistics, and engineering.\n\nThe business is still under pressure to improve cost efficiency and productivity, but there is no single burning platform. In this environment, the winning leader is not the loudest transformer or the best crisis firefighter. The winner is the operator who can run a large, complex EV production organization with discipline, repeatability, and credibility inside BMW's operating model.",
+	"business_context": {
+	  "market_conditions": "Premium EV demand in EMEA is growing steadily, with moderate pricing pressure and no major demand shock.",
+	  "supply_chain_status": "Supplier performance is stable overall, with manageable volatility in battery materials and electronics.",
+	  "internal_pressures": "Leadership expects continuous productivity improvement, launch readiness discipline, and quality consistency across plants.",
+	  "timeline_pressures": "No extraordinary deadline compression; standard quarterly and annual production targets apply.",
+	  "workforce_situation": "Workforce stability is acceptable, with normal attrition and manageable labor planning.",
+	  "financial_impact": "Margin pressure remains present, but there is no acute earnings shock; underperformance would primarily affect plant efficiency and delivery reliability."
+	},
+	"criteria_weight_multipliers": {
+	  "C1_ev_production": 1.3,
+	  "C2_ramp_up_sop": 1.1,
+	  "C3_supply_chain": 0.9,
+	  "C4_quality": 1.2,
+	  "C5_team_leadership": 1.2,
+	  "C6_pnl_budget": 1.0,
+	  "C7_digital_manufacturing": 0.8,
+	  "C8_stakeholder_mgmt": 1.0,
+	  "C9_crisis_management": 0.5,
+	  "C10_change_management": 0.7
+	},
+	"scenario_pressures": [
+	  {
+		"pressure": "Operational stability is valued over transformation heroics",
+		"impact_on_role": "The leader must sustain predictable output, quality, and team performance across established EV operations rather than redesign the system.",
+		"criteria_affected": ["C1", "C4", "C5"],
+		"causal_reasoning": "Stable market and supply conditions reduce the value of emergency-response skills. Instead, the role becomes one of disciplined production leadership, where deep EV manufacturing knowledge, premium-quality rigor, and scalable people leadership drive daily business performance."
+	  },
+	  {
+		"pressure": "Premium brand expectations require low-defect execution",
+		"impact_on_role": "The leader must protect launch reputation and customer trust through process discipline and quality containment.",
+		"criteria_affected": ["C4", "C1"],
+		"causal_reasoning": "In normal conditions, quality failures are less excusable because the organization has time and control. That shifts advantage toward leaders with strong production-system mastery and formal quality management discipline rather than those who mainly shine during disruption."
+	  },
+	  {
+		"pressure": "Large cross-functional coordination remains necessary but not extraordinary",
+		"impact_on_role": "The leader must align production, logistics, engineering, and HR, but without constant crisis escalation.",
+		"criteria_affected": ["C5", "C8"],
+		"causal_reasoning": "Baseline operations still require strong coordination across functions, but the absence of acute external shocks means stakeholder management matters as a steady execution capability rather than an emergency lever."
+	  },
+	  {
+		"pressure": "Cost discipline is important but not the dominant differentiator",
+		"impact_on_role": "Budget ownership remains necessary, but small operational missteps matter less than production reliability and quality consistency.",
+		"criteria_affected": ["C6", "C1", "C4"],
+		"causal_reasoning": "Under stable conditions, BMW can tolerate routine cost optimization cycles, but not repeated output or quality instability. Therefore, P&L ownership stays relevant yet does not define the top-ranked candidate."
+	  }
+	],
+	"emergent_criteria": [],
+	"expected_winner_archetype": "A proven BMW-style production operator with deep EV/automotive manufacturing experience, strong plant discipline, credibility with internal stakeholders, and a track record of scaling teams without destabilizing quality.",
+	"risk_of_wrong_hire": "If BMW hires a transformation-heavy or crisis-oriented leader instead of a disciplined operator, the plant may experience avoidable process churn, leadership fatigue, and execution inconsistency. The likely consequence is a 2-4% OEE deterioration, higher defect leakage, and €8-15M in annualized efficiency loss without any offsetting strategic gain.",
+	"key_differentiator": "C1 EV/automotive production management combined with C4 quality management determines the #1 ranking."
+  }
