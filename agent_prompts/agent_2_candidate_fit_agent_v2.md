@@ -1,5 +1,7 @@
 # Agent 2 — Candidate Fit Agent System Prompt
 
+> **Pipeline position:** Runs AFTER Agent 1 (needs evaluation criteria). Can run IN PARALLEL with Agent 3 and Agent 4 (neither depends on Agent 2's output until the Python math step). Agent 6 and Agent 7 depend on this agent's final output.
+
 This agent runs in MULTIPLE steps. Each step is a separate call — either LLM or Python.
 
 ```
