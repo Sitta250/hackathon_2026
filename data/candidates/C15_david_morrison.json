@@ -4,6 +4,7 @@
   "candidate_type": "external",
   "current_employer": "Morrison Logistics Consulting Ltd (self-owned)",
   "current_title": "Director / Independent Defence & Supply Chain Consultant",
+  "age": 52,
   "years_experience_total": 30,
   "years_in_current_role": 2,
   "years_at_current_employer": 2,
@@ -156,7 +157,7 @@
       },
       {
         "question": "How would you accelerate Neue Klasse SOP by 6 months?",
-        "response_summary": "Morrison was candid: 'I have not run a vehicle production start-of-production. I have run the deployment of complex logistics systems with many parallel workstreams under time pressure. The principles are analogous — let me apply them and you can tell me what I'm missing.' He outlined: establish a programme operations centre with a single integrated master schedule visible to all teams; assign a mission-qualified officer — in this case, a programme director — to each critical-path work package with authority and accountability; implement a daily operational rhythm (morning brief, midday decision point, evening review) to compress the decision cycle; pre-approve contingency resources so teams don't wait for budget approval when problems arise. He said: 'The single biggest accelerant in complex operations is reducing the decision latency — the time between identifying a problem and making a decision about it. In the Army we call this "command tempo." I would apply the same principle here.'",
+        "response_summary": "Morrison was candid: 'I have not run a vehicle production start-of-production. I have run the deployment of complex logistics systems with many parallel workstreams under time pressure. The principles are analogous — let me apply them and you can tell me what I'm missing.' He outlined: establish a programme operations centre with a single integrated master schedule visible to all teams; assign a mission-qualified officer — in this case, a programme director — to each critical-path work package with authority and accountability; implement a daily operational rhythm (morning brief, midday decision point, evening review) to compress the decision cycle; pre-approve contingency resources so teams don't wait for budget approval when problems arise. He said: 'The single biggest accelerant in complex operations is reducing the decision latency — the time between identifying a problem and making a decision about it. In the Army we call this \"command tempo.\" I would apply the same principle here.'",
         "interviewer_assessment": "The 'command tempo' concept was interesting and had genuine application to SOP management. His framework was structurally sound. He did not engage with any of the specific technical dimensions of SOP (PPAP, digital twin, quality gates, tooling installation) — revealing that his acceleration approach would need to be delivered through his technical leadership team rather than through his own expertise."
       },
       {
