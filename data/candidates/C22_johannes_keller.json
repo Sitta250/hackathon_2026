@@ -1,0 +1,146 @@
+{
+	"candidate_id": "C22",
+	"candidate_name": "Johannes Keller",
+	"candidate_type": "internal",
+	"current_employer": "BMW Group",
+	"current_title": "Senior Manager, Production Systems & Digital Operations — EV Assembly",
+	"years_experience_total": 8,
+	"years_in_current_role": 2,
+	"years_at_current_employer": 8,
+	"nationality": "German",
+	"languages": ["German (native)", "English (C1)"],
+	"education": [
+	  {
+		"degree": "MSc — Mechanical Engineering",
+		"institution": "RWTH Aachen University",
+		"year": 2018,
+		"distinction": "Graduated with distinction; thesis on cyber-physical systems in automotive assembly"
+	  }
+	],
+	"certifications": [
+	  "BMW Production System (BPS) Advanced Practitioner",
+	  "Siemens Opcenter MES Key User Certification",
+	  "Lean Six Sigma Green Belt"
+	],
+	"career_history": [
+	  {
+		"company": "BMW Group",
+		"title": "Senior Manager, Production Systems & Digital Operations — EV Assembly",
+		"location": "Munich, Germany / Debrecen project interface",
+		"start_year": 2024,
+		"end_year": null,
+		"scope": "Leads digital production-system integration and performance management routines for EV assembly workstreams; 5 direct reports, 65 indirect project and operational interfaces",
+		"key_achievements": [
+		  {
+			"achievement": "Implemented an integrated digital tier-management routine linking quality deviations, downtime events, and escalation ownership across one EV assembly area",
+			"metric": "Average escalation closure time reduced from 5.1 days to 2.3 days; repeat issue recurrence reduced 24%",
+			"year": 2025,
+			"verifiable": false
+		  },
+		  {
+			"achievement": "Supported rollout of a digital deviation tracking logic aligned to BPS escalation standards",
+			"metric": "Manual reporting workload reduced 31%; shift-leader compliance with standard escalation routines increased from 62% to 91%",
+			"year": 2025,
+			"verifiable": false
+		  }
+		],
+		"reason_for_leaving": "N/A — current role"
+	  },
+	  {
+		"company": "BMW Group",
+		"title": "Manager, Production Excellence — EV Pilot Operations",
+		"location": "Munich, Germany",
+		"start_year": 2021,
+		"end_year": 2024,
+		"scope": "Production-excellence role supporting pilot and pre-series EV operations; cross-functional interface to industrial engineering, quality, and logistics",
+		"key_achievements": [
+		  {
+			"achievement": "Redesigned line-balancing and escalation rules in a pre-series assembly environment",
+			"metric": "Pilot build schedule adherence improved from 74% to 89%",
+			"year": 2023,
+			"verifiable": false
+		  }
+		],
+		"reason_for_leaving": "Promoted"
+	  },
+	  {
+		"company": "BMW Group",
+		"title": "Graduate Engineer / Process Improvement Specialist",
+		"location": "Regensburg, Germany",
+		"start_year": 2018,
+		"end_year": 2021,
+		"scope": "Early-career roles in process engineering and BPS improvement",
+		"key_achievements": [
+		  {
+			"achievement": "Led takt-time and ergonomics improvements in final assembly",
+			"metric": "Cycle stability improved 11%; ergonomic incident rate reduced 18%",
+			"year": 2020,
+			"verifiable": false
+		  }
+		],
+		"reason_for_leaving": "Internal move to EV pilot operations"
+	  }
+	],
+	"leadership_indicators": {
+	  "leadership_style_self_described": "Structured, calm, and systems-oriented. I prefer to make performance visible, reduce ambiguity, and let teams solve problems with clear ownership rather than management drama.",
+	  "decision_making_style": "Analytical and relatively careful. Seeks data first, aligns with stakeholders second, and acts once ownership is clear.",
+	  "conflict_handling": "Low-drama and controlled. Avoids direct confrontation unless escalation is necessary.",
+	  "change_orientation": "Moderately high; comfortable with digital manufacturing change but prefers stepwise implementation over disruptive resets.",
+	  "risk_appetite": "Moderate; will pilot new systems but avoids politically exposed bets without sponsor backing.",
+	  "notable_leadership_moments": [
+		{
+		  "situation": "A digital escalation rollout stalled because shift leaders viewed it as additional bureaucracy.",
+		  "action": "Keller simplified the workflow, removed duplicate reporting steps, and ran weekly feedback loops with frontline leaders.",
+		  "outcome": "Adoption improved materially and the system became embedded rather than bypassed.",
+		  "source": "Internal manager feedback"
+		}
+	  ]
+	},
+	"evidence_sources": {
+	  "cv": true,
+	  "performance_reviews": true,
+	  "feedback_360": false,
+	  "project_kpis": true,
+	  "interview_notes": true,
+	  "reference_checks": false
+	},
+	"performance_reviews": {
+	  "latest_rating": "Exceeds Expectations",
+	  "summary": "Seen as highly credible in digital production-system work and unusually mature for his level. Development need remains broader people leadership at plant scale."
+	},
+	"feedback_360": null,
+	"interview_notes": {
+	  "interviewer": "Thomas Brenner, Head of HR Manufacturing; internal talent review panel",
+	  "date": "2026-03-05",
+	  "format": "Internal succession interview",
+	  "overall_impression": "Strong internal high-potential with clear credibility in BPS, digital operations, and disciplined execution. Not currently viewed as ready for a full Head of Production mandate, but highly relevant as a future-facing internal benchmark.",
+	  "question_responses": [
+		{
+		  "question": "How would you accelerate SOP readiness under timeline compression?",
+		  "response_summary": "Focused on decision rights, issue transparency, and line-of-sight accountability rather than heroic firefighting.",
+		  "interviewer_assessment": "Conceptually strong but light on lived executive-scale trade-offs."
+		}
+	  ],
+	  "case_study_performance": "Methodical and structured; good systems answer, less commercial sharpness than more senior candidates."
+	},
+	"reference_checks": [],
+	"compensation": {
+	  "current_base": "€122,000",
+	  "current_total": "€148,000",
+	  "expected_package": "€145,000 base; €175,000 total",
+	  "notice_period": "Internal transfer — 2 to 3 months",
+	  "availability": "June 2026"
+	},
+	"red_flags": [
+	  "Only 8 years total experience; not credible as a true final-choice candidate without extreme scenario assumptions",
+	  "Limited large-scale team leadership",
+	  "No full plant P&L ownership",
+	  "Could be perceived as too process-oriented and not decisive enough in crisis conditions"
+	],
+	"green_flags": [
+	  "Strong BPS and internal cultural fit",
+	  "Credible digital manufacturing profile",
+	  "Low political risk internally",
+	  "Would likely perform well in digital and structured transformation scenarios"
+	]
+  }

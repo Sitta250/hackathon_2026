@@ -1,0 +1,146 @@
+{
+	"candidate_id": "C15",
+	"candidate_name": "Selin Aydin",
+	"candidate_type": "internal",
+	"current_employer": "BMW Group",
+	"current_title": "Manager, Workforce Transformation & Production Capability",
+	"years_experience_total": 10,
+	"years_in_current_role": 3,
+	"years_at_current_employer": 10,
+	"nationality": "German",
+	"languages": ["German (native)", "English (C1)", "Turkish (native)"],
+	"education": [
+	  {
+		"degree": "MSc — Business Administration & Industrial Psychology",
+		"institution": "University of Mannheim",
+		"year": 2016,
+		"distinction": "Graduated with distinction; focus on organizational change and operations leadership"
+	  }
+	],
+	"certifications": [
+	  "Prosci Change Management Practitioner",
+	  "BMW Leadership Development Programme",
+	  "Lean Manufacturing Foundations"
+	],
+	"career_history": [
+	  {
+		"company": "BMW Group",
+		"title": "Manager, Workforce Transformation & Production Capability",
+		"location": "Munich, Germany",
+		"start_year": 2023,
+		"end_year": null,
+		"scope": "Leads capability-building, leadership transition support, and workforce transformation initiatives for production organizations; 3 direct reports and broad matrix influence across plants",
+		"key_achievements": [
+		  {
+			"achievement": "Designed leadership-transition and frontline capability program for production managers in EV-related operations",
+			"metric": "Programme adopted across 3 production units; supervisor retention improved 12%; internal promotion readiness scores improved 18%",
+			"year": 2025,
+			"verifiable": false
+		  },
+		  {
+			"achievement": "Supported organizational adaptation during digitization and role redesign initiatives",
+			"metric": "Training completion rose from 71% to 95%; post-rollout adoption lag reduced by 29%",
+			"year": 2024,
+			"verifiable": false
+		  }
+		],
+		"reason_for_leaving": "N/A — current role"
+	  },
+	  {
+		"company": "BMW Group",
+		"title": "HR Business Partner — Manufacturing",
+		"location": "Leipzig, Germany",
+		"start_year": 2020,
+		"end_year": 2023,
+		"scope": "Supported plant leadership on workforce planning, leadership development, and works council matters",
+		"key_achievements": [
+		  {
+			"achievement": "Helped stabilize one high-turnover production area through manager coaching and workforce planning changes",
+			"metric": "Attrition reduced from 14.2% to 8.8% over 12 months",
+			"year": 2022,
+			"verifiable": false
+		  }
+		],
+		"reason_for_leaving": "Internal move to transformation role"
+	  },
+	  {
+		"company": "BMW Group",
+		"title": "Talent Management / HR Development Specialist",
+		"location": "Munich, Germany",
+		"start_year": 2016,
+		"end_year": 2020,
+		"scope": "Early-career HR and leadership-development roles",
+		"key_achievements": [
+		  {
+			"achievement": "Built internal mobility tracking for technical leadership roles",
+			"metric": "Improved visibility of successor pools in production-related functions",
+			"year": 2019,
+			"verifiable": false
+		  }
+		],
+		"reason_for_leaving": "Moved into plant-facing HRBP role"
+	  }
+	],
+	"leadership_indicators": {
+	  "leadership_style_self_described": "I lead through trust, clarity, and credible change. People support difficult transformation when they understand the reason, see fair leadership, and believe the system is not arbitrary.",
+	  "decision_making_style": "Consultative but not weak. Prefers to understand workforce and stakeholder effects before making structural changes.",
+	  "conflict_handling": "Skilled mediator; strong in tension-heavy environments involving managers, HR, and employee representatives.",
+	  "change_orientation": "High; strongest in adoption, retention, and leadership-system change rather than pure plant operations.",
+	  "risk_appetite": "Moderate to low in operational decisions, higher in organizational redesign.",
+	  "notable_leadership_moments": [
+		{
+		  "situation": "A production digitization rollout was encountering supervisor resistance and informal pushback from employee representatives.",
+		  "action": "Aydin redesigned the rollout communication, involved frontline leaders earlier, and reframed the program around role support rather than control.",
+		  "outcome": "Adoption improved and conflict intensity reduced without changing the program’s core objectives.",
+		  "source": "Internal HR transformation review"
+		}
+	  ]
+	},
+	"evidence_sources": {
+	  "cv": true,
+	  "performance_reviews": true,
+	  "feedback_360": false,
+	  "project_kpis": true,
+	  "interview_notes": true,
+	  "reference_checks": false
+	},
+	"performance_reviews": {
+	  "latest_rating": "Strong Performer",
+	  "summary": "Exceptional stakeholder and change-management capability for level. Main limitation is obvious: not an operations executive."
+	},
+	"feedback_360": null,
+	"interview_notes": {
+	  "interviewer": "Thomas Brenner; internal talent panel",
+	  "date": "2026-03-03",
+	  "format": "Internal potential assessment",
+	  "overall_impression": "Highly valuable internal benchmark candidate for talent-war and change-heavy scenarios, but not operationally credible for the actual Head of Production role. Useful for showing how scenario weighting can distort or elevate nontraditional strengths.",
+	  "question_responses": [
+		{
+		  "question": "What would you do if Amazon or Tesla poached 15% of engineers?",
+		  "response_summary": "Focused on manager quality, critical-role mapping, internal mobility, and redesigning the work environment rather than relying only on pay.",
+		  "interviewer_assessment": "Excellent answer for retention logic; insufficient production authority for the target role."
+		}
+	  ],
+	  "case_study_performance": "Strong on people and adoption risk; weak on line recovery and hard production trade-offs."
+	},
+	"reference_checks": [],
+	"compensation": {
+	  "current_base": "€118,000",
+	  "current_total": "€143,000",
+	  "expected_package": "€140,000 base; €170,000 total",
+	  "notice_period": "Internal transfer — 2 months",
+	  "availability": "June 2026"
+	},
+	"red_flags": [
+	  "Not an operations leader in the strict sense",
+	  "No plant P&L ownership",
+	  "Limited direct exposure to production crisis decision-making",
+	  "Would not be credible with Klaus or Hans-Peter for the actual role"
+	],
+	"green_flags": [
+	  "Strong internal cultural fit",
+	  "Excellent change and retention profile",
+	  "High credibility with works council and HR-heavy stakeholders",
+	  "Useful contrast candidate for talent-war and workforce scenarios"
+	]
+  }

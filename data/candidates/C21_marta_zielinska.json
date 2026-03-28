@@ -1,0 +1,216 @@
+{
+	"candidate_id": "C21",
+	"candidate_name": "Marta Zielińska",
+	"candidate_type": "external",
+	"current_employer": "Northvolt Systems Industrialisation",
+	"current_title": "Director, Manufacturing Operations & Industrialisation",
+	"years_experience_total": 9,
+	"years_in_current_role": 3,
+	"years_at_current_employer": 4,
+	"nationality": "Polish",
+	"languages": ["Polish (native)", "English (C1)", "German (B2)", "Swedish (B1)"],
+	"education": [
+	  {
+		"degree": "MSc — Production Engineering & Automation",
+		"institution": "Warsaw University of Technology",
+		"year": 2017,
+		"distinction": "Graduated with honours; thesis on digital line balancing in high-variability production systems"
+	  },
+	  {
+		"degree": "Executive Certificate — Leading Digital Operations",
+		"institution": "INSEAD",
+		"year": 2023,
+		"distinction": "Completed with distinction; capstone on workforce adoption in smart factory transformations"
+	  }
+	],
+	"certifications": [
+	  "Lean Six Sigma Black Belt (2020)",
+	  "Certified Scrum Product Owner — Scrum Alliance (2021)",
+	  "IATF 16949 Foundation Training (2022)",
+	  "Siemens Opcenter MES Practitioner Certification (2023)"
+	],
+	"career_history": [
+	  {
+		"company": "Northvolt Systems Industrialisation",
+		"title": "Director, Manufacturing Operations & Industrialisation",
+		"location": "Skellefteå, Sweden",
+		"start_year": 2023,
+		"end_year": null,
+		"scope": "Led cross-functional industrialisation and operational stabilisation for battery systems manufacturing lines; direct leadership of 7 managers and 420 indirect workforce; accountable for throughput, launch readiness, digital production tooling adoption, and escalation governance across two production areas",
+		"key_achievements": [
+		  {
+			"achievement": "Stabilised a newly launched battery module line that had been missing weekly output targets for 14 consecutive weeks",
+			"metric": "Weekly attainment improved from 61% to 89% within 5 months; first-pass yield improved from 87.2% to 95.8%; unplanned downtime reduced 34%",
+			"year": 2024,
+			"verifiable": false
+		  },
+		  {
+			"achievement": "Introduced a digital escalation and tier-meeting system integrating MES, maintenance, and quality deviation data into one daily operating cadence",
+			"metric": "Average issue closure time reduced from 6.4 days to 2.1 days; repeat deviation rate reduced 29% over 2 quarters",
+			"year": 2024,
+			"verifiable": false
+		  },
+		  {
+			"achievement": "Redesigned frontline leader training and shift-manager routines after attrition spiked during a line expansion",
+			"metric": "Supervisor attrition reduced from 18.6% to 9.3% over 9 months; internal promotion fill-rate for team leads increased from 22% to 47%",
+			"year": 2025,
+			"verifiable": false
+		  }
+		],
+		"reason_for_leaving": "N/A — current role"
+	  },
+	  {
+		"company": "Northvolt Systems Industrialisation",
+		"title": "Senior Manager, Production Excellence",
+		"location": "Västerås, Sweden",
+		"start_year": 2021,
+		"end_year": 2023,
+		"scope": "Led production excellence and digital operations improvement across pilot and early-scale battery manufacturing; managed 3 team leads and 35 specialists; strong interface with process engineering, quality, and automation",
+		"key_achievements": [
+		  {
+			"achievement": "Built the operating model for daily performance management during pilot-to-industrial transfer",
+			"metric": "Ramp governance adopted across 4 production units; schedule adherence improved from 68% to 90% during transfer phase",
+			"year": 2022,
+			"verifiable": false
+		  },
+		  {
+			"achievement": "Implemented a structured root-cause and digital defect-triage method for recurring process escapes",
+			"metric": "Recurring high-severity defects reduced 41% in 8 months; engineering response lead time improved 33%",
+			"year": 2023,
+			"verifiable": false
+		  }
+		],
+		"reason_for_leaving": "Promoted to Director, Manufacturing Operations & Industrialisation"
+	  },
+	  {
+		"company": "Bosch Automotive Electronics",
+		"title": "Operations Manager",
+		"location": "Wrocław, Poland",
+		"start_year": 2019,
+		"end_year": 2021,
+		"scope": "Managed final assembly and test operations for automotive electronics components; 160 direct/indirect workforce; accountable for output, quality, and shift leadership",
+		"key_achievements": [
+		  {
+			"achievement": "Led recovery of a customer escalation linked to a recurring test-station failure mode",
+			"metric": "Customer complaints reduced 63% within 12 weeks; line scrap reduced from 4.9% to 2.7%",
+			"year": 2020,
+			"verifiable": false
+		  }
+		],
+		"reason_for_leaving": "Recruited into Northvolt to support industrial scale-up"
+	  },
+	  {
+		"company": "Bosch Automotive Electronics",
+		"title": "Process Engineer / Continuous Improvement Engineer",
+		"location": "Wrocław, Poland",
+		"start_year": 2017,
+		"end_year": 2019,
+		"scope": "Process engineering, line balancing, and continuous improvement across electronics manufacturing cells",
+		"key_achievements": [
+		  {
+			"achievement": "Designed and implemented a cycle-time balancing initiative across 3 assembly cells",
+			"metric": "Productivity improved 14%; overtime reduced 19%; project recognised internally as best CI initiative in plant that year",
+			"year": 2018,
+			"verifiable": false
+		  }
+		],
+		"reason_for_leaving": "Promoted to Operations Manager"
+	  }
+	],
+	"leadership_indicators": {
+	  "leadership_style_self_described": "I lead through visibility, pace, and clarity. In fast-changing manufacturing environments, people do not need perfect certainty — they need fast feedback, clean priorities, and leaders who remove ambiguity. My default is to build a system that lets good people win consistently rather than depend on individual heroics.",
+	  "decision_making_style": "Structured but fast. Comfortable making 70% information decisions if the feedback loop is strong enough to correct quickly. Seeks input from technical experts early, but does not over-socialise decisions once direction is clear.",
+	  "conflict_handling": "Direct but not aggressive. Will escalate quickly when decisions stall or ownership is blurred. Seen as demanding in underperforming environments, but generally regarded as fair and unusually strong at translating operational tension into practical next steps.",
+	  "change_orientation": "Very high. Has spent most of her career in scaling, industrialisation, or stabilisation environments. Strong instinct for adoption risk, frontline-manager capability gaps, and digital workflow design.",
+	  "risk_appetite": "Moderately high. Comfortable piloting new routines, digital tools, and line-governance models, but less inclined than Dubois-style operators to make socially or politically explosive bets.",
+	  "notable_leadership_moments": [
+		{
+		  "situation": "In 2024, a newly launched battery module line missed output for more than three months, with engineering blaming operations, operations blaming process design, and attrition rising among shift managers.",
+		  "action": "Zielińska suspended parallel improvement workstreams, imposed a single daily tiered escalation process, reassigned two underperforming line managers, and required engineering, quality, and maintenance to operate from one issue-priority board with 48-hour closure rules.",
+		  "outcome": "Within 10 weeks the line returned to predictable output improvement, and by month five weekly attainment rose to 89%. References described her intervention as the first moment the organisation stopped arguing and started operating as one system.",
+		  "source": "Reference check — former VP Industrialisation, Northvolt Systems"
+		},
+		{
+		  "situation": "During a 2025 expansion phase, attrition among supervisors increased sharply as experienced team leads were overwhelmed by digital process changes and inexperienced managers were promoted too quickly.",
+		  "action": "Zielińska redesigned the frontline leader role into a clearer operational cadence, added coaching support, removed low-value reporting tasks, and established a 'first 90 days' transition framework for newly promoted supervisors.",
+		  "outcome": "Supervisor attrition dropped by roughly half over the following 9 months, and internal fill rates improved materially. Reference comments consistently cited this as one of her strongest people-leadership interventions.",
+		  "source": "Reference checks — HR Business Partner, Northvolt; former Head of Operations Excellence"
+		}
+	  ]
+	},
+	"evidence_sources": {
+	  "cv": true,
+	  "performance_reviews": null,
+	  "feedback_360": null,
+	  "project_kpis": true,
+	  "interview_notes": true,
+	  "reference_checks": true
+	},
+	"performance_reviews": null,
+	"feedback_360": null,
+	"interview_notes": {
+	  "interviewer": "Dr. Sabine Müller, Executive Search Partner; Thomas Brenner, Head of HR Manufacturing",
+	  "date": "2026-03-07",
+	  "format": "Structured competency interview + panel discussion (75 min). Conducted in English with partial German exchange.",
+	  "overall_impression": "Zielińska came across as one of the most modern and system-oriented candidates in the process. She was credible on digital manufacturing, leadership routines, and stabilising scale-up operations, and significantly better than expected on people topics. The concern is not intelligence or energy — both are obvious. The concern is depth and social legitimacy for a role of this weight inside BMW. Thomas Brenner's note: 'Impressive, composed, and much more mature than her years suggest. But this role is not a lab scale-up or a battery venture. It is a heavily codetermined premium OEM environment with legacy structures, senior peers, and zero tolerance for political naïveté.'",
+	  "question_responses": [
+		{
+		  "question": "How would you handle a 6-month semiconductor supply disruption across 3 plants?",
+		  "response_summary": "Zielińska framed the situation first as a prioritisation and control problem rather than just a logistics problem. She proposed segmenting all constrained components by revenue criticality, restart complexity, and substitutability; standing up a cross-functional daily control tower with supply chain, production, finance, and sales; and redesigning plant schedules around stable constrained-capacity plans rather than optimistic supply assumptions. She also argued for freezing discretionary line changes during the disruption so leadership attention stayed on recovery discipline. She estimated that clear prioritisation and cadence could preserve 80-85% of planned output if the supplier recovery path was at least partially visible.",
+		  "interviewer_assessment": "Strong systems thinking, though less battle-hardened than true crisis veterans. She understood the control logic but did not have the lived authority of someone who has personally run a multi-plant OEM supply shock."
+		},
+		{
+		  "question": "How would you accelerate Neue Klasse SOP by 6 months?",
+		  "response_summary": "Zielińska focused on operating model design: simplify decision rights, collapse reporting layers, create one launch dashboard, and assign named owners to every blocking dependency with executive escalation thresholds. She placed strong emphasis on digital visibility, pilot-line learning loops, and protecting frontline manager bandwidth during the compression period. She explicitly said that a six-month acceleration would fail if BMW treated it as a planning exercise rather than a leadership-system redesign.",
+		  "interviewer_assessment": "Very strong on transformation architecture and execution cadence. Slightly light on the gritty plant-level political realities of forcing such a shift through a traditional OEM structure."
+		},
+		{
+		  "question": "What would you do if Tesla poached 15% of your production engineers?",
+		  "response_summary": "Zielińska said the first step is to identify whether the exits are random or concentrated in critical knowledge clusters. She then outlined a retention response built around manager quality, internal mobility, faster role redesign, and targeted compensation only for genuinely critical capabilities. She rejected blanket retention bonuses as 'lazy management' and argued BMW should instead make the production organisation more developmental and technically credible. She added that if people are leaving because decision-making is too slow, leadership has to be willing to treat speed as a retention issue, not only a performance issue.",
+		  "interviewer_assessment": "Among the strongest responses in the pool on talent-retention logic. Thomas Brenner found her framing thoughtful and unusually balanced. Klaus would likely see parts of it as too reformist if presented without political calibration."
+		}
+	  ],
+	  "case_study_performance": "Completed the Debrecen case in 18 minutes. Her recovery plan was coherent, disciplined, and notably strong on management-system design, escalation cadence, and digital visibility. She was weaker than the most senior candidates on implicit stakeholder politics and less instinctive on cost-versus-delay trade-offs, but stronger than most on how to prevent repeated dysfunction rather than merely fix the immediate issue."
+	},
+	"reference_checks": [
+	  {
+		"referee_name": "Lars Nygren",
+		"relationship": "Former VP Industrialisation, Northvolt Systems",
+		"quote": "Marta is the kind of leader who sees the operating system underneath the operating problem. That is rare. When a line is failing, many managers chase symptoms. She redesigns the cadence, ownership, and information flow. My caution is simply scale: BMW will test her political depth and senior executive gravitas far more than anything she has had to manage with us.",
+		"source": "External reference call, 2026-03-02"
+	  },
+	  {
+		"referee_name": "Anna Kowalczyk",
+		"relationship": "Former HR Business Partner, Northvolt Systems",
+		"quote": "She is demanding but not destructive. People know where they stand with her. I would trust her in a difficult team situation more than most operations leaders because she does not hide from performance issues but also does not treat people as disposable. Her weakness is not empathy. It is impatience with slow governance.",
+		"source": "External reference call, 2026-03-03"
+	  },
+	  {
+		"referee_name": "Michael Reuter",
+		"relationship": "Former Plant Director, Bosch Automotive Electronics Wrocław",
+		"quote": "Very smart, very fast, and unusually credible with engineers for someone who also has real management instinct. She was one of the strongest young operations leaders I worked with. But this BMW role sounds two levels bigger than where I last saw her. In five years I would say absolutely. Today, I would say only if you want to bet on trajectory rather than fully proven scope.",
+		"source": "External reference call, 2026-03-04"
+	  }
+	],
+	"compensation": {
+	  "current_base": "€168,000",
+	  "current_total": "€212,000",
+	  "expected_package": "€245,000 base; €320,000 total",
+	  "notice_period": "3 months",
+	  "availability": "July 2026"
+	},
+	"red_flags": [
+	  "Only 9 years of total experience; clearly below the normal maturity profile for a Head of Production role of this scale",
+	  "No direct evidence of leading a traditional premium automotive plant network in a codetermined German manufacturing environment",
+	  "German is workable but not boardroom-native; would likely be stretched in high-stakes works council or politically loaded executive discussions",
+	  "Strong digital and people-system instincts, but limited full P&L ownership at the scale BMW would expect",
+	  "Could be perceived internally as 'too junior, too external, too modern' by conservative BMW stakeholders, especially Klaus Richter and Dr. Hans-Peter Winkler"
+	],
+	"green_flags": [
+	  "Strongest candidate in the broader pool on digital operating cadence, industrialisation routines, and manager-enablement systems",
+	  "Demonstrated ability to stabilise underperforming scaled manufacturing operations without creating the social damage seen in harder-edged turnaround leaders",
+	  "Distinctive strength in talent retention, frontline leadership design, and adoption of digital manufacturing routines",
+	  "Interview showed unusually high conceptual clarity on how to make accelerated execution sustainable rather than chaotic",
+	  "Would likely outperform more traditional candidates in talent-war, digital-transformation, or change-heavy scenarios"
+	]
+  }

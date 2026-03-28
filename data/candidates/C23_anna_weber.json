@@ -1,0 +1,146 @@
+{
+	"candidate_id": "C23",
+	"candidate_name": "Anna Weber",
+	"candidate_type": "internal",
+	"current_employer": "BMW Group",
+	"current_title": "Plant Manager, Battery Module Pre-Assembly",
+	"years_experience_total": 9,
+	"years_in_current_role": 3,
+	"years_at_current_employer": 9,
+	"nationality": "German",
+	"languages": ["German (native)", "English (C1)", "Czech (B1)"],
+	"education": [
+	  {
+		"degree": "Diplom-Ingenieurin — Industrial Engineering",
+		"institution": "Technical University of Munich",
+		"year": 2017,
+		"distinction": "Graduated with honours"
+	  }
+	],
+	"certifications": [
+	  "BMW Production System (BPS) Leadership Certification",
+	  "IATF 16949 Internal Auditor",
+	  "Lean Six Sigma Black Belt"
+	],
+	"career_history": [
+	  {
+		"company": "BMW Group",
+		"title": "Plant Manager, Battery Module Pre-Assembly",
+		"location": "Leipzig, Germany",
+		"start_year": 2023,
+		"end_year": null,
+		"scope": "Leads one battery module pre-assembly operation with 280 employees, 6 direct reports, output/quality/delivery accountability, and close works council interface",
+		"key_achievements": [
+		  {
+			"achievement": "Stabilised output during a period of supplier-driven component variability",
+			"metric": "Output attainment improved from 82% to 96% over 6 months; premium freight spend reduced 19%",
+			"year": 2024,
+			"verifiable": false
+		  },
+		  {
+			"achievement": "Improved first-pass quality through tighter containment and escalation discipline",
+			"metric": "Internal defect rate reduced 27%; customer-line disruptions reduced from 6 incidents/quarter to 1",
+			"year": 2025,
+			"verifiable": false
+		  }
+		],
+		"reason_for_leaving": "N/A — current role"
+	  },
+	  {
+		"company": "BMW Group",
+		"title": "Operations Manager — E-Drive Components",
+		"location": "Dingolfing, Germany",
+		"start_year": 2020,
+		"end_year": 2023,
+		"scope": "Managed one e-drive component manufacturing area with 110 employees; shift operations, quality, and productivity",
+		"key_achievements": [
+		  {
+			"achievement": "Led productivity improvement initiative during line transfer phase",
+			"metric": "OEE improved from 76% to 86% over 12 months",
+			"year": 2022,
+			"verifiable": false
+		  }
+		],
+		"reason_for_leaving": "Promoted"
+	  },
+	  {
+		"company": "BMW Group",
+		"title": "Manufacturing Engineer / Team Lead",
+		"location": "Munich, Germany",
+		"start_year": 2017,
+		"end_year": 2020,
+		"scope": "Process engineering and early team leadership in powertrain-related production",
+		"key_achievements": [
+		  {
+			"achievement": "Improved station design and rework discipline in a high-variability production area",
+			"metric": "Rework hours reduced 16%",
+			"year": 2019,
+			"verifiable": false
+		  }
+		],
+		"reason_for_leaving": "Promoted"
+	  }
+	],
+	"leadership_indicators": {
+	  "leadership_style_self_described": "Clear, dependable, and people-focused without losing accountability. I believe operational discipline and trust have to reinforce each other.",
+	  "decision_making_style": "Balanced and pragmatic. Moves quickly on known issues but prefers stakeholder alignment on changes that affect workforce stability or quality risk.",
+	  "conflict_handling": "Constructive and calm. Known for de-escalating tension with works council and quality teams without appearing weak.",
+	  "change_orientation": "Moderate; supportive of improvement and digitization when grounded in operational reality.",
+	  "risk_appetite": "Measured; unlikely to make reckless bets.",
+	  "notable_leadership_moments": [
+		{
+		  "situation": "Battery-module output dropped due to incoming component inconsistency and shift-level blame cycles.",
+		  "action": "Weber imposed one-point accountability for containment, added daily supplier-quality reviews, and involved works council early when shift patterns needed short-term adjustment.",
+		  "outcome": "Output recovered without labor escalation and quality incidents fell materially.",
+		  "source": "Internal production review"
+		}
+	  ]
+	},
+	"evidence_sources": {
+	  "cv": true,
+	  "performance_reviews": true,
+	  "feedback_360": false,
+	  "project_kpis": true,
+	  "interview_notes": true,
+	  "reference_checks": false
+	},
+	"performance_reviews": {
+	  "latest_rating": "Strong Performer",
+	  "summary": "Seen as highly reliable, credible with workforce stakeholders, and increasingly strong on quality and operational leadership. Development need is broader strategic presence."
+	},
+	"feedback_360": null,
+	"interview_notes": {
+	  "interviewer": "Thomas Brenner; Klaus Richter",
+	  "date": "2026-03-06",
+	  "format": "Internal succession review",
+	  "overall_impression": "A very plausible future BMW production leader and one of the safer internal options in the younger cohort. Strong on people, quality, and operational stability. Less distinctive on transformation or large-network strategic acceleration.",
+	  "question_responses": [
+		{
+		  "question": "How would you respond to a talent-poaching wave in production engineering?",
+		  "response_summary": "Focused on manager quality, visible career paths, and targeted retention for critical skills rather than broad financial reactions.",
+		  "interviewer_assessment": "Thoughtful and socially credible."
+		}
+	  ],
+	  "case_study_performance": "Solid and realistic. Good plant logic, moderate ambition, limited boldness."
+	},
+	"reference_checks": [],
+	"compensation": {
+	  "current_base": "€128,000",
+	  "current_total": "€156,000",
+	  "expected_package": "€150,000 base; €182,000 total",
+	  "notice_period": "Internal transfer — 2 months",
+	  "availability": "June 2026"
+	},
+	"red_flags": [
+	  "Only 9 years total experience",
+	  "Scope still too narrow for full EMEA Head of Production credibility",
+	  "Not a natural crisis or transformation spike candidate",
+	  "Could be outgunned by stronger external operators in high-pressure scenarios"
+	],
+	"green_flags": [
+	  "Strong internal legitimacy",
+	  "Good works council and people-management credibility",
+	  "Quality and operational stability profile fits BMW culture well",
+	  "Low interpersonal risk with Klaus, Thomas, and Hans-Peter"
+	]
+  }

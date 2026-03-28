@@ -1,0 +1,146 @@
+{
+	"candidate_id": "C24",
+	"candidate_name": "Lukas Neumann",
+	"candidate_type": "internal",
+	"current_employer": "BMW Group",
+	"current_title": "Manager, Launch & SOP Readiness — Neue Klasse Production",
+	"years_experience_total": 7,
+	"years_in_current_role": 2,
+	"years_at_current_employer": 7,
+	"nationality": "German",
+	"languages": ["German (native)", "English (C1)"],
+	"education": [
+	  {
+		"degree": "MSc — Automotive Engineering",
+		"institution": "TU Braunschweig",
+		"year": 2019,
+		"distinction": "Specialisation in manufacturing and launch management"
+	  }
+	],
+	"certifications": [
+	  "BMW Launch Management Academy",
+	  "Project Management Professional (PMP)",
+	  "Lean Six Sigma Green Belt"
+	],
+	"career_history": [
+	  {
+		"company": "BMW Group",
+		"title": "Manager, Launch & SOP Readiness — Neue Klasse Production",
+		"location": "Munich / Debrecen interface",
+		"start_year": 2024,
+		"end_year": null,
+		"scope": "Coordinates launch-readiness tracking, cross-functional issue resolution, and SOP governance for Neue Klasse production workstreams; 4 direct reports and broad matrix influence",
+		"key_achievements": [
+		  {
+			"achievement": "Improved launch issue transparency and ownership discipline across multiple workstreams",
+			"metric": "Critical launch blockers with named owner and closure date increased from 58% to 96% within one quarter",
+			"year": 2025,
+			"verifiable": false
+		  },
+		  {
+			"achievement": "Helped redesign concurrent-review governance for late-stage industrialization issues",
+			"metric": "Average decision cycle time on escalated launch issues reduced 37%",
+			"year": 2025,
+			"verifiable": false
+		  }
+		],
+		"reason_for_leaving": "N/A — current role"
+	  },
+	  {
+		"company": "BMW Group",
+		"title": "Project Lead, Production Industrialisation",
+		"location": "Munich, Germany",
+		"start_year": 2022,
+		"end_year": 2024,
+		"scope": "Project management for industrialisation readiness in EV-related production systems",
+		"key_achievements": [
+		  {
+			"achievement": "Introduced launch dashboard structure used by multiple cross-functional teams",
+			"metric": "Launch status reporting preparation time reduced 45%",
+			"year": 2023,
+			"verifiable": false
+		  }
+		],
+		"reason_for_leaving": "Promoted"
+	  },
+	  {
+		"company": "BMW Group",
+		"title": "Junior Project Engineer / Operations Analyst",
+		"location": "Munich, Germany",
+		"start_year": 2019,
+		"end_year": 2022,
+		"scope": "Analytical and coordination support roles in production planning and industrialisation",
+		"key_achievements": [
+		  {
+			"achievement": "Supported issue-resolution analytics in pre-series planning",
+			"metric": "Improved escalation reporting accuracy and planning visibility",
+			"year": 2021,
+			"verifiable": false
+		  }
+		],
+		"reason_for_leaving": "Promoted"
+	  }
+	],
+	"leadership_indicators": {
+	  "leadership_style_self_described": "Energetic, transparent, and execution-focused. I try to create enough structure that difficult launch phases can move fast without becoming chaotic.",
+	  "decision_making_style": "Fast within scope, cautious outside scope. Comfortable under deadline pressure but still dependent on sponsorship when conflict becomes political.",
+	  "conflict_handling": "Professional and diplomatic, though not yet battle-tested in hard executive conflict.",
+	  "change_orientation": "High; naturally attracted to accelerated launch and transformation contexts.",
+	  "risk_appetite": "Moderately high in project environments, lower in politically exposed ones.",
+	  "notable_leadership_moments": [
+		{
+		  "situation": "A launch-readiness program suffered from fragmented issue ownership and duplicated governance forums.",
+		  "action": "Neumann consolidated trackers, imposed ownership standards, and pushed for a simplified escalation rhythm.",
+		  "outcome": "Decision-making speed improved and senior leadership visibility increased.",
+		  "source": "Internal project sponsor feedback"
+		}
+	  ]
+	},
+	"evidence_sources": {
+	  "cv": true,
+	  "performance_reviews": true,
+	  "feedback_360": false,
+	  "project_kpis": true,
+	  "interview_notes": true,
+	  "reference_checks": false
+	},
+	"performance_reviews": {
+	  "latest_rating": "Exceeds Expectations",
+	  "summary": "Strong launch-management potential, high energy, good executive communication for level. Main gap is absence of mature line leadership and operational authority."
+	},
+	"feedback_360": null,
+	"interview_notes": {
+	  "interviewer": "Klaus Richter; internal succession panel",
+	  "date": "2026-03-04",
+	  "format": "Internal interview + launch scenario discussion",
+	  "overall_impression": "High-potential and unusually relevant to Neue Klasse acceleration scenarios, but currently too narrow and too young for a full regional production mandate.",
+	  "question_responses": [
+		{
+		  "question": "How would you accelerate SOP by 6 months?",
+		  "response_summary": "Focused on decision rights, concurrent gate reviews, pilot build cadence, and contingency funding logic.",
+		  "interviewer_assessment": "Very good thinking; limited proof of having personally carried equivalent accountability."
+		}
+	  ],
+	  "case_study_performance": "Strong in launch governance logic, weaker in workforce, quality politics, and crisis authority."
+	},
+	"reference_checks": [],
+	"compensation": {
+	  "current_base": "€116,000",
+	  "current_total": "€141,000",
+	  "expected_package": "€138,000 base; €168,000 total",
+	  "notice_period": "Internal transfer — 2 months",
+	  "availability": "June 2026"
+	},
+	"red_flags": [
+	  "Only 7 years total experience",
+	  "No true plant leadership track record",
+	  "No major P&L ownership",
+	  "Could look impressive in interviews but collapse under full role complexity"
+	],
+	"green_flags": [
+	  "Very relevant to launch and SOP acceleration scenarios",
+	  "Strong internal context and low cultural risk",
+	  "Good communication and high-potential signal",
+	  "Could be a strong future successor profile"
+	]
+  }
