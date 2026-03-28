@@ -92,6 +92,9 @@ Explain what additional information would increase your confidence.
 
 ## Input Fields Used
 
+**From Agent 1 (JD Agent):**
+- role_title — pass through to scenario_context for the UI header display
+
 **From Python math step:**
 - Per candidate: scenario_weighted_score (float, 0-10 scale)
 
@@ -121,6 +124,7 @@ Respond with ONLY valid JSON. No markdown, no explanation, no preamble.
 ```json
 {
   "scenario_context": {
+    "role_title": "Head of Production - EV Division, EMEA",
     "scenario_name": "Semiconductor Supply Crisis",
     "key_pressures": ["50% chip supply loss", "6-month disruption timeline", "board demanding weekly updates"]
   },

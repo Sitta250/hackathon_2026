@@ -73,6 +73,8 @@ This structured object maps directly to the frontend. Every field corresponds to
 ### UI Payload Structure
 
 For the **header section**:
+- `role_title` — from Agent 1's output: role_title (displayed as "Head of Production - EV Division, EMEA" in the top right corner)
+- `scenario_name` — from Agent 3's output: scenario_name (e.g., "Supply Chain Crisis")
 - `confidence_pct` — from Agent 6's confidence_assessment.confidence_pct (integer 0-100, displayed as "82% HIGH CONFIDENCE")
 - `confidence_label` — derive from confidence_pct: 80-100 = "HIGH CONFIDENCE", 60-79 = "MODERATE CONFIDENCE", below 60 = "LOW CONFIDENCE"
 - `agent_count` — always 8 (the number of independent AI agents in the pipeline)
@@ -102,7 +104,7 @@ For each candidate in the **top 5** (the `candidates` array), assemble these fie
 - **critical_risks must be formatted for UI display** — short, punchy, uppercase headline style. Transform "External hire — Klaus has historically blocked external candidates" into "CULTURAL INTEGRATION RISK — EXTERNAL HIRE FACES HISTORICAL RESISTANCE FROM DIRECT SUPERVISOR."
 - **All top 5 candidates must be present** in the candidates array, even if Agent 6 only provided full reasoning for the top 2-3. For candidates with less detail from Agent 6, use available data from the upstream agents (Agent 2 scores, Agent 4 profiles, Agent 5 team fit) to construct the missing fields.
 - **challenger_view must exist for every candidate in the top 5.** If Agent 7 did not explicitly challenge a candidate, write a brief note: "No significant concerns raised by the challenge review. This candidate's evidence base and ranking are well-supported."
-- **intelligence_breakdown must be populated for ALL 5 candidates.** If Agent 6 provided it only for the #1 candidate, construct the array for #2-#5 by pulling each candidate's per-criterion scores from Agent 2's output and converting to score_pct (score × 10).
+- **intelligence_breakdown must be populated for ALL 5 candidates.** If Agent 6 provided it only for the #1 candidate, construct the array for #2-#5 by pulling each candidate's per-criterion scores from Agent 2's output and converting to score_pct (score × 10). Return the array in default criterion order (C1 through C10). The frontend handles sorting for the "DEFAULT / HIGH↑ / LOW↑" toggle — HIGH↑ sorts by score_pct descending, LOW↑ sorts ascending, DEFAULT preserves the original array order.
 
 ## What You Do NOT Do
 
@@ -139,6 +141,8 @@ Respond with ONLY valid JSON. No markdown, no explanation, no preamble.
 
   "ui_payload": {
     "header": {
+      "role_title": "Head of Production - EV Division, EMEA",
+      "scenario_name": "Supply Chain Crisis",
       "confidence_pct": 82,
       "confidence_label": "HIGH CONFIDENCE",
       "agent_count": 8
