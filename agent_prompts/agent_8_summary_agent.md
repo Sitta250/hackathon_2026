@@ -89,7 +89,8 @@ For each candidate in the **top 5** (the `candidates` array), assemble these fie
 | INTERNAL/EXTERNAL badge | `candidate_type` | Agent 6: ranking[].candidate_type |
 | Archetype label (e.g., "CRISIS OPERATOR") | `composite_label` | Agent 6: ranking[].composite_label |
 | BREMO score (e.g., 8.41) | `bremo_score` | Agent 6: ranking[].bremo_score |
-| AI Rationale paragraph | `ai_rationale` | Write a 3-4 sentence summary of WHY this candidate is at this rank, in plain language. Pull key points from Agent 6's full_reasoning_chain but rewrite in boardroom tone. |
+| AI Rationale | `ai_rationale` | An object with two fields: `bullets` (array of exactly 3 short, punchy bullet points explaining WHY this candidate is at this rank — each bullet should be one specific, evidence-backed reason, max 20 words) and `full_text` (the full 3-4 sentence narrative rewritten in boardroom tone). The frontend shows bullets by default and expands to full_text on click. |
+| Business Impact | `business_impact` | One sentence describing the concrete business outcome of hiring this candidate under the active scenario. Be specific with estimated impact where possible. Synthesize from Agent 3's scenario_risk_profile (what goes wrong without the right hire) and Agent 6's strengths. E.g., "Expected to reduce crisis-related production losses by €2-5M/week through proven multi-plant crisis coordination and faster supplier reallocation." |
 | Intelligence Breakdown bars | `intelligence_breakdown` | Agent 6: ranking[].intelligence_breakdown (pass through unchanged — array of {criterion_name, score, score_pct, evidence_tier, scenario_weight, evidence_snippet, was_recalibrated}). Add `evidence_snippet` (1 sentence from Agent 2's evidence field) and `was_recalibrated` (boolean from Agent 2's calibration data) to each item so the frontend can show drill-down details on click. |
 | Core Strengths bullets | `core_strengths` | Agent 6: ranking[].strengths (pass through as array of strings) |
 | Critical Risks cards | `critical_risks` | Merge Agent 6: ranking[].risks with Agent 7: practical_risk_flags[] for this candidate. Deduplicate. Each risk should be a short, punchy statement in UPPER CASE headline style for the UI cards. |
@@ -214,7 +215,15 @@ Respond with ONLY valid JSON. No markdown, no explanation, no preamble.
         "candidate_type": "external",
         "composite_label": "CRISIS OPERATOR",
         "bremo_score": 8.41,
-        "ai_rationale": "Santos demonstrated exceptional tactical command during the 2021 semiconductor shortage at Stellantis Iberia. Her ability to pivot manufacturing pipelines within 48 hours is a direct match for the current Supply Chain Crisis parameters. She excels in high-pressure environments where technical debt must be managed alongside logistics volatility. Her leadership style is decisive and data-driven, with a track record of reducing downtime by 34% during the 2022 European logistics disruption.",
+        "ai_rationale": {
+          "bullets": [
+            "Only candidate with direct multi-plant semiconductor crisis experience at comparable scale",
+            "Decisive, data-driven leadership style matches the urgency of daily allocation decisions",
+            "Strong alignment with Supply Chain Head — these two roles must operate as a unit during crisis"
+          ],
+          "full_text": "Santos demonstrated exceptional tactical command during the 2021 semiconductor shortage at Stellantis Iberia. Her ability to pivot manufacturing pipelines within 48 hours is a direct match for the current Supply Chain Crisis parameters. She excels in high-pressure environments where technical debt must be managed alongside logistics volatility. Her leadership style is decisive and data-driven, with a track record of reducing downtime by 34% during the 2022 European logistics disruption."
+        },
+        "business_impact": "Expected to reduce crisis-related production losses by an estimated €2-5M per week through proven multi-plant crisis coordination and faster supplier reallocation decisions.",
         "intelligence_breakdown": [
           {"criterion_name": "Crisis Management", "score": 8, "score_pct": 80, "evidence_tier": "stated", "scenario_weight": 0.20, "evidence_snippet": "Led Stellantis 14-plant semiconductor crisis response; corroborated by former COO reference.", "was_recalibrated": true},
           {"criterion_name": "Supply Chain Exp.", "score": 7, "score_pct": 70, "evidence_tier": "stated", "scenario_weight": 0.22, "evidence_snippet": "Dual-sourced 14 Tier-1 suppliers within 6 months during logistics crunch at Stellantis.", "was_recalibrated": false},
@@ -298,7 +307,15 @@ Respond with ONLY valid JSON. No markdown, no explanation, no preamble.
         "candidate_type": "internal",
         "composite_label": "OPERATIONAL STEWARD",
         "bremo_score": 7.52,
-        "ai_rationale": "Keller is BMW's most reliable internal operator — 18 years of progressive leadership in production with a verified track record of process optimization. His team fit score is the highest in the pool, meaning zero integration friction. Under normal operations he would be the clear #1. Under crisis conditions, his narrower crisis experience places him second, but he remains the strongest fallback and the ideal interim leader.",
+        "ai_rationale": {
+          "bullets": [
+            "Highest team fit score in pool — zero integration friction, immediate productivity",
+            "18 years of verified BMW production leadership with proven process optimization",
+            "Can start immediately as interim crisis lead while best-fit candidate transitions"
+          ],
+          "full_text": "Keller is BMW's most reliable internal operator — 18 years of progressive leadership in production with a verified track record of process optimization. His team fit score is the highest in the pool, meaning zero integration friction. Under normal operations he would be the clear #1. Under crisis conditions, his narrower crisis experience places him second, but he remains the strongest fallback and the ideal interim leader."
+        },
+        "business_impact": "Eliminates onboarding risk entirely — operational continuity from day one with an estimated 3-month head start over any external hire during an active crisis.",
         "intelligence_breakdown": [
           {"criterion_name": "Crisis Management", "score": 6, "score_pct": 60, "evidence_tier": "verified", "scenario_weight": 0.20},
           {"criterion_name": "Supply Chain Exp.", "score": 6, "score_pct": 60, "evidence_tier": "verified", "scenario_weight": 0.22}
@@ -367,7 +384,15 @@ Respond with ONLY valid JSON. No markdown, no explanation, no preamble.
         "candidate_type": "internal",
         "composite_label": "STRATEGIC NAVIGATOR",
         "bremo_score": 6.89,
-        "ai_rationale": "Al-Rashidi is the lowest-risk hire in the pool with almost entirely verified evidence. She scores consistently across criteria without dominating any single one. Her verified crisis management performance during the 2023 i4 line disruption gives her a more reliable — if lower — crisis score than Maria's stated claims.",
+        "ai_rationale": {
+          "bullets": [
+            "Lowest-risk hire in the pool — almost all scores backed by verified internal evidence",
+            "Second-highest team fit ensures smooth integration with existing leadership",
+            "Verified crisis response during 2023 i4 line disruption — reliable if not exceptional"
+          ],
+          "full_text": "Al-Rashidi is the lowest-risk hire in the pool with almost entirely verified evidence. She scores consistently across criteria without dominating any single one. Her verified crisis management performance during the 2023 i4 line disruption gives her a more reliable — if lower — crisis score than Maria's stated claims."
+        },
+        "business_impact": "The most predictable hire — minimizes the risk of a leadership mis-hire that costs the organization 12-18 months of rehiring and cultural damage.",
         "intelligence_breakdown": [],
         "core_strengths": [
           "Almost entirely verified evidence base — most predictable hire",
@@ -403,7 +428,15 @@ Respond with ONLY valid JSON. No markdown, no explanation, no preamble.
         "candidate_type": "external",
         "composite_label": "QUALITY GUARDIAN",
         "bremo_score": 6.72,
-        "ai_rationale": "Nakamura brings world-class quality management from Toyota with deep lean manufacturing expertise. Under a quality-focused scenario he would rank higher, but the current crisis scenario deprioritizes his core strengths in favor of supply chain agility and crisis decisiveness.",
+        "ai_rationale": {
+          "bullets": [
+            "World-class quality management pedigree from Toyota — strongest quality candidate in pool",
+            "Deep IATF 16949 expertise directly applicable to BMW quality standards",
+            "Deprioritized by crisis scenario — would rank #2 under a quality-focused context"
+          ],
+          "full_text": "Nakamura brings world-class quality management from Toyota with deep lean manufacturing expertise. Under a quality-focused scenario he would rank higher, but the current crisis scenario deprioritizes his core strengths in favor of supply chain agility and crisis decisiveness."
+        },
+        "business_impact": "Would drive measurable quality improvements (estimated 15-20% defect reduction based on Toyota track record) but this impact materializes post-crisis, not during it.",
         "intelligence_breakdown": [],
         "core_strengths": [
           "World-class lean manufacturing and quality management pedigree",
@@ -439,7 +472,15 @@ Respond with ONLY valid JSON. No markdown, no explanation, no preamble.
         "candidate_type": "external",
         "composite_label": "TRANSFORMATION CATALYST",
         "bremo_score": 6.45,
-        "ai_rationale": "Lindström is the strongest transformation and digital manufacturing candidate in the pool. Under a Neue Klasse ramp-up scenario she would rank significantly higher. The crisis scenario's deprioritization of transformation criteria pulls her down, but she represents the strongest long-term play if the crisis resolves within 6 months.",
+        "ai_rationale": {
+          "bullets": [
+            "Strongest transformation and digital manufacturing candidate in the entire pool",
+            "Would rank #1 under a Neue Klasse ramp-up scenario — the long-term play",
+            "Penalized by crisis scenario, not by capability gaps"
+          ],
+          "full_text": "Lindström is the strongest transformation and digital manufacturing candidate in the pool. Under a Neue Klasse ramp-up scenario she would rank significantly higher. The crisis scenario's deprioritization of transformation criteria pulls her down, but she represents the strongest long-term play if the crisis resolves within 6 months."
+        },
+        "business_impact": "Best positioned to lead the Neue Klasse production ramp-up (€2B+ program) — her impact compounds over years 2-5 of the role, not in the immediate crisis window.",
         "intelligence_breakdown": [],
         "core_strengths": [
           "Strongest digital manufacturing and Industry 4.0 candidate",
