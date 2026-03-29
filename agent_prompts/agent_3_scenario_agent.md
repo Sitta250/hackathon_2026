@@ -34,12 +34,13 @@ Every weight change must follow this structure:
 
 ## Weight Adjustment Rules
 
-- Adjusted weights must sum to 1.00 (including any emergent criteria weights)
+- Adjusted weights must sum to 1.00 (across the 10 original criteria only — emergent criteria carry 0.00 weight)
+- **All 10 original criteria must appear exactly once in adapted_criteria.** Do not omit criteria even if their weight is unchanged — include them with weight_delta: 0. The Python math step requires a complete weight map.
 - Use multipliers between 0.3x and 3.0x relative to the default weight
 - At least 2 criteria must increase significantly (1.5x or higher)
 - At least 2 criteria must decrease significantly (0.7x or lower)
 - Do not change all weights — some criteria remain stable regardless of scenario. Identify which ones and explain why.
-- Emergent criteria steal weight from decreased criteria, not from increased ones. The total must still sum to 1.00.
+- Emergent criteria are **advisory only** — they carry weight 0.00 and are NOT included in the weight sum. They exist to surface qualitative factors the hiring committee should probe. The 10 original criteria must still sum to exactly 1.00.
 
 ## Handling Natural Language Input from HR
 
@@ -127,8 +128,9 @@ Respond with ONLY valid JSON. No markdown, no explanation, no preamble.
     {
       "id": "EC1",
       "name": "Supplier negotiation under duress",
-      "weight": 0.05,
-      "reasoning": "The original JD does not include supplier negotiation as a standalone criterion because under normal operations the supply chain team handles this. During a supply crisis, the Head of Production must personally engage with tier-1 suppliers to secure allocation priority — this requires negotiation skills and supplier relationship capital that go beyond standard supply chain management."
+      "weight": 0.00,
+      "reasoning": "The original JD does not include supplier negotiation as a standalone criterion because under normal operations the supply chain team handles this. During a supply crisis, the Head of Production must personally engage with tier-1 suppliers to secure allocation priority — this requires negotiation skills and supplier relationship capital that go beyond standard supply chain management.",
+      "advisory_note": "Emergent criteria are advisory only. They are NOT scored by the Candidate Fit Agent and carry zero weight in the scoring formula. They are surfaced to the Decision Agent and Challenger Agent as qualitative context — factors the hiring committee should probe in interviews but that the pipeline cannot score from available evidence."
     }
   ],
   "scenario_risk_profile": "If the organization hires for normal-operations priorities (process optimization, digital transformation) and a supply crisis hits, the new leader will lack the crisis management instincts and supplier relationships needed to manage the first 6 months. The cost of this mismatch is estimated at €2-5M per week of preventable production loss, plus potential long-term damage to dealer and customer relationships from missed delivery commitments."
