@@ -90,12 +90,71 @@ For each candidate in the **top 5** (the `candidates` array), assemble these fie
 | Archetype label (e.g., "CRISIS OPERATOR") | `composite_label` | Agent 6: ranking[].composite_label |
 | BREMO score (e.g., 8.41) | `bremo_score` | Agent 6: ranking[].bremo_score |
 | AI Rationale paragraph | `ai_rationale` | Write a 3-4 sentence summary of WHY this candidate is at this rank, in plain language. Pull key points from Agent 6's full_reasoning_chain but rewrite in boardroom tone. |
-| Intelligence Breakdown bars | `intelligence_breakdown` | Agent 6: ranking[].intelligence_breakdown (pass through unchanged — array of {criterion_name, score, score_pct, evidence_tier, scenario_weight}) |
+| Intelligence Breakdown bars | `intelligence_breakdown` | Agent 6: ranking[].intelligence_breakdown (pass through unchanged — array of {criterion_name, score, score_pct, evidence_tier, scenario_weight, evidence_snippet, was_recalibrated}). Add `evidence_snippet` (1 sentence from Agent 2's evidence field) and `was_recalibrated` (boolean from Agent 2's calibration data) to each item so the frontend can show drill-down details on click. |
 | Core Strengths bullets | `core_strengths` | Agent 6: ranking[].strengths (pass through as array of strings) |
 | Critical Risks cards | `critical_risks` | Merge Agent 6: ranking[].risks with Agent 7: practical_risk_flags[] for this candidate. Deduplicate. Each risk should be a short, punchy statement in UPPER CASE headline style for the UI cards. |
 | Challenger View quote | `challenger_view` | Synthesize Agent 7's concerns for this candidate into a single 2-3 sentence quote. Write it in the voice of a skeptical board member — direct, pointed, not hostile. |
 | Stability Meter | `stability_label` | Agent 7: per_candidate_stability[].stability_label (ROBUST / STABLE / FRAGILE) |
 | Recommended Protocol steps | `recommended_protocol` | For the #1 candidate: merge Agent 7's recommended_verification and recommended_action items into 3-5 numbered action steps. Each step must be a concrete, completable action. For #2-#5: include 1-2 key action steps if relevant, or an empty array. |
+| Competency Radar | `radar_profile` | A 5-dimension object for rendering a radar/spider chart. See Radar Profile section below. |
+| Mitigation Strategy | `mitigation_strategy` | One concrete, actionable sentence describing how the organization can mitigate the #1 risk for this candidate. Synthesize from Agent 7's recommended_actions. E.g., "Pair with a strong operational deputy who has deep BMW production system knowledge." |
+| Deliberation Trace | `deliberation_trace` | An array of 4-5 entries showing what key agents concluded about this specific candidate. See Deliberation Trace section below. |
+
+### Radar Profile (`radar_profile`)
+
+For each candidate, produce a 5-dimension radar chart object by grouping the 10 criterion scores from `intelligence_breakdown` by their category (from Agent 1's criteria definitions). Each dimension is a 0-100 value computed as the average `score_pct` of criteria in that group.
+
+**Dimension mapping:**
+- `hard_skills` — average score_pct of all criteria with category "hard_skill" (e.g., EV production, supply chain, quality, digital manufacturing)
+- `leadership` — average score_pct of all criteria with category "leadership_competency" (e.g., team leadership at scale, crisis management, change management)
+- `scenario_fit` — the candidate's scenario_weighted_score × 10 (converting 0-10 to 0-100). This represents how well the candidate fits the ACTIVE scenario, not just baseline criteria.
+- `team_fit` — the candidate's team_fit_score × 10 (from Agent 5)
+- `agility` — average score_pct of all criteria with category "soft_skill" or "contextual" (e.g., stakeholder management, industry knowledge)
+
+```ts
+interface RadarProfile {
+  hard_skills: number;    // 0-100
+  leadership: number;     // 0-100
+  scenario_fit: number;   // 0-100
+  team_fit: number;       // 0-100
+  agility: number;        // 0-100
+}
+```
+
+### Deliberation Trace (`deliberation_trace`)
+
+For each candidate, produce an array of 4-5 entries showing the reasoning chain across the agent pipeline. Each entry represents what a key agent stage concluded about THIS specific candidate. This renders as a vertical timeline in the UI.
+
+Each entry has:
+- `agent_label` — short display name for the agent stage (e.g., "JD & Scenario Agents", "Candidate Evaluator", "Leadership Profiler", "Team Fit Analyzer", "Decision Agent")
+- `agent_icon` — one of: "settings", "users", "brain", "handshake", "gavel" (frontend maps these to icons)
+- `duration` — estimated processing time as a string (e.g., "0.2s", "1.4s", "0.8s"). Use realistic estimates: Agent 1/3 are fast (0.2-0.5s), Agent 2 is slow (1.0-2.0s), Agent 4/5 are medium (0.5-1.0s), Agent 6 is medium (0.5-1.0s).
+- `summary` — 1 sentence describing what this agent concluded about this candidate. Be specific — reference actual scores, evidence, or findings.
+- `evidence_highlight` — (optional) a short callout of the most notable evidence or finding from this stage. E.g., "Evidence: Awarded +15 points for managing 14-plant crisis response." Only include when there's a genuinely notable finding. Set to null otherwise.
+
+```ts
+interface TraceEntry {
+  agent_label: string;
+  agent_icon: "settings" | "users" | "brain" | "handshake" | "gavel";
+  duration: string;
+  summary: string;
+  evidence_highlight: string | null;
+}
+```
+
+After the `candidates` array, include two additional objects in the `ui_payload`:
+
+**`speed_vs_fit`** — Renders as a two-column comparison card:
+- `fastest` — candidate who can start soonest: candidate_id, candidate_name, candidate_type, notice_period, bremo_score
+- `best_fit` — #1 ranked candidate: same fields
+- `gap_summary` — one-sentence trade-off explanation from Agent 6's speed_vs_fit_analysis.gap_analysis, rewritten in plain language
+- `same_person` — boolean, true if fastest = best fit
+
+**`trade_off`** — Renders as a compact insight strip between #1 and #2 candidate cards:
+- `candidate_1`, `candidate_2` — names
+- `key_differentiator` — the single factor that separates them, from Agent 6's trade_off_matrix.key_differentiator
+- `reversal_condition` — when #2 would become #1, from Agent 6's trade_off_matrix.reversal_condition
+- `sensitivity_hint` — one punchy sentence for the Challenger View panel, e.g., "If Crisis Management drops 8 → 6, Stefan overtakes Maria."
 
 ### Important Rules for UI Payload
 
@@ -157,16 +216,16 @@ Respond with ONLY valid JSON. No markdown, no explanation, no preamble.
         "bremo_score": 8.41,
         "ai_rationale": "Santos demonstrated exceptional tactical command during the 2021 semiconductor shortage at Stellantis Iberia. Her ability to pivot manufacturing pipelines within 48 hours is a direct match for the current Supply Chain Crisis parameters. She excels in high-pressure environments where technical debt must be managed alongside logistics volatility. Her leadership style is decisive and data-driven, with a track record of reducing downtime by 34% during the 2022 European logistics disruption.",
         "intelligence_breakdown": [
-          {"criterion_name": "Crisis Management", "score": 8, "score_pct": 80, "evidence_tier": "stated", "scenario_weight": 0.20},
-          {"criterion_name": "Supply Chain Exp.", "score": 7, "score_pct": 70, "evidence_tier": "stated", "scenario_weight": 0.22},
-          {"criterion_name": "Leadership Track R.", "score": 7, "score_pct": 70, "evidence_tier": "stated", "scenario_weight": 0.10},
-          {"criterion_name": "Strategic Thinking", "score": 6, "score_pct": 60, "evidence_tier": "inferred", "scenario_weight": 0.08},
-          {"criterion_name": "Operational Excell.", "score": 5, "score_pct": 50, "evidence_tier": "stated", "scenario_weight": 0.10},
-          {"criterion_name": "People & Culture Fit", "score": 6, "score_pct": 60, "evidence_tier": "stated", "scenario_weight": 0.07},
-          {"criterion_name": "Innovation Capabil.", "score": 3, "score_pct": 30, "evidence_tier": "inferred", "scenario_weight": 0.03},
-          {"criterion_name": "Stakeholder Mgmt", "score": 8, "score_pct": 80, "evidence_tier": "stated", "scenario_weight": 0.12},
-          {"criterion_name": "Industry Knowledge", "score": 6, "score_pct": 60, "evidence_tier": "stated", "scenario_weight": 0.06},
-          {"criterion_name": "Change Management", "score": 5, "score_pct": 50, "evidence_tier": "inferred", "scenario_weight": 0.02}
+          {"criterion_name": "Crisis Management", "score": 8, "score_pct": 80, "evidence_tier": "stated", "scenario_weight": 0.20, "evidence_snippet": "Led Stellantis 14-plant semiconductor crisis response; corroborated by former COO reference.", "was_recalibrated": true},
+          {"criterion_name": "Supply Chain Exp.", "score": 7, "score_pct": 70, "evidence_tier": "stated", "scenario_weight": 0.22, "evidence_snippet": "Dual-sourced 14 Tier-1 suppliers within 6 months during logistics crunch at Stellantis.", "was_recalibrated": false},
+          {"criterion_name": "Leadership Track R.", "score": 7, "score_pct": 70, "evidence_tier": "stated", "scenario_weight": 0.10, "evidence_snippet": "VP-level leadership across 3 plants and 2 countries; 1,200+ total org.", "was_recalibrated": false},
+          {"criterion_name": "Strategic Thinking", "score": 6, "score_pct": 60, "evidence_tier": "inferred", "scenario_weight": 0.08, "evidence_snippet": "Inferred from career trajectory — promoted through operational roles, limited strategy evidence.", "was_recalibrated": false},
+          {"criterion_name": "Operational Excell.", "score": 5, "score_pct": 50, "evidence_tier": "stated", "scenario_weight": 0.10, "evidence_snippet": "Reduced downtime by 34% during 2022 European logistics disruption.", "was_recalibrated": false},
+          {"criterion_name": "People & Culture Fit", "score": 6, "score_pct": 60, "evidence_tier": "stated", "scenario_weight": 0.07, "evidence_snippet": "Reference notes strong team loyalty but high-intensity style; no BMW culture exposure.", "was_recalibrated": false},
+          {"criterion_name": "Innovation Capabil.", "score": 3, "score_pct": 30, "evidence_tier": "inferred", "scenario_weight": 0.03, "evidence_snippet": "No digital manufacturing or Industry 4.0 initiatives in career history.", "was_recalibrated": false},
+          {"criterion_name": "Stakeholder Mgmt", "score": 8, "score_pct": 80, "evidence_tier": "stated", "scenario_weight": 0.12, "evidence_snippet": "Presented weekly crisis updates to Stellantis board during semiconductor shortage.", "was_recalibrated": false},
+          {"criterion_name": "Industry Knowledge", "score": 6, "score_pct": 60, "evidence_tier": "stated", "scenario_weight": 0.06, "evidence_snippet": "15 years automotive but no BMW/German OEM experience; Stellantis and Renault background.", "was_recalibrated": false},
+          {"criterion_name": "Change Management", "score": 5, "score_pct": 50, "evidence_tier": "inferred", "scenario_weight": 0.02, "evidence_snippet": "No large-scale transformation programs in career history; crisis-focused, not change-focused.", "was_recalibrated": false}
         ],
         "core_strengths": [
           "Led Stellantis through semiconductor crisis — 91% production retention vs 70% industry average",
@@ -185,6 +244,51 @@ Respond with ONLY valid JSON. No markdown, no explanation, no preamble.
           "Assess cultural fit for the existing 200-person engineering department at BMW Regensburg.",
           "Simulate a 'post-crisis' roadmap interview to check her strategic vision beyond the crisis.",
           "Establish equity package benchmarks for external hires of this caliber."
+        ],
+        "radar_profile": {
+          "hard_skills": 68,
+          "leadership": 67,
+          "scenario_fit": 84,
+          "team_fit": 65,
+          "agility": 70
+        },
+        "mitigation_strategy": "Pair with a strong internal deputy who has deep BMW Production System knowledge to cover the 3-6 month cultural onboarding gap and ensure BPS continuity.",
+        "deliberation_trace": [
+          {
+            "agent_label": "JD & Scenario Agents",
+            "agent_icon": "settings",
+            "duration": "0.3s",
+            "summary": "Extracted 10 criteria from Head of Production JD. Supply Chain Crisis scenario detected — C3 and C9 weights tripled to 0.22 and 0.20.",
+            "evidence_highlight": null
+          },
+          {
+            "agent_label": "Candidate Evaluator",
+            "agent_icon": "users",
+            "duration": "1.6s",
+            "summary": "Scored Maria Santos across 10 criteria. Highest scores on Crisis Management (8) and Stakeholder Mgmt (8), both stated evidence tier.",
+            "evidence_highlight": "Evidence: +8 on Crisis Management for leading 14-plant semiconductor response at Stellantis with 91% production retention."
+          },
+          {
+            "agent_label": "Leadership Profiler",
+            "agent_icon": "brain",
+            "duration": "0.8s",
+            "summary": "Classified as Fixer archetype with Directive decision style. Labelled CRISIS OPERATOR based on scenario-dominant crisis credentials.",
+            "evidence_highlight": null
+          },
+          {
+            "agent_label": "Team Fit Analyzer",
+            "agent_icon": "handshake",
+            "duration": "0.6s",
+            "summary": "Team fit score: 6.5/10. Moderate friction risk with Klaus Richter (SVP, direct boss) — he has blocked external hires twice before.",
+            "evidence_highlight": "Risk: Klaus may accept hire formally while undermining authority informally."
+          },
+          {
+            "agent_label": "Decision & Challenge",
+            "agent_icon": "gavel",
+            "duration": "0.9s",
+            "summary": "Ranked #1 with BREMO 8.41. Challenger flagged ranking as FRAGILE — depends on two tier-2 scores that could shift on deeper verification.",
+            "evidence_highlight": "Sensitivity: If Crisis Management drops 8 → 6, Stefan overtakes Maria."
+          }
         ]
       },
       {
@@ -209,7 +313,52 @@ Respond with ONLY valid JSON. No markdown, no explanation, no preamble.
         ],
         "challenger_view": "No significant concerns about Keller's capabilities within his established domain. The risk is not that he would fail — the risk is that he would not push hard enough during the crisis window where aggressive supplier negotiation is required.",
         "stability_label": "ROBUST",
-        "recommended_protocol": []
+        "recommended_protocol": [],
+        "radar_profile": {
+          "hard_skills": 72,
+          "leadership": 60,
+          "scenario_fit": 71,
+          "team_fit": 85,
+          "agility": 70
+        },
+        "mitigation_strategy": "Assign an external crisis consultant as a temporary advisor for the first 6 months to supplement Stefan's narrower crisis playbook.",
+        "deliberation_trace": [
+          {
+            "agent_label": "JD & Scenario Agents",
+            "agent_icon": "settings",
+            "duration": "0.3s",
+            "summary": "Extracted 10 criteria. Supply Chain Crisis scenario shifted C3 and C9 to top weights.",
+            "evidence_highlight": null
+          },
+          {
+            "agent_label": "Candidate Evaluator",
+            "agent_icon": "users",
+            "duration": "1.4s",
+            "summary": "Scored Stefan across 10 criteria. Strong baseline (8 on EV Production, 8 on Team Leadership) but moderate crisis scores (6 on C3, 6 on C9).",
+            "evidence_highlight": "Evidence: All scores verified through internal performance reviews and 360 feedback."
+          },
+          {
+            "agent_label": "Leadership Profiler",
+            "agent_icon": "brain",
+            "duration": "0.7s",
+            "summary": "Classified as Operator-Diplomat with Data-driven decision style and Stabiliser orientation. Labelled OPERATIONAL STEWARD.",
+            "evidence_highlight": null
+          },
+          {
+            "agent_label": "Team Fit Analyzer",
+            "agent_icon": "handshake",
+            "duration": "0.5s",
+            "summary": "Team fit score: 8.5/10 — highest in the pool. Strong compatibility with Klaus Richter and all existing team members.",
+            "evidence_highlight": null
+          },
+          {
+            "agent_label": "Decision & Challenge",
+            "agent_icon": "gavel",
+            "duration": "0.8s",
+            "summary": "Ranked #2 with BREMO 7.52. Challenger confirmed ROBUST ranking — stable across all scenario variations.",
+            "evidence_highlight": "Under Normal Operations scenario, Stefan becomes #1 with a 0.8-point lead."
+          }
+        ]
       },
       {
         "rank": 3,
@@ -230,7 +379,22 @@ Respond with ONLY valid JSON. No markdown, no explanation, no preamble.
         ],
         "challenger_view": "Al-Rashidi may be systematically underrated. Her scores are modest but almost entirely verified. If evidence reliability were weighted, she moves up. The committee should consider her as a serious alternative, not a distant third.",
         "stability_label": "STABLE",
-        "recommended_protocol": []
+        "recommended_protocol": [],
+        "radar_profile": {
+          "hard_skills": 57,
+          "leadership": 60,
+          "scenario_fit": 69,
+          "team_fit": 80,
+          "agility": 63
+        },
+        "mitigation_strategy": "Invest in targeted crisis simulation training to sharpen her crisis instincts before the next supply disruption hits.",
+        "deliberation_trace": [
+          {"agent_label": "JD & Scenario Agents", "agent_icon": "settings", "duration": "0.3s", "summary": "Crisis scenario applied — C3 and C9 dominate weights.", "evidence_highlight": null},
+          {"agent_label": "Candidate Evaluator", "agent_icon": "users", "duration": "1.3s", "summary": "Consistent mid-range scores (5-7) across all criteria. Almost entirely verified evidence.", "evidence_highlight": "Evidence: Crisis Management score of 6 verified through observed 2023 i4 line disruption response."},
+          {"agent_label": "Leadership Profiler", "agent_icon": "brain", "duration": "0.6s", "summary": "Classified as Adapter-Diplomat. Pragmatic and flexible but not a crisis specialist.", "evidence_highlight": null},
+          {"agent_label": "Team Fit Analyzer", "agent_icon": "handshake", "duration": "0.5s", "summary": "Team fit score: 8.0/10 — second highest. Strong compatibility across the board.", "evidence_highlight": null},
+          {"agent_label": "Decision & Challenge", "agent_icon": "gavel", "duration": "0.7s", "summary": "Ranked #3 with BREMO 6.89. Challenger flagged as potentially underrated — lowest-risk hire in pool.", "evidence_highlight": null}
+        ]
       },
       {
         "rank": 4,
@@ -251,7 +415,22 @@ Respond with ONLY valid JSON. No markdown, no explanation, no preamble.
         ],
         "challenger_view": "Nakamura's Toyota pedigree is strong but his transferability to BMW's culture and the specific EMEA context is unproven. Quality expertise alone does not address the current crisis.",
         "stability_label": "STABLE",
-        "recommended_protocol": []
+        "recommended_protocol": [],
+        "radar_profile": {
+          "hard_skills": 75,
+          "leadership": 55,
+          "scenario_fit": 62,
+          "team_fit": 60,
+          "agility": 55
+        },
+        "mitigation_strategy": "Assign a BMW-internal cultural liaison and extend the onboarding period to 6 months to bridge the Toyota-to-BMW operating culture gap.",
+        "deliberation_trace": [
+          {"agent_label": "JD & Scenario Agents", "agent_icon": "settings", "duration": "0.3s", "summary": "Crisis scenario deprioritizes Nakamura's core quality strengths.", "evidence_highlight": null},
+          {"agent_label": "Candidate Evaluator", "agent_icon": "users", "duration": "1.5s", "summary": "Highest quality management scores in pool but below average on crisis and supply chain criteria.", "evidence_highlight": "Evidence: IATF 16949 Lead Auditor certification — externally validated."},
+          {"agent_label": "Leadership Profiler", "agent_icon": "brain", "duration": "0.7s", "summary": "Classified as Operator with Data-driven style. Toyota lean methodology deeply embedded.", "evidence_highlight": null},
+          {"agent_label": "Team Fit Analyzer", "agent_icon": "handshake", "duration": "0.6s", "summary": "Team fit score: 6.0/10. Cultural transferability from Toyota to BMW is the main concern.", "evidence_highlight": null},
+          {"agent_label": "Decision & Challenge", "agent_icon": "gavel", "duration": "0.8s", "summary": "Ranked #4 with BREMO 6.72. Would rank #2 under a quality-focused scenario.", "evidence_highlight": null}
+        ]
       },
       {
         "rank": 5,
@@ -272,9 +451,49 @@ Respond with ONLY valid JSON. No markdown, no explanation, no preamble.
         ],
         "challenger_view": "Lindström is being penalized by the crisis scenario, not by capability gaps. If the committee believes the crisis will resolve in 3-6 months, her transformation skills become the most valuable asset for the remaining 4+ years of the hire.",
         "stability_label": "STABLE",
-        "recommended_protocol": []
+        "recommended_protocol": [],
+        "radar_profile": {
+          "hard_skills": 60,
+          "leadership": 65,
+          "scenario_fit": 58,
+          "team_fit": 55,
+          "agility": 72
+        },
+        "mitigation_strategy": "Delay start until crisis stabilizes, then bring her in to lead the Neue Klasse ramp-up — her core strength becomes the top priority post-crisis.",
+        "deliberation_trace": [
+          {"agent_label": "JD & Scenario Agents", "agent_icon": "settings", "duration": "0.3s", "summary": "Crisis scenario heavily deprioritizes transformation and digital criteria — Lindström's strengths.", "evidence_highlight": null},
+          {"agent_label": "Candidate Evaluator", "agent_icon": "users", "duration": "1.4s", "summary": "Highest scores on Innovation (8) and Change Management (8), but lowest on Crisis Management (4) under crisis weights.", "evidence_highlight": "Evidence: Led full Industry 4.0 rollout across 2 plants at Volvo — verified by former CTO reference."},
+          {"agent_label": "Leadership Profiler", "agent_icon": "brain", "duration": "0.7s", "summary": "Classified as Visionary-Innovator with Transformer orientation. Labelled TRANSFORMATION CATALYST.", "evidence_highlight": null},
+          {"agent_label": "Team Fit Analyzer", "agent_icon": "handshake", "duration": "0.5s", "summary": "Team fit score: 5.5/10. Transformer orientation clashes with the team's dominant Stabiliser culture.", "evidence_highlight": "Risk: Sophie Laurent is the only team member who would naturally align."},
+          {"agent_label": "Decision & Challenge", "agent_icon": "gavel", "duration": "0.8s", "summary": "Ranked #5 with BREMO 6.45. Challenger noted she would rank #1 under a Neue Klasse Ramp-Up scenario.", "evidence_highlight": null}
+        ]
       }
-    ]
+    ],
+    "speed_vs_fit": {
+      "fastest": {
+        "candidate_id": "C01",
+        "candidate_name": "Dr. Stefan Keller",
+        "candidate_type": "internal",
+        "notice_period": "Immediate (internal transfer)",
+        "bremo_score": 7.52
+      },
+      "best_fit": {
+        "candidate_id": "C08",
+        "candidate_name": "Maria Santos",
+        "candidate_type": "external",
+        "notice_period": "3 months",
+        "bremo_score": 8.41
+      },
+      "gap_summary": "The best fit requires a 3-month wait. The fastest available can start immediately with a 0.89-point lower score. Consider appointing Stefan as interim while finalizing Maria's hire.",
+      "same_person": false
+    },
+    "trade_off": {
+      "candidate_1": "Maria Santos",
+      "candidate_2": "Dr. Stefan Keller",
+      "key_differentiator": "Crisis Management at 3× scenario weight. Under Normal Operations weights, Stefan leads by 0.8 points.",
+      "reversal_condition": "If scenario shifts to Normal Operations, or if Maria's Crisis Management score drops from 8 to 6 on deeper verification.",
+      "sensitivity_hint": "If Crisis Management drops 8 → 6, Stefan overtakes Maria."
+    }
   }
 }
 ```
