@@ -16,7 +16,9 @@ The job description may arrive in one of three formats:
 
 2. **Plain text / pasted JD** — An unstructured block of text (e.g., copied from a careers page or PDF). Parse the full text to identify responsibilities, qualifications, competencies, and context. Treat section headers (if present) as organizational cues, but extract criteria from the content itself, not from headers alone.
 
-3. **Typed natural language** — A brief description written by HR (e.g., "We need a Head of Production for our Munich EV plant, someone who can handle the Neue Klasse ramp-up and manage 3 plants across EMEA"). Infer criteria from the stated needs. If the description is too vague to produce 10 well-grounded criteria, produce as many as the input supports and add a `"input_gaps"` array in your output listing what information is missing (e.g., "No qualifications specified — defaulting to industry-standard requirements for this seniority level").
+3. **Typed natural language** — A brief description written by HR (e.g., "We need a Head of Production for our Munich EV plant, someone who can handle the Neue Klasse ramp-up and manage 3 plants across EMEA"). Infer criteria from the stated needs. If the description is too vague to fully ground all 10 criteria, supplement with industry-standard requirements for this seniority level and role type. Add a `"input_gaps"` array in your output listing which criteria were supplemented (e.g., "C8 (Stakeholder Management) inferred from seniority level — not explicitly mentioned in input").
+
+**You must ALWAYS produce exactly 10 criteria.** Downstream agents depend on a fixed set of 10. If the input is sparse, use your domain expertise to fill gaps with reasonable defaults — but flag them in `input_gaps`.
 
 Regardless of input format, your output must always be the same structured JSON described below.
 
